@@ -1,0 +1,90 @@
+
+speed_3.png
+size: 256,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+angtel1
+  rotate: true
+  xy: 156, 26
+  size: 38, 23
+  orig: 38, 23
+  offset: 0, 0
+  index: -1
+angtel2
+  rotate: false
+  xy: 207, 15
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 67, 11
+  size: 53, 52
+  orig: 53, 52
+  offset: 0, 0
+  index: -1
+jaw1
+  rotate: true
+  xy: 32, 5
+  size: 59, 35
+  orig: 59, 35
+  offset: 0, 0
+  index: -1
+jaw2
+  rotate: true
+  xy: 119, 17
+  size: 47, 37
+  orig: 47, 37
+  offset: 0, 0
+  index: -1
+l_eye
+  rotate: false
+  xy: 179, 1
+  size: 28, 31
+  orig: 28, 31
+  offset: 0, 0
+  index: -1
+leg1
+  rotate: false
+  xy: 179, 32
+  size: 23, 32
+  orig: 23, 32
+  offset: 0, 0
+  index: -1
+leg2
+  rotate: false
+  xy: 220, 46
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+leg3
+  rotate: true
+  xy: 202, 36
+  size: 28, 18
+  orig: 28, 18
+  offset: 0, 0
+  index: -1
+pupil
+  rotate: false
+  xy: 67, 0
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+r_eye
+  rotate: false
+  xy: 156, 0
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1
+shadown
+  rotate: true
+  xy: 0, 2
+  size: 62, 32
+  orig: 62, 32
+  offset: 0, 0
+  index: -1

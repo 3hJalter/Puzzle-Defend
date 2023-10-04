@@ -1,0 +1,6048 @@
+{
+  "skeleton": {
+    "hash": "MzssWnKI58iySeqf1Vof4x8KpZQ",
+    "spine": "3.8.99",
+    "x": -143.96,
+    "y": -2.48,
+    "width": 283.42,
+    "height": 242.75
+  },
+  "bones": [
+    {
+      "name": "root"
+    },
+    {
+      "name": "location",
+      "parent": "root"
+    },
+    {
+      "name": "Shockwave_lv5/body1",
+      "parent": "location",
+      "length": 30.46,
+      "rotation": 90,
+      "x": -1.05,
+      "y": 7.95,
+      "skin": true
+    },
+    {
+      "name": "Shockwave_lv5/body3",
+      "parent": "Shockwave_lv5/body1",
+      "length": 33.38,
+      "x": 32,
+      "skin": true
+    },
+    {
+      "name": "gun",
+      "parent": "Shockwave_lv5/body3",
+      "length": 21.03,
+      "x": 71.54,
+      "skin": true
+    },
+    {
+      "name": "gun2",
+      "parent": "gun",
+      "x": 61.1,
+      "skin": true
+    },
+    {
+      "name": "wing1",
+      "parent": "Shockwave_lv5/body3",
+      "length": 110.18,
+      "rotation": 3.42,
+      "x": 82.82,
+      "y": -29.36,
+      "skin": true
+    },
+    {
+      "name": "wing2",
+      "parent": "Shockwave_lv5/body3",
+      "length": 100.39,
+      "rotation": 4.3,
+      "x": 64.96,
+      "y": -46.28,
+      "skin": true
+    },
+    {
+      "name": "Shockwave_lv5/back",
+      "parent": "Shockwave_lv5/body1",
+      "x": 71.43,
+      "skin": true
+    },
+    {
+      "name": "Shockwave_lv5/back_wing",
+      "parent": "Shockwave_lv5/back",
+      "length": 52.78,
+      "rotation": -129.22,
+      "x": -4.7,
+      "y": -6.58,
+      "skin": true
+    },
+    {
+      "name": "light1",
+      "parent": "Shockwave_lv5/back",
+      "length": 11.12,
+      "x": 17.05,
+      "skin": true
+    },
+    {
+      "name": "Shockwave_lv5/body5",
+      "parent": "Shockwave_lv5/body3",
+      "x": 104.93,
+      "y": -60.2,
+      "skin": true
+    },
+    {
+      "name": "energy",
+      "parent": "Shockwave_lv5/body5",
+      "length": 57.42,
+      "rotation": -131.05,
+      "x": -1.87,
+      "y": -0.84,
+      "scaleX": 0.9411,
+      "skin": true
+    },
+    {
+      "name": "Shockwave_lv5/body6",
+      "parent": "energy",
+      "rotation": 121.85,
+      "x": 36.8,
+      "y": 12.16,
+      "skin": true
+    },
+    {
+      "name": "energy_l",
+      "parent": "energy",
+      "length": 29.15,
+      "rotation": -0.91,
+      "x": 57.73,
+      "y": 0.29,
+      "skin": true
+    },
+    {
+      "name": "Shockwave_lv5/body7",
+      "parent": "Shockwave_lv5/body3",
+      "rotation": -20,
+      "x": 86.06,
+      "y": -62.54,
+      "skin": true
+    },
+    {
+      "name": "energy2",
+      "parent": "Shockwave_lv5/body7",
+      "length": 57.42,
+      "rotation": -129.27,
+      "x": -1.87,
+      "y": -0.84,
+      "scaleX": 1.1032,
+      "skin": true
+    },
+    {
+      "name": "Shockwave_lv5/body8",
+      "parent": "energy2",
+      "rotation": 121.85,
+      "x": 45.93,
+      "y": 11.47,
+      "skin": true
+    },
+    {
+      "name": "energy_l2",
+      "parent": "energy2",
+      "length": 29.15,
+      "rotation": -0.91,
+      "x": 61.08,
+      "y": -0.69,
+      "skin": true
+    },
+    {
+      "name": "Shockwave_lv5/body9",
+      "parent": "Shockwave_lv5/body3",
+      "x": 104.93,
+      "y": 62.81,
+      "scaleY": -1,
+      "skin": true
+    },
+    {
+      "name": "energy3",
+      "parent": "Shockwave_lv5/body9",
+      "length": 57.42,
+      "rotation": -131.05,
+      "x": -1.87,
+      "y": -0.84,
+      "scaleX": 0.9411,
+      "skin": true
+    },
+    {
+      "name": "Shockwave_lv5/body10",
+      "parent": "energy3",
+      "rotation": 121.85,
+      "x": 36.8,
+      "y": 12.16,
+      "skin": true
+    },
+    {
+      "name": "energy_l3",
+      "parent": "energy3",
+      "length": 29.15,
+      "rotation": -0.91,
+      "x": 57.73,
+      "y": 0.29,
+      "skin": true
+    },
+    {
+      "name": "Shockwave_lv5/body11",
+      "parent": "Shockwave_lv5/body3",
+      "rotation": 20,
+      "x": 86.06,
+      "y": 60.47,
+      "scaleY": -1,
+      "skin": true
+    },
+    {
+      "name": "energy4",
+      "parent": "Shockwave_lv5/body11",
+      "length": 57.42,
+      "rotation": -129.27,
+      "x": -1.87,
+      "y": -0.84,
+      "scaleX": 1.1032,
+      "skin": true
+    },
+    {
+      "name": "Shockwave_lv5/body12",
+      "parent": "energy4",
+      "rotation": 121.85,
+      "x": 45.93,
+      "y": 11.47,
+      "skin": true
+    },
+    {
+      "name": "energy_l4",
+      "parent": "energy4",
+      "length": 29.15,
+      "rotation": -0.91,
+      "x": 61.08,
+      "y": -0.69,
+      "skin": true
+    },
+    {
+      "name": "wing3",
+      "parent": "Shockwave_lv5/body3",
+      "length": 110.18,
+      "rotation": -3.42,
+      "x": 82.82,
+      "y": 29.36,
+      "scaleY": -1,
+      "skin": true
+    },
+    {
+      "name": "wing4",
+      "parent": "Shockwave_lv5/body3",
+      "length": 100.39,
+      "rotation": -4.3,
+      "x": 64.96,
+      "y": 46.28,
+      "scaleY": -1,
+      "skin": true
+    },
+    {
+      "name": "Shockwave_lv5/back_wing2",
+      "parent": "Shockwave_lv5/back",
+      "length": 52.78,
+      "rotation": 129.22,
+      "x": -4.7,
+      "y": 6.58,
+      "scaleY": -1,
+      "skin": true
+    },
+    {
+      "name": "gun_target",
+      "parent": "root",
+      "y": 369.25
+    },
+    {
+      "name": "gun3",
+      "parent": "gun",
+      "x": 49.4,
+      "y": -0.11,
+      "skin": true
+    },
+    {
+      "name": "guntip_lv5",
+      "parent": "gun",
+      "rotation": 0.17,
+      "x": 83.51,
+      "y": -0.57,
+      "skin": true
+    },
+    {
+      "name": "guntip_lv4",
+      "parent": "gun",
+      "rotation": 0.17,
+      "x": 73.51,
+      "y": -0.6,
+      "skin": true
+    },
+    {
+      "name": "guntip_lv3",
+      "parent": "gun",
+      "rotation": 0.17,
+      "x": 58.51,
+      "y": -0.58,
+      "skin": true
+    },
+    {
+      "name": "guntip_lv2",
+      "parent": "gun",
+      "rotation": 0.17,
+      "x": 46.51,
+      "y": -0.61,
+      "skin": true
+    },
+    {
+      "name": "guntip_lv1",
+      "parent": "gun",
+      "rotation": 0.17,
+      "x": 38.51,
+      "y": -0.64,
+      "skin": true
+    }
+  ],
+  "slots": [
+    {
+      "name": "energy",
+      "bone": "energy",
+      "attachment": "Shockwave_lv5/energy"
+    },
+    {
+      "name": "energy3",
+      "bone": "energy3",
+      "attachment": "Shockwave_lv5/energy"
+    },
+    {
+      "name": "energy2",
+      "bone": "energy2",
+      "attachment": "Shockwave_lv5/energy"
+    },
+    {
+      "name": "energy4",
+      "bone": "energy4",
+      "attachment": "Shockwave_lv5/energy"
+    },
+    {
+      "name": "energy_l",
+      "bone": "energy_l",
+      "attachment": "Shockwave_lv5/energy_l",
+      "blend": "additive"
+    },
+    {
+      "name": "energy_l3",
+      "bone": "energy_l3",
+      "attachment": "Shockwave_lv5/energy_l",
+      "blend": "additive"
+    },
+    {
+      "name": "energy_l2",
+      "bone": "energy_l2",
+      "attachment": "Shockwave_lv5/energy_l",
+      "blend": "additive"
+    },
+    {
+      "name": "energy_l4",
+      "bone": "energy_l4",
+      "attachment": "Shockwave_lv5/energy_l",
+      "blend": "additive"
+    },
+    {
+      "name": "wing1",
+      "bone": "wing1",
+      "attachment": "Shockwave_lv5/wing1"
+    },
+    {
+      "name": "wing3",
+      "bone": "wing3",
+      "attachment": "Shockwave_lv5/wing1"
+    },
+    {
+      "name": "wing2",
+      "bone": "wing2",
+      "attachment": "Shockwave_lv5/wing2"
+    },
+    {
+      "name": "wing4",
+      "bone": "wing4",
+      "attachment": "Shockwave_lv5/wing2"
+    },
+    {
+      "name": "Shockwave_lv5/body1",
+      "bone": "location",
+      "attachment": "Shockwave_lv5/body1"
+    },
+    {
+      "name": "Shockwave_lv5/body2",
+      "bone": "Shockwave_lv5/body3",
+      "attachment": "Shockwave_lv5/body2"
+    },
+    {
+      "name": "Shockwave_lv5/body4",
+      "bone": "Shockwave_lv5/body5",
+      "attachment": "Shockwave_lv5/body4"
+    },
+    {
+      "name": "Shockwave_lv5/body5",
+      "bone": "Shockwave_lv5/body9",
+      "attachment": "Shockwave_lv5/body4"
+    },
+    {
+      "name": "Shockwave_lv5/body7",
+      "bone": "Shockwave_lv5/body7",
+      "attachment": "Shockwave_lv5/body4"
+    },
+    {
+      "name": "Shockwave_lv5/body8",
+      "bone": "Shockwave_lv5/body11",
+      "attachment": "Shockwave_lv5/body4"
+    },
+    {
+      "name": "gun",
+      "bone": "gun",
+      "attachment": "Shockwave_lv5/gun"
+    },
+    {
+      "name": "Shockwave_lv5/gun_l1",
+      "bone": "gun3",
+      "blend": "additive"
+    },
+    {
+      "name": "gun_wing",
+      "bone": "gun2",
+      "attachment": "Shockwave_lv5/gun_wing"
+    },
+    {
+      "name": "Shockwave_lv5/body6",
+      "bone": "Shockwave_lv5/body3",
+      "attachment": "Shockwave_lv5/body6"
+    },
+    {
+      "name": "Shockwave_lv5/body3",
+      "bone": "Shockwave_lv5/body1",
+      "attachment": "Shockwave_lv5/body3"
+    },
+    {
+      "name": "light1",
+      "bone": "light1",
+      "attachment": "Shockwave_lv5/light1",
+      "blend": "additive"
+    },
+    {
+      "name": "Shockwave_lv5/back_wing",
+      "bone": "Shockwave_lv5/back_wing",
+      "attachment": "Shockwave_lv5/back_wing"
+    },
+    {
+      "name": "Shockwave_lv5/back_wing2",
+      "bone": "Shockwave_lv5/back_wing2",
+      "attachment": "Shockwave_lv5/back_wing"
+    },
+    {
+      "name": "Shockwave_lv5/back",
+      "bone": "Shockwave_lv5/back",
+      "attachment": "Shockwave_lv5/back"
+    }
+  ],
+  "ik": [
+    {
+      "name": "gun_target",
+      "bones": [
+        "Shockwave_lv5/body1"
+      ],
+      "target": "gun_target"
+    }
+  ],
+  "transform": [
+    {
+      "name": "Shockwave_lv5/back",
+      "order": 1,
+      "skin": true,
+      "bones": [
+        "Shockwave_lv5/body3"
+      ],
+      "target": "Shockwave_lv5/back",
+      "x": -39.43,
+      "y": 0.22,
+      "rotateMix": 0,
+      "translateMix": 0.3,
+      "scaleMix": 0,
+      "shearMix": 0
+    }
+  ],
+  "skins": [
+    {
+      "name": "lv1",
+      "bones": [
+        "gun",
+        "gun3",
+        "guntip_lv1",
+        "light1"
+      ],
+      "attachments": {
+        "Shockwave_lv5/body1": {
+          "Shockwave_lv5/body1": {
+            "name": "Shockwave_lv1/body1",
+            "x": -0.95,
+            "y": 34.08,
+            "scaleX": 0.75,
+            "scaleY": 0.75,
+            "rotation": -0.17,
+            "width": 147,
+            "height": 90
+          }
+        },
+        "Shockwave_lv5/body2": {
+          "Shockwave_lv5/body2": {
+            "name": "Shockwave_lv1/body2",
+            "x": 49.06,
+            "y": -1.41,
+            "scaleX": 0.75,
+            "scaleY": 0.75,
+            "rotation": -90,
+            "width": 164,
+            "height": 143
+          }
+        },
+        "Shockwave_lv5/body3": {
+          "Shockwave_lv5/body3": {
+            "name": "Shockwave_lv1/body3",
+            "type": "mesh",
+            "uvs": [
+              1,
+              0.20005,
+              1,
+              0.64482,
+              0.92632,
+              0.81284,
+              0.68698,
+              1,
+              0.29554,
+              1,
+              0.06067,
+              0.82272,
+              0,
+              0.65964,
+              0,
+              0.18028,
+              0.20159,
+              0,
+              0.77869,
+              0,
+              0.22619,
+              0.37302,
+              0.75409,
+              0.37796,
+              0.25534,
+              0.8205,
+              0.72945,
+              0.81509
+            ],
+            "triangles": [
+              2,
+              11,
+              1,
+              11,
+              12,
+              10,
+              11,
+              9,
+              0,
+              11,
+              10,
+              9,
+              7,
+              8,
+              10,
+              10,
+              8,
+              9,
+              11,
+              0,
+              1,
+              6,
+              7,
+              10,
+              5,
+              6,
+              10,
+              13,
+              11,
+              2,
+              12,
+              5,
+              10,
+              13,
+              12,
+              11,
+              3,
+              13,
+              2,
+              13,
+              3,
+              12,
+              5,
+              12,
+              4,
+              3,
+              4,
+              12
+            ],
+            "vertices": [
+              2,
+              2,
+              56.8,
+              -74.67,
+              0.224,
+              8,
+              -17.6,
+              -74.45,
+              0.776,
+              2,
+              2,
+              26.96,
+              -74.66,
+              0.35666,
+              8,
+              -47.44,
+              -74.44,
+              0.64334,
+              2,
+              2,
+              15.56,
+              -63.76,
+              0.59897,
+              8,
+              -58.84,
+              -63.54,
+              0.40103,
+              2,
+              2,
+              2.85,
+              -28.38,
+              0.89338,
+              8,
+              -71.55,
+              -28.16,
+              0.10662,
+              2,
+              2,
+              2.86,
+              29.47,
+              0.87902,
+              8,
+              -71.54,
+              29.69,
+              0.12098,
+              2,
+              2,
+              14.89,
+              64.17,
+              0.61487,
+              8,
+              -59.51,
+              64.38,
+              0.38513,
+              2,
+              2,
+              25.95,
+              73.12,
+              0.38261,
+              8,
+              -48.45,
+              73.34,
+              0.61739,
+              2,
+              2,
+              58.12,
+              73.11,
+              0.224,
+              8,
+              -16.28,
+              73.33,
+              0.776,
+              2,
+              2,
+              70.21,
+              43.32,
+              0.184,
+              8,
+              -4.2,
+              43.54,
+              0.816,
+              2,
+              2,
+              70.21,
+              -41.96,
+              0.184,
+              8,
+              -4.2,
+              -41.75,
+              0.816,
+              2,
+              2,
+              45.35,
+              39.68,
+              0.04363,
+              8,
+              -29.05,
+              39.89,
+              0.95637,
+              2,
+              2,
+              45.03,
+              -38.33,
+              0.02857,
+              8,
+              -29.37,
+              -38.12,
+              0.97143,
+              2,
+              2,
+              15,
+              35.4,
+              0.66647,
+              8,
+              -59.4,
+              35.62,
+              0.33353,
+              2,
+              2,
+              15.36,
+              -34.66,
+              0.67115,
+              8,
+              -59.04,
+              -34.45,
+              0.32885
+            ],
+            "hull": 10
+          }
+        },
+        "Shockwave_lv5/body6": {
+          "Shockwave_lv5/body6": {
+            "name": "Shockwave_lv1/body6",
+            "x": 50.99,
+            "y": -2.42,
+            "scaleX": 0.75,
+            "scaleY": 0.75,
+            "rotation": -90,
+            "width": 108,
+            "height": 112
+          }
+        },
+        "Shockwave_lv5/gun_l1": {
+          "Shockwave_lv5/gun_l1": {
+            "x": -35.89,
+            "y": 0.4,
+            "scaleX": 0.63,
+            "scaleY": 0.63,
+            "rotation": -89.83,
+            "width": 74,
+            "height": 92
+          },
+          "Shockwave_lv5/gun_l2": {
+            "x": -35.89,
+            "y": 0.4,
+            "scaleX": 0.63,
+            "scaleY": 0.63,
+            "rotation": -89.83,
+            "width": 74,
+            "height": 92
+          },
+          "Shockwave_lv5/gun_l3": {
+            "x": -35.89,
+            "y": 0.4,
+            "scaleX": 0.63,
+            "scaleY": 0.63,
+            "rotation": -89.83,
+            "width": 74,
+            "height": 92
+          }
+        },
+        "gun": {
+          "Shockwave_lv5/gun": {
+            "name": "Shockwave_lv1/gun",
+            "x": 25.81,
+            "y": -0.05,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "rotation": -90,
+            "width": 74,
+            "height": 92
+          }
+        },
+        "wing1": {
+          "Shockwave_lv5/wing1": {
+            "name": "Shockwave_lv1/wing1",
+            "x": 51.49,
+            "y": -7.33,
+            "rotation": -93.42,
+            "width": 46,
+            "height": 131
+          }
+        },
+        "wing2": {
+          "Shockwave_lv5/wing2": {
+            "name": "Shockwave_lv1/wing2",
+            "x": 20.92,
+            "y": 5.81,
+            "scaleX": 0.75,
+            "scaleY": 0.75,
+            "rotation": -94.3,
+            "width": 45,
+            "height": 131
+          }
+        },
+        "wing3": {
+          "Shockwave_lv5/wing1": {
+            "name": "Shockwave_lv1/wing1",
+            "x": 51.49,
+            "y": -7.33,
+            "rotation": -93.42,
+            "width": 46,
+            "height": 131
+          }
+        },
+        "wing4": {
+          "Shockwave_lv5/wing2": {
+            "name": "Shockwave_lv1/wing2",
+            "x": 21.12,
+            "y": 7.97,
+            "scaleX": 0.75,
+            "scaleY": 0.75,
+            "rotation": -94.3,
+            "width": 45,
+            "height": 131
+          }
+        }
+      }
+    },
+    {
+      "name": "lv2",
+      "bones": [
+        "gun",
+        "gun3",
+        "guntip_lv2",
+        "light1",
+        "wing2",
+        "wing4"
+      ],
+      "attachments": {
+        "Shockwave_lv5/body1": {
+          "Shockwave_lv5/body1": {
+            "name": "Shockwave_lv2/body1",
+            "x": -0.95,
+            "y": 34.08,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "rotation": -0.17,
+            "width": 147,
+            "height": 90
+          }
+        },
+        "Shockwave_lv5/body2": {
+          "Shockwave_lv5/body2": {
+            "name": "Shockwave_lv2/body2",
+            "x": 53.87,
+            "y": -1.4,
+            "scaleX": 0.75,
+            "scaleY": 0.75,
+            "rotation": -90,
+            "width": 164,
+            "height": 143
+          }
+        },
+        "Shockwave_lv5/body3": {
+          "Shockwave_lv5/body3": {
+            "name": "Shockwave_lv2/body3",
+            "type": "linkedmesh",
+            "skin": "lv4",
+            "parent": "Shockwave_lv5/body3"
+          }
+        },
+        "Shockwave_lv5/body6": {
+          "Shockwave_lv5/body6": {
+            "name": "Shockwave_lv2/body6",
+            "x": 55.81,
+            "y": -2.4,
+            "scaleX": 0.75,
+            "scaleY": 0.75,
+            "rotation": -90,
+            "width": 108,
+            "height": 112
+          }
+        },
+        "Shockwave_lv5/gun_l1": {
+          "Shockwave_lv5/gun_l1": {
+            "x": -31.89,
+            "y": 0.41,
+            "scaleX": 0.72,
+            "scaleY": 0.72,
+            "rotation": -89.83,
+            "width": 74,
+            "height": 92
+          },
+          "Shockwave_lv5/gun_l2": {
+            "x": -31.89,
+            "y": 0.41,
+            "scaleX": 0.72,
+            "scaleY": 0.72,
+            "rotation": -89.83,
+            "width": 74,
+            "height": 92
+          },
+          "Shockwave_lv5/gun_l3": {
+            "x": -31.89,
+            "y": 0.41,
+            "scaleX": 0.72,
+            "scaleY": 0.72,
+            "rotation": -89.83,
+            "width": 74,
+            "height": 92
+          }
+        },
+        "gun": {
+          "Shockwave_lv5/gun": {
+            "name": "Shockwave_lv2/gun",
+            "x": 31.07,
+            "y": -0.04,
+            "scaleX": 0.9,
+            "scaleY": 0.9,
+            "rotation": -90,
+            "width": 74,
+            "height": 92
+          }
+        },
+        "wing1": {
+          "Shockwave_lv5/wing1": {
+            "name": "Shockwave_lv2/wing1",
+            "x": 51.49,
+            "y": -7.33,
+            "rotation": -93.42,
+            "width": 46,
+            "height": 131
+          }
+        },
+        "wing2": {
+          "Shockwave_lv5/wing2": {
+            "name": "Shockwave_lv2/wing2",
+            "x": 20.92,
+            "y": 5.81,
+            "scaleX": 0.75,
+            "scaleY": 0.75,
+            "rotation": -94.3,
+            "width": 45,
+            "height": 131
+          }
+        },
+        "wing3": {
+          "Shockwave_lv5/wing1": {
+            "name": "Shockwave_lv2/wing1",
+            "x": 51.49,
+            "y": -7.33,
+            "rotation": -93.42,
+            "width": 46,
+            "height": 131
+          }
+        },
+        "wing4": {
+          "Shockwave_lv5/wing2": {
+            "name": "Shockwave_lv2/wing2",
+            "x": 21.12,
+            "y": 7.97,
+            "scaleX": 0.75,
+            "scaleY": 0.75,
+            "rotation": -94.3,
+            "width": 45,
+            "height": 131
+          }
+        }
+      }
+    },
+    {
+      "name": "lv3",
+      "bones": [
+        "gun",
+        "gun3",
+        "guntip_lv3",
+        "light1",
+        "wing2",
+        "wing4"
+      ],
+      "attachments": {
+        "Shockwave_lv5/body1": {
+          "Shockwave_lv5/body1": {
+            "name": "Shockwave_lv3/body1",
+            "x": -0.95,
+            "y": 41.99,
+            "scaleX": 0.9,
+            "scaleY": 0.9,
+            "rotation": -0.17,
+            "width": 147,
+            "height": 90
+          }
+        },
+        "Shockwave_lv5/body2": {
+          "Shockwave_lv5/body2": {
+            "name": "Shockwave_lv3/body2",
+            "x": 53.97,
+            "y": -1.4,
+            "scaleX": 0.9,
+            "scaleY": 0.9,
+            "rotation": -90,
+            "width": 164,
+            "height": 143
+          }
+        },
+        "Shockwave_lv5/body3": {
+          "Shockwave_lv5/body3": {
+            "name": "Shockwave_lv3/body3",
+            "type": "mesh",
+            "uvs": [
+              1,
+              0.20005,
+              1,
+              0.64482,
+              0.92632,
+              0.81284,
+              0.68698,
+              1,
+              0.29554,
+              1,
+              0.06067,
+              0.82272,
+              0,
+              0.65964,
+              0,
+              0.18028,
+              0.20159,
+              0,
+              0.77869,
+              0,
+              0.22619,
+              0.37302,
+              0.75409,
+              0.37796,
+              0.25534,
+              0.8205,
+              0.72945,
+              0.81509
+            ],
+            "triangles": [
+              2,
+              11,
+              1,
+              11,
+              12,
+              10,
+              11,
+              9,
+              0,
+              11,
+              10,
+              9,
+              7,
+              8,
+              10,
+              10,
+              8,
+              9,
+              11,
+              0,
+              1,
+              6,
+              7,
+              10,
+              5,
+              6,
+              10,
+              13,
+              11,
+              2,
+              12,
+              5,
+              10,
+              13,
+              12,
+              11,
+              3,
+              13,
+              2,
+              13,
+              3,
+              12,
+              5,
+              12,
+              4,
+              3,
+              4,
+              12
+            ],
+            "vertices": [
+              2,
+              2,
+              57.98,
+              -76.79,
+              0.224,
+              8,
+              -16.42,
+              -76.58,
+              0.776,
+              2,
+              2,
+              27.3,
+              -76.79,
+              0.35666,
+              8,
+              -47.1,
+              -76.57,
+              0.64334,
+              2,
+              2,
+              15.6,
+              -65.58,
+              0.59897,
+              8,
+              -58.8,
+              -65.36,
+              0.40103,
+              2,
+              2,
+              2.55,
+              -29.18,
+              0.89338,
+              8,
+              -71.86,
+              -28.97,
+              0.10662,
+              2,
+              2,
+              2.56,
+              30.31,
+              0.87902,
+              8,
+              -71.85,
+              30.53,
+              0.12098,
+              2,
+              2,
+              14.91,
+              66,
+              0.61487,
+              8,
+              -59.49,
+              66.22,
+              0.38513,
+              2,
+              2,
+              26.27,
+              75.21,
+              0.38261,
+              8,
+              -48.13,
+              75.43,
+              0.61739,
+              2,
+              2,
+              59.34,
+              75.21,
+              0.224,
+              8,
+              -15.06,
+              75.42,
+              0.776,
+              2,
+              2,
+              71.77,
+              44.56,
+              0.184,
+              8,
+              -2.63,
+              44.78,
+              0.816,
+              2,
+              2,
+              71.77,
+              -43.16,
+              0.184,
+              8,
+              -2.63,
+              -42.94,
+              0.816,
+              2,
+              2,
+              46.19,
+              40.82,
+              0.04363,
+              8,
+              -28.21,
+              41.04,
+              0.95637,
+              2,
+              2,
+              45.86,
+              -39.42,
+              0.02857,
+              8,
+              -28.54,
+              -39.21,
+              0.97143,
+              2,
+              2,
+              15.03,
+              36.42,
+              0.66647,
+              8,
+              -59.37,
+              36.63,
+              0.33353,
+              2,
+              2,
+              15.4,
+              -35.65,
+              0.67115,
+              8,
+              -59,
+              -35.43,
+              0.32885
+            ],
+            "hull": 10
+          }
+        },
+        "Shockwave_lv5/body6": {
+          "Shockwave_lv5/body6": {
+            "name": "Shockwave_lv3/body6",
+            "x": 55.91,
+            "y": -2.4,
+            "scaleX": 0.9,
+            "scaleY": 0.9,
+            "rotation": -90,
+            "width": 108,
+            "height": 112
+          }
+        },
+        "Shockwave_lv5/gun_l1": {
+          "Shockwave_lv5/gun_l1": {
+            "x": -22.89,
+            "y": -0.56,
+            "scaleX": 0.75,
+            "scaleY": 0.75,
+            "rotation": -89.83,
+            "width": 74,
+            "height": 92
+          },
+          "Shockwave_lv5/gun_l2": {
+            "x": -22.89,
+            "y": -0.56,
+            "scaleX": 0.75,
+            "scaleY": 0.75,
+            "rotation": -89.83,
+            "width": 74,
+            "height": 92
+          },
+          "Shockwave_lv5/gun_l3": {
+            "x": -22.89,
+            "y": -0.56,
+            "scaleX": 0.75,
+            "scaleY": 0.75,
+            "rotation": -89.83,
+            "width": 74,
+            "height": 92
+          }
+        },
+        "gun": {
+          "Shockwave_lv5/gun": {
+            "name": "Shockwave_lv3/gun",
+            "x": 33.98,
+            "y": -0.03,
+            "scaleX": 0.9,
+            "scaleY": 0.9,
+            "rotation": -90,
+            "width": 74,
+            "height": 92
+          }
+        },
+        "wing1": {
+          "Shockwave_lv5/wing1": {
+            "name": "Shockwave_lv3/wing1",
+            "x": 51.49,
+            "y": -7.33,
+            "rotation": -93.42,
+            "width": 46,
+            "height": 131
+          }
+        },
+        "wing2": {
+          "Shockwave_lv5/wing2": {
+            "name": "Shockwave_lv3/wing2",
+            "x": 28.43,
+            "y": -0.02,
+            "scaleX": 0.9,
+            "scaleY": 0.9,
+            "rotation": -94.3,
+            "width": 45,
+            "height": 131
+          }
+        },
+        "wing3": {
+          "Shockwave_lv5/wing1": {
+            "name": "Shockwave_lv3/wing1",
+            "x": 51.49,
+            "y": -7.33,
+            "rotation": -93.42,
+            "width": 46,
+            "height": 131
+          }
+        },
+        "wing4": {
+          "Shockwave_lv5/wing2": {
+            "name": "Shockwave_lv3/wing2",
+            "x": 28.44,
+            "y": 0.13,
+            "scaleX": 0.9,
+            "scaleY": 0.9,
+            "rotation": -94.3,
+            "width": 45,
+            "height": 131
+          }
+        }
+      }
+    },
+    {
+      "name": "lv4",
+      "bones": [
+        "Shockwave_lv5/back",
+        "Shockwave_lv5/body1",
+        "Shockwave_lv5/body3",
+        "Shockwave_lv5/body7",
+        "Shockwave_lv5/body8",
+        "Shockwave_lv5/body11",
+        "Shockwave_lv5/body12",
+        "energy2",
+        "energy4",
+        "energy_l2",
+        "energy_l4",
+        "gun",
+        "gun3",
+        "guntip_lv4",
+        "light1",
+        "wing2",
+        "wing4"
+      ],
+      "transform": [
+        "Shockwave_lv5/back"
+      ],
+      "attachments": {
+        "Shockwave_lv5/back": {
+          "Shockwave_lv5/back": {
+            "name": "Shockwave_lv4/back",
+            "x": -15.31,
+            "y": -0.02,
+            "scaleX": 0.9,
+            "scaleY": 0.9,
+            "rotation": -90,
+            "width": 54,
+            "height": 56
+          }
+        },
+        "Shockwave_lv5/back_wing": {
+          "Shockwave_lv5/back_wing": {
+            "name": "Shockwave_lv4/back_wing",
+            "x": 31.39,
+            "y": -2.04,
+            "rotation": 39.22,
+            "width": 54,
+            "height": 51
+          }
+        },
+        "Shockwave_lv5/back_wing2": {
+          "Shockwave_lv5/back_wing": {
+            "name": "Shockwave_lv4/back_wing",
+            "x": 31.39,
+            "y": -2.04,
+            "rotation": 39.22,
+            "width": 54,
+            "height": 51
+          }
+        },
+        "Shockwave_lv5/body1": {
+          "Shockwave_lv5/body1": {
+            "name": "Shockwave_lv4/body1",
+            "x": -0.95,
+            "y": 41.99,
+            "rotation": -0.17,
+            "width": 147,
+            "height": 90
+          }
+        },
+        "Shockwave_lv5/body2": {
+          "Shockwave_lv5/body2": {
+            "name": "Shockwave_lv4/body2",
+            "x": 64.15,
+            "y": -1.37,
+            "scaleX": 0.9,
+            "scaleY": 0.9,
+            "rotation": -90,
+            "width": 164,
+            "height": 143
+          }
+        },
+        "Shockwave_lv5/body3": {
+          "Shockwave_lv5/body3": {
+            "name": "Shockwave_lv4/body3",
+            "type": "mesh",
+            "uvs": [
+              1,
+              0.20005,
+              1,
+              0.64482,
+              0.92632,
+              0.81284,
+              0.68698,
+              1,
+              0.29554,
+              1,
+              0.06067,
+              0.82272,
+              0,
+              0.65964,
+              0,
+              0.18028,
+              0.20159,
+              0,
+              0.77869,
+              0,
+              0.22619,
+              0.37302,
+              0.75409,
+              0.37796,
+              0.25534,
+              0.8205,
+              0.72945,
+              0.81509
+            ],
+            "triangles": [
+              13,
+              12,
+              11,
+              12,
+              5,
+              10,
+              13,
+              11,
+              2,
+              5,
+              6,
+              10,
+              6,
+              7,
+              10,
+              11,
+              0,
+              1,
+              10,
+              8,
+              9,
+              7,
+              8,
+              10,
+              11,
+              10,
+              9,
+              11,
+              9,
+              0,
+              11,
+              12,
+              10,
+              2,
+              11,
+              1,
+              3,
+              4,
+              12,
+              5,
+              12,
+              4,
+              13,
+              3,
+              12,
+              3,
+              13,
+              2
+            ],
+            "vertices": [
+              2,
+              2,
+              58.11,
+              -79.99,
+              0.224,
+              8,
+              -16.29,
+              -79.77,
+              0.776,
+              2,
+              2,
+              26.17,
+              -79.98,
+              0.35666,
+              8,
+              -48.23,
+              -79.77,
+              0.64334,
+              2,
+              2,
+              14.01,
+              -68.31,
+              0.59897,
+              8,
+              -60.4,
+              -68.09,
+              0.40103,
+              2,
+              2,
+              0.45,
+              -30.4,
+              0.89338,
+              8,
+              -73.95,
+              -30.18,
+              0.10662,
+              2,
+              2,
+              0.45,
+              31.58,
+              0.87902,
+              8,
+              -73.95,
+              31.79,
+              0.12098,
+              2,
+              2,
+              13.29,
+              68.76,
+              0.61487,
+              8,
+              -61.11,
+              68.97,
+              0.38513,
+              2,
+              2,
+              25.09,
+              78.35,
+              0.38261,
+              8,
+              -49.31,
+              78.57,
+              0.61739,
+              2,
+              2,
+              59.53,
+              78.35,
+              0.224,
+              8,
+              -14.88,
+              78.56,
+              0.776,
+              2,
+              2,
+              72.47,
+              46.43,
+              0.184,
+              8,
+              -1.94,
+              46.64,
+              0.816,
+              2,
+              2,
+              72.47,
+              -44.95,
+              0.184,
+              8,
+              -1.94,
+              -44.73,
+              0.816,
+              2,
+              2,
+              45.8,
+              42.53,
+              0.04363,
+              8,
+              -28.6,
+              42.74,
+              0.95637,
+              2,
+              2,
+              45.46,
+              -41.06,
+              0.02857,
+              8,
+              -28.95,
+              -40.84,
+              0.97143,
+              2,
+              2,
+              13.42,
+              37.93,
+              0.66647,
+              8,
+              -60.98,
+              38.15,
+              0.33353,
+              2,
+              2,
+              13.81,
+              -37.13,
+              0.67115,
+              8,
+              -60.59,
+              -36.92,
+              0.32885
+            ],
+            "hull": 10
+          }
+        },
+        "Shockwave_lv5/body6": {
+          "Shockwave_lv5/body6": {
+            "name": "Shockwave_lv4/body6",
+            "x": 64.64,
+            "y": -2.38,
+            "scaleX": 0.9,
+            "scaleY": 0.9,
+            "rotation": -90,
+            "width": 108,
+            "height": 112
+          }
+        },
+        "Shockwave_lv5/body7": {
+          "Shockwave_lv5/body4": {
+            "name": "Shockwave_lv4/body4",
+            "type": "mesh",
+            "uvs": [
+              0.73591,
+              0.19469,
+              0.90658,
+              0.4263,
+              1,
+              0.62745,
+              1,
+              1,
+              0.85965,
+              1,
+              0.72311,
+              1,
+              0.66765,
+              0.6823,
+              0.51831,
+              0.51773,
+              0.36898,
+              0.38364,
+              0.23671,
+              0.51164,
+              0.11298,
+              0.67621,
+              0,
+              0.62745,
+              0,
+              0.31049,
+              0.10018,
+              0.12764,
+              0.26231,
+              0,
+              0.54391,
+              0,
+              0.12152,
+              0.38973,
+              0.23245,
+              0.25564,
+              0.35618,
+              0.19469,
+              0.51831,
+              0.25564,
+              0.65058,
+              0.39583,
+              0.79991,
+              0.57868,
+              0.85965,
+              0.72497
+            ],
+            "triangles": [
+              20,
+              19,
+              0,
+              20,
+              0,
+              1,
+              7,
+              19,
+              20,
+              21,
+              20,
+              1,
+              21,
+              1,
+              2,
+              6,
+              20,
+              21,
+              7,
+              20,
+              6,
+              22,
+              21,
+              2,
+              22,
+              5,
+              6,
+              22,
+              6,
+              21,
+              3,
+              4,
+              22,
+              5,
+              22,
+              4,
+              3,
+              22,
+              2,
+              18,
+              14,
+              15,
+              17,
+              13,
+              14,
+              17,
+              14,
+              18,
+              19,
+              18,
+              15,
+              19,
+              15,
+              0,
+              8,
+              18,
+              19,
+              17,
+              18,
+              8,
+              16,
+              13,
+              17,
+              12,
+              13,
+              16,
+              9,
+              17,
+              8,
+              16,
+              17,
+              9,
+              8,
+              19,
+              7,
+              11,
+              12,
+              16,
+              10,
+              11,
+              16,
+              9,
+              10,
+              16
+            ],
+            "vertices": [
+              2,
+              15,
+              6.77,
+              -35.07,
+              0.38817,
+              17,
+              26.12,
+              8.07,
+              0.61183,
+              2,
+              15,
+              -1.71,
+              -44.16,
+              0.13334,
+              17,
+              17.4,
+              -1,
+              0.86666,
+              2,
+              15,
+              -9.14,
+              -49.19,
+              0.03363,
+              17,
+              9.83,
+              -5.98,
+              0.96637,
+              1,
+              17,
+              -4.23,
+              -5.96,
+              1,
+              1,
+              17,
+              -4.23,
+              1.62,
+              1,
+              2,
+              15,
+              -23.46,
+              -34.45,
+              0.00112,
+              17,
+              -4.23,
+              8.99,
+              0.99888,
+              2,
+              15,
+              -11.6,
+              -31.42,
+              0.14809,
+              17,
+              7.74,
+              11.93,
+              0.85191,
+              2,
+              15,
+              -5.58,
+              -23.47,
+              0.45119,
+              17,
+              13.97,
+              19.87,
+              0.54881,
+              2,
+              15,
+              -0.6,
+              -15.54,
+              0.78346,
+              17,
+              19.15,
+              27.82,
+              0.21654,
+              2,
+              15,
+              -5.44,
+              -8.48,
+              0.97779,
+              17,
+              14.44,
+              34.99,
+              0.02221,
+              1,
+              15,
+              -11.65,
+              -1.8,
+              1,
+              1,
+              15,
+              -9.81,
+              4.3,
+              1,
+              1,
+              15,
+              2.17,
+              4.3,
+              1,
+              2,
+              15,
+              9.08,
+              -1.1,
+              0.97725,
+              17,
+              29.15,
+              42.29,
+              0.02275,
+              2,
+              15,
+              13.89,
+              -9.81,
+              0.8828,
+              17,
+              33.81,
+              33.47,
+              0.1172,
+              2,
+              15,
+              13.95,
+              -24.86,
+              0.64024,
+              17,
+              33.56,
+              18.3,
+              0.35976,
+              1,
+              15,
+              -0.82,
+              -2.26,
+              1,
+              2,
+              15,
+              4.23,
+              -8.23,
+              0.93439,
+              17,
+              24.15,
+              35.15,
+              0.06561,
+              2,
+              15,
+              6.54,
+              -14.85,
+              0.80921,
+              17,
+              26.33,
+              28.46,
+              0.19079,
+              2,
+              15,
+              4.29,
+              -23.49,
+              0.59292,
+              17,
+              23.89,
+              19.77,
+              0.40708,
+              2,
+              15,
+              -0.87,
+              -30.52,
+              0.3629,
+              17,
+              18.54,
+              12.73,
+              0.6371,
+              2,
+              15,
+              -7.56,
+              -38.47,
+              0.12134,
+              17,
+              11.65,
+              4.78,
+              0.87866,
+              2,
+              15,
+              -12.96,
+              -41.69,
+              0.03036,
+              17,
+              6.15,
+              1.6,
+              0.96964
+            ],
+            "hull": 16
+          }
+        },
+        "Shockwave_lv5/body8": {
+          "Shockwave_lv5/body4": {
+            "name": "Shockwave_lv4/body4",
+            "type": "mesh",
+            "uvs": [
+              0.73591,
+              0.19469,
+              0.90658,
+              0.4263,
+              1,
+              0.62745,
+              1,
+              1,
+              0.85965,
+              1,
+              0.72311,
+              1,
+              0.66765,
+              0.6823,
+              0.51831,
+              0.51773,
+              0.36898,
+              0.38364,
+              0.23671,
+              0.51164,
+              0.11298,
+              0.67621,
+              0,
+              0.62745,
+              0,
+              0.31049,
+              0.10018,
+              0.12764,
+              0.26231,
+              0,
+              0.54391,
+              0,
+              0.12152,
+              0.38973,
+              0.23245,
+              0.25564,
+              0.35618,
+              0.19469,
+              0.51831,
+              0.25564,
+              0.65058,
+              0.39583,
+              0.79991,
+              0.57868,
+              0.85965,
+              0.72497
+            ],
+            "triangles": [
+              20,
+              19,
+              0,
+              20,
+              0,
+              1,
+              7,
+              19,
+              20,
+              21,
+              20,
+              1,
+              21,
+              1,
+              2,
+              6,
+              20,
+              21,
+              7,
+              20,
+              6,
+              22,
+              21,
+              2,
+              22,
+              5,
+              6,
+              22,
+              6,
+              21,
+              3,
+              4,
+              22,
+              5,
+              22,
+              4,
+              3,
+              22,
+              2,
+              18,
+              14,
+              15,
+              17,
+              13,
+              14,
+              17,
+              14,
+              18,
+              19,
+              18,
+              15,
+              19,
+              15,
+              0,
+              8,
+              18,
+              19,
+              17,
+              18,
+              8,
+              16,
+              13,
+              17,
+              12,
+              13,
+              16,
+              9,
+              17,
+              8,
+              16,
+              17,
+              9,
+              8,
+              19,
+              7,
+              11,
+              12,
+              16,
+              10,
+              11,
+              16,
+              9,
+              10,
+              16
+            ],
+            "vertices": [
+              2,
+              23,
+              6.77,
+              -35.07,
+              0.38817,
+              25,
+              26.12,
+              8.07,
+              0.61183,
+              2,
+              23,
+              -1.71,
+              -44.16,
+              0.13334,
+              25,
+              17.4,
+              -1,
+              0.86666,
+              2,
+              23,
+              -9.14,
+              -49.19,
+              0.03363,
+              25,
+              9.83,
+              -5.98,
+              0.96637,
+              1,
+              25,
+              -4.23,
+              -5.96,
+              1,
+              1,
+              25,
+              -4.23,
+              1.62,
+              1,
+              2,
+              23,
+              -23.46,
+              -34.45,
+              0.00112,
+              25,
+              -4.23,
+              8.99,
+              0.99888,
+              2,
+              23,
+              -11.6,
+              -31.42,
+              0.14809,
+              25,
+              7.74,
+              11.93,
+              0.85191,
+              2,
+              23,
+              -5.58,
+              -23.47,
+              0.45119,
+              25,
+              13.97,
+              19.87,
+              0.54881,
+              2,
+              23,
+              -0.6,
+              -15.54,
+              0.78346,
+              25,
+              19.15,
+              27.82,
+              0.21654,
+              2,
+              23,
+              -5.44,
+              -8.48,
+              0.97779,
+              25,
+              14.44,
+              34.99,
+              0.02221,
+              1,
+              23,
+              -11.65,
+              -1.8,
+              1,
+              1,
+              23,
+              -9.81,
+              4.3,
+              1,
+              1,
+              23,
+              2.17,
+              4.3,
+              1,
+              2,
+              23,
+              9.08,
+              -1.1,
+              0.97725,
+              25,
+              29.15,
+              42.29,
+              0.02275,
+              2,
+              23,
+              13.89,
+              -9.81,
+              0.8828,
+              25,
+              33.81,
+              33.47,
+              0.1172,
+              2,
+              23,
+              13.95,
+              -24.86,
+              0.64024,
+              25,
+              33.56,
+              18.3,
+              0.35976,
+              1,
+              23,
+              -0.82,
+              -2.26,
+              1,
+              2,
+              23,
+              4.23,
+              -8.23,
+              0.93439,
+              25,
+              24.15,
+              35.15,
+              0.06561,
+              2,
+              23,
+              6.54,
+              -14.85,
+              0.80921,
+              25,
+              26.33,
+              28.46,
+              0.19079,
+              2,
+              23,
+              4.29,
+              -23.49,
+              0.59292,
+              25,
+              23.89,
+              19.77,
+              0.40708,
+              2,
+              23,
+              -0.87,
+              -30.52,
+              0.3629,
+              25,
+              18.54,
+              12.73,
+              0.6371,
+              2,
+              23,
+              -7.56,
+              -38.47,
+              0.12134,
+              25,
+              11.65,
+              4.78,
+              0.87866,
+              2,
+              23,
+              -12.96,
+              -41.69,
+              0.03036,
+              25,
+              6.15,
+              1.6,
+              0.96964
+            ],
+            "hull": 16
+          }
+        },
+        "Shockwave_lv5/gun_l1": {
+          "Shockwave_lv5/gun_l1": {
+            "x": -10.89,
+            "y": -0.59,
+            "scaleX": 0.8862,
+            "scaleY": 0.8862,
+            "rotation": -89.83,
+            "width": 74,
+            "height": 92
+          },
+          "Shockwave_lv5/gun_l2": {
+            "x": -10.89,
+            "y": -0.59,
+            "scaleX": 0.8862,
+            "scaleY": 0.8862,
+            "rotation": -89.83,
+            "width": 74,
+            "height": 92
+          },
+          "Shockwave_lv5/gun_l3": {
+            "x": -10.89,
+            "y": -0.59,
+            "scaleX": 0.8862,
+            "scaleY": 0.8862,
+            "rotation": -89.83,
+            "width": 74,
+            "height": 92
+          }
+        },
+        "energy2": {
+          "Shockwave_lv5/energy": {
+            "name": "Shockwave_lv4/energy",
+            "x": 38.14,
+            "y": -1.92,
+            "scaleX": 0.9,
+            "scaleY": 0.9,
+            "rotation": 43.5,
+            "width": 70,
+            "height": 69
+          }
+        },
+        "energy4": {
+          "Shockwave_lv5/energy": {
+            "name": "Shockwave_lv4/energy",
+            "x": 38.37,
+            "y": -0.72,
+            "scaleX": 0.9061,
+            "scaleY": 0.9061,
+            "rotation": 43.5,
+            "width": 70,
+            "height": 69
+          }
+        },
+        "energy_l2": {
+          "Shockwave_lv5/energy_l": {
+            "name": "Shockwave_lv4/energy_l",
+            "x": 21.13,
+            "y": -4.66,
+            "scaleX": 0.9,
+            "scaleY": 0.9,
+            "rotation": 44.41,
+            "width": 47,
+            "height": 53
+          }
+        },
+        "energy_l4": {
+          "Shockwave_lv5/energy_l": {
+            "name": "Shockwave_lv4/energy_l",
+            "x": 22.27,
+            "y": -3.15,
+            "scaleX": 0.9,
+            "scaleY": 0.9,
+            "rotation": 44.41,
+            "width": 47,
+            "height": 53
+          }
+        },
+        "gun": {
+          "Shockwave_lv5/gun": {
+            "name": "Shockwave_lv4/gun",
+            "x": 37.61,
+            "y": -0.02,
+            "scaleX": 0.9,
+            "scaleY": 0.9,
+            "rotation": -90,
+            "width": 74,
+            "height": 92
+          }
+        },
+        "gun_wing": {
+          "Shockwave_lv5/gun_wing": {
+            "name": "Shockwave_lv4/gun_wing",
+            "x": 7.57,
+            "y": -0.1,
+            "rotation": -90,
+            "width": 91,
+            "height": 32
+          }
+        },
+        "light1": {
+          "Shockwave_lv5/light1": {
+            "name": "Shockwave_lv4/light1",
+            "x": 8.32,
+            "y": -0.03,
+            "scaleX": 0.9,
+            "scaleY": 0.9,
+            "rotation": -90,
+            "width": 38,
+            "height": 51
+          }
+        },
+        "wing1": {
+          "Shockwave_lv5/wing1": {
+            "name": "Shockwave_lv4/wing1",
+            "x": 51.49,
+            "y": -7.33,
+            "rotation": -93.42,
+            "width": 46,
+            "height": 131
+          }
+        },
+        "wing2": {
+          "Shockwave_lv5/wing2": {
+            "name": "Shockwave_lv4/wing2",
+            "x": 45.83,
+            "y": -1.28,
+            "scaleX": 0.9,
+            "scaleY": 0.9,
+            "rotation": -94.3,
+            "width": 45,
+            "height": 131
+          }
+        },
+        "wing3": {
+          "Shockwave_lv5/wing1": {
+            "name": "Shockwave_lv4/wing1",
+            "x": 51.49,
+            "y": -7.33,
+            "rotation": -93.42,
+            "width": 46,
+            "height": 131
+          }
+        },
+        "wing4": {
+          "Shockwave_lv5/wing2": {
+            "name": "Shockwave_lv4/wing2",
+            "x": 45.84,
+            "y": -1.23,
+            "scaleX": 0.9,
+            "scaleY": 0.9,
+            "rotation": -94.3,
+            "width": 45,
+            "height": 131
+          }
+        }
+      }
+    },
+    {
+      "name": "lv5",
+      "bones": [
+        "Shockwave_lv5/back",
+        "Shockwave_lv5/back_wing",
+        "Shockwave_lv5/back_wing2",
+        "Shockwave_lv5/body1",
+        "Shockwave_lv5/body3",
+        "Shockwave_lv5/body5",
+        "Shockwave_lv5/body6",
+        "Shockwave_lv5/body7",
+        "Shockwave_lv5/body8",
+        "Shockwave_lv5/body9",
+        "Shockwave_lv5/body10",
+        "Shockwave_lv5/body11",
+        "Shockwave_lv5/body12",
+        "energy",
+        "energy2",
+        "energy3",
+        "energy4",
+        "energy_l",
+        "energy_l2",
+        "energy_l3",
+        "energy_l4",
+        "gun",
+        "gun2",
+        "gun3",
+        "guntip_lv5",
+        "light1",
+        "wing1",
+        "wing2",
+        "wing3",
+        "wing4"
+      ],
+      "transform": [
+        "Shockwave_lv5/back"
+      ],
+      "attachments": {
+        "Shockwave_lv5/back": {
+          "Shockwave_lv5/back": {
+            "x": -6.99,
+            "rotation": -90,
+            "width": 54,
+            "height": 56
+          }
+        },
+        "Shockwave_lv5/back_wing": {
+          "Shockwave_lv5/back_wing": {
+            "x": 31.39,
+            "y": -2.04,
+            "rotation": 39.22,
+            "width": 54,
+            "height": 51
+          }
+        },
+        "Shockwave_lv5/back_wing2": {
+          "Shockwave_lv5/back_wing": {
+            "x": 31.39,
+            "y": -2.04,
+            "rotation": 39.22,
+            "width": 54,
+            "height": 51
+          }
+        },
+        "Shockwave_lv5/body1": {
+          "Shockwave_lv5/body1": {
+            "x": -0.95,
+            "y": 47.26,
+            "scaleX": 1.1,
+            "scaleY": 1.1,
+            "rotation": -0.17,
+            "width": 147,
+            "height": 90
+          }
+        },
+        "Shockwave_lv5/body2": {
+          "Shockwave_lv5/body2": {
+            "x": 70.54,
+            "y": -1.35,
+            "rotation": -90,
+            "width": 164,
+            "height": 143
+          }
+        },
+        "Shockwave_lv5/body3": {
+          "Shockwave_lv5/body3": {
+            "type": "mesh",
+            "uvs": [
+              1,
+              0.20005,
+              1,
+              0.64482,
+              0.92632,
+              0.81284,
+              0.68698,
+              1,
+              0.29554,
+              1,
+              0.06067,
+              0.82272,
+              0,
+              0.65964,
+              0,
+              0.18028,
+              0.20159,
+              0,
+              0.77869,
+              0,
+              0.22619,
+              0.37302,
+              0.75409,
+              0.37796,
+              0.25534,
+              0.8205,
+              0.72945,
+              0.81509
+            ],
+            "triangles": [
+              2,
+              11,
+              1,
+              11,
+              12,
+              10,
+              11,
+              9,
+              0,
+              11,
+              10,
+              9,
+              7,
+              8,
+              10,
+              10,
+              8,
+              9,
+              11,
+              0,
+              1,
+              6,
+              7,
+              10,
+              5,
+              6,
+              10,
+              13,
+              11,
+              2,
+              12,
+              5,
+              10,
+              13,
+              12,
+              11,
+              3,
+              13,
+              2,
+              13,
+              3,
+              12,
+              5,
+              12,
+              4,
+              3,
+              4,
+              12
+            ],
+            "vertices": [
+              2,
+              2,
+              65.95,
+              -95.94,
+              0.224,
+              8,
+              -8.45,
+              -95.72,
+              0.776,
+              2,
+              2,
+              27.7,
+              -95.94,
+              0.35666,
+              8,
+              -46.7,
+              -95.72,
+              0.64334,
+              2,
+              2,
+              13.25,
+              -81.94,
+              0.59897,
+              8,
+              -61.15,
+              -81.72,
+              0.40103,
+              2,
+              2,
+              -2.84,
+              -36.46,
+              0.89338,
+              8,
+              -77.25,
+              -36.25,
+              0.10662,
+              2,
+              2,
+              -2.84,
+              37.91,
+              0.87902,
+              8,
+              -77.25,
+              38.13,
+              0.12098,
+              2,
+              2,
+              12.4,
+              82.54,
+              0.61487,
+              8,
+              -62,
+              82.75,
+              0.38513,
+              2,
+              2,
+              26.43,
+              94.06,
+              0.38261,
+              8,
+              -47.97,
+              94.28,
+              0.61739,
+              2,
+              2,
+              67.65,
+              94.06,
+              0.224,
+              8,
+              -6.75,
+              94.28,
+              0.776,
+              2,
+              2,
+              83.16,
+              55.76,
+              0.184,
+              8,
+              8.75,
+              55.98,
+              0.816,
+              2,
+              2,
+              83.16,
+              -53.89,
+              0.184,
+              8,
+              8.75,
+              -53.67,
+              0.816,
+              2,
+              2,
+              51.08,
+              51.09,
+              0.04363,
+              8,
+              -23.32,
+              51.3,
+              0.95637,
+              2,
+              2,
+              50.65,
+              -49.21,
+              0.02857,
+              8,
+              -23.75,
+              -49,
+              0.97143,
+              2,
+              2,
+              12.59,
+              45.55,
+              0.66647,
+              8,
+              -61.81,
+              45.77,
+              0.33353,
+              2,
+              2,
+              13.06,
+              -44.53,
+              0.67115,
+              8,
+              -61.34,
+              -44.32,
+              0.32885
+            ],
+            "hull": 10
+          }
+        },
+        "Shockwave_lv5/body4": {
+          "Shockwave_lv5/body4": {
+            "type": "mesh",
+            "uvs": [
+              0.73591,
+              0.19469,
+              0.90658,
+              0.4263,
+              1,
+              0.62745,
+              1,
+              1,
+              0.85965,
+              1,
+              0.72311,
+              1,
+              0.66765,
+              0.6823,
+              0.51831,
+              0.51773,
+              0.36898,
+              0.38364,
+              0.23671,
+              0.51164,
+              0.11298,
+              0.67621,
+              0,
+              0.62745,
+              0,
+              0.31049,
+              0.10018,
+              0.12764,
+              0.26231,
+              0,
+              0.54391,
+              0,
+              0.12152,
+              0.38973,
+              0.23245,
+              0.25564,
+              0.35618,
+              0.19469,
+              0.51831,
+              0.25564,
+              0.65058,
+              0.39583,
+              0.79991,
+              0.57868,
+              0.85965,
+              0.72497
+            ],
+            "triangles": [
+              20,
+              19,
+              0,
+              20,
+              0,
+              1,
+              7,
+              19,
+              20,
+              21,
+              20,
+              1,
+              21,
+              1,
+              2,
+              6,
+              20,
+              21,
+              7,
+              20,
+              6,
+              22,
+              21,
+              2,
+              22,
+              5,
+              6,
+              22,
+              6,
+              21,
+              3,
+              4,
+              22,
+              5,
+              22,
+              4,
+              3,
+              22,
+              2,
+              18,
+              14,
+              15,
+              17,
+              13,
+              14,
+              17,
+              14,
+              18,
+              19,
+              18,
+              15,
+              19,
+              15,
+              0,
+              8,
+              18,
+              19,
+              17,
+              18,
+              8,
+              16,
+              13,
+              17,
+              12,
+              13,
+              16,
+              9,
+              17,
+              8,
+              16,
+              17,
+              9,
+              8,
+              19,
+              7,
+              11,
+              12,
+              16,
+              10,
+              11,
+              16,
+              9,
+              10,
+              16
+            ],
+            "vertices": [
+              2,
+              11,
+              8.05,
+              -36.55,
+              0.38817,
+              13,
+              27.6,
+              6.8,
+              0.61183,
+              2,
+              11,
+              -1.68,
+              -46.79,
+              0.13334,
+              13,
+              17.87,
+              -3.44,
+              0.86666,
+              2,
+              11,
+              -10.12,
+              -52.4,
+              0.03363,
+              13,
+              9.43,
+              -9.05,
+              0.96637,
+              1,
+              13,
+              -6.22,
+              -9.05,
+              1,
+              1,
+              13,
+              -6.22,
+              -0.63,
+              1,
+              2,
+              11,
+              -25.77,
+              -35.79,
+              0.00112,
+              13,
+              -6.22,
+              7.56,
+              0.99888,
+              2,
+              11,
+              -12.43,
+              -32.46,
+              0.14809,
+              13,
+              7.12,
+              10.89,
+              0.85191,
+              2,
+              11,
+              -5.52,
+              -23.5,
+              0.45119,
+              13,
+              14.03,
+              19.85,
+              0.54881,
+              2,
+              11,
+              0.12,
+              -14.54,
+              0.78346,
+              13,
+              19.67,
+              28.81,
+              0.21654,
+              2,
+              11,
+              -5.26,
+              -6.6,
+              0.97779,
+              13,
+              14.29,
+              36.75,
+              0.02221,
+              1,
+              11,
+              -12.17,
+              0.82,
+              1,
+              1,
+              11,
+              -10.12,
+              7.6,
+              1,
+              1,
+              11,
+              3.19,
+              7.6,
+              1,
+              2,
+              11,
+              10.87,
+              1.59,
+              0.97725,
+              13,
+              30.42,
+              44.94,
+              0.02275,
+              2,
+              11,
+              16.23,
+              -8.14,
+              0.8828,
+              13,
+              35.78,
+              35.21,
+              0.1172,
+              2,
+              11,
+              16.23,
+              -25.03,
+              0.64024,
+              13,
+              35.78,
+              18.32,
+              0.35976,
+              1,
+              11,
+              -0.14,
+              0.31,
+              1,
+              2,
+              11,
+              5.49,
+              -6.35,
+              0.93439,
+              13,
+              25.04,
+              37,
+              0.06561,
+              2,
+              11,
+              8.05,
+              -13.77,
+              0.80921,
+              13,
+              27.6,
+              29.58,
+              0.19079,
+              2,
+              11,
+              5.49,
+              -23.5,
+              0.59292,
+              13,
+              25.04,
+              19.85,
+              0.40708,
+              2,
+              11,
+              -0.4,
+              -31.43,
+              0.3629,
+              13,
+              19.15,
+              11.92,
+              0.6371,
+              2,
+              11,
+              -8.08,
+              -40.39,
+              0.12134,
+              13,
+              11.47,
+              2.96,
+              0.87866,
+              2,
+              11,
+              -14.22,
+              -43.98,
+              0.03036,
+              13,
+              5.33,
+              -0.63,
+              0.96964
+            ],
+            "hull": 16
+          }
+        },
+        "Shockwave_lv5/body5": {
+          "Shockwave_lv5/body4": {
+            "type": "mesh",
+            "uvs": [
+              0.73591,
+              0.19469,
+              0.90658,
+              0.4263,
+              1,
+              0.62745,
+              1,
+              1,
+              0.85965,
+              1,
+              0.72311,
+              1,
+              0.66765,
+              0.6823,
+              0.51831,
+              0.51773,
+              0.36898,
+              0.38364,
+              0.23671,
+              0.51164,
+              0.11298,
+              0.67621,
+              0,
+              0.62745,
+              0,
+              0.31049,
+              0.10018,
+              0.12764,
+              0.26231,
+              0,
+              0.54391,
+              0,
+              0.12152,
+              0.38973,
+              0.23245,
+              0.25564,
+              0.35618,
+              0.19469,
+              0.51831,
+              0.25564,
+              0.65058,
+              0.39583,
+              0.79991,
+              0.57868,
+              0.85965,
+              0.72497
+            ],
+            "triangles": [
+              20,
+              19,
+              0,
+              20,
+              0,
+              1,
+              7,
+              19,
+              20,
+              21,
+              20,
+              1,
+              21,
+              1,
+              2,
+              6,
+              20,
+              21,
+              7,
+              20,
+              6,
+              22,
+              21,
+              2,
+              22,
+              5,
+              6,
+              22,
+              6,
+              21,
+              3,
+              4,
+              22,
+              5,
+              22,
+              4,
+              3,
+              22,
+              2,
+              18,
+              14,
+              15,
+              17,
+              13,
+              14,
+              17,
+              14,
+              18,
+              19,
+              18,
+              15,
+              19,
+              15,
+              0,
+              8,
+              18,
+              19,
+              17,
+              18,
+              8,
+              16,
+              13,
+              17,
+              12,
+              13,
+              16,
+              9,
+              17,
+              8,
+              16,
+              17,
+              9,
+              8,
+              19,
+              7,
+              11,
+              12,
+              16,
+              10,
+              11,
+              16,
+              9,
+              10,
+              16
+            ],
+            "vertices": [
+              2,
+              19,
+              8.05,
+              -36.55,
+              0.38817,
+              21,
+              27.6,
+              6.8,
+              0.61183,
+              2,
+              19,
+              -1.68,
+              -46.79,
+              0.13334,
+              21,
+              17.87,
+              -3.44,
+              0.86666,
+              2,
+              19,
+              -10.12,
+              -52.4,
+              0.03363,
+              21,
+              9.43,
+              -9.05,
+              0.96637,
+              1,
+              21,
+              -6.22,
+              -9.05,
+              1,
+              1,
+              21,
+              -6.22,
+              -0.63,
+              1,
+              2,
+              19,
+              -25.77,
+              -35.79,
+              0.00112,
+              21,
+              -6.22,
+              7.56,
+              0.99888,
+              2,
+              19,
+              -12.43,
+              -32.46,
+              0.14809,
+              21,
+              7.12,
+              10.89,
+              0.85191,
+              2,
+              19,
+              -5.52,
+              -23.5,
+              0.45119,
+              21,
+              14.03,
+              19.85,
+              0.54881,
+              2,
+              19,
+              0.12,
+              -14.54,
+              0.78346,
+              21,
+              19.67,
+              28.81,
+              0.21654,
+              2,
+              19,
+              -5.26,
+              -6.6,
+              0.97779,
+              21,
+              14.29,
+              36.75,
+              0.02221,
+              1,
+              19,
+              -12.17,
+              0.82,
+              1,
+              1,
+              19,
+              -10.12,
+              7.6,
+              1,
+              1,
+              19,
+              3.19,
+              7.6,
+              1,
+              2,
+              19,
+              10.87,
+              1.59,
+              0.97725,
+              21,
+              30.42,
+              44.94,
+              0.02275,
+              2,
+              19,
+              16.23,
+              -8.14,
+              0.8828,
+              21,
+              35.78,
+              35.21,
+              0.1172,
+              2,
+              19,
+              16.23,
+              -25.03,
+              0.64024,
+              21,
+              35.78,
+              18.32,
+              0.35976,
+              1,
+              19,
+              -0.14,
+              0.31,
+              1,
+              2,
+              19,
+              5.49,
+              -6.35,
+              0.93439,
+              21,
+              25.04,
+              37,
+              0.06561,
+              2,
+              19,
+              8.05,
+              -13.77,
+              0.80921,
+              21,
+              27.6,
+              29.58,
+              0.19079,
+              2,
+              19,
+              5.49,
+              -23.5,
+              0.59292,
+              21,
+              25.04,
+              19.85,
+              0.40708,
+              2,
+              19,
+              -0.4,
+              -31.43,
+              0.3629,
+              21,
+              19.15,
+              11.92,
+              0.6371,
+              2,
+              19,
+              -8.08,
+              -40.39,
+              0.12134,
+              21,
+              11.47,
+              2.96,
+              0.87866,
+              2,
+              19,
+              -14.22,
+              -43.98,
+              0.03036,
+              21,
+              5.33,
+              -0.63,
+              0.96964
+            ],
+            "hull": 16
+          }
+        },
+        "Shockwave_lv5/body6": {
+          "Shockwave_lv5/body6": {
+            "x": 71.03,
+            "y": -2.36,
+            "rotation": -90,
+            "width": 108,
+            "height": 112
+          }
+        },
+        "Shockwave_lv5/body7": {
+          "Shockwave_lv5/body4": {
+            "type": "mesh",
+            "uvs": [
+              0.73591,
+              0.19469,
+              0.90658,
+              0.4263,
+              1,
+              0.62745,
+              1,
+              1,
+              0.85965,
+              1,
+              0.72311,
+              1,
+              0.66765,
+              0.6823,
+              0.51831,
+              0.51773,
+              0.36898,
+              0.38364,
+              0.23671,
+              0.51164,
+              0.11298,
+              0.67621,
+              0,
+              0.62745,
+              0,
+              0.31049,
+              0.10018,
+              0.12764,
+              0.26231,
+              0,
+              0.54391,
+              0,
+              0.12152,
+              0.38973,
+              0.23245,
+              0.25564,
+              0.35618,
+              0.19469,
+              0.51831,
+              0.25564,
+              0.65058,
+              0.39583,
+              0.79991,
+              0.57868,
+              0.85965,
+              0.72497
+            ],
+            "triangles": [
+              20,
+              19,
+              0,
+              20,
+              0,
+              1,
+              7,
+              19,
+              20,
+              21,
+              20,
+              1,
+              21,
+              1,
+              2,
+              6,
+              20,
+              21,
+              7,
+              20,
+              6,
+              22,
+              21,
+              2,
+              22,
+              5,
+              6,
+              22,
+              6,
+              21,
+              3,
+              4,
+              22,
+              5,
+              22,
+              4,
+              3,
+              22,
+              2,
+              18,
+              14,
+              15,
+              17,
+              13,
+              14,
+              17,
+              14,
+              18,
+              19,
+              18,
+              15,
+              19,
+              15,
+              0,
+              8,
+              18,
+              19,
+              17,
+              18,
+              8,
+              16,
+              13,
+              17,
+              12,
+              13,
+              16,
+              9,
+              17,
+              8,
+              16,
+              17,
+              9,
+              8,
+              19,
+              7,
+              11,
+              12,
+              16,
+              10,
+              11,
+              16,
+              9,
+              10,
+              16
+            ],
+            "vertices": [
+              2,
+              15,
+              8.05,
+              -36.55,
+              0.38817,
+              17,
+              27.6,
+              6.8,
+              0.61183,
+              2,
+              15,
+              -1.68,
+              -46.79,
+              0.13334,
+              17,
+              17.87,
+              -3.44,
+              0.86666,
+              2,
+              15,
+              -10.12,
+              -52.4,
+              0.03363,
+              17,
+              9.43,
+              -9.05,
+              0.96637,
+              1,
+              17,
+              -6.22,
+              -9.05,
+              1,
+              1,
+              17,
+              -6.22,
+              -0.63,
+              1,
+              2,
+              15,
+              -25.77,
+              -35.79,
+              0.00112,
+              17,
+              -6.22,
+              7.56,
+              0.99888,
+              2,
+              15,
+              -12.43,
+              -32.46,
+              0.14809,
+              17,
+              7.12,
+              10.89,
+              0.85191,
+              2,
+              15,
+              -5.52,
+              -23.5,
+              0.45119,
+              17,
+              14.03,
+              19.85,
+              0.54881,
+              2,
+              15,
+              0.12,
+              -14.54,
+              0.78346,
+              17,
+              19.67,
+              28.81,
+              0.21654,
+              2,
+              15,
+              -5.26,
+              -6.6,
+              0.97779,
+              17,
+              14.29,
+              36.75,
+              0.02221,
+              1,
+              15,
+              -12.17,
+              0.82,
+              1,
+              1,
+              15,
+              -10.12,
+              7.6,
+              1,
+              1,
+              15,
+              3.19,
+              7.6,
+              1,
+              2,
+              15,
+              10.87,
+              1.59,
+              0.97725,
+              17,
+              30.42,
+              44.94,
+              0.02275,
+              2,
+              15,
+              16.23,
+              -8.14,
+              0.8828,
+              17,
+              35.78,
+              35.21,
+              0.1172,
+              2,
+              15,
+              16.23,
+              -25.03,
+              0.64024,
+              17,
+              35.78,
+              18.32,
+              0.35976,
+              1,
+              15,
+              -0.14,
+              0.31,
+              1,
+              2,
+              15,
+              5.49,
+              -6.35,
+              0.93439,
+              17,
+              25.04,
+              37,
+              0.06561,
+              2,
+              15,
+              8.05,
+              -13.77,
+              0.80921,
+              17,
+              27.6,
+              29.58,
+              0.19079,
+              2,
+              15,
+              5.49,
+              -23.5,
+              0.59292,
+              17,
+              25.04,
+              19.85,
+              0.40708,
+              2,
+              15,
+              -0.4,
+              -31.43,
+              0.3629,
+              17,
+              19.15,
+              11.92,
+              0.6371,
+              2,
+              15,
+              -8.08,
+              -40.39,
+              0.12134,
+              17,
+              11.47,
+              2.96,
+              0.87866,
+              2,
+              15,
+              -14.22,
+              -43.98,
+              0.03036,
+              17,
+              5.33,
+              -0.63,
+              0.96964
+            ],
+            "hull": 16
+          }
+        },
+        "Shockwave_lv5/body8": {
+          "Shockwave_lv5/body4": {
+            "type": "mesh",
+            "uvs": [
+              0.73591,
+              0.19469,
+              0.90658,
+              0.4263,
+              1,
+              0.62745,
+              1,
+              1,
+              0.85965,
+              1,
+              0.72311,
+              1,
+              0.66765,
+              0.6823,
+              0.51831,
+              0.51773,
+              0.36898,
+              0.38364,
+              0.23671,
+              0.51164,
+              0.11298,
+              0.67621,
+              0,
+              0.62745,
+              0,
+              0.31049,
+              0.10018,
+              0.12764,
+              0.26231,
+              0,
+              0.54391,
+              0,
+              0.12152,
+              0.38973,
+              0.23245,
+              0.25564,
+              0.35618,
+              0.19469,
+              0.51831,
+              0.25564,
+              0.65058,
+              0.39583,
+              0.79991,
+              0.57868,
+              0.85965,
+              0.72497
+            ],
+            "triangles": [
+              20,
+              19,
+              0,
+              20,
+              0,
+              1,
+              7,
+              19,
+              20,
+              21,
+              20,
+              1,
+              21,
+              1,
+              2,
+              6,
+              20,
+              21,
+              7,
+              20,
+              6,
+              22,
+              21,
+              2,
+              22,
+              5,
+              6,
+              22,
+              6,
+              21,
+              3,
+              4,
+              22,
+              5,
+              22,
+              4,
+              3,
+              22,
+              2,
+              18,
+              14,
+              15,
+              17,
+              13,
+              14,
+              17,
+              14,
+              18,
+              19,
+              18,
+              15,
+              19,
+              15,
+              0,
+              8,
+              18,
+              19,
+              17,
+              18,
+              8,
+              16,
+              13,
+              17,
+              12,
+              13,
+              16,
+              9,
+              17,
+              8,
+              16,
+              17,
+              9,
+              8,
+              19,
+              7,
+              11,
+              12,
+              16,
+              10,
+              11,
+              16,
+              9,
+              10,
+              16
+            ],
+            "vertices": [
+              2,
+              23,
+              8.05,
+              -36.55,
+              0.38817,
+              25,
+              27.6,
+              6.8,
+              0.61183,
+              2,
+              23,
+              -1.68,
+              -46.79,
+              0.13334,
+              25,
+              17.87,
+              -3.44,
+              0.86666,
+              2,
+              23,
+              -10.12,
+              -52.4,
+              0.03363,
+              25,
+              9.43,
+              -9.05,
+              0.96637,
+              1,
+              25,
+              -6.22,
+              -9.05,
+              1,
+              1,
+              25,
+              -6.22,
+              -0.63,
+              1,
+              2,
+              23,
+              -25.77,
+              -35.79,
+              0.00112,
+              25,
+              -6.22,
+              7.56,
+              0.99888,
+              2,
+              23,
+              -12.43,
+              -32.46,
+              0.14809,
+              25,
+              7.12,
+              10.89,
+              0.85191,
+              2,
+              23,
+              -5.52,
+              -23.5,
+              0.45119,
+              25,
+              14.03,
+              19.85,
+              0.54881,
+              2,
+              23,
+              0.12,
+              -14.54,
+              0.78346,
+              25,
+              19.67,
+              28.81,
+              0.21654,
+              2,
+              23,
+              -5.26,
+              -6.6,
+              0.97779,
+              25,
+              14.29,
+              36.75,
+              0.02221,
+              1,
+              23,
+              -12.17,
+              0.82,
+              1,
+              1,
+              23,
+              -10.12,
+              7.6,
+              1,
+              1,
+              23,
+              3.19,
+              7.6,
+              1,
+              2,
+              23,
+              10.87,
+              1.59,
+              0.97725,
+              25,
+              30.42,
+              44.94,
+              0.02275,
+              2,
+              23,
+              16.23,
+              -8.14,
+              0.8828,
+              25,
+              35.78,
+              35.21,
+              0.1172,
+              2,
+              23,
+              16.23,
+              -25.03,
+              0.64024,
+              25,
+              35.78,
+              18.32,
+              0.35976,
+              1,
+              23,
+              -0.14,
+              0.31,
+              1,
+              2,
+              23,
+              5.49,
+              -6.35,
+              0.93439,
+              25,
+              25.04,
+              37,
+              0.06561,
+              2,
+              23,
+              8.05,
+              -13.77,
+              0.80921,
+              25,
+              27.6,
+              29.58,
+              0.19079,
+              2,
+              23,
+              5.49,
+              -23.5,
+              0.59292,
+              25,
+              25.04,
+              19.85,
+              0.40708,
+              2,
+              23,
+              -0.4,
+              -31.43,
+              0.3629,
+              25,
+              19.15,
+              11.92,
+              0.6371,
+              2,
+              23,
+              -8.08,
+              -40.39,
+              0.12134,
+              25,
+              11.47,
+              2.96,
+              0.87866,
+              2,
+              23,
+              -14.22,
+              -43.98,
+              0.03036,
+              25,
+              5.33,
+              -0.63,
+              0.96964
+            ],
+            "hull": 16
+          }
+        },
+        "Shockwave_lv5/gun_l1": {
+          "Shockwave_lv5/gun_l1": {
+            "x": -4.89,
+            "y": -0.57,
+            "rotation": -89.83,
+            "width": 74,
+            "height": 92
+          },
+          "Shockwave_lv5/gun_l2": {
+            "x": -4.89,
+            "y": -0.57,
+            "rotation": -89.83,
+            "width": 74,
+            "height": 92
+          },
+          "Shockwave_lv5/gun_l3": {
+            "x": -4.89,
+            "y": -0.57,
+            "rotation": -89.83,
+            "width": 74,
+            "height": 92
+          }
+        },
+        "energy": {
+          "Shockwave_lv5/energy": {
+            "x": 36.36,
+            "y": -0.54,
+            "rotation": 43.5,
+            "width": 70,
+            "height": 69
+          }
+        },
+        "energy2": {
+          "Shockwave_lv5/energy": {
+            "x": 43.34,
+            "y": -1.81,
+            "scaleX": 1.0531,
+            "scaleY": 1.0531,
+            "rotation": 43.5,
+            "width": 70,
+            "height": 69
+          }
+        },
+        "energy3": {
+          "Shockwave_lv5/energy": {
+            "x": 36.36,
+            "y": -0.54,
+            "rotation": 43.5,
+            "width": 70,
+            "height": 69
+          }
+        },
+        "energy4": {
+          "Shockwave_lv5/energy": {
+            "x": 43.34,
+            "y": -1.81,
+            "scaleX": 1.0531,
+            "scaleY": 1.0531,
+            "rotation": 43.5,
+            "width": 70,
+            "height": 69
+          }
+        },
+        "energy_l": {
+          "Shockwave_lv5/energy_l": {
+            "x": 24.94,
+            "y": -3.42,
+            "rotation": 44.41,
+            "width": 47,
+            "height": 53
+          }
+        },
+        "energy_l2": {
+          "Shockwave_lv5/energy_l": {
+            "x": 31.53,
+            "y": -4.28,
+            "rotation": 44.41,
+            "width": 47,
+            "height": 53
+          }
+        },
+        "energy_l3": {
+          "Shockwave_lv5/energy_l": {
+            "x": 24.94,
+            "y": -3.42,
+            "rotation": 44.41,
+            "width": 47,
+            "height": 53
+          }
+        },
+        "energy_l4": {
+          "Shockwave_lv5/energy_l": {
+            "x": 31.53,
+            "y": -4.28,
+            "rotation": 44.41,
+            "width": 47,
+            "height": 53
+          }
+        },
+        "gun": {
+          "Shockwave_lv5/gun": {
+            "x": 44,
+            "rotation": -90,
+            "width": 74,
+            "height": 92
+          }
+        },
+        "gun_wing": {
+          "Shockwave_lv5/gun_wing": {
+            "x": 7.57,
+            "y": -0.1,
+            "rotation": -90,
+            "width": 91,
+            "height": 32
+          }
+        },
+        "light1": {
+          "Shockwave_lv5/light1": {
+            "x": 18.41,
+            "rotation": -90,
+            "width": 38,
+            "height": 51
+          }
+        },
+        "wing1": {
+          "Shockwave_lv5/wing1": {
+            "x": 51.49,
+            "y": -7.33,
+            "rotation": -93.42,
+            "width": 46,
+            "height": 131
+          }
+        },
+        "wing2": {
+          "Shockwave_lv5/wing2": {
+            "x": 53.71,
+            "y": -1.85,
+            "rotation": -94.3,
+            "width": 45,
+            "height": 131
+          }
+        },
+        "wing3": {
+          "Shockwave_lv5/wing1": {
+            "x": 51.49,
+            "y": -7.33,
+            "rotation": -93.42,
+            "width": 46,
+            "height": 131
+          }
+        },
+        "wing4": {
+          "Shockwave_lv5/wing2": {
+            "x": 53.71,
+            "y": -1.85,
+            "rotation": -94.3,
+            "width": 45,
+            "height": 131
+          }
+        }
+      }
+    }
+  ],
+  "events": {
+    "shot": {}
+  },
+  "animations": {
+    "attack": {
+      "slots": {
+        "Shockwave_lv5/gun_l1": {
+          "attachment": [
+            {
+              "time": 0.4,
+              "name": "Shockwave_lv5/gun_l1"
+            },
+            {
+              "time": 0.4667,
+              "name": "Shockwave_lv5/gun_l2"
+            },
+            {
+              "time": 0.5333,
+              "name": "Shockwave_lv5/gun_l3"
+            },
+            {
+              "time": 0.6,
+              "name": null
+            }
+          ]
+        },
+        "light1": {
+          "color": [
+            {
+              "color": "ffffffff"
+            },
+            {
+              "time": 0.0667,
+              "color": "ffffff9b"
+            },
+            {
+              "time": 0.1667,
+              "color": "ffffffff"
+            },
+            {
+              "time": 0.2333,
+              "color": "ffffff9b"
+            },
+            {
+              "time": 0.3333,
+              "color": "ffffffff"
+            }
+          ]
+        }
+      },
+      "bones": {
+        "Shockwave_lv5/back": {
+          "translate": [
+            {},
+            {
+              "time": 0.3333,
+              "x": -16.06
+            },
+            {
+              "time": 0.4333,
+              "x": 19.84
+            },
+            {
+              "time": 0.6667
+            }
+          ]
+        },
+        "light1": {
+          "translate": [
+            {},
+            {
+              "time": 0.3333,
+              "x": -12.05,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.4333,
+              "x": -12.05
+            },
+            {
+              "time": 0.6667
+            }
+          ],
+          "scale": [
+            {
+              "time": 0.3333
+            },
+            {
+              "time": 0.4333,
+              "x": 1.72
+            },
+            {
+              "time": 0.6667
+            }
+          ]
+        },
+        "gun": {
+          "translate": [
+            {},
+            {
+              "time": 0.3333,
+              "x": -12.85
+            },
+            {
+              "time": 0.4333,
+              "x": 19.6
+            },
+            {
+              "time": 0.6667
+            }
+          ],
+          "scale": [
+            {
+              "time": 0.3333
+            },
+            {
+              "time": 0.4333,
+              "x": 1.473
+            },
+            {
+              "time": 0.5667
+            }
+          ]
+        },
+        "gun2": {
+          "translate": [
+            {},
+            {
+              "time": 0.3333,
+              "x": -12.85
+            },
+            {
+              "time": 0.4333,
+              "x": 11.49
+            },
+            {
+              "time": 0.6667
+            }
+          ]
+        },
+        "energy2": {
+          "rotate": [
+            {},
+            {
+              "time": 0.3333,
+              "angle": 17
+            },
+            {
+              "time": 0.4333,
+              "angle": -8.02
+            },
+            {
+              "time": 0.6
+            }
+          ]
+        },
+        "energy": {
+          "rotate": [
+            {},
+            {
+              "time": 0.3333,
+              "angle": 19.97
+            },
+            {
+              "time": 0.5,
+              "angle": -4.37
+            },
+            {
+              "time": 0.6667
+            }
+          ]
+        },
+        "energy3": {
+          "rotate": [
+            {},
+            {
+              "time": 0.3333,
+              "angle": 18.78
+            },
+            {
+              "time": 0.5,
+              "angle": -6.05
+            },
+            {
+              "time": 0.6667
+            }
+          ]
+        },
+        "energy4": {
+          "rotate": [
+            {},
+            {
+              "time": 0.3333,
+              "angle": 15.59
+            },
+            {
+              "time": 0.4333,
+              "angle": -4.83
+            },
+            {
+              "time": 0.6
+            }
+          ]
+        },
+        "wing1": {
+          "translate": [
+            {},
+            {
+              "time": 0.3333,
+              "x": -4.82,
+              "y": -4.02
+            },
+            {
+              "time": 0.4333,
+              "x": -19.01,
+              "y": -4.02
+            },
+            {
+              "time": 0.5
+            }
+          ]
+        },
+        "wing2": {
+          "translate": [
+            {},
+            {
+              "time": 0.3333,
+              "x": -10.44,
+              "y": -7.23
+            },
+            {
+              "time": 0.4333,
+              "x": -26.66,
+              "y": -7.23
+            },
+            {
+              "time": 0.5333
+            }
+          ]
+        },
+        "wing3": {
+          "translate": [
+            {},
+            {
+              "time": 0.3333,
+              "x": -4.82,
+              "y": 6.42
+            },
+            {
+              "time": 0.4333,
+              "x": -19.52,
+              "y": 6.42
+            },
+            {
+              "time": 0.5
+            }
+          ]
+        },
+        "wing4": {
+          "translate": [
+            {},
+            {
+              "time": 0.3333,
+              "x": -10.44,
+              "y": 9.64
+            },
+            {
+              "time": 0.4333,
+              "x": -25.14,
+              "y": 9.64
+            },
+            {
+              "time": 0.5333
+            }
+          ]
+        },
+        "Shockwave_lv5/back_wing": {
+          "rotate": [
+            {},
+            {
+              "time": 0.3333,
+              "angle": 7.38
+            },
+            {
+              "time": 0.4333,
+              "angle": -15.98
+            },
+            {
+              "time": 0.6667
+            }
+          ]
+        },
+        "Shockwave_lv5/back_wing2": {
+          "rotate": [
+            {},
+            {
+              "time": 0.3333,
+              "angle": -6.74
+            },
+            {
+              "time": 0.4333,
+              "angle": 16.82
+            },
+            {
+              "time": 0.6667
+            }
+          ]
+        },
+        "energy_l4": {
+          "scale": [
+            {},
+            {
+              "time": 0.3333,
+              "x": 0.43,
+              "y": 0.43
+            },
+            {
+              "time": 0.4333,
+              "x": 1.244,
+              "y": 0.622
+            },
+            {
+              "time": 0.6667
+            }
+          ]
+        },
+        "energy_l3": {
+          "scale": [
+            {},
+            {
+              "time": 0.3333,
+              "x": 0.43,
+              "y": 0.43
+            },
+            {
+              "time": 0.4333,
+              "x": 1.244,
+              "y": 0.622
+            },
+            {
+              "time": 0.6667
+            }
+          ]
+        },
+        "energy_l2": {
+          "scale": [
+            {},
+            {
+              "time": 0.3333,
+              "x": 0.327,
+              "y": 0.327
+            },
+            {
+              "time": 0.4333,
+              "x": 1.129,
+              "y": 0.588
+            },
+            {
+              "time": 0.6667
+            }
+          ]
+        },
+        "energy_l": {
+          "scale": [
+            {},
+            {
+              "time": 0.3333,
+              "x": 0.327,
+              "y": 0.327
+            },
+            {
+              "time": 0.4333,
+              "x": 1.129,
+              "y": 0.588
+            },
+            {
+              "time": 0.6667
+            }
+          ]
+        },
+        "Shockwave_lv5/body3": {
+          "translate": [
+            {},
+            {
+              "time": 0.3333,
+              "x": -10.26
+            },
+            {
+              "time": 0.4333,
+              "x": 17.16
+            },
+            {
+              "time": 0.6667
+            }
+          ]
+        }
+      },
+      "events": [
+        {
+          "time": 0.4,
+          "name": "shot"
+        }
+      ]
+    },
+    "idle": {
+      "slots": {
+        "Shockwave_lv5/gun_l1": {
+          "attachment": [
+            {
+              "time": 0.3333,
+              "name": "Shockwave_lv5/gun_l1"
+            },
+            {
+              "time": 0.4,
+              "name": "Shockwave_lv5/gun_l2"
+            },
+            {
+              "time": 0.4667,
+              "name": "Shockwave_lv5/gun_l3"
+            },
+            {
+              "time": 0.5333,
+              "name": null
+            }
+          ]
+        }
+      },
+      "bones": {
+        "energy_l4": {
+          "scale": [
+            {
+              "x": 0.409,
+              "y": 0.467
+            },
+            {
+              "time": 0.0667,
+              "x": 0.521,
+              "y": 0.551
+            },
+            {
+              "time": 0.1667,
+              "x": 0.409,
+              "y": 0.467
+            },
+            {
+              "time": 0.2333,
+              "x": 0.521,
+              "y": 0.551
+            },
+            {
+              "time": 0.3333,
+              "x": 0.409,
+              "y": 0.467
+            },
+            {
+              "time": 0.4,
+              "x": 0.521,
+              "y": 0.551
+            },
+            {
+              "time": 0.5,
+              "x": 0.409,
+              "y": 0.467
+            },
+            {
+              "time": 0.5667,
+              "x": 0.521,
+              "y": 0.551
+            },
+            {
+              "time": 0.6667,
+              "x": 0.409,
+              "y": 0.467
+            },
+            {
+              "time": 0.7333,
+              "x": 0.521,
+              "y": 0.551
+            },
+            {
+              "time": 0.8333,
+              "x": 0.409,
+              "y": 0.467
+            },
+            {
+              "time": 0.9,
+              "x": 0.521,
+              "y": 0.551
+            },
+            {
+              "time": 1,
+              "x": 0.409,
+              "y": 0.467
+            }
+          ]
+        },
+        "energy_l2": {
+          "scale": [
+            {
+              "x": 0.409,
+              "y": 0.467
+            },
+            {
+              "time": 0.0667,
+              "x": 0.521,
+              "y": 0.551
+            },
+            {
+              "time": 0.1667,
+              "x": 0.409,
+              "y": 0.467
+            },
+            {
+              "time": 0.2333,
+              "x": 0.521,
+              "y": 0.551
+            },
+            {
+              "time": 0.3333,
+              "x": 0.409,
+              "y": 0.467
+            },
+            {
+              "time": 0.4,
+              "x": 0.521,
+              "y": 0.551
+            },
+            {
+              "time": 0.5,
+              "x": 0.409,
+              "y": 0.467
+            },
+            {
+              "time": 0.5667,
+              "x": 0.521,
+              "y": 0.551
+            },
+            {
+              "time": 0.6667,
+              "x": 0.409,
+              "y": 0.467
+            },
+            {
+              "time": 0.7333,
+              "x": 0.521,
+              "y": 0.551
+            },
+            {
+              "time": 0.8333,
+              "x": 0.409,
+              "y": 0.467
+            },
+            {
+              "time": 0.9,
+              "x": 0.521,
+              "y": 0.551
+            },
+            {
+              "time": 1,
+              "x": 0.409,
+              "y": 0.467
+            }
+          ]
+        },
+        "energy_l3": {
+          "scale": [
+            {
+              "x": 0.409,
+              "y": 0.467
+            },
+            {
+              "time": 0.0667,
+              "x": 0.521,
+              "y": 0.551
+            },
+            {
+              "time": 0.1667,
+              "x": 0.409,
+              "y": 0.467
+            },
+            {
+              "time": 0.2333,
+              "x": 0.521,
+              "y": 0.551
+            },
+            {
+              "time": 0.3333,
+              "x": 0.409,
+              "y": 0.467
+            },
+            {
+              "time": 0.4,
+              "x": 0.521,
+              "y": 0.551
+            },
+            {
+              "time": 0.5,
+              "x": 0.409,
+              "y": 0.467
+            },
+            {
+              "time": 0.5667,
+              "x": 0.521,
+              "y": 0.551
+            },
+            {
+              "time": 0.6667,
+              "x": 0.409,
+              "y": 0.467
+            },
+            {
+              "time": 0.7333,
+              "x": 0.521,
+              "y": 0.551
+            },
+            {
+              "time": 0.8333,
+              "x": 0.409,
+              "y": 0.467
+            },
+            {
+              "time": 0.9,
+              "x": 0.521,
+              "y": 0.551
+            },
+            {
+              "time": 1,
+              "x": 0.409,
+              "y": 0.467
+            }
+          ]
+        },
+        "Shockwave_lv5/back_wing2": {
+          "rotate": [
+            {
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 0.1667,
+              "angle": -6.23,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.3333,
+              "angle": -6.23,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 0.5,
+              "angle": -14.43,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.6667,
+              "angle": -14.43,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 0.8333
+            }
+          ],
+          "translate": [
+            {
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 0.1667,
+              "x": 3.7,
+              "y": 5.4,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.3333,
+              "x": 3.7,
+              "y": 5.4,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 0.5,
+              "x": 5.95,
+              "y": 2.32,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.6667,
+              "x": 5.95,
+              "y": 2.32,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 0.8333
+            }
+          ]
+        },
+        "energy_l": {
+          "scale": [
+            {
+              "x": 0.409,
+              "y": 0.467
+            },
+            {
+              "time": 0.0667,
+              "x": 0.521,
+              "y": 0.551
+            },
+            {
+              "time": 0.1667,
+              "x": 0.409,
+              "y": 0.467
+            },
+            {
+              "time": 0.2333,
+              "x": 0.521,
+              "y": 0.551
+            },
+            {
+              "time": 0.3333,
+              "x": 0.409,
+              "y": 0.467
+            },
+            {
+              "time": 0.4,
+              "x": 0.521,
+              "y": 0.551
+            },
+            {
+              "time": 0.5,
+              "x": 0.409,
+              "y": 0.467
+            },
+            {
+              "time": 0.5667,
+              "x": 0.521,
+              "y": 0.551
+            },
+            {
+              "time": 0.6667,
+              "x": 0.409,
+              "y": 0.467
+            },
+            {
+              "time": 0.7333,
+              "x": 0.521,
+              "y": 0.551
+            },
+            {
+              "time": 0.8333,
+              "x": 0.409,
+              "y": 0.467
+            },
+            {
+              "time": 0.9,
+              "x": 0.521,
+              "y": 0.551
+            },
+            {
+              "time": 1,
+              "x": 0.409,
+              "y": 0.467
+            }
+          ]
+        },
+        "Shockwave_lv5/back_wing": {
+          "rotate": [
+            {
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 0.1667,
+              "angle": 7.02,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.3333,
+              "angle": 7.02,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 0.5,
+              "angle": 15.28,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.6667,
+              "angle": 15.28,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 0.8333
+            }
+          ],
+          "translate": [
+            {
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 0.1667,
+              "x": 3.7,
+              "y": -2.32,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.3333,
+              "x": 3.7,
+              "y": -2.32,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 0.5,
+              "x": 5.95,
+              "y": 0.77,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.6667,
+              "x": 5.95,
+              "y": 0.77,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 0.8333
+            }
+          ]
+        },
+        "light1": {
+          "scale": [
+            {},
+            {
+              "time": 0.0667,
+              "x": 0.845
+            },
+            {
+              "time": 0.1667
+            },
+            {
+              "time": 0.2333,
+              "x": 0.845
+            },
+            {
+              "time": 0.3333
+            },
+            {
+              "time": 0.4,
+              "x": 0.845
+            },
+            {
+              "time": 0.5
+            },
+            {
+              "time": 0.5667,
+              "x": 0.845
+            },
+            {
+              "time": 0.6667
+            },
+            {
+              "time": 0.7333,
+              "x": 0.845
+            },
+            {
+              "time": 0.8333
+            },
+            {
+              "time": 0.9,
+              "x": 0.845
+            },
+            {
+              "time": 1
+            }
+          ]
+        },
+        "gun": {
+          "translate": [
+            {},
+            {
+              "time": 0.5,
+              "x": 13.99
+            },
+            {
+              "time": 1
+            }
+          ],
+          "scale": [
+            {},
+            {
+              "time": 0.5,
+              "x": 0.961
+            },
+            {
+              "time": 1
+            }
+          ]
+        },
+        "wing1": {
+          "translate": [
+            {
+              "time": 0.0667
+            },
+            {
+              "time": 0.2333,
+              "x": 7.95,
+              "y": -6.2,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.4,
+              "x": 7.95,
+              "y": -6.2
+            },
+            {
+              "time": 0.5667,
+              "x": 11.51,
+              "y": 1.86,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.7333,
+              "x": 11.51,
+              "y": 1.86
+            },
+            {
+              "time": 0.9
+            }
+          ]
+        },
+        "wing2": {
+          "translate": [
+            {},
+            {
+              "time": 0.1667,
+              "x": -6.63,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.3333,
+              "x": -6.63
+            },
+            {
+              "time": 0.5,
+              "x": -6.63,
+              "y": -6.82,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.6667,
+              "x": -6.63,
+              "y": -6.82
+            },
+            {
+              "time": 0.8333
+            }
+          ]
+        },
+        "wing3": {
+          "translate": [
+            {
+              "time": 0.0667
+            },
+            {
+              "time": 0.2333,
+              "x": 7.95,
+              "y": 4.96,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.4,
+              "x": 7.95,
+              "y": 4.96
+            },
+            {
+              "time": 0.5667,
+              "x": 12.1,
+              "y": -2.48,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.7333,
+              "x": 12.1,
+              "y": -2.48
+            },
+            {
+              "time": 0.9
+            }
+          ]
+        },
+        "wing4": {
+          "translate": [
+            {},
+            {
+              "time": 0.1667,
+              "x": -6.63,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.3333,
+              "x": -6.63
+            },
+            {
+              "time": 0.5,
+              "x": -6.63,
+              "y": 6.2,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.6667,
+              "x": -6.63,
+              "y": 6.2
+            },
+            {
+              "time": 0.8333
+            }
+          ]
+        },
+        "Shockwave_lv5/back": {
+          "translate": [
+            {},
+            {
+              "time": 0.5,
+              "x": -10.54
+            },
+            {
+              "time": 1
+            }
+          ]
+        },
+        "Shockwave_lv5/body1": {
+          "translate": [
+            {},
+            {
+              "time": 0.5,
+              "y": 1.24
+            },
+            {
+              "time": 1
+            }
+          ],
+          "scale": [
+            {},
+            {
+              "time": 0.5,
+              "x": 1.043
+            },
+            {
+              "time": 1
+            }
+          ]
+        },
+        "energy4": {
+          "rotate": [
+            {
+              "angle": 10.89,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 0.5,
+              "angle": 0.59,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 1,
+              "angle": 10.89
+            }
+          ]
+        },
+        "energy2": {
+          "rotate": [
+            {
+              "angle": 10.65
+            },
+            {
+              "time": 0.5,
+              "angle": -0.95
+            },
+            {
+              "time": 0.9667,
+              "angle": 10.65
+            }
+          ]
+        },
+        "energy": {
+          "rotate": [
+            {
+              "angle": 3.71,
+              "curve": 0.382,
+              "c2": 0.57,
+              "c3": 0.735
+            },
+            {
+              "time": 0.1667,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 0.6667,
+              "angle": 13.07,
+              "curve": 0.243,
+              "c3": 0.649,
+              "c4": 0.6
+            },
+            {
+              "time": 1,
+              "angle": 3.71
+            }
+          ]
+        },
+        "energy3": {
+          "rotate": [
+            {
+              "angle": 3.71,
+              "curve": 0.382,
+              "c2": 0.57,
+              "c3": 0.735
+            },
+            {
+              "time": 0.1667,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 0.6667,
+              "angle": 13.07,
+              "curve": 0.243,
+              "c3": 0.649,
+              "c4": 0.6
+            },
+            {
+              "time": 1,
+              "angle": 3.71
+            }
+          ]
+        }
+      }
+    },
+    "realease": {
+      "slots": {
+        "Shockwave_lv5/gun_l1": {
+          "attachment": [
+            {
+              "time": 0.8,
+              "name": "Shockwave_lv5/gun_l1"
+            },
+            {
+              "time": 0.8667,
+              "name": "Shockwave_lv5/gun_l2"
+            },
+            {
+              "time": 0.9333,
+              "name": "Shockwave_lv5/gun_l3"
+            },
+            {
+              "time": 1,
+              "name": null
+            },
+            {
+              "time": 1.5,
+              "name": "Shockwave_lv5/gun_l1"
+            },
+            {
+              "time": 1.5667,
+              "name": "Shockwave_lv5/gun_l2"
+            },
+            {
+              "time": 1.6333,
+              "name": "Shockwave_lv5/gun_l3"
+            },
+            {
+              "time": 1.7,
+              "name": null
+            }
+          ]
+        }
+      },
+      "bones": {
+        "Shockwave_lv5/back_wing": {
+          "rotate": [
+            {
+              "time": 0.7
+            },
+            {
+              "time": 0.8333,
+              "angle": 70.22
+            },
+            {
+              "time": 1,
+              "angle": -1.96
+            },
+            {
+              "time": 1.1667
+            }
+          ],
+          "translate": [
+            {
+              "x": 6.26,
+              "y": 13.92,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.7,
+              "x": 6.26,
+              "y": 13.92
+            },
+            {
+              "time": 0.8333,
+              "x": -5.19,
+              "y": -4.33
+            },
+            {
+              "time": 1,
+              "x": -2.48,
+              "y": -9.51
+            },
+            {
+              "time": 1.1667
+            }
+          ],
+          "scale": [
+            {
+              "x": 0.638,
+              "y": 0.638,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.7,
+              "x": 0.638,
+              "y": 0.638
+            },
+            {
+              "time": 0.8333
+            }
+          ]
+        },
+        "Shockwave_lv5/back_wing2": {
+          "rotate": [
+            {
+              "time": 0.7
+            },
+            {
+              "time": 0.8333,
+              "angle": -72.19
+            },
+            {
+              "time": 1,
+              "angle": 1.42
+            },
+            {
+              "time": 1.1667
+            }
+          ],
+          "translate": [
+            {
+              "x": 7.66,
+              "y": -15.31,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.7,
+              "x": 7.66,
+              "y": -15.31
+            },
+            {
+              "time": 0.8333,
+              "x": -4.33,
+              "y": 6.49
+            },
+            {
+              "time": 1,
+              "x": -1.59,
+              "y": 9.94
+            },
+            {
+              "time": 1.1667
+            }
+          ],
+          "scale": [
+            {
+              "x": 0.68,
+              "y": 0.68,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.7,
+              "x": 0.68,
+              "y": 0.68
+            },
+            {
+              "time": 0.8333
+            }
+          ]
+        },
+        "light1": {
+          "translate": [
+            {
+              "x": -41.76,
+              "curve": "stepped"
+            },
+            {
+              "time": 1.2333,
+              "x": -41.76
+            },
+            {
+              "time": 1.3333,
+              "x": -27.1
+            },
+            {
+              "time": 1.4333,
+              "x": -32.53
+            },
+            {
+              "time": 1.5333,
+              "x": -17.32
+            },
+            {
+              "time": 1.6,
+              "x": -22.21
+            },
+            {
+              "time": 1.7
+            }
+          ]
+        },
+        "gun": {
+          "translate": [
+            {
+              "x": -52.2,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.7,
+              "x": -52.2
+            },
+            {
+              "time": 0.8667,
+              "x": 38.15
+            },
+            {
+              "time": 1.0333
+            }
+          ],
+          "scale": [
+            {
+              "time": 0.7
+            },
+            {
+              "time": 0.8667,
+              "x": 1.431
+            },
+            {
+              "time": 1.0333
+            }
+          ]
+        },
+        "wing1": {
+          "translate": [
+            {
+              "x": -70.99,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.7,
+              "x": -70.99
+            },
+            {
+              "time": 0.8333,
+              "x": 30.08
+            },
+            {
+              "time": 1,
+              "x": -8.22
+            },
+            {
+              "time": 1.1667
+            }
+          ]
+        },
+        "wing2": {
+          "translate": [
+            {
+              "x": -70.99,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.7333,
+              "x": -70.99
+            },
+            {
+              "time": 0.9,
+              "x": 59.39
+            },
+            {
+              "time": 1.0333,
+              "x": -12.32
+            },
+            {
+              "time": 1.2333
+            }
+          ]
+        },
+        "wing3": {
+          "translate": [
+            {
+              "x": -70.99,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.7,
+              "x": -70.99
+            },
+            {
+              "time": 0.8333,
+              "x": 30.08
+            },
+            {
+              "time": 1,
+              "x": -8.22
+            },
+            {
+              "time": 1.1667
+            }
+          ]
+        },
+        "wing4": {
+          "translate": [
+            {
+              "x": -70.99,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.7333,
+              "x": -70.99
+            },
+            {
+              "time": 0.9,
+              "x": 59.39
+            },
+            {
+              "time": 1.0333,
+              "x": -12.32
+            },
+            {
+              "time": 1.2333
+            }
+          ]
+        },
+        "Shockwave_lv5/body5": {
+          "rotate": [
+            {
+              "angle": -40.75,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.7,
+              "angle": -40.75
+            },
+            {
+              "time": 0.8667,
+              "angle": 28.29
+            },
+            {
+              "time": 1.0333,
+              "angle": -8.41
+            },
+            {
+              "time": 1.1667
+            }
+          ]
+        },
+        "Shockwave_lv5/body7": {
+          "rotate": [
+            {
+              "angle": -25.11,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.7,
+              "angle": -25.11
+            },
+            {
+              "time": 0.8667,
+              "angle": 29.53
+            },
+            {
+              "time": 1.0333,
+              "angle": -11.28
+            },
+            {
+              "time": 1.1667
+            }
+          ]
+        },
+        "Shockwave_lv5/body11": {
+          "rotate": [
+            {
+              "angle": 23.46,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.7,
+              "angle": 23.46
+            },
+            {
+              "time": 0.8667,
+              "angle": -26.71
+            },
+            {
+              "time": 1.0333,
+              "angle": 9.27
+            },
+            {
+              "time": 1.1667
+            }
+          ]
+        },
+        "Shockwave_lv5/body9": {
+          "rotate": [
+            {
+              "angle": 45.06,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.7,
+              "angle": 45.06
+            },
+            {
+              "time": 0.8667,
+              "angle": -28.88
+            },
+            {
+              "time": 1.0333,
+              "angle": 7.52
+            },
+            {
+              "time": 1.1667
+            }
+          ]
+        },
+        "location": {
+          "scale": [
+            {
+              "x": 0.7,
+              "y": 0.7
+            },
+            {
+              "time": 0.1,
+              "x": 0.8,
+              "y": 0.8
+            },
+            {
+              "time": 0.2333,
+              "x": 0.7,
+              "y": 0.7
+            },
+            {
+              "time": 0.3333,
+              "x": 0.8,
+              "y": 0.8
+            },
+            {
+              "time": 0.4667,
+              "x": 0.7,
+              "y": 0.7
+            },
+            {
+              "time": 0.5667,
+              "x": 0.8,
+              "y": 0.8
+            },
+            {
+              "time": 0.7,
+              "x": 0.7,
+              "y": 0.7
+            },
+            {
+              "time": 0.8,
+              "x": 1.2,
+              "y": 1.2
+            },
+            {
+              "time": 1
+            }
+          ]
+        },
+        "Shockwave_lv5/back": {
+          "translate": [
+            {},
+            {
+              "time": 0.1,
+              "x": -14.79
+            },
+            {
+              "time": 0.2333
+            },
+            {
+              "time": 0.3333,
+              "x": -14.79
+            },
+            {
+              "time": 0.4667
+            },
+            {
+              "time": 0.5667,
+              "x": -14.79
+            },
+            {
+              "time": 0.7
+            },
+            {
+              "time": 0.8,
+              "x": 35.2
+            },
+            {
+              "time": 1
+            }
+          ]
+        },
+        "gun2": {
+          "translate": [
+            {
+              "time": 0.7,
+              "x": -13.11
+            },
+            {
+              "time": 0.8333,
+              "x": 13.58
+            },
+            {
+              "time": 1.0333,
+              "x": -14.58
+            },
+            {
+              "time": 1.1667
+            }
+          ]
+        },
+        "energy_l": {
+          "scale": [
+            {
+              "time": 0.8667,
+              "x": 0.409,
+              "y": 0.467
+            },
+            {
+              "time": 0.9667,
+              "x": 0.672,
+              "y": 0.766
+            },
+            {
+              "time": 1.1,
+              "x": 0.409,
+              "y": 0.467
+            },
+            {
+              "time": 1.1667,
+              "x": 0.672,
+              "y": 0.766
+            },
+            {
+              "time": 1.3667,
+              "x": 0.409,
+              "y": 0.467
+            },
+            {
+              "time": 1.4667,
+              "x": 0.672,
+              "y": 0.766
+            },
+            {
+              "time": 1.6,
+              "x": 0.409,
+              "y": 0.467
+            },
+            {
+              "time": 1.6667,
+              "x": 0.672,
+              "y": 0.766
+            },
+            {
+              "time": 1.8333,
+              "x": 0.409,
+              "y": 0.467
+            }
+          ]
+        },
+        "energy_l2": {
+          "scale": [
+            {
+              "time": 0.8667,
+              "x": 0.409,
+              "y": 0.467
+            },
+            {
+              "time": 0.9667,
+              "x": 0.672,
+              "y": 0.766
+            },
+            {
+              "time": 1.1,
+              "x": 0.409,
+              "y": 0.467
+            },
+            {
+              "time": 1.1667,
+              "x": 0.672,
+              "y": 0.766
+            },
+            {
+              "time": 1.3667,
+              "x": 0.409,
+              "y": 0.467
+            },
+            {
+              "time": 1.4667,
+              "x": 0.672,
+              "y": 0.766
+            },
+            {
+              "time": 1.6,
+              "x": 0.409,
+              "y": 0.467
+            },
+            {
+              "time": 1.6667,
+              "x": 0.672,
+              "y": 0.766
+            },
+            {
+              "time": 1.8333,
+              "x": 0.409,
+              "y": 0.467
+            }
+          ]
+        },
+        "energy_l3": {
+          "scale": [
+            {
+              "time": 0.8667,
+              "x": 0.507,
+              "y": 0.579
+            },
+            {
+              "time": 0.9667,
+              "x": 0.681,
+              "y": 0.777
+            },
+            {
+              "time": 1.1,
+              "x": 0.507,
+              "y": 0.579
+            },
+            {
+              "time": 1.1667,
+              "x": 0.681,
+              "y": 0.777
+            },
+            {
+              "time": 1.3667,
+              "x": 0.507,
+              "y": 0.579
+            },
+            {
+              "time": 1.4667,
+              "x": 0.681,
+              "y": 0.777
+            },
+            {
+              "time": 1.6,
+              "x": 0.507,
+              "y": 0.579
+            },
+            {
+              "time": 1.6667,
+              "x": 0.681,
+              "y": 0.777
+            },
+            {
+              "time": 1.8333,
+              "x": 0.507,
+              "y": 0.579
+            }
+          ]
+        },
+        "energy_l4": {
+          "scale": [
+            {
+              "time": 0.8667,
+              "x": 0.507,
+              "y": 0.579
+            },
+            {
+              "time": 0.9667,
+              "x": 0.681,
+              "y": 0.777
+            },
+            {
+              "time": 1.1,
+              "x": 0.507,
+              "y": 0.579
+            },
+            {
+              "time": 1.1667,
+              "x": 0.681,
+              "y": 0.777
+            },
+            {
+              "time": 1.3667,
+              "x": 0.507,
+              "y": 0.579
+            },
+            {
+              "time": 1.4667,
+              "x": 0.681,
+              "y": 0.777
+            },
+            {
+              "time": 1.6,
+              "x": 0.507,
+              "y": 0.579
+            },
+            {
+              "time": 1.6667,
+              "x": 0.681,
+              "y": 0.777
+            },
+            {
+              "time": 1.8333,
+              "x": 0.507,
+              "y": 0.579
+            }
+          ]
+        }
+      }
+    }
+  }
+}

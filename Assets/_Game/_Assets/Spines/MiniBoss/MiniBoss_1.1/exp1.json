@@ -1,0 +1,167 @@
+{
+  "skeleton": {
+    "images": "F:/Project/Dung_abi/MiniBoss/MiniBoss_1.1/MiniBoss_1.1_images/"
+  },
+  "PhotoshopToSpine": {
+    "scale": 1,
+    "padding": 1,
+    "trim": true
+  },
+  "bones": [
+    {
+      "name": "root"
+    }
+  ],
+  "slots": [
+    {
+      "name": "exp1",
+      "bone": "root",
+      "attachment": "exp1"
+    },
+    {
+      "name": "exp2",
+      "bone": "root",
+      "attachment": "exp2"
+    },
+    {
+      "name": "exp3",
+      "bone": "root",
+      "attachment": "exp3"
+    },
+    {
+      "name": "exp4",
+      "bone": "root",
+      "attachment": "exp4"
+    },
+    {
+      "name": "exp5",
+      "bone": "root",
+      "attachment": "exp5"
+    },
+    {
+      "name": "exp6",
+      "bone": "root",
+      "attachment": "exp6"
+    },
+    {
+      "name": "exp7",
+      "bone": "root",
+      "attachment": "exp7"
+    },
+    {
+      "name": "exp8",
+      "bone": "root",
+      "attachment": "exp8"
+    },
+    {
+      "name": "exp9",
+      "bone": "root",
+      "attachment": "exp9"
+    },
+    {
+      "name": "exp10",
+      "bone": "root",
+      "attachment": "exp10"
+    },
+    {
+      "name": "exp11",
+      "bone": "root",
+      "attachment": "exp11"
+    }
+  ],
+  "skins": {
+    "default": {
+      "exp1": {
+        "exp1": {
+          "x": 103,
+          "y": -98.5,
+          "width": 80,
+          "height": 83
+        }
+      },
+      "exp2": {
+        "exp2": {
+          "x": 97,
+          "y": -100.5,
+          "width": 96,
+          "height": 85
+        }
+      },
+      "exp3": {
+        "exp3": {
+          "x": 99,
+          "y": -97.5,
+          "width": 116,
+          "height": 119
+        }
+      },
+      "exp4": {
+        "exp4": {
+          "x": 97.5,
+          "y": -96.5,
+          "width": 127,
+          "height": 131
+        }
+      },
+      "exp5": {
+        "exp5": {
+          "x": 106,
+          "y": -97,
+          "width": 158,
+          "height": 146
+        }
+      },
+      "exp6": {
+        "exp6": {
+          "x": 103,
+          "y": -97.5,
+          "width": 166,
+          "height": 163
+        }
+      },
+      "exp7": {
+        "exp7": {
+          "x": 100.5,
+          "y": -98,
+          "width": 169,
+          "height": 174
+        }
+      },
+      "exp8": {
+        "exp8": {
+          "x": 106,
+          "y": -101,
+          "width": 160,
+          "height": 176
+        }
+      },
+      "exp9": {
+        "exp9": {
+          "x": 105,
+          "y": -101.5,
+          "width": 162,
+          "height": 177
+        }
+      },
+      "exp10": {
+        "exp10": {
+          "x": 108,
+          "y": -107.5,
+          "width": 154,
+          "height": 169
+        }
+      },
+      "exp11": {
+        "exp11": {
+          "x": 108.5,
+          "y": -87.5,
+          "width": 153,
+          "height": 125
+        }
+      }
+    }
+  },
+  "animations": {
+    "animation": {}
+  }
+}

@@ -1,0 +1,111 @@
+
+beach bully.png
+size: 272,532
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chân phải
+  rotate: true
+  xy: 93, 82
+  size: 34, 48
+  orig: 34, 48
+  offset: 0, 0
+  index: -1
+chân trái
+  rotate: false
+  xy: 224, 12
+  size: 34, 48
+  orig: 34, 48
+  offset: 0, 0
+  index: -1
+giáp mũ
+  rotate: false
+  xy: 2, 3
+  size: 89, 93
+  orig: 89, 94
+  offset: 0, 0
+  index: -1
+giáp tay phải
+  rotate: false
+  xy: 185, 359
+  size: 82, 86
+  orig: 82, 86
+  offset: 0, 0
+  index: -1
+giáp tay trái
+  rotate: true
+  xy: 185, 447
+  size: 82, 85
+  orig: 82, 85
+  offset: 0, 0
+  index: -1
+giáp thân
+  rotate: true
+  xy: 2, 357
+  size: 172, 181
+  orig: 172, 181
+  offset: 0, 0
+  index: -1
+mắt phải
+  rotate: false
+  xy: 154, 195
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+mắt trái
+  rotate: true
+  xy: 224, 62
+  size: 34, 39
+  orig: 34, 39
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 118
+  size: 150, 110
+  orig: 150, 110
+  offset: 0, 0
+  index: -1
+tai phải
+  rotate: false
+  xy: 185, 197
+  size: 17, 29
+  orig: 17, 29
+  offset: 0, 0
+  index: -1
+tai trái
+  rotate: false
+  xy: 204, 197
+  size: 17, 29
+  orig: 17, 29
+  offset: 0, 0
+  index: -1
+tay phải
+  rotate: false
+  xy: 185, 228
+  size: 78, 129
+  orig: 78, 129
+  offset: 0, 0
+  index: -1
+tay trái
+  rotate: true
+  xy: 93, 2
+  size: 78, 129
+  orig: 78, 129
+  offset: 0, 0
+  index: -1
+ván
+  rotate: false
+  xy: 2, 230
+  size: 174, 125
+  orig: 174, 127
+  offset: 0, 1
+  index: -1
+đầu
+  rotate: true
+  xy: 154, 98
+  size: 95, 111
+  orig: 95, 111
+  offset: 0, 0
+  index: -1

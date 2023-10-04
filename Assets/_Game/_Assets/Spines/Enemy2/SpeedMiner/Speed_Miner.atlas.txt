@@ -1,0 +1,139 @@
+
+Speed_Miner.png
+size: 796,212
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 218, 66
+  size: 143, 133
+  orig: 145, 135
+  offset: 1, 1
+  index: -1
+eyes
+  rotate: false
+  xy: 2, 19
+  size: 122, 21
+  orig: 124, 23
+  offset: 1, 1
+  index: -1
+hat
+  rotate: false
+  xy: 2, 42
+  size: 214, 167
+  orig: 214, 167
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 622, 2
+  size: 172, 207
+  orig: 172, 207
+  offset: 0, 0
+  index: -1
+l_arm
+  rotate: false
+  xy: 451, 114
+  size: 83, 95
+  orig: 83, 95
+  offset: 0, 0
+  index: -1
+l_claw 1
+  rotate: true
+  xy: 556, 76
+  size: 36, 53
+  orig: 36, 53
+  offset: 0, 0
+  index: -1
+l_claw 2
+  rotate: true
+  xy: 126, 6
+  size: 34, 65
+  orig: 34, 65
+  offset: 0, 0
+  index: -1
+l_claw 3
+  rotate: true
+  xy: 353, 66
+  size: 35, 49
+  orig: 35, 49
+  offset: 0, 0
+  index: -1
+l_shirt
+  rotate: true
+  xy: 260, 2
+  size: 62, 109
+  orig: 62, 109
+  offset: 0, 0
+  index: -1
+leg
+  rotate: true
+  xy: 505, 72
+  size: 40, 49
+  orig: 42, 51
+  offset: 1, 1
+  index: -1
+leg copy
+  rotate: false
+  xy: 542, 21
+  size: 40, 49
+  orig: 42, 51
+  offset: 1, 1
+  index: -1
+light
+  rotate: false
+  xy: 353, 103
+  size: 96, 106
+  orig: 96, 106
+  offset: 0, 0
+  index: -1
+light_1
+  rotate: true
+  xy: 482, 7
+  size: 62, 58
+  orig: 62, 58
+  offset: 0, 0
+  index: -1
+r_arm
+  rotate: false
+  xy: 536, 114
+  size: 83, 95
+  orig: 83, 95
+  offset: 0, 0
+  index: -1
+r_claw 1
+  rotate: false
+  xy: 584, 21
+  size: 36, 53
+  orig: 36, 53
+  offset: 0, 0
+  index: -1
+r_claw 2
+  rotate: true
+  xy: 193, 6
+  size: 34, 65
+  orig: 34, 65
+  offset: 0, 0
+  index: -1
+r_claw 3
+  rotate: true
+  xy: 404, 66
+  size: 35, 49
+  orig: 35, 49
+  offset: 0, 0
+  index: -1
+r_shirt
+  rotate: true
+  xy: 371, 2
+  size: 62, 109
+  orig: 62, 109
+  offset: 0, 0
+  index: -1
+shadown
+  rotate: false
+  xy: 455, 71
+  size: 48, 41
+  orig: 50, 43
+  offset: 1, 1
+  index: -1

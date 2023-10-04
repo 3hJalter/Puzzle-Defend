@@ -1,0 +1,181 @@
+
+Tank Robo-guard.png
+size: 544,208
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 0, 38
+  size: 170, 169
+  orig: 170, 169
+  offset: 0, 0
+  index: -1
+claw1
+  rotate: false
+  xy: 125, 6
+  size: 23, 32
+  orig: 23, 32
+  offset: 0, 0
+  index: -1
+claw2
+  rotate: false
+  xy: 148, 6
+  size: 23, 32
+  orig: 23, 32
+  offset: 0, 0
+  index: -1
+claw3
+  rotate: false
+  xy: 0, 1
+  size: 23, 37
+  orig: 23, 37
+  offset: 0, 0
+  index: -1
+ear copy 3
+  rotate: false
+  xy: 23, 4
+  size: 29, 34
+  orig: 29, 34
+  offset: 0, 0
+  index: -1
+ear copy 4
+  rotate: false
+  xy: 52, 4
+  size: 29, 34
+  orig: 29, 34
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 240, 3
+  size: 89, 96
+  orig: 89, 96
+  offset: 0, 0
+  index: -1
+l_arm
+  rotate: false
+  xy: 336, 10
+  size: 68, 88
+  orig: 68, 88
+  offset: 0, 0
+  index: -1
+l_arm_broken
+  rotate: false
+  xy: 171, 0
+  size: 69, 92
+  orig: 69, 92
+  offset: 0, 0
+  index: -1
+l_armor
+  rotate: false
+  xy: 464, 94
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+l_electric line1
+  rotate: false
+  xy: 524, 44
+  size: 18, 50
+  orig: 18, 50
+  offset: 0, 0
+  index: -1
+l_electric line2
+  rotate: true
+  xy: 474, 4
+  size: 40, 39
+  orig: 40, 39
+  offset: 0, 0
+  index: -1
+l_eye
+  rotate: true
+  xy: 404, 78
+  size: 23, 13
+  orig: 23, 13
+  offset: 0, 0
+  index: -1
+l_leg
+  rotate: false
+  xy: 81, 5
+  size: 22, 33
+  orig: 22, 33
+  offset: 0, 0
+  index: -1
+r_arm
+  rotate: false
+  xy: 169, 92
+  size: 74, 116
+  orig: 74, 116
+  offset: 0, 0
+  index: -1
+r_arm_broken
+  rotate: false
+  xy: 243, 92
+  size: 74, 116
+  orig: 74, 116
+  offset: 0, 0
+  index: -1
+r_armor
+  rotate: false
+  xy: 404, 8
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+r_electric line1
+  rotate: true
+  xy: 393, 101
+  size: 24, 48
+  orig: 24, 48
+  offset: 0, 0
+  index: -1
+r_electric line2
+  rotate: true
+  xy: 441, 78
+  size: 47, 23
+  orig: 47, 23
+  offset: 0, 0
+  index: -1
+r_eye
+  rotate: true
+  xy: 417, 80
+  size: 21, 17
+  orig: 21, 17
+  offset: 0, 0
+  index: -1
+r_leg
+  rotate: false
+  xy: 103, 5
+  size: 22, 33
+  orig: 22, 33
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 393, 125
+  size: 83, 71
+  orig: 83, 71
+  offset: 0, 0
+  index: -1
+smoke1
+  rotate: false
+  xy: 317, 98
+  size: 76, 110
+  orig: 76, 110
+  offset: 0, 0
+  index: -1
+smoke2
+  rotate: false
+  xy: 474, 45
+  size: 50, 49
+  orig: 50, 49
+  offset: 0, 0
+  index: -1
+smoke3
+  rotate: true
+  xy: 464, 164
+  size: 44, 71
+  orig: 44, 71
+  offset: 0, 0
+  index: -1

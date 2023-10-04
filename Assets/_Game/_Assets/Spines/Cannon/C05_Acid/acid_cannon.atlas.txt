@@ -1,0 +1,503 @@
+
+acid_cannon.png
+size: 1000,144
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Acid_lv1/1
+  rotate: true
+  xy: 0, 2
+  size: 142, 96
+  orig: 142, 96
+  offset: 0, 0
+  index: -1
+Acid_lv1/1a
+  rotate: true
+  xy: 96, 2
+  size: 142, 96
+  orig: 142, 96
+  offset: 0, 0
+  index: -1
+Acid_lv1/2
+  rotate: false
+  xy: 404, 1
+  size: 48, 23
+  orig: 48, 23
+  offset: 0, 0
+  index: -1
+Acid_lv2/2
+  rotate: false
+  xy: 404, 1
+  size: 48, 23
+  orig: 48, 23
+  offset: 0, 0
+  index: -1
+Acid_lv3/2
+  rotate: false
+  xy: 404, 1
+  size: 48, 23
+  orig: 48, 23
+  offset: 0, 0
+  index: -1
+Acid_lv4/2
+  rotate: false
+  xy: 404, 1
+  size: 48, 23
+  orig: 48, 23
+  offset: 0, 0
+  index: -1
+Acid_lv5/2
+  rotate: false
+  xy: 404, 1
+  size: 48, 23
+  orig: 48, 23
+  offset: 0, 0
+  index: -1
+Acid_lv1/ball
+  rotate: false
+  xy: 384, 24
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+Acid_lv1/body1
+  rotate: true
+  xy: 873, 65
+  size: 79, 78
+  orig: 79, 78
+  offset: 0, 0
+  index: -1
+Acid_lv2/body1
+  rotate: true
+  xy: 873, 65
+  size: 79, 78
+  orig: 79, 78
+  offset: 0, 0
+  index: -1
+Acid_lv3/body1
+  rotate: true
+  xy: 873, 65
+  size: 79, 78
+  orig: 79, 78
+  offset: 0, 0
+  index: -1
+Acid_lv4/body1
+  rotate: true
+  xy: 873, 65
+  size: 79, 78
+  orig: 79, 78
+  offset: 0, 0
+  index: -1
+Acid_lv5/body1
+  rotate: true
+  xy: 873, 65
+  size: 79, 78
+  orig: 79, 78
+  offset: 0, 0
+  index: -1
+Acid_lv1/body1_stk
+  rotate: true
+  xy: 765, 61
+  size: 83, 82
+  orig: 83, 82
+  offset: 0, 0
+  index: -1
+Acid_lv2/body1_stk
+  rotate: true
+  xy: 765, 61
+  size: 83, 82
+  orig: 83, 82
+  offset: 0, 0
+  index: -1
+Acid_lv3/body1_stk
+  rotate: true
+  xy: 765, 61
+  size: 83, 82
+  orig: 83, 82
+  offset: 0, 0
+  index: -1
+Acid_lv4/body1_stk
+  rotate: true
+  xy: 765, 61
+  size: 83, 82
+  orig: 83, 82
+  offset: 0, 0
+  index: -1
+Acid_lv5/body1_stk
+  rotate: true
+  xy: 765, 61
+  size: 83, 82
+  orig: 83, 82
+  offset: 0, 0
+  index: -1
+Acid_lv1/body2
+  rotate: false
+  xy: 847, 63
+  size: 26, 81
+  orig: 26, 81
+  offset: 0, 0
+  index: -1
+Acid_lv2/body2
+  rotate: false
+  xy: 847, 63
+  size: 26, 81
+  orig: 26, 81
+  offset: 0, 0
+  index: -1
+Acid_lv3/body2
+  rotate: false
+  xy: 847, 63
+  size: 26, 81
+  orig: 26, 81
+  offset: 0, 0
+  index: -1
+Acid_lv4/body2
+  rotate: false
+  xy: 847, 63
+  size: 26, 81
+  orig: 26, 81
+  offset: 0, 0
+  index: -1
+Acid_lv5/body2
+  rotate: false
+  xy: 847, 63
+  size: 26, 81
+  orig: 26, 81
+  offset: 0, 0
+  index: -1
+Acid_lv1/body4
+  rotate: true
+  xy: 951, 89
+  size: 55, 47
+  orig: 55, 47
+  offset: 0, 0
+  index: -1
+Acid_lv2/body4
+  rotate: true
+  xy: 951, 89
+  size: 55, 47
+  orig: 55, 47
+  offset: 0, 0
+  index: -1
+Acid_lv3/body4
+  rotate: true
+  xy: 951, 89
+  size: 55, 47
+  orig: 55, 47
+  offset: 0, 0
+  index: -1
+Acid_lv4/body4
+  rotate: true
+  xy: 951, 89
+  size: 55, 47
+  orig: 55, 47
+  offset: 0, 0
+  index: -1
+Acid_lv5/body4
+  rotate: true
+  xy: 951, 89
+  size: 55, 47
+  orig: 55, 47
+  offset: 0, 0
+  index: -1
+Acid_lv1/body5
+  rotate: false
+  xy: 790, 0
+  size: 59, 61
+  orig: 59, 61
+  offset: 0, 0
+  index: -1
+Acid_lv2/body5
+  rotate: false
+  xy: 790, 0
+  size: 59, 61
+  orig: 59, 61
+  offset: 0, 0
+  index: -1
+Acid_lv3/body5
+  rotate: false
+  xy: 790, 0
+  size: 59, 61
+  orig: 59, 61
+  offset: 0, 0
+  index: -1
+Acid_lv4/body5
+  rotate: false
+  xy: 790, 0
+  size: 59, 61
+  orig: 59, 61
+  offset: 0, 0
+  index: -1
+Acid_lv5/body5
+  rotate: false
+  xy: 790, 0
+  size: 59, 61
+  orig: 59, 61
+  offset: 0, 0
+  index: -1
+Acid_lv1/gun
+  rotate: false
+  xy: 941, 39
+  size: 58, 26
+  orig: 58, 26
+  offset: 0, 0
+  index: -1
+Acid_lv2/gun
+  rotate: false
+  xy: 941, 39
+  size: 58, 26
+  orig: 58, 26
+  offset: 0, 0
+  index: -1
+Acid_lv3/gun
+  rotate: false
+  xy: 941, 39
+  size: 58, 26
+  orig: 58, 26
+  offset: 0, 0
+  index: -1
+Acid_lv4/gun
+  rotate: false
+  xy: 941, 39
+  size: 58, 26
+  orig: 58, 26
+  offset: 0, 0
+  index: -1
+Acid_lv5/gun
+  rotate: false
+  xy: 941, 39
+  size: 58, 26
+  orig: 58, 26
+  offset: 0, 0
+  index: -1
+Acid_lv1/gun stk
+  rotate: true
+  xy: 913, 0
+  size: 65, 28
+  orig: 65, 28
+  offset: 0, 0
+  index: -1
+Acid_lv2/gun stk
+  rotate: true
+  xy: 913, 0
+  size: 65, 28
+  orig: 65, 28
+  offset: 0, 0
+  index: -1
+Acid_lv3/gun stk
+  rotate: true
+  xy: 913, 0
+  size: 65, 28
+  orig: 65, 28
+  offset: 0, 0
+  index: -1
+Acid_lv4/gun stk
+  rotate: true
+  xy: 913, 0
+  size: 65, 28
+  orig: 65, 28
+  offset: 0, 0
+  index: -1
+Acid_lv5/gun stk
+  rotate: true
+  xy: 913, 0
+  size: 65, 28
+  orig: 65, 28
+  offset: 0, 0
+  index: -1
+Acid_lv2/1
+  rotate: true
+  xy: 192, 2
+  size: 142, 96
+  orig: 142, 96
+  offset: 0, 0
+  index: -1
+Acid_lv3/1
+  rotate: true
+  xy: 192, 2
+  size: 142, 96
+  orig: 142, 96
+  offset: 0, 0
+  index: -1
+Acid_lv4/1
+  rotate: true
+  xy: 192, 2
+  size: 142, 96
+  orig: 142, 96
+  offset: 0, 0
+  index: -1
+Acid_lv5/1
+  rotate: true
+  xy: 192, 2
+  size: 142, 96
+  orig: 142, 96
+  offset: 0, 0
+  index: -1
+Acid_lv2/1a
+  rotate: true
+  xy: 288, 2
+  size: 142, 96
+  orig: 142, 96
+  offset: 0, 0
+  index: -1
+Acid_lv3/1a
+  rotate: true
+  xy: 288, 2
+  size: 142, 96
+  orig: 142, 96
+  offset: 0, 0
+  index: -1
+Acid_lv4/1a
+  rotate: true
+  xy: 288, 2
+  size: 142, 96
+  orig: 142, 96
+  offset: 0, 0
+  index: -1
+Acid_lv5/1a
+  rotate: true
+  xy: 288, 2
+  size: 142, 96
+  orig: 142, 96
+  offset: 0, 0
+  index: -1
+Acid_lv2/body6
+  rotate: true
+  xy: 710, 4
+  size: 36, 35
+  orig: 36, 35
+  offset: 0, 0
+  index: -1
+Acid_lv3/body6
+  rotate: true
+  xy: 710, 4
+  size: 36, 35
+  orig: 36, 35
+  offset: 0, 0
+  index: -1
+Acid_lv4/body6
+  rotate: true
+  xy: 710, 4
+  size: 36, 35
+  orig: 36, 35
+  offset: 0, 0
+  index: -1
+Acid_lv5/body6
+  rotate: true
+  xy: 710, 4
+  size: 36, 35
+  orig: 36, 35
+  offset: 0, 0
+  index: -1
+Acid_lv3/0
+  rotate: false
+  xy: 0, 0
+  size: 2, 2
+  orig: 2, 2
+  offset: 0, 0
+  index: -1
+Acid_lv4/0
+  rotate: false
+  xy: 0, 0
+  size: 2, 2
+  orig: 2, 2
+  offset: 0, 0
+  index: -1
+Acid_lv5/0
+  rotate: false
+  xy: 0, 0
+  size: 2, 2
+  orig: 2, 2
+  offset: 0, 0
+  index: -1
+Acid_lv3/body7
+  rotate: true
+  xy: 504, 40
+  size: 104, 87
+  orig: 104, 87
+  offset: 0, 0
+  index: -1
+Acid_lv3/body8
+  rotate: true
+  xy: 745, 9
+  size: 31, 45
+  orig: 31, 45
+  offset: 0, 0
+  index: -1
+Acid_lv4/body8
+  rotate: true
+  xy: 745, 9
+  size: 31, 45
+  orig: 31, 45
+  offset: 0, 0
+  index: -1
+Acid_lv5/body8
+  rotate: true
+  xy: 745, 9
+  size: 31, 45
+  orig: 31, 45
+  offset: 0, 0
+  index: -1
+Acid_lv3/body9
+  rotate: true
+  xy: 575, 4
+  size: 36, 69
+  orig: 36, 69
+  offset: 0, 0
+  index: -1
+Acid_lv4/1b
+  rotate: false
+  xy: 504, 3
+  size: 71, 37
+  orig: 71, 37
+  offset: 0, 0
+  index: -1
+Acid_lv5/1b
+  rotate: false
+  xy: 504, 3
+  size: 71, 37
+  orig: 71, 37
+  offset: 0, 0
+  index: -1
+Acid_lv4/body10
+  rotate: true
+  xy: 644, 4
+  size: 36, 66
+  orig: 36, 66
+  offset: 0, 0
+  index: -1
+Acid_lv5/body10
+  rotate: true
+  xy: 644, 4
+  size: 36, 66
+  orig: 36, 66
+  offset: 0, 0
+  index: -1
+Acid_lv4/body7
+  rotate: true
+  xy: 591, 40
+  size: 104, 87
+  orig: 104, 87
+  offset: 0, 0
+  index: -1
+Acid_lv5/body11
+  rotate: false
+  xy: 849, 0
+  size: 64, 63
+  orig: 64, 63
+  offset: 0, 0
+  index: -1
+Acid_lv5/body7
+  rotate: true
+  xy: 678, 40
+  size: 104, 87
+  orig: 104, 87
+  offset: 0, 0
+  index: -1
+Acid_lv5/l1
+  rotate: false
+  xy: 384, 0
+  size: 20, 24
+  orig: 20, 24
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,181 @@
+
+knight.png
+size: 828,280
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+h_body
+  rotate: false
+  xy: 423, 5
+  size: 113, 123
+  orig: 115, 125
+  offset: 1, 1
+  index: -1
+h_hair
+  rotate: true
+  xy: 579, 3
+  size: 45, 80
+  orig: 45, 80
+  offset: 0, 0
+  index: -1
+h_head
+  rotate: true
+  xy: 275, 8
+  size: 92, 146
+  orig: 94, 148
+  offset: 1, 1
+  index: -1
+h_l_cl_eye
+  rotate: true
+  xy: 218, 83
+  size: 17, 26
+  orig: 19, 28
+  offset: 1, 1
+  index: -1
+h_l_ear
+  rotate: false
+  xy: 773, 42
+  size: 50, 49
+  orig: 52, 51
+  offset: 1, 1
+  index: -1
+h_l_op_eye
+  rotate: true
+  xy: 188, 81
+  size: 19, 28
+  orig: 19, 28
+  offset: 0, 0
+  index: -1
+h_r_cl_eye
+  rotate: false
+  xy: 222, 28
+  size: 17, 25
+  orig: 17, 25
+  offset: 0, 0
+  index: -1
+h_r_ear
+  rotate: true
+  xy: 773, 93
+  size: 45, 51
+  orig: 47, 53
+  offset: 1, 1
+  index: -1
+h_r_leg_1
+  rotate: false
+  xy: 611, 52
+  size: 55, 82
+  orig: 57, 84
+  offset: 1, 1
+  index: -1
+h_r_leg_2
+  rotate: false
+  xy: 222, 55
+  size: 22, 26
+  orig: 24, 28
+  offset: 1, 1
+  index: -1
+h_r_leg_3
+  rotate: true
+  xy: 538, 2
+  size: 27, 39
+  orig: 29, 41
+  offset: 1, 1
+  index: -1
+h_r_op_eye
+  rotate: false
+  xy: 314, 103
+  size: 17, 25
+  orig: 17, 25
+  offset: 0, 0
+  index: -1
+k_body
+  rotate: false
+  xy: 60, 18
+  size: 160, 61
+  orig: 162, 63
+  offset: 1, 1
+  index: -1
+k_cl_eyes
+  rotate: true
+  xy: 538, 31
+  size: 99, 34
+  orig: 101, 36
+  offset: 1, 1
+  index: -1
+k_eyes
+  rotate: true
+  xy: 246, 6
+  size: 94, 27
+  orig: 96, 29
+  offset: 1, 1
+  index: -1
+k_face
+  rotate: false
+  xy: 689, 140
+  size: 135, 138
+  orig: 137, 140
+  offset: 1, 1
+  index: -1
+k_hat_1
+  rotate: true
+  xy: 2, 81
+  size: 197, 184
+  orig: 199, 186
+  offset: 1, 1
+  index: -1
+k_hat_2
+  rotate: true
+  xy: 188, 102
+  size: 176, 124
+  orig: 178, 126
+  offset: 1, 1
+  index: -1
+k_l_arm
+  rotate: false
+  xy: 574, 50
+  size: 35, 84
+  orig: 35, 84
+  offset: 0, 0
+  index: -1
+k_l_hand
+  rotate: true
+  xy: 773, 5
+  size: 35, 43
+  orig: 37, 45
+  offset: 1, 1
+  index: -1
+smoke 1
+  rotate: true
+  xy: 2, 17
+  size: 62, 56
+  orig: 64, 58
+  offset: 1, 1
+  index: -1
+smoke 2
+  rotate: true
+  xy: 546, 136
+  size: 142, 141
+  orig: 144, 143
+  offset: 1, 1
+  index: -1
+smoke 3
+  rotate: true
+  xy: 314, 130
+  size: 148, 136
+  orig: 150, 138
+  offset: 1, 1
+  index: -1
+smoke 4
+  rotate: true
+  xy: 452, 132
+  size: 146, 92
+  orig: 148, 94
+  offset: 1, 1
+  index: -1
+smoke 5
+  rotate: true
+  xy: 689, 4
+  size: 134, 82
+  orig: 136, 84
+  offset: 1, 1
+  index: -1

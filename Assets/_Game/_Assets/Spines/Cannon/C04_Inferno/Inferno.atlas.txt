@@ -1,0 +1,342 @@
+
+Inferno.png
+size: 1129,135
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+inferno_lv1/body1
+  rotate: false
+  xy: 772, 60
+  size: 93, 73
+  orig: 93, 73
+  offset: 0, 0
+  index: -1
+inferno_lv2/body1
+  rotate: false
+  xy: 772, 60
+  size: 93, 73
+  orig: 93, 73
+  offset: 0, 0
+  index: -1
+inferno_lv3/body1
+  rotate: false
+  xy: 772, 60
+  size: 93, 73
+  orig: 93, 73
+  offset: 0, 0
+  index: -1
+inferno_lv4/body1
+  rotate: false
+  xy: 772, 60
+  size: 93, 73
+  orig: 93, 73
+  offset: 0, 0
+  index: -1
+inferno_lv5/body1
+  rotate: false
+  xy: 772, 60
+  size: 93, 73
+  orig: 93, 73
+  offset: 0, 0
+  index: -1
+inferno_lv1/face
+  rotate: false
+  xy: 380, 8
+  size: 122, 125
+  orig: 124, 127
+  offset: 1, 1
+  index: -1
+inferno_lv2/face
+  rotate: false
+  xy: 380, 8
+  size: 122, 125
+  orig: 124, 127
+  offset: 1, 1
+  index: -1
+inferno_lv1/horn
+  rotate: true
+  xy: 797, 11
+  size: 47, 67
+  orig: 49, 69
+  offset: 1, 1
+  index: -1
+inferno_lv1/l1
+  rotate: false
+  xy: 592, 45
+  size: 88, 88
+  orig: 90, 90
+  offset: 1, 1
+  index: -1
+inferno_lv2/l1
+  rotate: false
+  xy: 592, 45
+  size: 88, 88
+  orig: 90, 90
+  offset: 1, 1
+  index: -1
+inferno_lv3/l1
+  rotate: false
+  xy: 592, 45
+  size: 88, 88
+  orig: 90, 90
+  offset: 1, 1
+  index: -1
+inferno_lv4/l1
+  rotate: false
+  xy: 592, 45
+  size: 88, 88
+  orig: 90, 90
+  offset: 1, 1
+  index: -1
+inferno_lv1/l2
+  rotate: false
+  xy: 867, 65
+  size: 68, 68
+  orig: 70, 70
+  offset: 1, 1
+  index: -1
+inferno_lv2/l2
+  rotate: false
+  xy: 867, 65
+  size: 68, 68
+  orig: 70, 70
+  offset: 1, 1
+  index: -1
+inferno_lv3/l2
+  rotate: false
+  xy: 867, 65
+  size: 68, 68
+  orig: 70, 70
+  offset: 1, 1
+  index: -1
+inferno_lv4/l2
+  rotate: false
+  xy: 867, 65
+  size: 68, 68
+  orig: 70, 70
+  offset: 1, 1
+  index: -1
+inferno_lv1/l3
+  rotate: false
+  xy: 1057, 90
+  size: 43, 43
+  orig: 45, 45
+  offset: 1, 1
+  index: -1
+inferno_lv2/l3
+  rotate: false
+  xy: 1057, 90
+  size: 43, 43
+  orig: 45, 45
+  offset: 1, 1
+  index: -1
+inferno_lv3/l3
+  rotate: false
+  xy: 1057, 90
+  size: 43, 43
+  orig: 45, 45
+  offset: 1, 1
+  index: -1
+inferno_lv4/l3
+  rotate: false
+  xy: 1057, 90
+  size: 43, 43
+  orig: 45, 45
+  offset: 1, 1
+  index: -1
+inferno_lv1/leg1
+  rotate: true
+  xy: 618, 3
+  size: 40, 49
+  orig: 42, 51
+  offset: 1, 1
+  index: -1
+inferno_lv2/leg1
+  rotate: true
+  xy: 618, 3
+  size: 40, 49
+  orig: 42, 51
+  offset: 1, 1
+  index: -1
+inferno_lv3/leg1
+  rotate: true
+  xy: 618, 3
+  size: 40, 49
+  orig: 42, 51
+  offset: 1, 1
+  index: -1
+inferno_lv1/leg2
+  rotate: true
+  xy: 718, 5
+  size: 38, 48
+  orig: 40, 50
+  offset: 1, 1
+  index: -1
+inferno_lv2/leg2
+  rotate: true
+  xy: 718, 5
+  size: 38, 48
+  orig: 40, 50
+  offset: 1, 1
+  index: -1
+inferno_lv3/leg2
+  rotate: true
+  xy: 718, 5
+  size: 38, 48
+  orig: 40, 50
+  offset: 1, 1
+  index: -1
+inferno_lv4/leg2
+  rotate: true
+  xy: 718, 5
+  size: 38, 48
+  orig: 40, 50
+  offset: 1, 1
+  index: -1
+inferno_lv5/leg2
+  rotate: true
+  xy: 718, 5
+  size: 38, 48
+  orig: 40, 50
+  offset: 1, 1
+  index: -1
+inferno_lv2/body2
+  rotate: true
+  xy: 504, 2
+  size: 36, 55
+  orig: 40, 60
+  offset: 2, 3
+  index: -1
+inferno_lv2/horn
+  rotate: true
+  xy: 866, 11
+  size: 47, 67
+  orig: 49, 69
+  offset: 1, 1
+  index: -1
+inferno_lv3/horn
+  rotate: true
+  xy: 866, 11
+  size: 47, 67
+  orig: 49, 69
+  offset: 1, 1
+  index: -1
+inferno_lv4/horn
+  rotate: true
+  xy: 866, 11
+  size: 47, 67
+  orig: 49, 69
+  offset: 1, 1
+  index: -1
+inferno_lv5/horn
+  rotate: true
+  xy: 866, 11
+  size: 47, 67
+  orig: 49, 69
+  offset: 1, 1
+  index: -1
+inferno_lv3/body2
+  rotate: true
+  xy: 561, 2
+  size: 36, 55
+  orig: 40, 60
+  offset: 2, 3
+  index: -1
+inferno_lv3/face
+  rotate: true
+  xy: 2, 5
+  size: 128, 125
+  orig: 133, 127
+  offset: 3, 1
+  index: -1
+inferno_lv4/body2
+  rotate: false
+  xy: 935, 8
+  size: 48, 55
+  orig: 51, 60
+  offset: 2, 3
+  index: -1
+inferno_lv4/face
+  rotate: false
+  xy: 255, 8
+  size: 123, 125
+  orig: 133, 127
+  offset: 6, 1
+  index: -1
+inferno_lv4/leg1
+  rotate: false
+  xy: 1007, 84
+  size: 48, 49
+  orig: 50, 51
+  offset: 1, 1
+  index: -1
+inferno_lv5/leg1
+  rotate: false
+  xy: 1007, 84
+  size: 48, 49
+  orig: 50, 51
+  offset: 1, 1
+  index: -1
+inferno_lv5/ball_l1
+  rotate: true
+  xy: 768, 3
+  size: 40, 27
+  orig: 94, 86
+  offset: 18, 44
+  index: -1
+inferno_lv5/ball_l2
+  rotate: false
+  xy: 669, 2
+  size: 47, 41
+  orig: 94, 86
+  offset: 26, 23
+  index: -1
+inferno_lv5/ball_l3
+  rotate: false
+  xy: 1035, 33
+  size: 47, 49
+  orig: 94, 86
+  offset: 26, 19
+  index: -1
+inferno_lv5/ball_lv5
+  rotate: true
+  xy: 504, 40
+  size: 93, 86
+  orig: 94, 86
+  offset: 0, 0
+  index: -1
+inferno_lv5/body2
+  rotate: false
+  xy: 985, 8
+  size: 48, 55
+  orig: 51, 60
+  offset: 2, 2
+  index: -1
+inferno_lv5/face
+  rotate: false
+  xy: 129, 8
+  size: 124, 125
+  orig: 133, 127
+  offset: 5, 1
+  index: -1
+inferno_lv5/l1
+  rotate: false
+  xy: 682, 45
+  size: 88, 88
+  orig: 90, 90
+  offset: 1, 1
+  index: -1
+inferno_lv5/l2
+  rotate: false
+  xy: 937, 65
+  size: 68, 68
+  orig: 70, 70
+  offset: 1, 1
+  index: -1
+inferno_lv5/l3
+  rotate: false
+  xy: 1084, 45
+  size: 43, 43
+  orig: 45, 45
+  offset: 1, 1
+  index: -1

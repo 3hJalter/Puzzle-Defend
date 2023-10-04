@@ -1,0 +1,383 @@
+{
+  "skeleton": {
+    "images": "D:/Project/survival_city/Boss/dark_knight/dark_knight_images/"
+  },
+  "bones": [
+    {
+      "name": "root"
+    }
+  ],
+  "slots": [
+    {
+      "name": "h_leg1",
+      "bone": "root",
+      "attachment": "h_leg1"
+    },
+    {
+      "name": "h_leg2",
+      "bone": "root",
+      "attachment": "h_leg2"
+    },
+    {
+      "name": "h_body",
+      "bone": "root",
+      "attachment": "h_body"
+    },
+    {
+      "name": "k_l_leg",
+      "bone": "root",
+      "attachment": "k_l_leg"
+    },
+    {
+      "name": "k_l_foot",
+      "bone": "root",
+      "attachment": "k_l_foot"
+    },
+    {
+      "name": "armor",
+      "bone": "root",
+      "attachment": "armor"
+    },
+    {
+      "name": "k_l_arm",
+      "bone": "root",
+      "attachment": "k_l_arm"
+    },
+    {
+      "name": "k_body",
+      "bone": "root",
+      "attachment": "k_body"
+    },
+    {
+      "name": "k_armor",
+      "bone": "root",
+      "attachment": "k_armor"
+    },
+    {
+      "name": "k_r_arm",
+      "bone": "root",
+      "attachment": "k_r_arm"
+    },
+    {
+      "name": "k_r_thumb",
+      "bone": "root",
+      "attachment": "k_r_thumb"
+    },
+    {
+      "name": "k_r_hand",
+      "bone": "root",
+      "attachment": "k_r_hand"
+    },
+    {
+      "name": "k_shouder",
+      "bone": "root",
+      "attachment": "k_shouder"
+    },
+    {
+      "name": "k_l_arm1",
+      "bone": "root",
+      "attachment": "k_l_arm1"
+    },
+    {
+      "name": "hand",
+      "bone": "root",
+      "attachment": "hand"
+    },
+    {
+      "name": "k_l_thumb",
+      "bone": "root",
+      "attachment": "k_l_thumb"
+    },
+    {
+      "name": "k_l_fingers",
+      "bone": "root",
+      "attachment": "k_l_fingers"
+    },
+    {
+      "name": "k_face",
+      "bone": "root",
+      "attachment": "k_face"
+    },
+    {
+      "name": "k_jaw",
+      "bone": "root",
+      "attachment": "k_jaw"
+    },
+    {
+      "name": "k_eye",
+      "bone": "root",
+      "attachment": "k_eye"
+    },
+    {
+      "name": "k_helmet",
+      "bone": "root",
+      "attachment": "k_helmet"
+    },
+    {
+      "name": "h_ear",
+      "bone": "root",
+      "attachment": "h_ear"
+    },
+    {
+      "name": "h_face",
+      "bone": "root",
+      "attachment": "h_face"
+    },
+    {
+      "name": "h_eye2",
+      "bone": "root",
+      "attachment": "h_eye2"
+    },
+    {
+      "name": "h_eye1",
+      "bone": "root",
+      "attachment": "h_eye1"
+    },
+    {
+      "name": "h_hair",
+      "bone": "root",
+      "attachment": "h_hair"
+    },
+    {
+      "name": "weapon_2",
+      "bone": "root",
+      "attachment": "weapon_2"
+    },
+    {
+      "name": "weapon_1",
+      "bone": "root",
+      "attachment": "weapon_1"
+    }
+  ],
+  "skins": {
+    "default": {
+      "h_leg1": {
+        "h_leg1": {
+          "x": 588.5,
+          "y": -1775,
+          "width": 141,
+          "height": 228
+        }
+      },
+      "h_leg2": {
+        "h_leg2": {
+          "x": 815,
+          "y": -1775,
+          "width": 140,
+          "height": 228
+        }
+      },
+      "h_body": {
+        "h_body": {
+          "x": 704.5,
+          "y": -1510.5,
+          "width": 501,
+          "height": 569
+        }
+      },
+      "k_l_leg": {
+        "k_l_leg": {
+          "x": 465.5,
+          "y": -1434.5,
+          "width": 97,
+          "height": 209
+        }
+      },
+      "k_l_foot": {
+        "k_l_foot": {
+          "x": 415.5,
+          "y": -1539.5,
+          "width": 187,
+          "height": 105
+        }
+      },
+      "armor": {
+        "armor": {
+          "x": 475.5,
+          "y": -1309,
+          "width": 259,
+          "height": 178
+        }
+      },
+      "k_l_arm": {
+        "k_l_arm": {
+          "x": 372.5,
+          "y": -973.5,
+          "width": 305,
+          "height": 247
+        }
+      },
+      "k_body": {
+        "k_body": {
+          "x": 695,
+          "y": -1077.5,
+          "width": 634,
+          "height": 515
+        }
+      },
+      "k_armor": {
+        "k_armor": {
+          "x": 707,
+          "y": -1016.5,
+          "width": 430,
+          "height": 357
+        }
+      },
+      "k_r_arm": {
+        "k_r_arm": {
+          "x": 1055.5,
+          "y": -940.5,
+          "width": 295,
+          "height": 309
+        }
+      },
+      "k_r_thumb": {
+        "k_r_thumb": {
+          "x": 1025.5,
+          "y": -1210.5,
+          "width": 97,
+          "height": 123
+        }
+      },
+      "k_r_hand": {
+        "k_r_hand": {
+          "x": 1117,
+          "y": -1148.5,
+          "width": 222,
+          "height": 309
+        }
+      },
+      "k_shouder": {
+        "k_shouder": {
+          "x": 1019,
+          "y": -843,
+          "width": 430,
+          "height": 164
+        }
+      },
+      "k_l_arm1": {
+        "k_l_arm1": {
+          "x": 240,
+          "y": -984,
+          "width": 238,
+          "height": 292
+        }
+      },
+      "hand": {
+        "hand": {
+          "x": 212.5,
+          "y": -920.5,
+          "width": 185,
+          "height": 223
+        }
+      },
+      "k_l_thumb": {
+        "k_l_thumb": {
+          "x": 234.5,
+          "y": -868,
+          "width": 153,
+          "height": 190
+        }
+      },
+      "k_l_fingers": {
+        "k_l_fingers": {
+          "x": 161.5,
+          "y": -914.5,
+          "width": 175,
+          "height": 257
+        }
+      },
+      "k_face": {
+        "k_face": {
+          "x": 705.5,
+          "y": -662,
+          "width": 433,
+          "height": 382
+        }
+      },
+      "k_jaw": {
+        "k_jaw": {
+          "x": 710.5,
+          "y": -829.5,
+          "width": 321,
+          "height": 173
+        }
+      },
+      "k_eye": {
+        "k_eye": {
+          "x": 595.5,
+          "y": -636,
+          "width": 135,
+          "height": 152
+        }
+      },
+      "k_helmet": {
+        "k_helmet": {
+          "x": 703,
+          "y": -506,
+          "width": 698,
+          "height": 460
+        }
+      },
+      "h_ear": {
+        "h_ear": {
+          "x": 833,
+          "y": -1012,
+          "width": 130,
+          "height": 190
+        }
+      },
+      "h_face": {
+        "h_face": {
+          "x": 694.5,
+          "y": -1287.5,
+          "width": 379,
+          "height": 451
+        }
+      },
+      "h_eye2": {
+        "h_eye2": {
+          "x": 779,
+          "y": -1225,
+          "width": 72,
+          "height": 60
+        }
+      },
+      "h_eye1": {
+        "h_eye1": {
+          "x": 620.5,
+          "y": -1230.5,
+          "width": 107,
+          "height": 107
+        }
+      },
+      "h_hair": {
+        "h_hair": {
+          "x": 688.5,
+          "y": -1089.5,
+          "width": 245,
+          "height": 245
+        }
+      },
+      "weapon_2": {
+        "weapon_2": {
+          "x": 1493,
+          "y": -923,
+          "width": 98,
+          "height": 420
+        }
+      },
+      "weapon_1": {
+        "weapon_1": {
+          "x": 1490,
+          "y": -426,
+          "width": 448,
+          "height": 714
+        }
+      }
+    }
+  },
+  "animations": {
+    "animation": {}
+  }
+}

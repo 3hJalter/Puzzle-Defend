@@ -1,0 +1,244 @@
+
+haunting_spirit.png
+size: 1524,1032
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arrow
+  rotate: true
+  xy: 1075, 540
+  size: 89, 50
+  orig: 89, 50
+  offset: 0, 0
+  index: -1
+arrow1
+  rotate: false
+  xy: 1075, 761
+  size: 59, 41
+  orig: 59, 41
+  offset: 0, 0
+  index: -1
+b_cloak
+  rotate: false
+  xy: 802, 1
+  size: 230, 263
+  orig: 230, 263
+  offset: 0, 0
+  index: -1
+body_1
+  rotate: false
+  xy: 319, 1
+  size: 170, 139
+  orig: 170, 139
+  offset: 0, 0
+  index: -1
+body_2
+  rotate: true
+  xy: 489, 6
+  size: 134, 110
+  orig: 134, 110
+  offset: 0, 0
+  index: -1
+eye1
+  rotate: false
+  xy: 1075, 629
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+eye1_l
+  rotate: true
+  xy: 1130, 658
+  size: 13, 11
+  orig: 13, 11
+  offset: 0, 0
+  index: -1
+eye_blood
+  rotate: true
+  xy: 1075, 726
+  size: 35, 59
+  orig: 35, 59
+  offset: 0, 0
+  index: -1
+head1
+  rotate: true
+  xy: 1125, 61
+  size: 213, 205
+  orig: 213, 205
+  offset: 0, 0
+  index: -1
+head2
+  rotate: true
+  xy: 599, 6
+  size: 134, 97
+  orig: 134, 97
+  offset: 0, 0
+  index: -1
+l_arm
+  rotate: false
+  xy: 690, 274
+  size: 92, 149
+  orig: 92, 149
+  offset: 0, 0
+  index: -1
+l_cloak
+  rotate: true
+  xy: 802, 264
+  size: 159, 318
+  orig: 159, 318
+  offset: 0, 0
+  index: -1
+l_eye
+  rotate: false
+  xy: 1075, 494
+  size: 49, 46
+  orig: 49, 46
+  offset: 0, 0
+  index: -1
+l_hand
+  rotate: false
+  xy: 1330, 103
+  size: 108, 97
+  orig: 108, 97
+  offset: 0, 0
+  index: -1
+l_shouder
+  rotate: true
+  xy: 696, 56
+  size: 91, 103
+  orig: 91, 103
+  offset: 0, 0
+  index: -1
+magic_circle_1
+  rotate: false
+  xy: 1142, 653
+  size: 379, 379
+  orig: 379, 379
+  offset: 0, 0
+  index: -1
+magic_circle_2
+  rotate: false
+  xy: 696, 423
+  size: 379, 379
+  orig: 379, 379
+  offset: 0, 0
+  index: -1
+magic_circle_3
+  rotate: false
+  xy: 1130, 274
+  size: 379, 379
+  orig: 379, 379
+  offset: 0, 0
+  index: -1
+pupil
+  rotate: false
+  xy: 782, 405
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+pupil1
+  rotate: false
+  xy: 1075, 468
+  size: 28, 26
+  orig: 28, 26
+  offset: 0, 0
+  index: -1
+r_arm
+  rotate: true
+  xy: 1330, 200
+  size: 74, 164
+  orig: 74, 164
+  offset: 0, 0
+  index: -1
+r_cloak
+  rotate: true
+  xy: 0, 0
+  size: 140, 319
+  orig: 140, 319
+  offset: 0, 0
+  index: -1
+r_eye
+  rotate: true
+  xy: 1075, 684
+  size: 42, 57
+  orig: 42, 57
+  offset: 0, 0
+  index: -1
+r_hand
+  rotate: false
+  xy: 690, 147
+  size: 112, 127
+  orig: 112, 127
+  offset: 0, 0
+  index: -1
+r_shouder
+  rotate: false
+  xy: 1438, 103
+  size: 84, 97
+  orig: 84, 97
+  offset: 0, 0
+  index: -1
+r_shouder_l
+  rotate: false
+  xy: 1130, 671
+  size: 12, 13
+  orig: 12, 13
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 1032, 28
+  size: 236, 93
+  orig: 236, 93
+  offset: 0, 0
+  index: -1
+telepot_1
+  rotate: false
+  xy: 0, 586
+  size: 230, 446
+  orig: 230, 446
+  offset: 0, 0
+  index: -1
+telepot_2
+  rotate: false
+  xy: 0, 140
+  size: 230, 446
+  orig: 230, 446
+  offset: 0, 0
+  index: -1
+telepot_3
+  rotate: false
+  xy: 230, 586
+  size: 230, 446
+  orig: 230, 446
+  offset: 0, 0
+  index: -1
+telepot_5
+  rotate: false
+  xy: 230, 140
+  size: 230, 446
+  orig: 230, 446
+  offset: 0, 0
+  index: -1
+telepot_6
+  rotate: false
+  xy: 460, 586
+  size: 230, 446
+  orig: 230, 446
+  offset: 0, 0
+  index: -1
+telepot_7
+  rotate: false
+  xy: 460, 140
+  size: 230, 446
+  orig: 230, 446
+  offset: 0, 0
+  index: -1
+telepot_8
+  rotate: true
+  xy: 696, 802
+  size: 230, 446
+  orig: 230, 446
+  offset: 0, 0
+  index: -1

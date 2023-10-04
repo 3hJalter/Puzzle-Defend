@@ -1,0 +1,310 @@
+{
+  "skeleton": {
+    "images": "F:/Project/Dung_abi/MiniBoss/MiniBoss_1.1/MiniBoss_1.1_images/"
+  },
+  "PhotoshopToSpine": {
+    "scale": 1,
+    "padding": 1,
+    "trim": true
+  },
+  "bones": [
+    {
+      "name": "root"
+    }
+  ],
+  "slots": [
+    {
+      "name": "shadown",
+      "bone": "root",
+      "attachment": "shadown"
+    },
+    {
+      "name": "b_wheel",
+      "bone": "root",
+      "attachment": "b_wheel"
+    },
+    {
+      "name": "bike1",
+      "bone": "root",
+      "attachment": "bike1"
+    },
+    {
+      "name": "leg",
+      "bone": "root",
+      "attachment": "leg"
+    },
+    {
+      "name": "body",
+      "bone": "root",
+      "attachment": "body"
+    },
+    {
+      "name": "l_arm",
+      "bone": "root",
+      "attachment": "l_arm"
+    },
+    {
+      "name": "r_arm",
+      "bone": "root",
+      "attachment": "r_arm"
+    },
+    {
+      "name": "bander",
+      "bone": "root",
+      "attachment": "bander"
+    },
+    {
+      "name": "head",
+      "bone": "root",
+      "attachment": "head"
+    },
+    {
+      "name": "bred",
+      "bone": "root",
+      "attachment": "bred"
+    },
+    {
+      "name": "mouth",
+      "bone": "root",
+      "attachment": "mouth"
+    },
+    {
+      "name": "eye",
+      "bone": "root",
+      "attachment": "eye"
+    },
+    {
+      "name": "pupil",
+      "bone": "root",
+      "attachment": "pupil"
+    },
+    {
+      "name": "glass",
+      "bone": "root",
+      "attachment": "glass"
+    },
+    {
+      "name": "glass_l1",
+      "bone": "root",
+      "attachment": "glass_l1"
+    },
+    {
+      "name": "glass_l2",
+      "bone": "root",
+      "attachment": "glass_l2"
+    },
+    {
+      "name": "glass_l3",
+      "bone": "root",
+      "attachment": "glass_l3"
+    },
+    {
+      "name": "wheel1",
+      "bone": "root",
+      "attachment": "wheel1"
+    },
+    {
+      "name": "bike2",
+      "bone": "root",
+      "attachment": "bike2"
+    },
+    {
+      "name": "bike3",
+      "bone": "root",
+      "attachment": "bike3"
+    },
+    {
+      "name": "r_hand",
+      "bone": "root",
+      "attachment": "r_hand"
+    },
+    {
+      "name": "l_hand",
+      "bone": "root",
+      "attachment": "l_hand"
+    }
+  ],
+  "skins": {
+    "default": {
+      "shadown": {
+        "shadown": {
+          "x": 79.5,
+          "y": -142.5,
+          "width": 115,
+          "height": 133
+        }
+      },
+      "b_wheel": {
+        "b_wheel": {
+          "x": 121,
+          "y": -90.5,
+          "width": 32,
+          "height": 57
+        }
+      },
+      "bike1": {
+        "bike1": {
+          "x": 79,
+          "y": -127,
+          "width": 68,
+          "height": 88
+        }
+      },
+      "leg": {
+        "leg": {
+          "x": 98,
+          "y": -128,
+          "width": 22,
+          "height": 52
+        }
+      },
+      "body": {
+        "body": {
+          "x": 80,
+          "y": -97.5,
+          "width": 58,
+          "height": 51
+        }
+      },
+      "l_arm": {
+        "l_arm": {
+          "x": 43.5,
+          "y": -70,
+          "width": 49,
+          "height": 42
+        }
+      },
+      "r_arm": {
+        "r_arm": {
+          "x": 114.5,
+          "y": -96.5,
+          "width": 45,
+          "height": 41
+        }
+      },
+      "bander": {
+        "bander": {
+          "x": 125,
+          "y": -40.5,
+          "width": 38,
+          "height": 43
+        }
+      },
+      "head": {
+        "head": {
+          "x": 79.5,
+          "y": -55.5,
+          "width": 79,
+          "height": 99
+        }
+      },
+      "bred": {
+        "bred": {
+          "x": 77.5,
+          "y": -88.5,
+          "width": 91,
+          "height": 59
+        }
+      },
+      "mouth": {
+        "mouth": {
+          "x": 77,
+          "y": -85.5,
+          "width": 48,
+          "height": 25
+        }
+      },
+      "eye": {
+        "eye": {
+          "x": 96,
+          "y": -59.5,
+          "width": 34,
+          "height": 29
+        }
+      },
+      "pupil": {
+        "pupil": {
+          "x": 102.5,
+          "y": -56.5,
+          "width": 7,
+          "height": 7
+        }
+      },
+      "glass": {
+        "glass": {
+          "x": 76,
+          "y": -32.5,
+          "width": 64,
+          "height": 33
+        }
+      },
+      "glass_l1": {
+        "glass_l1": {
+          "x": 74,
+          "y": -27,
+          "width": 46,
+          "height": 12
+        }
+      },
+      "glass_l2": {
+        "glass_l2": {
+          "x": 76,
+          "y": -30,
+          "width": 50,
+          "height": 18
+        }
+      },
+      "glass_l3": {
+        "glass_l3": {
+          "x": 76.5,
+          "y": -30.5,
+          "width": 49,
+          "height": 17
+        }
+      },
+      "wheel1": {
+        "wheel1": {
+          "x": 80.5,
+          "y": -170.5,
+          "width": 35,
+          "height": 67
+        }
+      },
+      "bike2": {
+        "bike2": {
+          "x": 80,
+          "y": -156,
+          "width": 44,
+          "height": 56
+        }
+      },
+      "bike3": {
+        "bike3": {
+          "x": 79.5,
+          "y": -125.5,
+          "width": 127,
+          "height": 57
+        }
+      },
+      "r_hand": {
+        "r_hand": {
+          "x": 125,
+          "y": -109,
+          "width": 30,
+          "height": 30
+        }
+      },
+      "l_hand": {
+        "l_hand": {
+          "x": 28.5,
+          "y": -45,
+          "width": 41,
+          "height": 36
+        }
+      }
+    }
+  },
+  "animations": {
+    "animation": {}
+  }
+}

@@ -1,0 +1,118 @@
+
+ghost.png
+size: 364,520
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L_eye
+  rotate: false
+  xy: 318, 206
+  size: 40, 35
+  orig: 42, 37
+  offset: 1, 1
+  index: -1
+L_hand1
+  rotate: true
+  xy: 218, 94
+  size: 49, 69
+  orig: 49, 69
+  offset: 0, 0
+  index: -1
+L_hand2
+  rotate: true
+  xy: 281, 3
+  size: 58, 51
+  orig: 60, 53
+  offset: 1, 1
+  index: -1
+R_eye
+  rotate: false
+  xy: 318, 243
+  size: 40, 36
+  orig: 42, 38
+  offset: 1, 1
+  index: -1
+R_hand1
+  rotate: false
+  xy: 162, 2
+  size: 62, 86
+  orig: 62, 86
+  offset: 0, 0
+  index: -1
+R_hand2
+  rotate: true
+  xy: 226, 30
+  size: 62, 53
+  orig: 64, 55
+  offset: 1, 1
+  index: -1
+ash
+  rotate: true
+  xy: 162, 90
+  size: 87, 54
+  orig: 87, 54
+  offset: 0, 0
+  index: -1
+ashes
+  rotate: false
+  xy: 355, 391
+  size: 5, 5
+  orig: 5, 7
+  offset: 0, 2
+  index: -1
+body
+  rotate: true
+  xy: 220, 281
+  size: 115, 133
+  orig: 115, 133
+  offset: 0, 0
+  index: -1
+flame 1
+  rotate: true
+  xy: 220, 213
+  size: 66, 96
+  orig: 68, 98
+  offset: 1, 1
+  index: -1
+flame 2
+  rotate: true
+  xy: 220, 145
+  size: 66, 96
+  orig: 68, 98
+  offset: 1, 1
+  index: -1
+flame 3
+  rotate: false
+  xy: 289, 63
+  size: 55, 80
+  orig: 57, 82
+  offset: 1, 1
+  index: -1
+hood1
+  rotate: false
+  xy: 2, 330
+  size: 216, 185
+  orig: 216, 185
+  offset: 0, 0
+  index: -1
+hood2
+  rotate: false
+  xy: 2, 179
+  size: 216, 149
+  orig: 216, 149
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 220, 398
+  size: 137, 117
+  orig: 139, 119
+  offset: 1, 1
+  index: -1
+skull2
+  rotate: false
+  xy: 2, 16
+  size: 158, 161
+  orig: 158, 161
+  offset: 0, 0
+  index: -1

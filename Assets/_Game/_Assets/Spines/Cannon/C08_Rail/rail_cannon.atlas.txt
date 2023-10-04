@@ -1,0 +1,461 @@
+
+rail_cannon.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Rail_lv2/body1
+  rotate: false
+  xy: 0, 79
+  size: 145, 174
+  orig: 145, 174
+  offset: 0, 0
+  index: -1
+Rail_lv1/body1
+  rotate: false
+  xy: 0, 79
+  size: 145, 174
+  orig: 145, 174
+  offset: 0, 0
+  index: -1
+Rail_lv2/body5
+  rotate: false
+  xy: 506, 1
+  size: 86, 107
+  orig: 86, 107
+  offset: 0, 0
+  index: -1
+Rail_lv1/body5
+  rotate: false
+  xy: 506, 1
+  size: 86, 107
+  orig: 86, 107
+  offset: 0, 0
+  index: -1
+Rail_lv3/body5
+  rotate: false
+  xy: 506, 1
+  size: 86, 107
+  orig: 86, 107
+  offset: 0, 0
+  index: -1
+Rail_lv4/body5
+  rotate: false
+  xy: 506, 1
+  size: 86, 107
+  orig: 86, 107
+  offset: 0, 0
+  index: -1
+Rail_lv5/body5
+  rotate: false
+  xy: 506, 1
+  size: 86, 107
+  orig: 86, 107
+  offset: 0, 0
+  index: -1
+Rail_lv2/body6
+  rotate: true
+  xy: 435, 108
+  size: 145, 88
+  orig: 145, 88
+  offset: 0, 0
+  index: -1
+Rail_lv1/body6
+  rotate: true
+  xy: 435, 108
+  size: 145, 88
+  orig: 145, 88
+  offset: 0, 0
+  index: -1
+Rail_lv2/button1
+  rotate: false
+  xy: 592, 2
+  size: 65, 50
+  orig: 65, 50
+  offset: 0, 0
+  index: -1
+Rail_lv1/button1
+  rotate: false
+  xy: 592, 2
+  size: 65, 50
+  orig: 65, 50
+  offset: 0, 0
+  index: -1
+Rail_lv3/button1
+  rotate: false
+  xy: 592, 2
+  size: 65, 50
+  orig: 65, 50
+  offset: 0, 0
+  index: -1
+Rail_lv4/button1
+  rotate: false
+  xy: 592, 2
+  size: 65, 50
+  orig: 65, 50
+  offset: 0, 0
+  index: -1
+Rail_lv5/button1
+  rotate: false
+  xy: 592, 2
+  size: 65, 50
+  orig: 65, 50
+  offset: 0, 0
+  index: -1
+Rail_lv2/button2
+  rotate: true
+  xy: 697, 209
+  size: 44, 41
+  orig: 44, 41
+  offset: 0, 0
+  index: -1
+Rail_lv1/button2
+  rotate: true
+  xy: 697, 209
+  size: 44, 41
+  orig: 44, 41
+  offset: 0, 0
+  index: -1
+Rail_lv3/button2
+  rotate: true
+  xy: 697, 209
+  size: 44, 41
+  orig: 44, 41
+  offset: 0, 0
+  index: -1
+Rail_lv4/button2
+  rotate: true
+  xy: 697, 209
+  size: 44, 41
+  orig: 44, 41
+  offset: 0, 0
+  index: -1
+Rail_lv5/button2
+  rotate: true
+  xy: 697, 209
+  size: 44, 41
+  orig: 44, 41
+  offset: 0, 0
+  index: -1
+Rail_lv2/button3
+  rotate: true
+  xy: 592, 52
+  size: 70, 55
+  orig: 70, 55
+  offset: 0, 0
+  index: -1
+Rail_lv1/button3
+  rotate: true
+  xy: 592, 52
+  size: 70, 55
+  orig: 70, 55
+  offset: 0, 0
+  index: -1
+Rail_lv3/button3
+  rotate: true
+  xy: 592, 52
+  size: 70, 55
+  orig: 70, 55
+  offset: 0, 0
+  index: -1
+Rail_lv4/button3
+  rotate: true
+  xy: 592, 52
+  size: 70, 55
+  orig: 70, 55
+  offset: 0, 0
+  index: -1
+Rail_lv5/button3
+  rotate: true
+  xy: 592, 52
+  size: 70, 55
+  orig: 70, 55
+  offset: 0, 0
+  index: -1
+Rail_lv2/energy1
+  rotate: true
+  xy: 585, 122
+  size: 51, 80
+  orig: 51, 80
+  offset: 0, 0
+  index: -1
+Rail_lv1/energy1
+  rotate: true
+  xy: 585, 122
+  size: 51, 80
+  orig: 51, 80
+  offset: 0, 0
+  index: -1
+Rail_lv3/energy1
+  rotate: true
+  xy: 585, 122
+  size: 51, 80
+  orig: 51, 80
+  offset: 0, 0
+  index: -1
+Rail_lv4/energy1
+  rotate: true
+  xy: 585, 122
+  size: 51, 80
+  orig: 51, 80
+  offset: 0, 0
+  index: -1
+Rail_lv5/energy1
+  rotate: true
+  xy: 585, 122
+  size: 51, 80
+  orig: 51, 80
+  offset: 0, 0
+  index: -1
+Rail_lv2/energy2
+  rotate: false
+  xy: 647, 66
+  size: 46, 56
+  orig: 46, 56
+  offset: 0, 0
+  index: -1
+Rail_lv1/energy2
+  rotate: false
+  xy: 647, 66
+  size: 46, 56
+  orig: 46, 56
+  offset: 0, 0
+  index: -1
+Rail_lv3/energy2
+  rotate: false
+  xy: 647, 66
+  size: 46, 56
+  orig: 46, 56
+  offset: 0, 0
+  index: -1
+Rail_lv4/energy2
+  rotate: false
+  xy: 647, 66
+  size: 46, 56
+  orig: 46, 56
+  offset: 0, 0
+  index: -1
+Rail_lv5/energy2
+  rotate: false
+  xy: 647, 66
+  size: 46, 56
+  orig: 46, 56
+  offset: 0, 0
+  index: -1
+Rail_lv2/gun1
+  rotate: true
+  xy: 290, 17
+  size: 62, 108
+  orig: 62, 108
+  offset: 0, 0
+  index: -1
+Rail_lv1/gun1
+  rotate: true
+  xy: 290, 17
+  size: 62, 108
+  orig: 62, 108
+  offset: 0, 0
+  index: -1
+Rail_lv2/gun2
+  rotate: true
+  xy: 435, 87
+  size: 21, 30
+  orig: 21, 30
+  offset: 0, 0
+  index: -1
+Rail_lv1/gun2
+  rotate: true
+  xy: 435, 87
+  size: 21, 30
+  orig: 21, 30
+  offset: 0, 0
+  index: -1
+Rail_lv3/gun2
+  rotate: true
+  xy: 435, 87
+  size: 21, 30
+  orig: 21, 30
+  offset: 0, 0
+  index: -1
+Rail_lv4/gun2
+  rotate: true
+  xy: 435, 87
+  size: 21, 30
+  orig: 21, 30
+  offset: 0, 0
+  index: -1
+Rail_lv5/gun2
+  rotate: true
+  xy: 435, 87
+  size: 21, 30
+  orig: 21, 30
+  offset: 0, 0
+  index: -1
+Rail_lv2/gun3
+  rotate: true
+  xy: 465, 87
+  size: 21, 30
+  orig: 21, 30
+  offset: 0, 0
+  index: -1
+Rail_lv1/gun3
+  rotate: true
+  xy: 465, 87
+  size: 21, 30
+  orig: 21, 30
+  offset: 0, 0
+  index: -1
+Rail_lv3/gun3
+  rotate: true
+  xy: 465, 87
+  size: 21, 30
+  orig: 21, 30
+  offset: 0, 0
+  index: -1
+Rail_lv4/gun3
+  rotate: true
+  xy: 465, 87
+  size: 21, 30
+  orig: 21, 30
+  offset: 0, 0
+  index: -1
+Rail_lv5/gun3
+  rotate: true
+  xy: 465, 87
+  size: 21, 30
+  orig: 21, 30
+  offset: 0, 0
+  index: -1
+Rail_lv2/wing
+  rotate: false
+  xy: 645, 177
+  size: 52, 76
+  orig: 52, 76
+  offset: 0, 0
+  index: -1
+Rail_lv3/wing
+  rotate: false
+  xy: 645, 177
+  size: 52, 76
+  orig: 52, 76
+  offset: 0, 0
+  index: -1
+Rail_lv4/wing
+  rotate: false
+  xy: 645, 177
+  size: 52, 76
+  orig: 52, 76
+  offset: 0, 0
+  index: -1
+Rail_lv5/wing
+  rotate: false
+  xy: 645, 177
+  size: 52, 76
+  orig: 52, 76
+  offset: 0, 0
+  index: -1
+Rail_lv3/body1
+  rotate: false
+  xy: 145, 79
+  size: 145, 174
+  orig: 145, 174
+  offset: 0, 0
+  index: -1
+Rail_lv3/body3
+  rotate: false
+  xy: 665, 129
+  size: 46, 48
+  orig: 46, 48
+  offset: 0, 0
+  index: -1
+Rail_lv4/body3
+  rotate: false
+  xy: 665, 129
+  size: 46, 48
+  orig: 46, 48
+  offset: 0, 0
+  index: -1
+Rail_lv5/body3
+  rotate: false
+  xy: 665, 129
+  size: 46, 48
+  orig: 46, 48
+  offset: 0, 0
+  index: -1
+Rail_lv3/body4
+  rotate: true
+  xy: 585, 173
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: -1
+Rail_lv4/body4
+  rotate: true
+  xy: 585, 173
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: -1
+Rail_lv5/body4
+  rotate: true
+  xy: 585, 173
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: -1
+Rail_lv3/body6
+  rotate: false
+  xy: 0, 0
+  size: 145, 79
+  orig: 145, 79
+  offset: 0, 0
+  index: -1
+Rail_lv3/gun1
+  rotate: true
+  xy: 398, 17
+  size: 62, 108
+  orig: 62, 108
+  offset: 0, 0
+  index: -1
+Rail_lv4/gun1
+  rotate: true
+  xy: 398, 17
+  size: 62, 108
+  orig: 62, 108
+  offset: 0, 0
+  index: -1
+Rail_lv4/body1
+  rotate: false
+  xy: 290, 79
+  size: 145, 174
+  orig: 145, 174
+  offset: 0, 0
+  index: -1
+Rail_lv5/body1
+  rotate: false
+  xy: 290, 79
+  size: 145, 174
+  orig: 145, 174
+  offset: 0, 0
+  index: -1
+Rail_lv4/body6
+  rotate: false
+  xy: 145, 0
+  size: 145, 79
+  orig: 145, 79
+  offset: 0, 0
+  index: -1
+Rail_lv5/body6
+  rotate: false
+  xy: 145, 0
+  size: 145, 79
+  orig: 145, 79
+  offset: 0, 0
+  index: -1
+Rail_lv5/gun1
+  rotate: false
+  xy: 523, 145
+  size: 62, 108
+  orig: 62, 108
+  offset: 0, 0
+  index: -1

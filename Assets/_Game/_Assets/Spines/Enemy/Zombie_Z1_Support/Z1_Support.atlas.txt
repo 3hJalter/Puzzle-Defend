@@ -1,0 +1,97 @@
+
+Z1_Support.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BOdy_11
+  rotate: false
+  xy: 434, 106
+  size: 74, 65
+  orig: 74, 65
+  offset: 0, 0
+  index: -1
+Hair_21
+  rotate: false
+  xy: 244, 125
+  size: 55, 46
+  orig: 55, 46
+  offset: 0, 0
+  index: -1
+Hair_31
+  rotate: true
+  xy: 2, 147
+  size: 24, 48
+  orig: 24, 48
+  offset: 0, 0
+  index: -1
+Hat_11
+  rotate: false
+  xy: 2, 42
+  size: 130, 92
+  orig: 130, 92
+  offset: 0, 0
+  index: -1
+Head_11
+  rotate: true
+  xy: 134, 18
+  size: 105, 165
+  orig: 105, 165
+  offset: 0, 0
+  index: -1
+Hip
+  rotate: false
+  xy: 52, 141
+  size: 49, 30
+  orig: 49, 30
+  offset: 0, 0
+  index: -1
+L_Leg_11
+  rotate: true
+  xy: 142, 129
+  size: 42, 46
+  orig: 42, 46
+  offset: 0, 0
+  index: -1
+R_Arm_11
+  rotate: false
+  xy: 190, 126
+  size: 52, 45
+  orig: 52, 45
+  offset: 0, 0
+  index: -1
+R_Arm_12
+  rotate: false
+  xy: 353, 117
+  size: 79, 54
+  orig: 79, 54
+  offset: 0, 0
+  index: -1
+R_Leg_11
+  rotate: false
+  xy: 301, 121
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+Radio_11
+  rotate: false
+  xy: 301, 2
+  size: 130, 113
+  orig: 130, 113
+  offset: 0, 0
+  index: -1
+Radio_21
+  rotate: true
+  xy: 103, 136
+  size: 35, 37
+  orig: 35, 37
+  offset: 0, 0
+  index: -1
+Radio_22
+  rotate: true
+  xy: 103, 136
+  size: 35, 37
+  orig: 35, 37
+  offset: 0, 0
+  index: -1

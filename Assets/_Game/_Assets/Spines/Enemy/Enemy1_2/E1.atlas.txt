@@ -1,0 +1,97 @@
+
+E1.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+E1-Body
+  rotate: true
+  xy: 0, 3
+  size: 124, 162
+  orig: 124, 162
+  offset: 0, 0
+  index: -1
+E1-Hair 1
+  rotate: true
+  xy: 454, 4
+  size: 16, 25
+  orig: 16, 25
+  offset: 0, 0
+  index: -1
+E1-Hair 2
+  rotate: true
+  xy: 424, 0
+  size: 20, 30
+  orig: 20, 30
+  offset: 0, 0
+  index: -1
+E1-L-Foot
+  rotate: false
+  xy: 608, 25
+  size: 23, 46
+  orig: 23, 46
+  offset: 0, 0
+  index: -1
+E1-R-Foot
+  rotate: false
+  xy: 608, 25
+  size: 23, 46
+  orig: 23, 46
+  offset: 0, 0
+  index: -1
+E1-L-Hand
+  rotate: true
+  xy: 556, 7
+  size: 56, 52
+  orig: 56, 52
+  offset: 0, 0
+  index: -1
+E1-Open Eye
+  rotate: true
+  xy: 498, 50
+  size: 77, 30
+  orig: 77, 30
+  offset: 0, 0
+  index: -1
+E1-R-Hand
+  rotate: false
+  xy: 572, 71
+  size: 50, 56
+  orig: 50, 56
+  offset: 0, 0
+  index: -1
+E2-Body
+  rotate: true
+  xy: 162, 3
+  size: 124, 162
+  orig: 124, 162
+  offset: 0, 0
+  index: -1
+E2-Hat
+  rotate: true
+  xy: 324, 10
+  size: 117, 100
+  orig: 117, 100
+  offset: 0, 0
+  index: -1
+E2-L-Hand
+  rotate: true
+  xy: 528, 63
+  size: 64, 44
+  orig: 64, 44
+  offset: 0, 0
+  index: -1
+E2-R-Hand
+  rotate: false
+  xy: 498, 0
+  size: 58, 50
+  orig: 58, 50
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 424, 20
+  size: 107, 74
+  orig: 107, 74
+  offset: 0, 0
+  index: -1

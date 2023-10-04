@@ -1,0 +1,90 @@
+
+Z1_Tank.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body_11
+  rotate: true
+  xy: 116, 4
+  size: 90, 84
+  orig: 90, 84
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 98, 96
+  size: 147, 142
+  orig: 147, 142
+  offset: 0, 0
+  index: -1
+Hip
+  rotate: true
+  xy: 2, 6
+  size: 59, 38
+  orig: 59, 38
+  offset: 0, 0
+  index: -1
+L_Arm_11
+  rotate: false
+  xy: 257, 57
+  size: 42, 55
+  orig: 42, 55
+  offset: 0, 0
+  index: -1
+L_Arm_12
+  rotate: true
+  xy: 202, 9
+  size: 85, 53
+  orig: 85, 53
+  offset: 0, 0
+  index: -1
+L_Leg_11
+  rotate: false
+  xy: 82, 8
+  size: 32, 57
+  orig: 32, 57
+  offset: 0, 0
+  index: -1
+L_Shield
+  rotate: false
+  xy: 2, 67
+  size: 94, 176
+  orig: 94, 176
+  offset: 0, 0
+  index: -1
+R_Arm_11
+  rotate: false
+  xy: 257, 2
+  size: 33, 53
+  orig: 33, 53
+  offset: 0, 0
+  index: -1
+R_Arm_12
+  rotate: false
+  xy: 42, 7
+  size: 38, 58
+  orig: 38, 58
+  offset: 0, 0
+  index: -1
+R_Leg_11
+  rotate: false
+  xy: 292, 6
+  size: 31, 49
+  orig: 31, 49
+  offset: 0, 0
+  index: -1
+R_Weapon_11
+  rotate: true
+  xy: 242, 114
+  size: 129, 43
+  orig: 129, 43
+  offset: 0, 0
+  index: -1
+R_Weapon_12
+  rotate: true
+  xy: 287, 114
+  size: 129, 38
+  orig: 129, 38
+  offset: 0, 0
+  index: -1

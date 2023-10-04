@@ -1,0 +1,216 @@
+
+Boss_3.png
+size: 992,280
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 652, 188
+  size: 122, 90
+  orig: 122, 90
+  offset: 0, 0
+  index: -1
+eff_1
+  rotate: false
+  xy: 701, 3
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+eff_2
+  rotate: false
+  xy: 891, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+eff_3
+  rotate: false
+  xy: 879, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+eyebown
+  rotate: false
+  xy: 454, 77
+  size: 77, 25
+  orig: 77, 25
+  offset: 0, 0
+  index: -1
+fish1
+  rotate: true
+  xy: 928, 241
+  size: 37, 42
+  orig: 37, 42
+  offset: 0, 0
+  index: -1
+fish2
+  rotate: true
+  xy: 928, 203
+  size: 38, 37
+  orig: 38, 37
+  offset: 0, 0
+  index: -1
+fish_eye
+  rotate: true
+  xy: 312, 2
+  size: 53, 58
+  orig: 53, 58
+  offset: 0, 0
+  index: -1
+fish_eye1
+  rotate: false
+  xy: 434, 1
+  size: 48, 54
+  orig: 48, 54
+  offset: 0, 0
+  index: -1
+fish_jaw
+  rotate: true
+  xy: 580, 8
+  size: 95, 121
+  orig: 95, 121
+  offset: 0, 0
+  index: -1
+fish_mouth
+  rotate: false
+  xy: 482, 8
+  size: 98, 69
+  orig: 98, 69
+  offset: 0, 0
+  index: -1
+fish_tail
+  rotate: false
+  xy: 254, 1
+  size: 58, 54
+  orig: 58, 54
+  offset: 0, 0
+  index: -1
+hat1
+  rotate: true
+  xy: 0, 55
+  size: 223, 195
+  orig: 223, 195
+  offset: 0, 0
+  index: -1
+hat1b
+  rotate: true
+  xy: 195, 55
+  size: 223, 195
+  orig: 223, 195
+  offset: 0, 0
+  index: -1
+hat2
+  rotate: true
+  xy: 390, 102
+  size: 176, 154
+  orig: 176, 154
+  offset: 0, 0
+  index: -1
+l_arm1
+  rotate: true
+  xy: 370, 8
+  size: 47, 64
+  orig: 47, 64
+  offset: 0, 0
+  index: -1
+l_hand1
+  rotate: true
+  xy: 801, 33
+  size: 75, 78
+  orig: 75, 78
+  offset: 0, 0
+  index: -1
+l_hand2
+  rotate: false
+  xy: 774, 200
+  size: 77, 78
+  orig: 77, 78
+  offset: 0, 0
+  index: -1
+l_hand2b
+  rotate: false
+  xy: 851, 200
+  size: 77, 78
+  orig: 77, 78
+  offset: 0, 0
+  index: -1
+l_shouder
+  rotate: true
+  xy: 0, 5
+  size: 50, 63
+  orig: 50, 63
+  offset: 0, 0
+  index: -1
+l_shouderb
+  rotate: true
+  xy: 63, 5
+  size: 50, 63
+  orig: 50, 63
+  offset: 0, 0
+  index: -1
+leg
+  rotate: true
+  xy: 531, 77
+  size: 25, 38
+  orig: 25, 38
+  offset: 0, 0
+  index: -1
+r_amr1
+  rotate: true
+  xy: 390, 55
+  size: 47, 64
+  orig: 47, 64
+  offset: 0, 0
+  index: -1
+r_arm2
+  rotate: false
+  xy: 544, 103
+  size: 77, 67
+  orig: 77, 67
+  offset: 0, 0
+  index: -1
+r_arm2b
+  rotate: false
+  xy: 621, 103
+  size: 77, 67
+  orig: 77, 67
+  offset: 0, 0
+  index: -1
+r_shouder
+  rotate: true
+  xy: 126, 6
+  size: 49, 64
+  orig: 49, 64
+  offset: 0, 0
+  index: -1
+r_shouderb
+  rotate: true
+  xy: 190, 6
+  size: 49, 64
+  orig: 49, 64
+  offset: 0, 0
+  index: -1
+shadown
+  rotate: false
+  xy: 783, 108
+  size: 108, 92
+  orig: 108, 92
+  offset: 0, 0
+  index: -1
+skill_1_eff1
+  rotate: false
+  xy: 698, 103
+  size: 85, 85
+  orig: 85, 85
+  offset: 0, 0
+  index: -1
+skill_3_eff
+  rotate: false
+  xy: 544, 170
+  size: 108, 108
+  orig: 108, 108
+  offset: 0, 0
+  index: -1

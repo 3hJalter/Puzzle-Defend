@@ -1,0 +1,3469 @@
+{
+  "skeleton": {
+    "hash": "K2sJnkYbjpFc23yNrsznTTdBhAo",
+    "spine": "3.8.99",
+    "x": -87.22,
+    "y": -32.58,
+    "width": 175.74,
+    "height": 273.75,
+    "images": "./laser_images/",
+    "audio": "F:/Project/Dung_abi/Canon_Laser"
+  },
+  "bones": [
+    {
+      "name": "root"
+    },
+    {
+      "name": "location",
+      "parent": "root"
+    },
+    {
+      "name": "body1",
+      "parent": "location",
+      "length": 357.83,
+      "rotation": 90,
+      "y": 13.67,
+      "skin": true,
+      "color": "abe323ff"
+    },
+    {
+      "name": "body2",
+      "parent": "body1",
+      "rotation": 180,
+      "x": 114.73,
+      "skin": true
+    },
+    {
+      "name": "body5",
+      "parent": "body2",
+      "x": 16.94,
+      "y": 0.1,
+      "skin": true
+    },
+    {
+      "name": "body6",
+      "parent": "body2",
+      "x": 31.18,
+      "y": -0.28,
+      "skin": true
+    },
+    {
+      "name": "body7",
+      "parent": "body2",
+      "x": 44.27,
+      "y": -0.28,
+      "skin": true
+    },
+    {
+      "name": "body8",
+      "parent": "body2",
+      "x": 56.98,
+      "y": -0.28,
+      "skin": true
+    },
+    {
+      "name": "body4",
+      "parent": "body1",
+      "x": 13.51,
+      "skin": true
+    },
+    {
+      "name": "gun",
+      "parent": "body1",
+      "length": 72.36,
+      "x": 136.08,
+      "skin": true
+    },
+    {
+      "name": "body9",
+      "parent": "location",
+      "rotation": 90.05,
+      "x": -0.01,
+      "y": 22,
+      "skin": true
+    },
+    {
+      "name": "body3_l",
+      "parent": "body9",
+      "length": 29.32,
+      "rotation": -179.1,
+      "x": -2.75,
+      "skin": true
+    },
+    {
+      "name": "body3",
+      "parent": "body1",
+      "x": 79.76,
+      "y": -69.19,
+      "skin": true,
+      "color": "abe323ff"
+    },
+    {
+      "name": "body10",
+      "parent": "body1",
+      "x": 79.3,
+      "y": 68.98,
+      "skin": true,
+      "color": "abe323ff"
+    },
+    {
+      "name": "body11",
+      "parent": "body1",
+      "rotation": 1.4,
+      "x": 28.69,
+      "y": -36.05,
+      "skin": true
+    },
+    {
+      "name": "body12",
+      "parent": "body11",
+      "x": 8.55,
+      "y": -25.28,
+      "skin": true
+    },
+    {
+      "name": "body13",
+      "parent": "body1",
+      "x": 28.5,
+      "y": 36.91,
+      "skin": true
+    },
+    {
+      "name": "body14",
+      "parent": "body13",
+      "x": 4.5,
+      "y": 30.01,
+      "skin": true
+    },
+    {
+      "name": "body15",
+      "parent": "body1",
+      "x": 100.29,
+      "y": -42.49,
+      "skin": true
+    },
+    {
+      "name": "body16",
+      "parent": "body1",
+      "x": 100.29,
+      "y": 44.18,
+      "skin": true
+    },
+    {
+      "name": "laser_lv5/gun3",
+      "parent": "body1",
+      "x": 129.21,
+      "y": 0.09,
+      "skin": true
+    },
+    {
+      "name": "target",
+      "parent": "root",
+      "x": -0.53,
+      "y": 600.06,
+      "color": "ff3f00ff"
+    }
+  ],
+  "slots": [
+    {
+      "name": "laser_lv2/arm1a",
+      "bone": "body10",
+      "attachment": "arm1a"
+    },
+    {
+      "name": "laser_lv2/arm1a2",
+      "bone": "body3",
+      "attachment": "arm1a"
+    },
+    {
+      "name": "body3",
+      "bone": "body9",
+      "attachment": "body3"
+    },
+    {
+      "name": "body3_l",
+      "bone": "body3_l",
+      "attachment": "body3_l",
+      "blend": "additive"
+    },
+    {
+      "name": "gun",
+      "bone": "gun",
+      "attachment": "gun"
+    },
+    {
+      "name": "body2",
+      "bone": "body4",
+      "attachment": "body2"
+    },
+    {
+      "name": "body1",
+      "bone": "body1",
+      "attachment": "body1"
+    },
+    {
+      "name": "laser_lv5/gun2",
+      "bone": "gun",
+      "attachment": "gun1"
+    },
+    {
+      "name": "laser_lv5/gun1",
+      "bone": "gun",
+      "blend": "additive"
+    },
+    {
+      "name": "body4",
+      "bone": "body1",
+      "attachment": "body4"
+    },
+    {
+      "name": "laser_lv5/body7",
+      "bone": "body2",
+      "attachment": "body7"
+    },
+    {
+      "name": "laser_lv3/ong_2",
+      "bone": "body13",
+      "attachment": "ong_1"
+    },
+    {
+      "name": "laser_lv3/ong_1",
+      "bone": "body11",
+      "attachment": "ong_1"
+    },
+    {
+      "name": "laser_lv5/gun3",
+      "bone": "laser_lv5/gun3",
+      "attachment": "gun2"
+    },
+    {
+      "name": "laser_lv5/wing2",
+      "bone": "body3",
+      "attachment": "wing2"
+    },
+    {
+      "name": "laser_lv5/wing3",
+      "bone": "body10",
+      "attachment": "wing2"
+    },
+    {
+      "name": "door1",
+      "bone": "body1",
+      "attachment": "door3"
+    },
+    {
+      "name": "body5",
+      "bone": "body5",
+      "attachment": "body5a"
+    },
+    {
+      "name": "body6",
+      "bone": "body6",
+      "attachment": "body6a"
+    },
+    {
+      "name": "body7",
+      "bone": "body7",
+      "attachment": "body6a"
+    },
+    {
+      "name": "body8",
+      "bone": "body8",
+      "attachment": "body6a"
+    },
+    {
+      "name": "arm2",
+      "bone": "body1",
+      "attachment": "arm2"
+    },
+    {
+      "name": "arm1",
+      "bone": "body3",
+      "attachment": "arm1"
+    },
+    {
+      "name": "laser_lv1/arm1",
+      "bone": "body1",
+      "attachment": "arm1"
+    },
+    {
+      "name": "laser_lv2/arm2",
+      "bone": "body10",
+      "attachment": "arm2"
+    },
+    {
+      "name": "laser_lv4/wing1",
+      "bone": "body15",
+      "attachment": "wing1"
+    },
+    {
+      "name": "laser_lv4/wing2",
+      "bone": "body16",
+      "attachment": "wing1"
+    }
+  ],
+  "ik": [
+    {
+      "name": "target",
+      "bones": [
+        "body1"
+      ],
+      "target": "target"
+    }
+  ],
+  "transform": [
+    {
+      "name": "body1",
+      "order": 3,
+      "skin": true,
+      "bones": [
+        "body9"
+      ],
+      "target": "body1",
+      "local": true,
+      "rotateMix": 0,
+      "scaleMix": 0,
+      "shearMix": 0
+    },
+    {
+      "name": "body3",
+      "order": 1,
+      "skin": true,
+      "bones": [
+        "body12"
+      ],
+      "target": "body3",
+      "rotation": 1.4,
+      "x": -41.91,
+      "y": 8.08,
+      "rotateMix": 0,
+      "translateMix": 0.4,
+      "scaleMix": 0,
+      "shearMix": 0
+    },
+    {
+      "name": "body10",
+      "order": 2,
+      "skin": true,
+      "bones": [
+        "body14"
+      ],
+      "target": "body10",
+      "local": true,
+      "x": -74.81,
+      "y": -38.97,
+      "rotateMix": 0,
+      "translateMix": 0.4,
+      "scaleMix": 0,
+      "shearMix": 0
+    }
+  ],
+  "skins": [
+    {
+      "name": "lv1",
+      "bones": [
+        "body1",
+        "body2",
+        "body3_l",
+        "body4",
+        "body5",
+        "body6",
+        "body7",
+        "body8",
+        "body9",
+        "gun"
+      ],
+      "transform": [
+        "body1"
+      ],
+      "attachments": {
+        "arm1": {
+          "arm1": {
+            "name": "laser_lv1/arm1",
+            "x": -1.97,
+            "y": -1.18,
+            "rotation": -90,
+            "width": 35,
+            "height": 63
+          }
+        },
+        "arm2": {
+          "arm2": {
+            "name": "laser_lv1/arm2",
+            "x": 77.79,
+            "y": 69.62,
+            "rotation": -90,
+            "width": 35,
+            "height": 63
+          }
+        },
+        "body1": {
+          "body1": {
+            "name": "laser_lv1/body1",
+            "x": 77.33,
+            "rotation": -90,
+            "width": 142,
+            "height": 147
+          }
+        },
+        "body2": {
+          "body2": {
+            "name": "laser_lv1/body2",
+            "rotation": -90,
+            "width": 63,
+            "height": 31
+          }
+        },
+        "body3": {
+          "body3": {
+            "name": "laser_lv1/body3",
+            "rotation": -90,
+            "width": 120,
+            "height": 53
+          }
+        },
+        "body3_l": {
+          "body3_l": {
+            "name": "laser_lv1/body3_l",
+            "x": 16.95,
+            "y": 0.19,
+            "rotation": 89.1,
+            "width": 120,
+            "height": 53
+          }
+        },
+        "body4": {
+          "body4": {
+            "name": "laser_lv1/body4",
+            "x": 76.29,
+            "rotation": -90,
+            "width": 66,
+            "height": 62
+          }
+        },
+        "body5": {
+          "body5": {
+            "name": "laser_lv1/body5",
+            "x": -5.38,
+            "rotation": -90,
+            "width": 63,
+            "height": 38
+          },
+          "body5a": {
+            "name": "laser_lv1/body5a",
+            "x": -5.38,
+            "rotation": -90,
+            "width": 63,
+            "height": 38
+          }
+        },
+        "body6": {
+          "body6": {
+            "name": "laser_lv1/body6",
+            "x": -5.12,
+            "rotation": -90,
+            "width": 63,
+            "height": 35
+          },
+          "body6a": {
+            "name": "laser_lv1/body6a",
+            "x": -5.12,
+            "rotation": -90,
+            "width": 63,
+            "height": 35
+          }
+        },
+        "body7": {
+          "body6": {
+            "name": "laser_lv1/body6",
+            "x": -5.12,
+            "rotation": -90,
+            "width": 63,
+            "height": 35
+          },
+          "body6a": {
+            "name": "laser_lv1/body6a",
+            "x": -5.12,
+            "rotation": -90,
+            "width": 63,
+            "height": 35
+          }
+        },
+        "body8": {
+          "body6": {
+            "name": "laser_lv1/body6",
+            "x": -5.12,
+            "rotation": -90,
+            "width": 63,
+            "height": 35
+          },
+          "body6a": {
+            "name": "laser_lv1/body6a",
+            "x": -5.12,
+            "rotation": -90,
+            "width": 63,
+            "height": 35
+          }
+        },
+        "door1": {
+          "door1": {
+            "name": "laser_lv1/door1",
+            "x": 78.29,
+            "rotation": -90,
+            "width": 71,
+            "height": 64
+          },
+          "door2": {
+            "name": "laser_lv1/door2",
+            "x": 78.29,
+            "rotation": -90,
+            "width": 72,
+            "height": 64
+          },
+          "door3": {
+            "name": "laser_lv1/door3",
+            "x": 78.29,
+            "rotation": -90,
+            "width": 72,
+            "height": 64
+          }
+        },
+        "gun": {
+          "gun": {
+            "name": "laser_lv1/gun",
+            "x": 44.88,
+            "rotation": -90,
+            "width": 77,
+            "height": 93
+          }
+        },
+        "laser_lv1/arm1": {
+          "arm1": {
+            "name": "laser_lv1/arm1",
+            "x": 77.8,
+            "y": -71.06,
+            "rotation": -90,
+            "width": 35,
+            "height": 63
+          }
+        }
+      }
+    },
+    {
+      "name": "lv2",
+      "bones": [
+        "body1",
+        "body2",
+        "body3",
+        "body3_l",
+        "body4",
+        "body5",
+        "body6",
+        "body7",
+        "body8",
+        "body9",
+        "body10",
+        "gun"
+      ],
+      "transform": [
+        "body1"
+      ],
+      "attachments": {
+        "arm1": {
+          "arm1": {
+            "name": "laser_lv2/arm1",
+            "x": -1.97,
+            "y": -1.18,
+            "rotation": -90,
+            "width": 35,
+            "height": 69
+          }
+        },
+        "body1": {
+          "body1": {
+            "name": "laser_lv2/body1",
+            "x": 77.33,
+            "rotation": -90,
+            "width": 142,
+            "height": 147
+          }
+        },
+        "body2": {
+          "body2": {
+            "name": "laser_lv2/body2",
+            "rotation": -90,
+            "width": 63,
+            "height": 31
+          }
+        },
+        "body3": {
+          "body3": {
+            "name": "laser_lv2/body3",
+            "rotation": -90,
+            "width": 120,
+            "height": 53
+          }
+        },
+        "body3_l": {
+          "body3_l": {
+            "name": "laser_lv2/body3_l",
+            "x": 16.95,
+            "y": 0.19,
+            "rotation": 89.1,
+            "width": 120,
+            "height": 53
+          }
+        },
+        "body4": {
+          "body4": {
+            "name": "laser_lv2/body4",
+            "x": 76.29,
+            "rotation": -90,
+            "width": 66,
+            "height": 62
+          }
+        },
+        "body5": {
+          "body5": {
+            "name": "laser_lv2/body5",
+            "x": -5.38,
+            "rotation": -90,
+            "width": 63,
+            "height": 38
+          },
+          "body5a": {
+            "name": "laser_lv2/body5a",
+            "x": -5.38,
+            "rotation": -90,
+            "width": 63,
+            "height": 38
+          }
+        },
+        "body6": {
+          "body6": {
+            "name": "laser_lv2/body6",
+            "x": -5.12,
+            "rotation": -90,
+            "width": 63,
+            "height": 35
+          },
+          "body6a": {
+            "name": "laser_lv2/body6a",
+            "x": -5.12,
+            "rotation": -90,
+            "width": 63,
+            "height": 35
+          }
+        },
+        "body7": {
+          "body6": {
+            "name": "laser_lv2/body6",
+            "x": -5.12,
+            "rotation": -90,
+            "width": 63,
+            "height": 35
+          },
+          "body6a": {
+            "name": "laser_lv2/body6a",
+            "x": -5.12,
+            "rotation": -90,
+            "width": 63,
+            "height": 35
+          }
+        },
+        "body8": {
+          "body6": {
+            "name": "laser_lv2/body6",
+            "x": -5.12,
+            "rotation": -90,
+            "width": 63,
+            "height": 35
+          },
+          "body6a": {
+            "name": "laser_lv2/body6a",
+            "x": -5.12,
+            "rotation": -90,
+            "width": 63,
+            "height": 35
+          }
+        },
+        "door1": {
+          "door1": {
+            "name": "laser_lv2/door1",
+            "x": 78.29,
+            "rotation": -90,
+            "width": 71,
+            "height": 64
+          },
+          "door2": {
+            "name": "laser_lv2/door2",
+            "x": 78.29,
+            "rotation": -90,
+            "width": 72,
+            "height": 64
+          },
+          "door3": {
+            "name": "laser_lv2/door3",
+            "x": 78.29,
+            "rotation": -90,
+            "width": 72,
+            "height": 64
+          }
+        },
+        "gun": {
+          "gun": {
+            "name": "laser_lv2/gun",
+            "x": 44.88,
+            "rotation": -90,
+            "width": 77,
+            "height": 93
+          }
+        },
+        "laser_lv2/arm1a": {
+          "arm1a": {
+            "name": "laser_lv2/arm1a",
+            "x": 10.78,
+            "y": -4.01,
+            "scaleX": -1,
+            "rotation": -89.5,
+            "width": 45,
+            "height": 78
+          }
+        },
+        "laser_lv2/arm1a2": {
+          "arm1a": {
+            "name": "laser_lv2/arm1a",
+            "x": 10.32,
+            "y": 5.16,
+            "rotation": -89.5,
+            "width": 45,
+            "height": 78
+          }
+        },
+        "laser_lv2/arm2": {
+          "arm2": {
+            "name": "laser_lv2/arm2",
+            "x": -1.05,
+            "y": 1.05,
+            "rotation": -90,
+            "width": 35,
+            "height": 66
+          }
+        }
+      }
+    },
+    {
+      "name": "lv3",
+      "bones": [
+        "body1",
+        "body2",
+        "body3",
+        "body3_l",
+        "body4",
+        "body5",
+        "body6",
+        "body7",
+        "body8",
+        "body9",
+        "body10",
+        "body11",
+        "body12",
+        "body13",
+        "body14",
+        "gun"
+      ],
+      "transform": [
+        "body1",
+        "body3",
+        "body10"
+      ],
+      "attachments": {
+        "arm1": {
+          "arm1": {
+            "name": "laser_lv3/arm1",
+            "x": -1.97,
+            "y": -1.18,
+            "rotation": -90,
+            "width": 39,
+            "height": 74
+          }
+        },
+        "body1": {
+          "body1": {
+            "name": "laser_lv3/body1",
+            "x": 77.33,
+            "rotation": -90,
+            "width": 142,
+            "height": 147
+          }
+        },
+        "body2": {
+          "body2": {
+            "name": "laser_lv3/body2",
+            "rotation": -90,
+            "width": 63,
+            "height": 31
+          }
+        },
+        "body3": {
+          "body3": {
+            "name": "laser_lv3/body3",
+            "rotation": -90,
+            "width": 120,
+            "height": 53
+          }
+        },
+        "body3_l": {
+          "body3_l": {
+            "name": "laser_lv3/body3_l",
+            "x": 16.95,
+            "y": 0.19,
+            "rotation": 89.1,
+            "width": 120,
+            "height": 53
+          }
+        },
+        "body4": {
+          "body4": {
+            "name": "laser_lv3/body4",
+            "x": 76.29,
+            "rotation": -90,
+            "width": 66,
+            "height": 62
+          }
+        },
+        "body5": {
+          "body5": {
+            "name": "laser_lv3/body5",
+            "x": -5.38,
+            "rotation": -90,
+            "width": 63,
+            "height": 38
+          },
+          "body5a": {
+            "name": "laser_lv3/body5a",
+            "x": -5.38,
+            "rotation": -90,
+            "width": 63,
+            "height": 38
+          }
+        },
+        "body6": {
+          "body6": {
+            "name": "laser_lv3/body6",
+            "x": -5.12,
+            "rotation": -90,
+            "width": 63,
+            "height": 35
+          },
+          "body6a": {
+            "name": "laser_lv3/body6a",
+            "x": -5.12,
+            "rotation": -90,
+            "width": 63,
+            "height": 35
+          }
+        },
+        "body7": {
+          "body6": {
+            "name": "laser_lv3/body6",
+            "x": -5.12,
+            "rotation": -90,
+            "width": 63,
+            "height": 35
+          },
+          "body6a": {
+            "name": "laser_lv3/body6a",
+            "x": -5.12,
+            "rotation": -90,
+            "width": 63,
+            "height": 35
+          }
+        },
+        "body8": {
+          "body6": {
+            "name": "laser_lv3/body6",
+            "x": -5.12,
+            "rotation": -90,
+            "width": 63,
+            "height": 35
+          },
+          "body6a": {
+            "name": "laser_lv3/body6a",
+            "x": -5.12,
+            "rotation": -90,
+            "width": 63,
+            "height": 35
+          }
+        },
+        "door1": {
+          "door1": {
+            "name": "laser_lv3/door1",
+            "x": 78.29,
+            "rotation": -90,
+            "width": 71,
+            "height": 64
+          },
+          "door2": {
+            "name": "laser_lv3/door2",
+            "x": 78.29,
+            "rotation": -90,
+            "width": 72,
+            "height": 64
+          },
+          "door3": {
+            "name": "laser_lv3/door3",
+            "x": 78.29,
+            "rotation": -90,
+            "width": 72,
+            "height": 64
+          }
+        },
+        "gun": {
+          "gun": {
+            "name": "laser_lv3/gun",
+            "x": 44.88,
+            "rotation": -90,
+            "width": 81,
+            "height": 93
+          }
+        },
+        "laser_lv2/arm1a": {
+          "arm1a": {
+            "name": "laser_lv3/arm1a",
+            "x": 10.78,
+            "y": -4.01,
+            "scaleX": -1,
+            "rotation": -89.5,
+            "width": 51,
+            "height": 79
+          }
+        },
+        "laser_lv2/arm1a2": {
+          "arm1a": {
+            "name": "laser_lv3/arm1a",
+            "x": 10.32,
+            "y": 5.16,
+            "rotation": -89.5,
+            "width": 51,
+            "height": 79
+          }
+        },
+        "laser_lv2/arm2": {
+          "arm2": {
+            "name": "laser_lv3/arm2",
+            "x": -1.05,
+            "y": 1.05,
+            "rotation": -90,
+            "width": 39,
+            "height": 74
+          }
+        },
+        "laser_lv3/ong_1": {
+          "ong_1": {
+            "name": "laser_lv3/ong_1",
+            "type": "mesh",
+            "uvs": [
+              1,
+              0.26583,
+              1,
+              0.49058,
+              0.88224,
+              0.78163,
+              0.59278,
+              0.93151,
+              0.29534,
+              1,
+              0,
+              1,
+              0,
+              0.7466,
+              0,
+              0.51567,
+              0.25993,
+              0.51913,
+              0.44055,
+              0.43934,
+              0.47496,
+              0.26763,
+              0.46066,
+              0,
+              0.74758,
+              0,
+              1,
+              0,
+              0.3017,
+              0.75243,
+              0.57016,
+              0.67827,
+              0.74495,
+              0.47442,
+              0.76495,
+              0.23805
+            ],
+            "triangles": [
+              9,
+              10,
+              16,
+              15,
+              9,
+              16,
+              16,
+              0,
+              1,
+              17,
+              13,
+              0,
+              17,
+              12,
+              13,
+              17,
+              11,
+              12,
+              17,
+              10,
+              11,
+              16,
+              10,
+              17,
+              16,
+              17,
+              0,
+              2,
+              16,
+              1,
+              3,
+              15,
+              2,
+              15,
+              16,
+              2,
+              6,
+              7,
+              8,
+              14,
+              8,
+              15,
+              6,
+              8,
+              14,
+              4,
+              5,
+              6,
+              14,
+              4,
+              6,
+              4,
+              14,
+              3,
+              8,
+              9,
+              15,
+              14,
+              15,
+              3
+            ],
+            "vertices": [
+              3,
+              14,
+              33.01,
+              -49.68,
+              0.03621,
+              15,
+              26.62,
+              -20.1,
+              0.34367,
+              12,
+              -16.85,
+              -15.72,
+              0.62013,
+              3,
+              14,
+              17.98,
+              -50.49,
+              0.10222,
+              15,
+              11.59,
+              -20.91,
+              0.46832,
+              12,
+              -31.87,
+              -16.89,
+              0.42946,
+              3,
+              14,
+              -1.87,
+              -44.59,
+              0.22435,
+              15,
+              -8.26,
+              -15.01,
+              0.53319,
+              12,
+              -51.85,
+              -11.48,
+              0.24247,
+              3,
+              14,
+              -12.81,
+              -28.07,
+              0.39328,
+              15,
+              -19.2,
+              1.51,
+              0.49857,
+              12,
+              -63.19,
+              4.77,
+              0.10815,
+              3,
+              14,
+              -18.33,
+              -10.8,
+              0.71254,
+              15,
+              -24.72,
+              18.79,
+              0.286,
+              12,
+              -69.13,
+              21.91,
+              0.00146,
+              3,
+              14,
+              -19.26,
+              6.6,
+              0.976,
+              15,
+              -25.65,
+              36.19,
+              0.02276,
+              12,
+              -70.48,
+              39.28,
+              0.00124,
+              3,
+              14,
+              -2.3,
+              7.51,
+              0.976,
+              15,
+              -8.69,
+              37.09,
+              0.02067,
+              12,
+              -53.56,
+              40.6,
+              0.00333,
+              3,
+              14,
+              13.15,
+              8.34,
+              0.976,
+              15,
+              6.76,
+              37.92,
+              0.0177,
+              12,
+              -38.13,
+              41.8,
+              0.0063,
+              3,
+              14,
+              13.74,
+              -6.99,
+              0.88894,
+              15,
+              7.34,
+              22.59,
+              0.10151,
+              12,
+              -37.17,
+              26.5,
+              0.00955,
+              3,
+              14,
+              19.64,
+              -17.34,
+              0.33787,
+              15,
+              13.25,
+              12.24,
+              0.26961,
+              12,
+              -31.01,
+              16.29,
+              0.39252,
+              3,
+              14,
+              31.24,
+              -18.76,
+              0.17627,
+              15,
+              24.85,
+              10.82,
+              0.23547,
+              12,
+              -19.38,
+              15.16,
+              0.58826,
+              3,
+              14,
+              49.1,
+              -16.96,
+              0.075,
+              15,
+              42.71,
+              12.62,
+              0.19661,
+              12,
+              -1.57,
+              17.39,
+              0.72839,
+              3,
+              14,
+              50,
+              -33.86,
+              0.03979,
+              15,
+              43.61,
+              -4.28,
+              0.20576,
+              12,
+              -0.26,
+              0.52,
+              0.75445,
+              3,
+              14,
+              50.8,
+              -48.73,
+              0.01679,
+              15,
+              44.41,
+              -19.15,
+              0.23671,
+              12,
+              0.9,
+              -14.33,
+              0.7465,
+              3,
+              14,
+              -1.74,
+              -10.28,
+              0.7693,
+              15,
+              -8.13,
+              19.3,
+              0.22587,
+              12,
+              -52.56,
+              22.82,
+              0.00483,
+              3,
+              14,
+              4.07,
+              -25.84,
+              0.39713,
+              15,
+              -2.33,
+              3.75,
+              0.35973,
+              12,
+              -46.38,
+              7.42,
+              0.24314,
+              3,
+              14,
+              18.26,
+              -35.4,
+              0.2256,
+              15,
+              11.86,
+              -5.82,
+              0.34213,
+              12,
+              -31.96,
+              -1.8,
+              0.43227,
+              3,
+              14,
+              34.13,
+              -35.74,
+              0.10244,
+              15,
+              27.74,
+              -6.16,
+              0.2709,
+              12,
+              -16.08,
+              -1.75,
+              0.62666
+            ],
+            "hull": 14,
+            "edges": [
+              14,
+              16,
+              16,
+              18,
+              18,
+              20,
+              20,
+              22,
+              8,
+              10,
+              8,
+              6,
+              6,
+              4,
+              4,
+              2,
+              2,
+              0,
+              0,
+              26,
+              10,
+              12,
+              12,
+              14,
+              12,
+              28,
+              28,
+              30,
+              30,
+              32,
+              32,
+              34,
+              22,
+              24,
+              24,
+              26,
+              34,
+              24
+            ],
+            "width": 59,
+            "height": 67
+          }
+        },
+        "laser_lv3/ong_2": {
+          "ong_1": {
+            "name": "laser_lv3/ong_1",
+            "type": "mesh",
+            "uvs": [
+              1,
+              0.22899,
+              1,
+              0.50251,
+              0.87128,
+              0.77603,
+              0.62406,
+              0.94071,
+              0.31345,
+              1,
+              0,
+              0.93791,
+              0,
+              0.73417,
+              0,
+              0.54438,
+              0.21836,
+              0.54438,
+              0.4117,
+              0.49972,
+              0.49728,
+              0.36854,
+              0.50362,
+              0.19829,
+              0.50045,
+              0,
+              0.73816,
+              0,
+              1,
+              0,
+              0.75401,
+              0.21224,
+              0.72231,
+              0.45506,
+              0.6399,
+              0.61974,
+              0.48143,
+              0.73975,
+              0.23738,
+              0.7565
+            ],
+            "triangles": [
+              11,
+              12,
+              13,
+              15,
+              13,
+              14,
+              11,
+              13,
+              15,
+              15,
+              14,
+              0,
+              16,
+              9,
+              10,
+              17,
+              9,
+              16,
+              18,
+              9,
+              17,
+              1,
+              17,
+              16,
+              2,
+              17,
+              1,
+              3,
+              18,
+              17,
+              3,
+              17,
+              2,
+              16,
+              10,
+              15,
+              1,
+              16,
+              0,
+              8,
+              9,
+              18,
+              16,
+              15,
+              0,
+              10,
+              11,
+              15,
+              6,
+              7,
+              8,
+              19,
+              8,
+              18,
+              6,
+              8,
+              19,
+              5,
+              6,
+              19,
+              4,
+              19,
+              18,
+              5,
+              19,
+              4,
+              4,
+              18,
+              3
+            ],
+            "vertices": [
+              2,
+              17,
+              29.67,
+              20.29,
+              0.552,
+              13,
+              -16.63,
+              18.23,
+              0.448,
+              1,
+              17,
+              11.34,
+              20.29,
+              1,
+              1,
+              17,
+              -6.98,
+              12.7,
+              1,
+              2,
+              16,
+              -13.52,
+              28.12,
+              0.312,
+              17,
+              -18.02,
+              -1.89,
+              0.688,
+              1,
+              16,
+              -17.49,
+              9.79,
+              1,
+              1,
+              16,
+              -13.33,
+              -8.7,
+              1,
+              1,
+              16,
+              0.32,
+              -8.7,
+              1,
+              1,
+              16,
+              13.03,
+              -8.7,
+              1,
+              1,
+              16,
+              13.03,
+              4.18,
+              1,
+              2,
+              16,
+              16.03,
+              15.59,
+              0.192,
+              17,
+              11.53,
+              -14.42,
+              0.808,
+              1,
+              17,
+              20.32,
+              -9.37,
+              1,
+              2,
+              17,
+              31.72,
+              -8.99,
+              0.2,
+              13,
+              -14.58,
+              -11.05,
+              0.8,
+              1,
+              13,
+              -1.29,
+              -11.24,
+              1,
+              1,
+              13,
+              -1.29,
+              2.78,
+              1,
+              1,
+              13,
+              -1.29,
+              18.23,
+              1,
+              2,
+              17,
+              30.79,
+              5.78,
+              0.4,
+              13,
+              -15.51,
+              3.72,
+              0.6,
+              1,
+              17,
+              14.52,
+              3.91,
+              1,
+              1,
+              17,
+              3.49,
+              -0.95,
+              1,
+              2,
+              16,
+              -0.06,
+              19.71,
+              0.248,
+              17,
+              -4.55,
+              -10.3,
+              0.752,
+              1,
+              16,
+              -1.18,
+              5.31,
+              1
+            ],
+            "hull": 15,
+            "edges": [
+              24,
+              22,
+              22,
+              20,
+              20,
+              18,
+              18,
+              16,
+              16,
+              14,
+              10,
+              8,
+              8,
+              6,
+              6,
+              4,
+              4,
+              2,
+              2,
+              0,
+              0,
+              28,
+              24,
+              26,
+              26,
+              28,
+              26,
+              30,
+              30,
+              32,
+              32,
+              34,
+              34,
+              36,
+              36,
+              38,
+              10,
+              12,
+              12,
+              14,
+              38,
+              12
+            ],
+            "width": 59,
+            "height": 67
+          }
+        }
+      }
+    },
+    {
+      "name": "lv4",
+      "bones": [
+        "body1",
+        "body2",
+        "body3",
+        "body3_l",
+        "body4",
+        "body5",
+        "body6",
+        "body7",
+        "body8",
+        "body9",
+        "body10",
+        "body11",
+        "body12",
+        "body13",
+        "body14",
+        "body15",
+        "body16",
+        "gun"
+      ],
+      "transform": [
+        "body1",
+        "body3",
+        "body10"
+      ],
+      "attachments": {
+        "arm1": {
+          "arm1": {
+            "name": "laser_lv4/arm1",
+            "x": -1.97,
+            "y": -1.18,
+            "rotation": -90,
+            "width": 39,
+            "height": 74
+          }
+        },
+        "body1": {
+          "body1": {
+            "name": "laser_lv4/body1",
+            "x": 77.33,
+            "rotation": -90,
+            "width": 142,
+            "height": 147
+          }
+        },
+        "body2": {
+          "body2": {
+            "name": "laser_lv4/body2",
+            "rotation": -90,
+            "width": 63,
+            "height": 31
+          }
+        },
+        "body3": {
+          "body3": {
+            "name": "laser_lv4/body3",
+            "rotation": -90,
+            "width": 120,
+            "height": 53
+          }
+        },
+        "body3_l": {
+          "body3_l": {
+            "name": "laser_lv4/body3_l",
+            "x": 16.95,
+            "y": 0.19,
+            "rotation": 89.1,
+            "width": 120,
+            "height": 53
+          }
+        },
+        "body4": {
+          "body4": {
+            "name": "laser_lv4/body4",
+            "x": 76.29,
+            "rotation": -90,
+            "width": 66,
+            "height": 62
+          }
+        },
+        "body5": {
+          "body5": {
+            "name": "laser_lv4/body5",
+            "x": -5.38,
+            "rotation": -90,
+            "width": 63,
+            "height": 38
+          },
+          "body5a": {
+            "name": "laser_lv4/body5a",
+            "x": -5.38,
+            "rotation": -90,
+            "width": 63,
+            "height": 38
+          }
+        },
+        "body6": {
+          "body6": {
+            "name": "laser_lv4/body6",
+            "x": -5.12,
+            "rotation": -90,
+            "width": 63,
+            "height": 35
+          },
+          "body6a": {
+            "name": "laser_lv4/body6a",
+            "x": -5.12,
+            "rotation": -90,
+            "width": 63,
+            "height": 35
+          }
+        },
+        "body7": {
+          "body6": {
+            "name": "laser_lv4/body6",
+            "x": -5.12,
+            "rotation": -90,
+            "width": 63,
+            "height": 35
+          },
+          "body6a": {
+            "name": "laser_lv4/body6a",
+            "x": -5.12,
+            "rotation": -90,
+            "width": 63,
+            "height": 35
+          }
+        },
+        "body8": {
+          "body6": {
+            "name": "laser_lv4/body6",
+            "x": -5.12,
+            "rotation": -90,
+            "width": 63,
+            "height": 35
+          },
+          "body6a": {
+            "name": "laser_lv4/body6a",
+            "x": -5.12,
+            "rotation": -90,
+            "width": 63,
+            "height": 35
+          }
+        },
+        "door1": {
+          "door1": {
+            "name": "laser_lv4/door1",
+            "x": 78.29,
+            "rotation": -90,
+            "width": 71,
+            "height": 64
+          },
+          "door2": {
+            "name": "laser_lv4/door2",
+            "x": 78.29,
+            "rotation": -90,
+            "width": 72,
+            "height": 64
+          },
+          "door3": {
+            "name": "laser_lv4/door3",
+            "x": 78.29,
+            "rotation": -90,
+            "width": 72,
+            "height": 64
+          }
+        },
+        "gun": {
+          "gun": {
+            "name": "laser_lv4/gun",
+            "x": 44.88,
+            "rotation": -90,
+            "width": 81,
+            "height": 93
+          }
+        },
+        "laser_lv2/arm1a": {
+          "arm1a": {
+            "name": "laser_lv4/arm1a",
+            "x": 10.78,
+            "y": -4.01,
+            "scaleX": -1,
+            "rotation": -89.5,
+            "width": 51,
+            "height": 79
+          }
+        },
+        "laser_lv2/arm1a2": {
+          "arm1a": {
+            "name": "laser_lv4/arm1a",
+            "x": 10.32,
+            "y": 5.16,
+            "rotation": -89.5,
+            "width": 51,
+            "height": 79
+          }
+        },
+        "laser_lv2/arm2": {
+          "arm2": {
+            "name": "laser_lv4/arm2",
+            "x": -1.05,
+            "y": 1.05,
+            "rotation": -90,
+            "width": 39,
+            "height": 74
+          }
+        },
+        "laser_lv3/ong_1": {
+          "ong_1": {
+            "name": "laser_lv4/ong_1",
+            "type": "linkedmesh",
+            "skin": "lv3",
+            "parent": "ong_1",
+            "width": 59,
+            "height": 67
+          }
+        },
+        "laser_lv3/ong_2": {
+          "ong_1": {
+            "name": "laser_lv4/ong_1",
+            "type": "linkedmesh",
+            "skin": "lv3",
+            "parent": "ong_1",
+            "width": 59,
+            "height": 67
+          }
+        },
+        "laser_lv4/wing1": {
+          "wing1": {
+            "name": "laser_lv4/wing1",
+            "x": -8.93,
+            "y": -23.03,
+            "rotation": -90,
+            "width": 79,
+            "height": 140
+          }
+        },
+        "laser_lv4/wing2": {
+          "wing1": {
+            "name": "laser_lv4/wing1",
+            "x": -9.6,
+            "y": 21.66,
+            "scaleX": -1,
+            "rotation": -90,
+            "width": 79,
+            "height": 140
+          }
+        }
+      }
+    },
+    {
+      "name": "lv5",
+      "bones": [
+        "body1",
+        "body2",
+        "body3",
+        "body3_l",
+        "body4",
+        "body5",
+        "body6",
+        "body7",
+        "body8",
+        "body9",
+        "body10",
+        "body11",
+        "body12",
+        "body13",
+        "body14",
+        "body15",
+        "body16",
+        "gun",
+        "laser_lv5/gun3"
+      ],
+      "transform": [
+        "body1",
+        "body3",
+        "body10"
+      ],
+      "attachments": {
+        "arm1": {
+          "arm1": {
+            "name": "laser_lv5/arm1",
+            "x": -1.97,
+            "y": -1.18,
+            "rotation": -90,
+            "width": 39,
+            "height": 74
+          }
+        },
+        "body1": {
+          "body1": {
+            "name": "laser_lv5/body1",
+            "x": 77.33,
+            "rotation": -90,
+            "width": 142,
+            "height": 147
+          }
+        },
+        "body2": {
+          "body2": {
+            "name": "laser_lv5/body2",
+            "rotation": -90,
+            "width": 63,
+            "height": 31
+          }
+        },
+        "body3": {
+          "body3": {
+            "name": "laser_lv5/body3",
+            "rotation": -90,
+            "width": 120,
+            "height": 53
+          }
+        },
+        "body3_l": {
+          "body3_l": {
+            "name": "laser_lv5/body3_l",
+            "x": 16.95,
+            "y": 0.19,
+            "rotation": 89.1,
+            "width": 120,
+            "height": 53
+          }
+        },
+        "body4": {
+          "body4": {
+            "name": "laser_lv5/body4",
+            "x": 76.29,
+            "rotation": -90,
+            "width": 66,
+            "height": 62
+          }
+        },
+        "body5": {
+          "body5": {
+            "name": "laser_lv5/body5",
+            "x": -5.38,
+            "rotation": -90,
+            "width": 63,
+            "height": 38
+          },
+          "body5a": {
+            "name": "laser_lv5/body5a",
+            "x": -5.38,
+            "rotation": -90,
+            "width": 63,
+            "height": 38
+          }
+        },
+        "body6": {
+          "body6": {
+            "name": "laser_lv5/body6",
+            "x": -5.12,
+            "rotation": -90,
+            "width": 63,
+            "height": 35
+          },
+          "body6a": {
+            "name": "laser_lv5/body6a",
+            "x": -5.12,
+            "rotation": -90,
+            "width": 63,
+            "height": 35
+          }
+        },
+        "body7": {
+          "body6": {
+            "name": "laser_lv5/body6",
+            "x": -5.12,
+            "rotation": -90,
+            "width": 63,
+            "height": 35
+          },
+          "body6a": {
+            "name": "laser_lv5/body6a",
+            "x": -5.12,
+            "rotation": -90,
+            "width": 63,
+            "height": 35
+          }
+        },
+        "body8": {
+          "body6": {
+            "name": "laser_lv5/body6",
+            "x": -5.12,
+            "rotation": -90,
+            "width": 63,
+            "height": 35
+          },
+          "body6a": {
+            "name": "laser_lv5/body6a",
+            "x": -5.12,
+            "rotation": -90,
+            "width": 63,
+            "height": 35
+          }
+        },
+        "door1": {
+          "door1": {
+            "name": "laser_lv5/door1",
+            "x": 78.29,
+            "rotation": -90,
+            "width": 71,
+            "height": 64
+          },
+          "door2": {
+            "name": "laser_lv5/door2",
+            "x": 78.29,
+            "rotation": -90,
+            "width": 72,
+            "height": 64
+          },
+          "door3": {
+            "name": "laser_lv5/door3",
+            "x": 78.29,
+            "rotation": -90,
+            "width": 72,
+            "height": 64
+          }
+        },
+        "gun": {
+          "gun": {
+            "name": "laser_lv5/gun",
+            "x": 44.88,
+            "rotation": -90,
+            "width": 81,
+            "height": 93
+          }
+        },
+        "laser_lv2/arm1a": {
+          "arm1a": {
+            "name": "laser_lv5/arm1a",
+            "x": 10.78,
+            "y": -4.01,
+            "scaleX": -1,
+            "rotation": -89.5,
+            "width": 51,
+            "height": 79
+          }
+        },
+        "laser_lv2/arm1a2": {
+          "arm1a": {
+            "name": "laser_lv5/arm1a",
+            "x": 10.32,
+            "y": 5.16,
+            "rotation": -89.5,
+            "width": 51,
+            "height": 79
+          }
+        },
+        "laser_lv2/arm2": {
+          "arm2": {
+            "name": "laser_lv5/arm2",
+            "x": -1.05,
+            "y": 1.05,
+            "rotation": -90,
+            "width": 39,
+            "height": 74
+          }
+        },
+        "laser_lv3/ong_1": {
+          "ong_1": {
+            "name": "laser_lv5/ong_1",
+            "type": "linkedmesh",
+            "skin": "lv3",
+            "parent": "ong_1",
+            "width": 59,
+            "height": 67
+          }
+        },
+        "laser_lv3/ong_2": {
+          "ong_1": {
+            "name": "laser_lv5/ong_1",
+            "type": "linkedmesh",
+            "skin": "lv3",
+            "parent": "ong_1",
+            "width": 59,
+            "height": 67
+          }
+        },
+        "laser_lv4/wing1": {
+          "wing1": {
+            "name": "laser_lv5/wing1",
+            "x": -8.93,
+            "y": -23.03,
+            "rotation": -90,
+            "width": 79,
+            "height": 140
+          }
+        },
+        "laser_lv4/wing2": {
+          "wing1": {
+            "name": "laser_lv5/wing1",
+            "x": -9.6,
+            "y": 21.66,
+            "scaleX": -1,
+            "rotation": -90,
+            "width": 79,
+            "height": 140
+          }
+        },
+        "laser_lv5/body7": {
+          "body7": {
+            "name": "laser_lv5/body7",
+            "x": -5.6,
+            "y": -0.65,
+            "scaleX": 1.0312,
+            "scaleY": 1.0134,
+            "rotation": 90,
+            "width": 61,
+            "height": 30
+          }
+        },
+        "laser_lv5/gun1": {
+          "laser_lv5/gun1_l1": {
+            "x": 18.14,
+            "rotation": -90,
+            "width": 32,
+            "height": 54
+          },
+          "laser_lv5/gun1_l2": {
+            "x": 18.14,
+            "rotation": -90,
+            "width": 32,
+            "height": 54
+          },
+          "laser_lv5/gun1_l3": {
+            "x": 18.14,
+            "rotation": -90,
+            "width": 32,
+            "height": 54
+          }
+        },
+        "laser_lv5/gun2": {
+          "gun1": {
+            "name": "laser_lv5/gun1",
+            "x": 18.14,
+            "rotation": -90,
+            "width": 32,
+            "height": 54
+          }
+        },
+        "laser_lv5/gun3": {
+          "gun2": {
+            "name": "laser_lv5/gun2",
+            "x": 33.67,
+            "rotation": -90,
+            "width": 135,
+            "height": 106
+          }
+        },
+        "laser_lv5/wing2": {
+          "wing2": {
+            "name": "laser_lv5/wing2",
+            "x": 39.7,
+            "y": -9.13,
+            "rotation": -90,
+            "width": 36,
+            "height": 64
+          }
+        },
+        "laser_lv5/wing3": {
+          "wing2": {
+            "name": "laser_lv5/wing2",
+            "x": 40.16,
+            "y": 12.18,
+            "scaleX": -1,
+            "rotation": -90,
+            "width": 36,
+            "height": 64
+          }
+        }
+      }
+    }
+  ],
+  "events": {
+    "fire_atk": {}
+  },
+  "animations": {
+    "Attack": {
+      "slots": {
+        "body3_l": {
+          "color": [
+            {
+              "color": "ffffffff"
+            },
+            {
+              "time": 0.1667,
+              "color": "ffffff7d"
+            },
+            {
+              "time": 0.3333,
+              "color": "ffffffff"
+            },
+            {
+              "time": 0.4667,
+              "color": "ffffff7d"
+            },
+            {
+              "time": 0.5333,
+              "color": "ffffffff"
+            },
+            {
+              "time": 0.6333,
+              "color": "ffffff7d"
+            }
+          ]
+        },
+        "body5": {
+          "attachment": [
+            {
+              "time": 0.4667,
+              "name": "body5"
+            },
+            {
+              "time": 0.7333,
+              "name": "body5a"
+            }
+          ]
+        },
+        "body6": {
+          "attachment": [
+            {
+              "time": 0.4,
+              "name": "body6"
+            },
+            {
+              "time": 0.6667,
+              "name": "body6a"
+            }
+          ]
+        },
+        "body7": {
+          "attachment": [
+            {
+              "time": 0.3333,
+              "name": "body6"
+            },
+            {
+              "time": 0.6,
+              "name": "body6a"
+            }
+          ]
+        },
+        "body8": {
+          "attachment": [
+            {
+              "time": 0.2667,
+              "name": "body6"
+            },
+            {
+              "time": 0.5667,
+              "name": "body6a"
+            }
+          ]
+        },
+        "laser_lv5/gun1": {
+          "attachment": [
+            {
+              "time": 0.5,
+              "name": "laser_lv5/gun1_l1"
+            },
+            {
+              "time": 0.5667,
+              "name": "laser_lv5/gun1_l2"
+            },
+            {
+              "time": 0.6333,
+              "name": "laser_lv5/gun1_l3"
+            }
+          ]
+        }
+      },
+      "bones": {
+        "body1": {
+          "translate": [
+            {},
+            {
+              "time": 0.1667,
+              "y": -2.84
+            },
+            {
+              "time": 0.4667,
+              "y": -5.12
+            },
+            {
+              "time": 0.7333
+            }
+          ],
+          "scale": [
+            {
+              "time": 0.1667
+            },
+            {
+              "time": 0.2667,
+              "x": 0.943,
+              "y": 1.046,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.4667,
+              "x": 0.943,
+              "y": 1.046
+            },
+            {
+              "time": 0.5333,
+              "x": 1.1
+            },
+            {
+              "time": 0.7333
+            }
+          ]
+        },
+        "body8": {
+          "translate": [
+            {
+              "time": 0.1
+            },
+            {
+              "time": 0.2,
+              "x": 5.43
+            },
+            {
+              "time": 0.4,
+              "x": 9.5
+            },
+            {
+              "time": 0.4667,
+              "x": -1.66
+            },
+            {
+              "time": 0.6667
+            }
+          ]
+        },
+        "body7": {
+          "translate": [
+            {
+              "time": 0.1667
+            },
+            {
+              "time": 0.2667,
+              "x": 5.43
+            },
+            {
+              "time": 0.4667,
+              "x": 9.5
+            },
+            {
+              "time": 0.5333,
+              "x": -1.66
+            },
+            {
+              "time": 0.7333
+            }
+          ]
+        },
+        "body6": {
+          "translate": [
+            {
+              "x": -0.55
+            },
+            {
+              "time": 0.0667,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.2333
+            },
+            {
+              "time": 0.3333,
+              "x": 5.43
+            },
+            {
+              "time": 0.5333,
+              "x": 9.5
+            },
+            {
+              "time": 0.6,
+              "x": -1.66
+            },
+            {
+              "time": 0.7333,
+              "x": -0.55
+            }
+          ]
+        },
+        "body5": {
+          "translate": [
+            {
+              "x": -1.11
+            },
+            {
+              "time": 0.1333,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.3
+            },
+            {
+              "time": 0.4,
+              "x": 5.43
+            },
+            {
+              "time": 0.6,
+              "x": 9.5
+            },
+            {
+              "time": 0.6667,
+              "x": -1.66
+            },
+            {
+              "time": 0.7333,
+              "x": -1.11
+            }
+          ]
+        },
+        "gun": {
+          "translate": [
+            {
+              "time": 0.1667
+            },
+            {
+              "time": 0.4667,
+              "x": -23.18
+            },
+            {
+              "time": 0.5333,
+              "x": 3.36
+            },
+            {
+              "time": 0.7333
+            }
+          ],
+          "scale": [
+            {
+              "time": 0.4667
+            },
+            {
+              "time": 0.5333,
+              "x": 1.176
+            },
+            {
+              "time": 0.6
+            }
+          ]
+        },
+        "body4": {
+          "translate": [
+            {
+              "time": 0.1667
+            },
+            {
+              "time": 0.2667,
+              "x": -0.6
+            },
+            {
+              "time": 0.4667,
+              "x": -4.22
+            },
+            {
+              "time": 0.5333,
+              "x": 2.05
+            },
+            {
+              "time": 0.7333
+            }
+          ]
+        },
+        "body9": {
+          "translate": [
+            {
+              "time": 0.1667
+            },
+            {
+              "time": 0.2667,
+              "x": 3.02
+            },
+            {
+              "time": 0.4667,
+              "x": 6.03
+            },
+            {
+              "time": 0.5333,
+              "x": -5.61
+            },
+            {
+              "time": 0.6333,
+              "x": -2.81
+            },
+            {
+              "time": 0.7333
+            }
+          ]
+        },
+        "body3_l": {
+          "scale": [
+            {},
+            {
+              "time": 0.4667,
+              "x": 0.742
+            },
+            {
+              "time": 0.5333,
+              "x": 1.5
+            },
+            {
+              "time": 0.7333
+            }
+          ]
+        },
+        "body10": {
+          "translate": [
+            {},
+            {
+              "time": 0.3333,
+              "y": 14.96
+            },
+            {
+              "time": 0.4667,
+              "x": 8.29,
+              "y": 14.96
+            },
+            {
+              "time": 0.5333,
+              "x": -29.28,
+              "y": 7.14
+            },
+            {
+              "time": 0.6333
+            }
+          ]
+        },
+        "body3": {
+          "translate": [
+            {},
+            {
+              "time": 0.3333,
+              "y": -17.09
+            },
+            {
+              "time": 0.4667,
+              "x": 8.29,
+              "y": -17.09
+            },
+            {
+              "time": 0.5333,
+              "x": -30.3,
+              "y": -7.04
+            },
+            {
+              "time": 0.6333
+            }
+          ]
+        },
+        "body16": {
+          "translate": [
+            {},
+            {
+              "time": 0.3333,
+              "x": -5.66,
+              "y": 9.56
+            },
+            {
+              "time": 0.4667,
+              "x": 1.47,
+              "y": 6.37
+            },
+            {
+              "time": 0.5333,
+              "x": -6.85,
+              "y": 7.82
+            },
+            {
+              "time": 0.7333
+            }
+          ]
+        },
+        "body15": {
+          "translate": [
+            {},
+            {
+              "time": 0.3333,
+              "x": -5.24,
+              "y": -7.27
+            },
+            {
+              "time": 0.4667,
+              "y": -6.54
+            },
+            {
+              "time": 0.5333,
+              "x": -7.6,
+              "y": -6.54
+            },
+            {
+              "time": 0.7333
+            }
+          ]
+        }
+      },
+      "events": [
+        {
+          "time": 0.5,
+          "name": "fire_atk"
+        }
+      ]
+    },
+    "Idle": {
+      "slots": {
+        "body5": {
+          "attachment": [
+            {
+              "time": 0.6,
+              "name": "body5"
+            },
+            {
+              "time": 0.6667,
+              "name": "body5a"
+            }
+          ]
+        },
+        "body6": {
+          "attachment": [
+            {
+              "time": 0.5333,
+              "name": "body6"
+            },
+            {
+              "time": 0.6,
+              "name": "body6a"
+            }
+          ]
+        },
+        "body7": {
+          "attachment": [
+            {
+              "time": 0.4,
+              "name": "body6"
+            },
+            {
+              "time": 0.4667,
+              "name": "body6a"
+            }
+          ]
+        },
+        "body8": {
+          "attachment": [
+            {
+              "time": 0.2667,
+              "name": "body6"
+            },
+            {
+              "time": 0.3333,
+              "name": "body6a"
+            }
+          ]
+        },
+        "laser_lv5/gun1": {
+          "attachment": [
+            {
+              "time": 0.2,
+              "name": "laser_lv5/gun1_l1"
+            },
+            {
+              "time": 0.2667,
+              "name": "laser_lv5/gun1_l2"
+            },
+            {
+              "time": 0.3333,
+              "name": "laser_lv5/gun1_l3"
+            },
+            {
+              "time": 0.4,
+              "name": null
+            }
+          ]
+        }
+      },
+      "bones": {
+        "body1": {
+          "translate": [
+            {},
+            {
+              "time": 0.3333,
+              "y": 3.31
+            },
+            {
+              "time": 0.6667
+            }
+          ],
+          "scale": [
+            {},
+            {
+              "time": 0.3333,
+              "x": 1.022
+            },
+            {
+              "time": 0.6667
+            }
+          ]
+        },
+        "body9": {
+          "translate": [
+            {
+              "x": 0.22
+            },
+            {
+              "time": 0.1333,
+              "x": -0.86
+            },
+            {
+              "time": 0.4667,
+              "x": 1.83
+            },
+            {
+              "time": 0.6667,
+              "x": 0.22
+            }
+          ]
+        },
+        "body8": {
+          "translate": [
+            {
+              "x": -2.12,
+              "curve": 0.372,
+              "c2": 0.62,
+              "c3": 0.711
+            },
+            {
+              "time": 0.0667,
+              "x": -1.65,
+              "curve": 0.32,
+              "c2": 0.29,
+              "c3": 0.757
+            },
+            {
+              "time": 0.3,
+              "x": -4.56,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.5,
+              "x": -4.56,
+              "curve": 0.342,
+              "c2": 0.36,
+              "c3": 0.703,
+              "c4": 0.79
+            },
+            {
+              "time": 0.6667,
+              "x": -2.12
+            }
+          ]
+        },
+        "body7": {
+          "translate": [
+            {
+              "x": -1.77,
+              "curve": 0.38,
+              "c2": 0.6,
+              "c3": 0.725
+            },
+            {
+              "time": 0.1333,
+              "x": -0.5,
+              "curve": 0.363,
+              "c2": 0.44,
+              "c3": 0.755
+            },
+            {
+              "time": 0.3667,
+              "x": -3.4,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.5667,
+              "x": -3.4,
+              "curve": 0.343,
+              "c2": 0.37,
+              "c3": 0.682,
+              "c4": 0.72
+            },
+            {
+              "time": 0.6667,
+              "x": -1.77
+            }
+          ]
+        },
+        "body6": {
+          "translate": [
+            {
+              "x": -1.51,
+              "curve": 0.38,
+              "c2": 0.6,
+              "c3": 0.725
+            },
+            {
+              "time": 0.2,
+              "x": 0.78,
+              "curve": 0.381,
+              "c2": 0.55,
+              "c3": 0.742
+            },
+            {
+              "time": 0.4333,
+              "x": -2.12,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.6333,
+              "x": -2.12,
+              "curve": 0.338,
+              "c2": 0.35,
+              "c3": 0.671,
+              "c4": 0.68
+            },
+            {
+              "time": 0.6667,
+              "x": -1.51
+            }
+          ]
+        },
+        "body5": {
+          "translate": [
+            {
+              "x": -0.97,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.0333,
+              "x": -0.97,
+              "curve": 0.369,
+              "c2": 0.63,
+              "c3": 0.706
+            },
+            {
+              "time": 0.2667,
+              "x": 1.94,
+              "curve": 0.375,
+              "c2": 0.62,
+              "c3": 0.716
+            },
+            {
+              "time": 0.5,
+              "x": -0.97
+            }
+          ]
+        },
+        "gun": {
+          "translate": [
+            {
+              "x": -6.57,
+              "curve": 0.375,
+              "c2": 0.62,
+              "c3": 0.716
+            },
+            {
+              "time": 0.0667,
+              "x": -7.55,
+              "curve": 0.243,
+              "c3": 0.68,
+              "c4": 0.71
+            },
+            {
+              "time": 0.4,
+              "curve": 0.243,
+              "c3": 0.68,
+              "c4": 0.71
+            },
+            {
+              "time": 0.6667,
+              "x": -6.57
+            }
+          ]
+        },
+        "body3_l": {
+          "scale": [
+            {
+              "x": 1.104,
+              "curve": 0.381,
+              "c2": 0.55,
+              "c3": 0.742
+            },
+            {
+              "time": 0.1333,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 0.4667,
+              "x": 1.282,
+              "curve": 0.245,
+              "c3": 0.637,
+              "c4": 0.56
+            },
+            {
+              "time": 0.6667,
+              "x": 1.104
+            }
+          ]
+        },
+        "body10": {
+          "translate": [
+            {},
+            {
+              "time": 0.1333,
+              "x": -15.4,
+              "y": 13.31
+            },
+            {
+              "time": 0.2333,
+              "x": -6.9,
+              "y": 8.61,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.3333,
+              "x": -6.9,
+              "y": 8.61
+            },
+            {
+              "time": 0.4667,
+              "x": 2.34,
+              "y": -5.48
+            },
+            {
+              "time": 0.5667
+            }
+          ]
+        },
+        "body3": {
+          "translate": [
+            {},
+            {
+              "time": 0.1333,
+              "x": -9.99,
+              "y": -14.09
+            },
+            {
+              "time": 0.2333,
+              "x": -6.9,
+              "y": -7.05,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.3333,
+              "x": -6.9,
+              "y": -7.05
+            },
+            {
+              "time": 0.4667,
+              "x": 1.56,
+              "y": 3.91
+            },
+            {
+              "time": 0.5667
+            }
+          ]
+        }
+      }
+    },
+    "Realease": {
+      "slots": {
+        "body3_l": {
+          "color": [
+            {
+              "time": 0.5,
+              "color": "ffffff2f"
+            },
+            {
+              "time": 0.5667,
+              "color": "ffffff9c"
+            },
+            {
+              "time": 0.6333,
+              "color": "ffffff4a"
+            },
+            {
+              "time": 0.7,
+              "color": "ffffffb4"
+            },
+            {
+              "time": 0.7667,
+              "color": "ffffff4a"
+            },
+            {
+              "time": 0.8333,
+              "color": "fffffff1"
+            }
+          ],
+          "attachment": [
+            {
+              "name": null
+            },
+            {
+              "time": 0.5,
+              "name": "body3_l"
+            }
+          ]
+        },
+        "body5": {
+          "attachment": [
+            {
+              "name": null
+            },
+            {
+              "time": 1.1667,
+              "name": "body5a"
+            },
+            {
+              "time": 1.4,
+              "name": "body5"
+            },
+            {
+              "time": 1.5,
+              "name": "body5a"
+            }
+          ]
+        },
+        "body6": {
+          "attachment": [
+            {
+              "name": null
+            },
+            {
+              "time": 0.9,
+              "name": "body6a"
+            },
+            {
+              "time": 1.3333,
+              "name": "body6"
+            },
+            {
+              "time": 1.5667,
+              "name": "body6a"
+            }
+          ]
+        },
+        "body7": {
+          "attachment": [
+            {
+              "name": null
+            },
+            {
+              "time": 0.8333,
+              "name": "body6a"
+            },
+            {
+              "time": 1.2,
+              "name": "body6"
+            },
+            {
+              "time": 1.6,
+              "name": "body6a"
+            }
+          ]
+        },
+        "body8": {
+          "attachment": [
+            {
+              "name": null
+            },
+            {
+              "time": 0.7667,
+              "name": "body6a"
+            },
+            {
+              "time": 1.0667,
+              "name": "body6"
+            },
+            {
+              "time": 1.6667,
+              "name": "body6a"
+            }
+          ]
+        },
+        "door1": {
+          "attachment": [
+            {
+              "name": "door1"
+            },
+            {
+              "time": 0.7333,
+              "name": "door2"
+            },
+            {
+              "time": 0.8,
+              "name": "door3"
+            }
+          ]
+        },
+        "laser_lv5/gun1": {
+          "attachment": [
+            {
+              "time": 0.5333,
+              "name": "laser_lv5/gun1_l1"
+            },
+            {
+              "time": 0.6,
+              "name": "laser_lv5/gun1_l2"
+            },
+            {
+              "time": 0.6667,
+              "name": "laser_lv5/gun1_l3"
+            },
+            {
+              "time": 0.7333,
+              "name": null
+            }
+          ]
+        }
+      },
+      "bones": {
+        "gun": {
+          "translate": [
+            {
+              "x": -66.21,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.4333,
+              "x": -66.21
+            },
+            {
+              "time": 0.5667,
+              "x": -2.77
+            },
+            {
+              "time": 0.7,
+              "x": -21.27
+            },
+            {
+              "time": 0.8,
+              "x": -6.57
+            }
+          ],
+          "scale": [
+            {
+              "time": 0.4333
+            },
+            {
+              "time": 0.5667,
+              "x": 1.317
+            },
+            {
+              "time": 0.7,
+              "x": 1.054
+            },
+            {
+              "time": 0.8
+            }
+          ]
+        },
+        "body8": {
+          "translate": [
+            {
+              "time": 0.9667
+            },
+            {
+              "time": 1.1,
+              "x": 6.35
+            },
+            {
+              "time": 1.2333
+            }
+          ]
+        },
+        "body7": {
+          "translate": [
+            {
+              "time": 1.0333
+            },
+            {
+              "time": 1.1667,
+              "x": 6.35
+            },
+            {
+              "time": 1.3
+            }
+          ]
+        },
+        "body6": {
+          "translate": [
+            {
+              "time": 1.1
+            },
+            {
+              "time": 1.2333,
+              "x": 6.35
+            },
+            {
+              "time": 1.3667
+            }
+          ]
+        },
+        "body5": {
+          "translate": [
+            {
+              "time": 1.1667
+            },
+            {
+              "time": 1.3,
+              "x": 6.35
+            },
+            {
+              "time": 1.4333
+            }
+          ]
+        },
+        "body1": {
+          "translate": [
+            {
+              "y": -19.95
+            },
+            {
+              "time": 0.2667,
+              "y": -18.14
+            },
+            {
+              "time": 0.4,
+              "y": 9.98
+            },
+            {
+              "time": 0.5667,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.6667
+            },
+            {
+              "time": 0.8333,
+              "y": -3.63
+            },
+            {
+              "time": 1
+            },
+            {
+              "time": 1.1667,
+              "y": -3.63
+            },
+            {
+              "time": 1.3333
+            },
+            {
+              "time": 1.5,
+              "y": -3.63
+            },
+            {
+              "time": 1.6667
+            }
+          ],
+          "scale": [
+            {},
+            {
+              "time": 0.2667,
+              "x": 0.846
+            },
+            {
+              "time": 0.4,
+              "x": 1.053
+            },
+            {
+              "time": 0.5667
+            }
+          ]
+        },
+        "body4": {
+          "translate": [
+            {
+              "x": 14.51,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.4,
+              "x": 14.51
+            },
+            {
+              "time": 0.5,
+              "x": 0.91
+            },
+            {
+              "time": 0.5667
+            }
+          ]
+        },
+        "body9": {
+          "translate": [
+            {
+              "x": 38.09,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.4,
+              "x": 38.09
+            },
+            {
+              "time": 0.5333,
+              "x": -4.54
+            },
+            {
+              "time": 0.6667
+            },
+            {
+              "time": 0.8333,
+              "x": 1.81
+            },
+            {
+              "time": 1
+            },
+            {
+              "time": 1.1667,
+              "x": 1.81
+            },
+            {
+              "time": 1.3333
+            },
+            {
+              "time": 1.5,
+              "x": 1.81
+            },
+            {
+              "time": 1.6667
+            }
+          ]
+        },
+        "body10": {
+          "translate": [
+            {
+              "time": 0.2667
+            },
+            {
+              "time": 0.4,
+              "x": 27.58
+            },
+            {
+              "time": 0.5,
+              "x": 16.64
+            },
+            {
+              "time": 0.7,
+              "x": -19.1
+            },
+            {
+              "time": 0.8333
+            }
+          ]
+        },
+        "body3": {
+          "translate": [
+            {
+              "time": 0.2667
+            },
+            {
+              "time": 0.4,
+              "x": 27.58
+            },
+            {
+              "time": 0.5,
+              "x": 16.64
+            },
+            {
+              "time": 0.7,
+              "x": -19.1
+            },
+            {
+              "time": 0.8333
+            }
+          ]
+        },
+        "body15": {
+          "translate": [
+            {},
+            {
+              "time": 0.2667,
+              "y": -7.28
+            },
+            {
+              "time": 0.4,
+              "x": 10.95,
+              "y": -1.21
+            },
+            {
+              "time": 0.6667
+            }
+          ]
+        },
+        "body16": {
+          "translate": [
+            {},
+            {
+              "time": 0.2667,
+              "y": 8.5
+            },
+            {
+              "time": 0.4,
+              "x": 10.95,
+              "y": 1.21
+            },
+            {
+              "time": 0.6667
+            }
+          ]
+        },
+        "laser_lv5/gun3": {
+          "translate": [
+            {
+              "x": -54.63
+            },
+            {
+              "time": 0.2333,
+              "x": -35.68
+            },
+            {
+              "time": 0.4,
+              "x": -36.84
+            },
+            {
+              "time": 0.5,
+              "x": -17.22
+            }
+          ]
+        }
+      }
+    }
+  }
+}

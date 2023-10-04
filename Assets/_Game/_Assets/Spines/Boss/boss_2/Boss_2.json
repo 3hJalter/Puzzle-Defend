@@ -1,0 +1,414 @@
+{
+  "skeleton": {
+    "images": "F:/Project/Dung_abi/Boss_2/boss_2_images/"
+  },
+  "PhotoshopToSpine": {
+    "scale": 1,
+    "padding": 1,
+    "trim": true
+  },
+  "bones": [
+    {
+      "name": "root"
+    }
+  ],
+  "slots": [
+    {
+      "name": "shadown",
+      "bone": "root",
+      "attachment": "shadown"
+    },
+    {
+      "name": "leg",
+      "bone": "root",
+      "attachment": "leg"
+    },
+    {
+      "name": "hand2",
+      "bone": "root",
+      "attachment": "hand2"
+    },
+    {
+      "name": "arm2",
+      "bone": "root",
+      "attachment": "arm2"
+    },
+    {
+      "name": "remote",
+      "bone": "root",
+      "attachment": "remote"
+    },
+    {
+      "name": "fx",
+      "bone": "root",
+      "attachment": "fx"
+    },
+    {
+      "name": "finger2b",
+      "bone": "root",
+      "attachment": "finger2b"
+    },
+    {
+      "name": "finger2a",
+      "bone": "root",
+      "attachment": "finger2a"
+    },
+    {
+      "name": "bag1",
+      "bone": "root",
+      "attachment": "bag1"
+    },
+    {
+      "name": "rocket",
+      "bone": "root",
+      "attachment": "rocket"
+    },
+    {
+      "name": "bag2",
+      "bone": "root",
+      "attachment": "bag2"
+    },
+    {
+      "name": "body",
+      "bone": "root",
+      "attachment": "body"
+    },
+    {
+      "name": "hat1",
+      "bone": "root",
+      "attachment": "hat1"
+    },
+    {
+      "name": "face",
+      "bone": "root",
+      "attachment": "face"
+    },
+    {
+      "name": "lip",
+      "bone": "root",
+      "attachment": "lip"
+    },
+    {
+      "name": "hair2",
+      "bone": "root",
+      "attachment": "hair2"
+    },
+    {
+      "name": "hair3",
+      "bone": "root",
+      "attachment": "hair3"
+    },
+    {
+      "name": "hair1",
+      "bone": "root",
+      "attachment": "hair1"
+    },
+    {
+      "name": "Glasss",
+      "bone": "root",
+      "attachment": "Glasss"
+    },
+    {
+      "name": "finger1",
+      "bone": "root",
+      "attachment": "finger1"
+    },
+    {
+      "name": "weapon",
+      "bone": "root",
+      "attachment": "weapon"
+    },
+    {
+      "name": "eff1",
+      "bone": "root",
+      "attachment": "eff1"
+    },
+    {
+      "name": "hand1a",
+      "bone": "root",
+      "attachment": "hand1a"
+    },
+    {
+      "name": "arm1",
+      "bone": "root",
+      "attachment": "arm1"
+    },
+    {
+      "name": "eff2",
+      "bone": "root",
+      "attachment": "eff2"
+    },
+    {
+      "name": "hat",
+      "bone": "root",
+      "attachment": "hat"
+    },
+    {
+      "name": "Slash_fx3",
+      "bone": "root",
+      "attachment": "Slash_fx3"
+    },
+    {
+      "name": "Slash_fx2",
+      "bone": "root",
+      "attachment": "Slash_fx2"
+    },
+    {
+      "name": "Slash_fx1",
+      "bone": "root",
+      "attachment": "Slash_fx1"
+    },
+    {
+      "name": "slash_bullet",
+      "bone": "root",
+      "attachment": "slash_bullet"
+    }
+  ],
+  "skins": {
+    "default": {
+      "shadown": {
+        "shadown": {
+          "x": 340,
+          "y": -367,
+          "width": 178,
+          "height": 90
+        }
+      },
+      "leg": {
+        "leg": {
+          "x": 373,
+          "y": -353,
+          "width": 28,
+          "height": 54
+        }
+      },
+      "hand2": {
+        "hand2": {
+          "x": 450,
+          "y": -292,
+          "width": 50,
+          "height": 54
+        }
+      },
+      "arm2": {
+        "arm2": {
+          "x": 423,
+          "y": -254.5,
+          "width": 72,
+          "height": 93
+        }
+      },
+      "remote": {
+        "remote": {
+          "x": 475.5,
+          "y": -290,
+          "width": 119,
+          "height": 66
+        }
+      },
+      "fx": {
+        "fx": {
+          "x": 467,
+          "y": -281.5,
+          "width": 50,
+          "height": 51
+        }
+      },
+      "finger2b": {
+        "finger2b": {
+          "x": 467.5,
+          "y": -305.5,
+          "width": 41,
+          "height": 39
+        }
+      },
+      "finger2a": {
+        "finger2a": {
+          "x": 463,
+          "y": -269,
+          "width": 28,
+          "height": 32
+        }
+      },
+      "bag1": {
+        "bag1": {
+          "x": 229,
+          "y": -209.5,
+          "width": 140,
+          "height": 157
+        }
+      },
+      "rocket": {
+        "rocket": {
+          "x": 235,
+          "y": -182.5,
+          "width": 96,
+          "height": 125
+        }
+      },
+      "bag2": {
+        "bag2": {
+          "x": 232.5,
+          "y": -218.5,
+          "width": 131,
+          "height": 137
+        }
+      },
+      "body": {
+        "body": {
+          "x": 336,
+          "y": -265.5,
+          "width": 226,
+          "height": 191
+        }
+      },
+      "hat1": {
+        "hat1": {
+          "x": 362,
+          "y": -266.5,
+          "width": 80,
+          "height": 59
+        }
+      },
+      "face": {
+        "face": {
+          "x": 363,
+          "y": -188,
+          "width": 134,
+          "height": 126
+        }
+      },
+      "lip": {
+        "lip": {
+          "x": 365.5,
+          "y": -208,
+          "width": 61,
+          "height": 34
+        }
+      },
+      "hair2": {
+        "hair2": {
+          "x": 317,
+          "y": -208,
+          "width": 36,
+          "height": 54
+        }
+      },
+      "hair3": {
+        "hair3": {
+          "x": 280,
+          "y": -170.5,
+          "width": 46,
+          "height": 61
+        }
+      },
+      "hair1": {
+        "hair1": {
+          "x": 363,
+          "y": -147.5,
+          "width": 96,
+          "height": 43
+        }
+      },
+      "Glasss": {
+        "Glasss": {
+          "x": 356,
+          "y": -176.5,
+          "width": 118,
+          "height": 35
+        }
+      },
+      "finger1": {
+        "finger1": {
+          "x": 264,
+          "y": -304,
+          "width": 26,
+          "height": 28
+        }
+      },
+      "weapon": {
+        "weapon": {
+          "x": 296,
+          "y": -308.5,
+          "width": 194,
+          "height": 101
+        }
+      },
+      "eff1": {
+        "eff1": {
+          "x": 345.5,
+          "y": -306.5,
+          "width": 123,
+          "height": 127
+        }
+      },
+      "hand1a": {
+        "hand1a": {
+          "x": 241,
+          "y": -306.5,
+          "width": 64,
+          "height": 51
+        }
+      },
+      "arm1": {
+        "arm1": {
+          "x": 247,
+          "y": -256,
+          "width": 68,
+          "height": 92
+        }
+      },
+      "eff2": {
+        "eff2": {
+          "x": 474,
+          "y": -248.5,
+          "width": 108,
+          "height": 63
+        }
+      },
+      "hat": {
+        "hat": {
+          "x": 341,
+          "y": -175.5,
+          "width": 152,
+          "height": 141
+        }
+      },
+      "Slash_fx3": {
+        "Slash_fx3": {
+          "x": 298.5,
+          "y": -245,
+          "width": 251,
+          "height": 184
+        }
+      },
+      "Slash_fx2": {
+        "Slash_fx2": {
+          "x": 285,
+          "y": -241,
+          "width": 256,
+          "height": 206
+        }
+      },
+      "Slash_fx1": {
+        "Slash_fx1": {
+          "x": 335,
+          "y": -244,
+          "width": 202,
+          "height": 210
+        }
+      },
+      "slash_bullet": {
+        "slash_bullet": {
+          "x": 341,
+          "y": -408,
+          "width": 392,
+          "height": 144
+        }
+      }
+    }
+  },
+  "animations": {
+    "animation": {}
+  }
+}

@@ -1,0 +1,195 @@
+
+Boss_Big_Mom.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Glasss
+  rotate: false
+  xy: 497, 15
+  size: 118, 35
+  orig: 118, 35
+  offset: 0, 0
+  index: -1
+arm1
+  rotate: true
+  xy: 821, 0
+  size: 68, 92
+  orig: 68, 92
+  offset: 0, 0
+  index: -1
+arm2
+  rotate: false
+  xy: 929, 163
+  size: 72, 93
+  orig: 72, 93
+  offset: 0, 0
+  index: -1
+bag1
+  rotate: true
+  xy: 392, 116
+  size: 140, 157
+  orig: 140, 157
+  offset: 0, 0
+  index: -1
+bag2
+  rotate: false
+  xy: 549, 119
+  size: 131, 137
+  orig: 131, 137
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 1124, 30
+  size: 226, 191
+  orig: 226, 191
+  offset: 0, 0
+  index: -1
+eff1
+  rotate: false
+  xy: 806, 129
+  size: 123, 127
+  orig: 123, 127
+  offset: 0, 0
+  index: -1
+eff2
+  rotate: false
+  xy: 616, 56
+  size: 108, 63
+  orig: 108, 63
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 680, 122
+  size: 134, 126
+  orig: 134, 126
+  offset: 0, 0
+  index: -1
+finger1
+  rotate: true
+  xy: 938, 68
+  size: 26, 28
+  orig: 26, 28
+  offset: 0, 0
+  index: -1
+finger2a
+  rotate: false
+  xy: 949, 36
+  size: 28, 32
+  orig: 28, 32
+  offset: 0, 0
+  index: -1
+finger2b
+  rotate: true
+  xy: 938, 94
+  size: 41, 39
+  orig: 41, 39
+  offset: 0, 0
+  index: -1
+fx
+  rotate: false
+  xy: 854, 78
+  size: 50, 51
+  orig: 50, 51
+  offset: 0, 0
+  index: -1
+hair1
+  rotate: false
+  xy: 615, 7
+  size: 96, 43
+  orig: 96, 43
+  offset: 0, 0
+  index: -1
+hair2
+  rotate: false
+  xy: 913, 14
+  size: 36, 54
+  orig: 36, 54
+  offset: 0, 0
+  index: -1
+hair3
+  rotate: false
+  xy: 775, 2
+  size: 46, 61
+  orig: 46, 61
+  offset: 0, 0
+  index: -1
+hand1a
+  rotate: false
+  xy: 711, 5
+  size: 64, 51
+  orig: 64, 51
+  offset: 0, 0
+  index: -1
+hand2
+  rotate: false
+  xy: 804, 68
+  size: 50, 54
+  orig: 50, 54
+  offset: 0, 0
+  index: -1
+hat
+  rotate: true
+  xy: 983, 11
+  size: 152, 141
+  orig: 152, 141
+  offset: 0, 0
+  index: -1
+hat1
+  rotate: false
+  xy: 724, 63
+  size: 80, 59
+  orig: 80, 59
+  offset: 0, 0
+  index: -1
+leg
+  rotate: true
+  xy: 929, 135
+  size: 28, 54
+  orig: 28, 54
+  offset: 0, 0
+  index: -1
+lip
+  rotate: true
+  xy: 904, 68
+  size: 61, 34
+  orig: 61, 34
+  offset: 0, 0
+  index: -1
+remote
+  rotate: false
+  xy: 497, 50
+  size: 119, 66
+  orig: 119, 66
+  offset: 0, 0
+  index: -1
+rocket
+  rotate: true
+  xy: 372, 16
+  size: 96, 125
+  orig: 96, 125
+  offset: 0, 0
+  index: -1
+shadown
+  rotate: false
+  xy: 194, 22
+  size: 178, 90
+  orig: 178, 90
+  offset: 0, 0
+  index: -1
+slash_bullet
+  rotate: false
+  xy: 0, 112
+  size: 392, 144
+  orig: 392, 144
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: false
+  xy: 0, 11
+  size: 194, 101
+  orig: 194, 101
+  offset: 0, 0
+  index: -1

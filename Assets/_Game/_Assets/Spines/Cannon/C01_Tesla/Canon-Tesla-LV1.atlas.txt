@@ -1,0 +1,825 @@
+
+Canon-Tesla-LV1.png
+size: 1393,205
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tesla_lv1/ball
+  rotate: false
+  xy: 1241, 68
+  size: 63, 66
+  orig: 65, 69
+  offset: 1, 2
+  index: -1
+tesla_lv2/ball
+  rotate: false
+  xy: 1241, 68
+  size: 63, 66
+  orig: 65, 69
+  offset: 1, 2
+  index: -1
+tesla_lv3/ball
+  rotate: false
+  xy: 1241, 68
+  size: 63, 66
+  orig: 65, 69
+  offset: 1, 2
+  index: -1
+tesla_lv4/ball
+  rotate: false
+  xy: 1241, 68
+  size: 63, 66
+  orig: 65, 69
+  offset: 1, 2
+  index: -1
+tesla_lv5/ball
+  rotate: false
+  xy: 1241, 68
+  size: 63, 66
+  orig: 65, 69
+  offset: 1, 2
+  index: -1
+tesla_lv1/ball_l
+  rotate: false
+  xy: 700, 82
+  size: 121, 121
+  orig: 135, 135
+  offset: 7, 7
+  index: -1
+tesla_lv2/ball_l
+  rotate: false
+  xy: 700, 82
+  size: 121, 121
+  orig: 135, 135
+  offset: 7, 7
+  index: -1
+tesla_lv3/ball_l
+  rotate: false
+  xy: 700, 82
+  size: 121, 121
+  orig: 135, 135
+  offset: 7, 7
+  index: -1
+tesla_lv4/ball_l
+  rotate: false
+  xy: 700, 82
+  size: 121, 121
+  orig: 135, 135
+  offset: 7, 7
+  index: -1
+tesla_lv5/ball_l
+  rotate: false
+  xy: 700, 82
+  size: 121, 121
+  orig: 135, 135
+  offset: 7, 7
+  index: -1
+tesla_lv1/ball_l1
+  rotate: true
+  xy: 2, 2
+  size: 51, 54
+  orig: 65, 69
+  offset: 4, 11
+  index: -1
+tesla_lv2/ball_l1
+  rotate: true
+  xy: 2, 2
+  size: 51, 54
+  orig: 65, 69
+  offset: 4, 11
+  index: -1
+tesla_lv1/ball_l2
+  rotate: true
+  xy: 1187, 3
+  size: 57, 56
+  orig: 65, 69
+  offset: 4, 9
+  index: -1
+tesla_lv2/ball_l2
+  rotate: true
+  xy: 1187, 3
+  size: 57, 56
+  orig: 65, 69
+  offset: 4, 9
+  index: -1
+tesla_lv3/ball_l2
+  rotate: true
+  xy: 1187, 3
+  size: 57, 56
+  orig: 65, 69
+  offset: 4, 9
+  index: -1
+tesla_lv4/ball_l2
+  rotate: true
+  xy: 1187, 3
+  size: 57, 56
+  orig: 65, 69
+  offset: 4, 9
+  index: -1
+tesla_lv5/ball_l2
+  rotate: true
+  xy: 1187, 3
+  size: 57, 56
+  orig: 65, 69
+  offset: 4, 9
+  index: -1
+tesla_lv1/ball_l3
+  rotate: false
+  xy: 1303, 7
+  size: 54, 59
+  orig: 65, 69
+  offset: 7, 5
+  index: -1
+tesla_lv2/ball_l3
+  rotate: false
+  xy: 1303, 7
+  size: 54, 59
+  orig: 65, 69
+  offset: 7, 5
+  index: -1
+tesla_lv3/ball_l3
+  rotate: false
+  xy: 1303, 7
+  size: 54, 59
+  orig: 65, 69
+  offset: 7, 5
+  index: -1
+tesla_lv4/ball_l3
+  rotate: false
+  xy: 1303, 7
+  size: 54, 59
+  orig: 65, 69
+  offset: 7, 5
+  index: -1
+tesla_lv5/ball_l3
+  rotate: false
+  xy: 1303, 7
+  size: 54, 59
+  orig: 65, 69
+  offset: 7, 5
+  index: -1
+tesla_lv1/body1
+  rotate: false
+  xy: 2, 55
+  size: 140, 148
+  orig: 140, 148
+  offset: 0, 0
+  index: -1
+tesla_lv2/body1
+  rotate: false
+  xy: 2, 55
+  size: 140, 148
+  orig: 140, 148
+  offset: 0, 0
+  index: -1
+tesla_lv3/body1
+  rotate: false
+  xy: 2, 55
+  size: 140, 148
+  orig: 140, 148
+  offset: 0, 0
+  index: -1
+tesla_lv4/body1
+  rotate: false
+  xy: 2, 55
+  size: 140, 148
+  orig: 140, 148
+  offset: 0, 0
+  index: -1
+tesla_lv5/body1
+  rotate: false
+  xy: 2, 55
+  size: 140, 148
+  orig: 140, 148
+  offset: 0, 0
+  index: -1
+tesla_lv1/body2
+  rotate: true
+  xy: 489, 2
+  size: 74, 69
+  orig: 74, 69
+  offset: 0, 0
+  index: -1
+tesla_lv2/body2
+  rotate: true
+  xy: 489, 2
+  size: 74, 69
+  orig: 74, 69
+  offset: 0, 0
+  index: -1
+tesla_lv3/body2
+  rotate: true
+  xy: 489, 2
+  size: 74, 69
+  orig: 74, 69
+  offset: 0, 0
+  index: -1
+tesla_lv1/chan1
+  rotate: false
+  xy: 1245, 2
+  size: 56, 64
+  orig: 56, 64
+  offset: 0, 0
+  index: -1
+tesla_lv1/chan2
+  rotate: false
+  xy: 1187, 62
+  size: 52, 67
+  orig: 52, 67
+  offset: 0, 0
+  index: -1
+tesla_lv1/chan3
+  rotate: true
+  xy: 58, 3
+  size: 50, 48
+  orig: 50, 48
+  offset: 0, 0
+  index: -1
+tesla_lv1/chan4
+  rotate: true
+  xy: 1306, 98
+  size: 49, 45
+  orig: 49, 45
+  offset: 0, 0
+  index: -1
+tesla_lv1/eff_11
+  rotate: false
+  xy: 158, 3
+  size: 79, 61
+  orig: 101, 93
+  offset: 10, 17
+  index: -1
+tesla_lv2/eff_11
+  rotate: false
+  xy: 158, 3
+  size: 79, 61
+  orig: 101, 93
+  offset: 10, 17
+  index: -1
+tesla_lv3/eff_11
+  rotate: false
+  xy: 158, 3
+  size: 79, 61
+  orig: 101, 93
+  offset: 10, 17
+  index: -1
+tesla_lv4/eff_11
+  rotate: false
+  xy: 158, 3
+  size: 79, 61
+  orig: 101, 93
+  offset: 10, 17
+  index: -1
+tesla_lv5/eff_11
+  rotate: false
+  xy: 158, 3
+  size: 79, 61
+  orig: 101, 93
+  offset: 10, 17
+  index: -1
+tesla_lv1/eff_12
+  rotate: true
+  xy: 889, 2
+  size: 97, 81
+  orig: 101, 93
+  offset: 0, 4
+  index: -1
+tesla_lv2/eff_12
+  rotate: true
+  xy: 889, 2
+  size: 97, 81
+  orig: 101, 93
+  offset: 0, 4
+  index: -1
+tesla_lv3/eff_12
+  rotate: true
+  xy: 889, 2
+  size: 97, 81
+  orig: 101, 93
+  offset: 0, 4
+  index: -1
+tesla_lv4/eff_12
+  rotate: true
+  xy: 889, 2
+  size: 97, 81
+  orig: 101, 93
+  offset: 0, 4
+  index: -1
+tesla_lv5/eff_12
+  rotate: true
+  xy: 889, 2
+  size: 97, 81
+  orig: 101, 93
+  offset: 0, 4
+  index: -1
+tesla_lv1/eff_13
+  rotate: true
+  xy: 560, 2
+  size: 74, 68
+  orig: 101, 93
+  offset: 9, 4
+  index: -1
+tesla_lv2/eff_13
+  rotate: true
+  xy: 560, 2
+  size: 74, 68
+  orig: 101, 93
+  offset: 9, 4
+  index: -1
+tesla_lv3/eff_13
+  rotate: true
+  xy: 560, 2
+  size: 74, 68
+  orig: 101, 93
+  offset: 9, 4
+  index: -1
+tesla_lv4/eff_13
+  rotate: true
+  xy: 560, 2
+  size: 74, 68
+  orig: 101, 93
+  offset: 9, 4
+  index: -1
+tesla_lv5/eff_13
+  rotate: true
+  xy: 560, 2
+  size: 74, 68
+  orig: 101, 93
+  offset: 9, 4
+  index: -1
+tesla_lv1/eff_14
+  rotate: false
+  xy: 239, 3
+  size: 79, 61
+  orig: 101, 93
+  offset: 10, 17
+  index: -1
+tesla_lv2/eff_14
+  rotate: false
+  xy: 239, 3
+  size: 79, 61
+  orig: 101, 93
+  offset: 10, 17
+  index: -1
+tesla_lv3/eff_14
+  rotate: false
+  xy: 239, 3
+  size: 79, 61
+  orig: 101, 93
+  offset: 10, 17
+  index: -1
+tesla_lv4/eff_14
+  rotate: false
+  xy: 239, 3
+  size: 79, 61
+  orig: 101, 93
+  offset: 10, 17
+  index: -1
+tesla_lv5/eff_14
+  rotate: false
+  xy: 239, 3
+  size: 79, 61
+  orig: 101, 93
+  offset: 10, 17
+  index: -1
+tesla_lv1/eff_21
+  rotate: true
+  xy: 726, 5
+  size: 75, 79
+  orig: 99, 96
+  offset: 18, 13
+  index: -1
+tesla_lv2/eff_21
+  rotate: true
+  xy: 726, 5
+  size: 75, 79
+  orig: 99, 96
+  offset: 18, 13
+  index: -1
+tesla_lv3/eff_21
+  rotate: true
+  xy: 726, 5
+  size: 75, 79
+  orig: 99, 96
+  offset: 18, 13
+  index: -1
+tesla_lv4/eff_21
+  rotate: true
+  xy: 726, 5
+  size: 75, 79
+  orig: 99, 96
+  offset: 18, 13
+  index: -1
+tesla_lv5/eff_21
+  rotate: true
+  xy: 726, 5
+  size: 75, 79
+  orig: 99, 96
+  offset: 18, 13
+  index: -1
+tesla_lv1/eff_22
+  rotate: false
+  xy: 1117, 24
+  size: 68, 88
+  orig: 99, 96
+  offset: 18, 4
+  index: -1
+tesla_lv2/eff_22
+  rotate: false
+  xy: 1117, 24
+  size: 68, 88
+  orig: 99, 96
+  offset: 18, 4
+  index: -1
+tesla_lv3/eff_22
+  rotate: false
+  xy: 1117, 24
+  size: 68, 88
+  orig: 99, 96
+  offset: 18, 4
+  index: -1
+tesla_lv4/eff_22
+  rotate: false
+  xy: 1117, 24
+  size: 68, 88
+  orig: 99, 96
+  offset: 18, 4
+  index: -1
+tesla_lv5/eff_22
+  rotate: false
+  xy: 1117, 24
+  size: 68, 88
+  orig: 99, 96
+  offset: 18, 4
+  index: -1
+tesla_lv1/eff_23
+  rotate: false
+  xy: 1033, 10
+  size: 82, 90
+  orig: 99, 96
+  offset: 1, 2
+  index: -1
+tesla_lv2/eff_23
+  rotate: false
+  xy: 1033, 10
+  size: 82, 90
+  orig: 99, 96
+  offset: 1, 2
+  index: -1
+tesla_lv3/eff_23
+  rotate: false
+  xy: 1033, 10
+  size: 82, 90
+  orig: 99, 96
+  offset: 1, 2
+  index: -1
+tesla_lv4/eff_23
+  rotate: false
+  xy: 1033, 10
+  size: 82, 90
+  orig: 99, 96
+  offset: 1, 2
+  index: -1
+tesla_lv5/eff_23
+  rotate: false
+  xy: 1033, 10
+  size: 82, 90
+  orig: 99, 96
+  offset: 1, 2
+  index: -1
+tesla_lv1/eff_24
+  rotate: true
+  xy: 972, 9
+  size: 91, 59
+  orig: 99, 96
+  offset: 7, 33
+  index: -1
+tesla_lv2/eff_24
+  rotate: true
+  xy: 972, 9
+  size: 91, 59
+  orig: 99, 96
+  offset: 7, 33
+  index: -1
+tesla_lv3/eff_24
+  rotate: true
+  xy: 972, 9
+  size: 91, 59
+  orig: 99, 96
+  offset: 7, 33
+  index: -1
+tesla_lv4/eff_24
+  rotate: true
+  xy: 972, 9
+  size: 91, 59
+  orig: 99, 96
+  offset: 7, 33
+  index: -1
+tesla_lv5/eff_24
+  rotate: true
+  xy: 972, 9
+  size: 91, 59
+  orig: 99, 96
+  offset: 7, 33
+  index: -1
+tesla_lv1/l1
+  rotate: false
+  xy: 807, 7
+  size: 80, 73
+  orig: 103, 96
+  offset: 2, 21
+  index: -1
+tesla_lv2/l1
+  rotate: false
+  xy: 807, 7
+  size: 80, 73
+  orig: 103, 96
+  offset: 2, 21
+  index: -1
+tesla_lv3/l1
+  rotate: false
+  xy: 807, 7
+  size: 80, 73
+  orig: 103, 96
+  offset: 2, 21
+  index: -1
+tesla_lv4/l1
+  rotate: false
+  xy: 807, 7
+  size: 80, 73
+  orig: 103, 96
+  offset: 2, 21
+  index: -1
+tesla_lv5/l1
+  rotate: false
+  xy: 807, 7
+  size: 80, 73
+  orig: 103, 96
+  offset: 2, 21
+  index: -1
+tesla_lv1/l2
+  rotate: true
+  xy: 1078, 114
+  size: 89, 79
+  orig: 103, 96
+  offset: 8, 6
+  index: -1
+tesla_lv2/l2
+  rotate: true
+  xy: 1078, 114
+  size: 89, 79
+  orig: 103, 96
+  offset: 8, 6
+  index: -1
+tesla_lv3/l2
+  rotate: true
+  xy: 1078, 114
+  size: 89, 79
+  orig: 103, 96
+  offset: 8, 6
+  index: -1
+tesla_lv4/l2
+  rotate: true
+  xy: 1078, 114
+  size: 89, 79
+  orig: 103, 96
+  offset: 8, 6
+  index: -1
+tesla_lv5/l2
+  rotate: true
+  xy: 1078, 114
+  size: 89, 79
+  orig: 103, 96
+  offset: 8, 6
+  index: -1
+tesla_lv1/l3
+  rotate: false
+  xy: 630, 3
+  size: 94, 73
+  orig: 103, 96
+  offset: 7, 2
+  index: -1
+tesla_lv2/l3
+  rotate: false
+  xy: 630, 3
+  size: 94, 73
+  orig: 103, 96
+  offset: 7, 2
+  index: -1
+tesla_lv3/l3
+  rotate: false
+  xy: 630, 3
+  size: 94, 73
+  orig: 103, 96
+  offset: 7, 2
+  index: -1
+tesla_lv4/l3
+  rotate: false
+  xy: 630, 3
+  size: 94, 73
+  orig: 103, 96
+  offset: 7, 2
+  index: -1
+tesla_lv5/l3
+  rotate: false
+  xy: 630, 3
+  size: 94, 73
+  orig: 103, 96
+  offset: 7, 2
+  index: -1
+tesla_lv1/vong1
+  rotate: true
+  xy: 920, 102
+  size: 101, 94
+  orig: 103, 96
+  offset: 1, 1
+  index: -1
+tesla_lv2/vong12
+  rotate: true
+  xy: 920, 102
+  size: 101, 94
+  orig: 103, 96
+  offset: 1, 1
+  index: -1
+tesla_lv1/vong2
+  rotate: false
+  xy: 386, 4
+  size: 101, 60
+  orig: 103, 62
+  offset: 1, 1
+  index: -1
+tesla_lv2/vong22
+  rotate: false
+  xy: 386, 4
+  size: 101, 60
+  orig: 103, 62
+  offset: 1, 1
+  index: -1
+tesla_lv2/chan1
+  rotate: true
+  xy: 320, 3
+  size: 61, 64
+  orig: 61, 64
+  offset: 0, 0
+  index: -1
+tesla_lv3/chan1
+  rotate: true
+  xy: 320, 3
+  size: 61, 64
+  orig: 61, 64
+  offset: 0, 0
+  index: -1
+tesla_lv2/chan2
+  rotate: false
+  xy: 1209, 136
+  size: 52, 67
+  orig: 52, 67
+  offset: 0, 0
+  index: -1
+tesla_lv3/chan2
+  rotate: false
+  xy: 1209, 136
+  size: 52, 67
+  orig: 52, 67
+  offset: 0, 0
+  index: -1
+tesla_lv2/chan3
+  rotate: true
+  xy: 108, 3
+  size: 50, 48
+  orig: 50, 48
+  offset: 0, 0
+  index: -1
+tesla_lv3/chan3
+  rotate: true
+  xy: 108, 3
+  size: 50, 48
+  orig: 50, 48
+  offset: 0, 0
+  index: -1
+tesla_lv2/chan4
+  rotate: true
+  xy: 1346, 154
+  size: 49, 45
+  orig: 49, 45
+  offset: 0, 0
+  index: -1
+tesla_lv3/chan4
+  rotate: true
+  xy: 1346, 154
+  size: 49, 45
+  orig: 49, 45
+  offset: 0, 0
+  index: -1
+tesla_lv2/vong1
+  rotate: true
+  xy: 823, 101
+  size: 102, 95
+  orig: 103, 96
+  offset: 1, 1
+  index: -1
+tesla_lv3/vong1
+  rotate: true
+  xy: 823, 101
+  size: 102, 95
+  orig: 103, 96
+  offset: 1, 1
+  index: -1
+tesla_lv2/vong2
+  rotate: true
+  xy: 1016, 102
+  size: 101, 60
+  orig: 103, 62
+  offset: 1, 1
+  index: -1
+tesla_lv3/vong2
+  rotate: true
+  xy: 1016, 102
+  size: 101, 60
+  orig: 103, 62
+  offset: 1, 1
+  index: -1
+tesla_lv4/1
+  rotate: false
+  xy: 144, 63
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+tesla_lv5/1
+  rotate: false
+  xy: 144, 63
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+tesla_lv4/ball2
+  rotate: true
+  xy: 144, 66
+  size: 137, 132
+  orig: 137, 132
+  offset: 0, 0
+  index: -1
+tesla_lv5/ball2
+  rotate: true
+  xy: 144, 66
+  size: 137, 132
+  orig: 137, 132
+  offset: 0, 0
+  index: -1
+tesla_lv4/ball2_1
+  rotate: true
+  xy: 278, 66
+  size: 137, 132
+  orig: 137, 132
+  offset: 0, 0
+  index: -1
+tesla_lv4/ball3
+  rotate: false
+  xy: 412, 78
+  size: 122, 125
+  orig: 122, 125
+  offset: 0, 0
+  index: -1
+tesla_lv4/fish
+  rotate: false
+  xy: 660, 81
+  size: 38, 122
+  orig: 38, 122
+  offset: 0, 0
+  index: -1
+tesla_lv5/fish
+  rotate: false
+  xy: 660, 81
+  size: 38, 122
+  orig: 38, 122
+  offset: 0, 0
+  index: -1
+tesla_lv5/ball2_2
+  rotate: false
+  xy: 1263, 147
+  size: 37, 56
+  orig: 37, 56
+  offset: 0, 0
+  index: -1
+tesla_lv5/ball2_3
+  rotate: false
+  xy: 1159, 131
+  size: 48, 72
+  orig: 48, 72
+  offset: 0, 0
+  index: -1
+tesla_lv5/ball2_4
+  rotate: false
+  xy: 1302, 149
+  size: 42, 54
+  orig: 42, 54
+  offset: 0, 0
+  index: -1
+tesla_lv5/ball3
+  rotate: false
+  xy: 536, 78
+  size: 122, 125
+  orig: 122, 125
+  offset: 0, 0
+  index: -1

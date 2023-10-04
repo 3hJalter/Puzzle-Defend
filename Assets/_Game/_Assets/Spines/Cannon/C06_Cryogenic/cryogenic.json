@@ -1,0 +1,6765 @@
+{
+  "skeleton": {
+    "hash": "Tu8SHFajRnojX1QQgVeSX6uYpF4",
+    "spine": "3.8.99",
+    "x": -102.5,
+    "y": -2,
+    "width": 205,
+    "height": 183.25
+  },
+  "bones": [
+    {
+      "name": "root"
+    },
+    {
+      "name": "location",
+      "parent": "root",
+      "skin": true
+    },
+    {
+      "name": "gun_target",
+      "parent": "location",
+      "length": 36.29,
+      "rotation": 90,
+      "y": 34.08,
+      "skin": true
+    },
+    {
+      "name": "body1",
+      "parent": "location",
+      "length": 43.66,
+      "rotation": 90,
+      "skin": true
+    },
+    {
+      "name": "gun_target2",
+      "parent": "root",
+      "y": 386.82
+    },
+    {
+      "name": "body2",
+      "parent": "gun_target",
+      "length": 111.06,
+      "x": 28,
+      "skin": true
+    },
+    {
+      "name": "body2b",
+      "parent": "body2",
+      "length": 38.22,
+      "x": 111.06,
+      "skin": true
+    },
+    {
+      "name": "gun2",
+      "parent": "body2b",
+      "length": 76.21,
+      "x": 34.04,
+      "skin": true
+    },
+    {
+      "name": "gun3",
+      "parent": "gun2",
+      "x": 50.14,
+      "transform": "noScale",
+      "skin": true
+    },
+    {
+      "name": "body3",
+      "parent": "body2",
+      "length": 58.71,
+      "rotation": -127.11,
+      "x": 94.38,
+      "y": -62.42,
+      "skin": true
+    },
+    {
+      "name": "enegy3",
+      "parent": "body3",
+      "rotation": 130.77,
+      "x": 0.22,
+      "y": 0.48,
+      "skin": true
+    },
+    {
+      "name": "body7",
+      "parent": "gun_target",
+      "length": 78.43,
+      "rotation": -62.86,
+      "x": 89.52,
+      "y": -34.64,
+      "transform": "noRotationOrReflection",
+      "skin": true
+    },
+    {
+      "name": "body8",
+      "parent": "body7",
+      "length": 138.32,
+      "rotation": 117.22,
+      "x": 52.77,
+      "y": -16.11,
+      "skin": true
+    },
+    {
+      "name": "enegy4",
+      "parent": "body8",
+      "x": 76.48,
+      "skin": true
+    },
+    {
+      "name": "body9",
+      "parent": "body2",
+      "length": 58.71,
+      "rotation": -127.11,
+      "x": 93.54,
+      "y": 61.36,
+      "skin": true
+    },
+    {
+      "name": "enegy5",
+      "parent": "body9",
+      "rotation": 93.39,
+      "x": 0.21,
+      "y": -0.48,
+      "skin": true
+    },
+    {
+      "name": "body10",
+      "parent": "gun_target",
+      "length": 78.43,
+      "rotation": -118.04,
+      "x": 88.76,
+      "y": 33.73,
+      "scaleY": -1,
+      "transform": "noRotationOrReflection",
+      "skin": true
+    },
+    {
+      "name": "body11",
+      "parent": "body10",
+      "length": 138.32,
+      "rotation": 117.28,
+      "x": 52.73,
+      "y": -17.32,
+      "skin": true
+    },
+    {
+      "name": "enegy6",
+      "parent": "body11",
+      "x": 74.14,
+      "skin": true
+    },
+    {
+      "name": "body12",
+      "parent": "body2",
+      "x": -7.93,
+      "y": -0.22,
+      "skin": true
+    },
+    {
+      "name": "body5",
+      "parent": "body2",
+      "x": 121.23,
+      "y": -51.96,
+      "skin": true
+    },
+    {
+      "name": "body6",
+      "parent": "body2",
+      "x": 46.08,
+      "y": -0.04,
+      "skin": true
+    },
+    {
+      "name": "body13",
+      "parent": "body7",
+      "rotation": 7.87,
+      "x": 68.14,
+      "y": -10.87,
+      "skin": true
+    },
+    {
+      "name": "body14",
+      "parent": "body10",
+      "rotation": 0.97,
+      "x": 67.71,
+      "y": -5.72,
+      "skin": true
+    },
+    {
+      "name": "body4",
+      "parent": "body2",
+      "x": 41.54,
+      "y": 0.08,
+      "skin": true
+    },
+    {
+      "name": "guntip_lv4",
+      "parent": "gun3",
+      "x": 11.96,
+      "y": 0.56,
+      "skin": true
+    },
+    {
+      "name": "guntip_lv5",
+      "parent": "gun3",
+      "x": 27.58,
+      "y": 0.45,
+      "skin": true
+    },
+    {
+      "name": "guntip_lv3",
+      "parent": "gun3",
+      "x": -17.44,
+      "skin": true
+    },
+    {
+      "name": "guntip_lv2",
+      "parent": "gun3",
+      "x": -55.3,
+      "skin": true
+    },
+    {
+      "name": "guntip_lv1",
+      "parent": "body2",
+      "x": 78.73,
+      "y": 0.18,
+      "skin": true
+    },
+    {
+      "name": "enegy7",
+      "parent": "body7",
+      "length": 59.57,
+      "rotation": 153.62,
+      "x": 17.33,
+      "y": -127.96,
+      "skin": true
+    },
+    {
+      "name": "enegy8",
+      "parent": "body7",
+      "length": 59.57,
+      "rotation": 153.62,
+      "x": 84.46,
+      "y": 1.44,
+      "skin": true
+    }
+  ],
+  "slots": [
+    {
+      "name": "body1",
+      "bone": "body1",
+      "attachment": "Cryogenic_lv5/body1"
+    },
+    {
+      "name": "body2",
+      "bone": "body2",
+      "attachment": "Cryogenic_lv5/body2"
+    },
+    {
+      "name": "body3",
+      "bone": "body2b",
+      "attachment": "Cryogenic_lv5/body3"
+    },
+    {
+      "name": "gun2",
+      "bone": "gun2",
+      "attachment": "Cryogenic_lv5/gun2"
+    },
+    {
+      "name": "gun1",
+      "bone": "gun3",
+      "attachment": "Cryogenic_lv5/gun1"
+    },
+    {
+      "name": "body6",
+      "bone": "body1",
+      "attachment": "Cryogenic_lv5/body6"
+    },
+    {
+      "name": "body10",
+      "bone": "body1",
+      "attachment": "Cryogenic_lv5/body6"
+    },
+    {
+      "name": "body13",
+      "bone": "body5",
+      "attachment": "Cryogenic_lv5/body4"
+    },
+    {
+      "name": "body14",
+      "bone": "body5",
+      "attachment": "Cryogenic_lv5/body4"
+    },
+    {
+      "name": "body5",
+      "bone": "body6",
+      "attachment": "Cryogenic_lv5/body5"
+    },
+    {
+      "name": "enegy3",
+      "bone": "enegy3",
+      "attachment": "Cryogenic_lv5/enegy3"
+    },
+    {
+      "name": "enegy6",
+      "bone": "enegy5",
+      "attachment": "Cryogenic_lv5/enegy3"
+    },
+    {
+      "name": "Cryogenic_lv5/steam1",
+      "bone": "body13",
+      "color": "7bf4ffbc",
+      "blend": "additive"
+    },
+    {
+      "name": "Cryogenic_lv5/steam2",
+      "bone": "body14",
+      "color": "7bf4ffbc",
+      "blend": "additive"
+    },
+    {
+      "name": "body7",
+      "bone": "body7",
+      "attachment": "Cryogenic_lv5/body7"
+    },
+    {
+      "name": "body11",
+      "bone": "body10",
+      "attachment": "Cryogenic_lv5/body7"
+    },
+    {
+      "name": "body8",
+      "bone": "gun_target",
+      "attachment": "Cryogenic_lv5/body8"
+    },
+    {
+      "name": "body12",
+      "bone": "gun_target",
+      "attachment": "Cryogenic_lv5/body8"
+    },
+    {
+      "name": "body9",
+      "bone": "body12",
+      "attachment": "Cryogenic_lv5/body9"
+    },
+    {
+      "name": "enegy4",
+      "bone": "enegy7",
+      "attachment": "Cryogenic_lv5/enegy4"
+    },
+    {
+      "name": "enegy5",
+      "bone": "enegy8",
+      "attachment": "Cryogenic_lv5/enegy4"
+    },
+    {
+      "name": "Cryogenic_lv3/body2a",
+      "bone": "body4",
+      "attachment": "body2a"
+    }
+  ],
+  "ik": [
+    {
+      "name": "enegy4",
+      "order": 2,
+      "skin": true,
+      "bones": [
+        "body3"
+      ],
+      "target": "enegy4"
+    },
+    {
+      "name": "enegy6",
+      "order": 4,
+      "skin": true,
+      "bones": [
+        "body9"
+      ],
+      "target": "enegy6"
+    },
+    {
+      "name": "gun_target",
+      "skin": true,
+      "bones": [
+        "gun_target"
+      ],
+      "target": "gun_target2"
+    }
+  ],
+  "transform": [
+    {
+      "name": "body2",
+      "order": 1,
+      "skin": true,
+      "bones": [
+        "body7"
+      ],
+      "target": "body2",
+      "rotation": -151.94,
+      "x": 61.38,
+      "y": -34.38,
+      "shearY": 360,
+      "rotateMix": 0.3,
+      "translateMix": 0.2,
+      "scaleMix": 0,
+      "shearMix": 0
+    },
+    {
+      "name": "body2a",
+      "order": 3,
+      "skin": true,
+      "bones": [
+        "body10"
+      ],
+      "target": "body2",
+      "rotation": 151.96,
+      "x": 60.76,
+      "y": 33.73,
+      "shearY": 540,
+      "rotateMix": 0.3,
+      "translateMix": 0.2,
+      "scaleMix": 0,
+      "shearMix": 0
+    }
+  ],
+  "skins": [
+    {
+      "name": "lv1",
+      "bones": [
+        "body1",
+        "body2",
+        "body2b",
+        "body4",
+        "gun_target",
+        "guntip_lv1",
+        "location"
+      ],
+      "ik": [
+        "gun_target"
+      ],
+      "transform": [
+        "body2",
+        "body2a"
+      ],
+      "attachments": {
+        "Cryogenic_lv3/body2a": {
+          "body2a": {
+            "name": "Cryogenic_lv1/body2a",
+            "x": -31.48,
+            "scaleX": 0.8113,
+            "scaleY": 0.8113,
+            "rotation": -90,
+            "width": 68,
+            "height": 68
+          }
+        },
+        "Cryogenic_lv5/steam1": {
+          "Cryogenic_lv5/steam1": {
+            "name": "Cryogenic_lv1/steam1",
+            "x": 38.36,
+            "y": 24.84,
+            "rotation": 58.13,
+            "width": 137,
+            "height": 99
+          },
+          "Cryogenic_lv5/steam2": {
+            "name": "Cryogenic_lv1/steam2",
+            "x": 38.36,
+            "y": 24.84,
+            "rotation": 58.13,
+            "width": 137,
+            "height": 99
+          },
+          "Cryogenic_lv5/steam3": {
+            "name": "Cryogenic_lv1/steam3",
+            "x": 38.36,
+            "y": 24.84,
+            "rotation": 58.13,
+            "width": 137,
+            "height": 99
+          },
+          "Cryogenic_lv5/steam4": {
+            "name": "Cryogenic_lv1/steam4",
+            "x": 38.36,
+            "y": 24.84,
+            "rotation": 58.13,
+            "width": 137,
+            "height": 99
+          },
+          "Cryogenic_lv5/steam5": {
+            "name": "Cryogenic_lv1/steam5",
+            "x": 38.36,
+            "y": 24.84,
+            "rotation": 58.13,
+            "width": 137,
+            "height": 99
+          }
+        },
+        "Cryogenic_lv5/steam2": {
+          "Cryogenic_lv5/steam1": {
+            "name": "Cryogenic_lv1/steam1",
+            "x": 38.36,
+            "y": 24.84,
+            "rotation": 58.13,
+            "width": 137,
+            "height": 99
+          },
+          "Cryogenic_lv5/steam2": {
+            "name": "Cryogenic_lv1/steam2",
+            "x": 38.36,
+            "y": 24.84,
+            "rotation": 58.13,
+            "width": 137,
+            "height": 99
+          },
+          "Cryogenic_lv5/steam3": {
+            "name": "Cryogenic_lv1/steam3",
+            "x": 38.36,
+            "y": 24.84,
+            "rotation": 58.13,
+            "width": 137,
+            "height": 99
+          },
+          "Cryogenic_lv5/steam4": {
+            "name": "Cryogenic_lv1/steam4",
+            "x": 38.36,
+            "y": 24.84,
+            "rotation": 58.13,
+            "width": 137,
+            "height": 99
+          },
+          "Cryogenic_lv5/steam5": {
+            "name": "Cryogenic_lv1/steam5",
+            "x": 38.36,
+            "y": 24.84,
+            "rotation": 58.13,
+            "width": 137,
+            "height": 99
+          }
+        },
+        "body1": {
+          "Cryogenic_lv5/body1": {
+            "name": "Cryogenic_lv1/body1",
+            "x": 72,
+            "rotation": -90,
+            "width": 205,
+            "height": 148
+          }
+        },
+        "body2": {
+          "Cryogenic_lv5/body2": {
+            "name": "Cryogenic_lv1/body2",
+            "x": 48.17,
+            "rotation": -90,
+            "width": 140,
+            "height": 142
+          }
+        },
+        "body3": {
+          "Cryogenic_lv5/body3": {
+            "name": "Cryogenic_lv1/body3",
+            "type": "mesh",
+            "uvs": [
+              1,
+              0.38607,
+              1,
+              1,
+              0.87283,
+              1,
+              0.67537,
+              1,
+              0.33688,
+              1,
+              0.16507,
+              1,
+              0,
+              1,
+              0,
+              0.35782,
+              0,
+              0,
+              0.14712,
+              0,
+              0.29841,
+              0,
+              0.69076,
+              0,
+              0.87539,
+              0,
+              1,
+              0,
+              0.16763,
+              0.48025,
+              0.33432,
+              0.52264,
+              0.67537,
+              0.53205,
+              0.86514,
+              0.48496
+            ],
+            "triangles": [
+              1,
+              17,
+              0,
+              2,
+              16,
+              17,
+              4,
+              15,
+              16,
+              5,
+              14,
+              15,
+              6,
+              7,
+              14,
+              1,
+              2,
+              17,
+              4,
+              16,
+              3,
+              2,
+              3,
+              16,
+              5,
+              15,
+              4,
+              5,
+              6,
+              14,
+              17,
+              16,
+              11,
+              14,
+              10,
+              15,
+              16,
+              15,
+              11,
+              15,
+              10,
+              11,
+              17,
+              12,
+              0,
+              17,
+              11,
+              12,
+              7,
+              9,
+              14,
+              14,
+              9,
+              10,
+              12,
+              13,
+              0,
+              7,
+              8,
+              9
+            ],
+            "vertices": [
+              2,
+              6,
+              -30.63,
+              -44.18,
+              0.32,
+              5,
+              80.43,
+              -44.18,
+              0.68,
+              1,
+              5,
+              49.55,
+              -44.18,
+              1,
+              1,
+              5,
+              49.55,
+              -32.44,
+              1,
+              1,
+              5,
+              49.55,
+              -14.2,
+              1,
+              1,
+              5,
+              49.55,
+              17.06,
+              1,
+              1,
+              5,
+              49.55,
+              32.93,
+              1,
+              1,
+              5,
+              49.55,
+              48.17,
+              1,
+              2,
+              6,
+              -29.21,
+              48.17,
+              0.32,
+              5,
+              81.85,
+              48.17,
+              0.68,
+              1,
+              6,
+              -11.22,
+              48.17,
+              1,
+              1,
+              6,
+              -11.22,
+              34.59,
+              1,
+              1,
+              6,
+              -11.22,
+              20.61,
+              1,
+              1,
+              6,
+              -11.22,
+              -15.62,
+              1,
+              1,
+              6,
+              -11.22,
+              -32.67,
+              1,
+              1,
+              6,
+              -11.22,
+              -44.18,
+              1,
+              2,
+              6,
+              -35.37,
+              32.69,
+              0.32,
+              5,
+              75.69,
+              32.69,
+              0.68,
+              2,
+              6,
+              -37.5,
+              17.3,
+              0.32,
+              5,
+              73.56,
+              17.3,
+              0.68,
+              2,
+              6,
+              -37.97,
+              -14.2,
+              0.32,
+              5,
+              73.08,
+              -14.2,
+              0.68,
+              2,
+              6,
+              -35.6,
+              -31.73,
+              0.32,
+              5,
+              75.45,
+              -31.73,
+              0.68
+            ],
+            "hull": 14
+          }
+        },
+        "gun1": {
+          "Cryogenic_lv5/gun1": {
+            "name": "Cryogenic_lv1/gun1",
+            "x": -64.81,
+            "y": 3.09,
+            "scaleX": 0.8995,
+            "scaleY": 0.8727,
+            "rotation": -90,
+            "width": 104,
+            "height": 64
+          }
+        }
+      }
+    },
+    {
+      "name": "lv2",
+      "bones": [
+        "body1",
+        "body2",
+        "body2b",
+        "body4",
+        "gun2",
+        "gun3",
+        "gun_target",
+        "guntip_lv2",
+        "location"
+      ],
+      "ik": [
+        "gun_target"
+      ],
+      "transform": [
+        "body2",
+        "body2a"
+      ],
+      "attachments": {
+        "Cryogenic_lv3/body2a": {
+          "body2a": {
+            "name": "Cryogenic_lv2/body2a",
+            "x": -16.88,
+            "scaleX": 0.8113,
+            "scaleY": 0.8113,
+            "rotation": -90,
+            "width": 68,
+            "height": 68
+          }
+        },
+        "Cryogenic_lv5/steam1": {
+          "Cryogenic_lv5/steam1": {
+            "name": "Cryogenic_lv2/steam1",
+            "x": 38.36,
+            "y": 24.84,
+            "rotation": 58.13,
+            "width": 137,
+            "height": 99
+          },
+          "Cryogenic_lv5/steam2": {
+            "name": "Cryogenic_lv2/steam2",
+            "x": 38.36,
+            "y": 24.84,
+            "rotation": 58.13,
+            "width": 137,
+            "height": 99
+          },
+          "Cryogenic_lv5/steam3": {
+            "name": "Cryogenic_lv2/steam3",
+            "x": 38.36,
+            "y": 24.84,
+            "rotation": 58.13,
+            "width": 137,
+            "height": 99
+          },
+          "Cryogenic_lv5/steam4": {
+            "name": "Cryogenic_lv2/steam4",
+            "x": 38.36,
+            "y": 24.84,
+            "rotation": 58.13,
+            "width": 137,
+            "height": 99
+          },
+          "Cryogenic_lv5/steam5": {
+            "name": "Cryogenic_lv2/steam5",
+            "x": 38.36,
+            "y": 24.84,
+            "rotation": 58.13,
+            "width": 137,
+            "height": 99
+          }
+        },
+        "Cryogenic_lv5/steam2": {
+          "Cryogenic_lv5/steam1": {
+            "name": "Cryogenic_lv2/steam1",
+            "x": 38.36,
+            "y": 24.84,
+            "rotation": 58.13,
+            "width": 137,
+            "height": 99
+          },
+          "Cryogenic_lv5/steam2": {
+            "name": "Cryogenic_lv2/steam2",
+            "x": 38.36,
+            "y": 24.84,
+            "rotation": 58.13,
+            "width": 137,
+            "height": 99
+          },
+          "Cryogenic_lv5/steam3": {
+            "name": "Cryogenic_lv2/steam3",
+            "x": 38.36,
+            "y": 24.84,
+            "rotation": 58.13,
+            "width": 137,
+            "height": 99
+          },
+          "Cryogenic_lv5/steam4": {
+            "name": "Cryogenic_lv2/steam4",
+            "x": 38.36,
+            "y": 24.84,
+            "rotation": 58.13,
+            "width": 137,
+            "height": 99
+          },
+          "Cryogenic_lv5/steam5": {
+            "name": "Cryogenic_lv2/steam5",
+            "x": 38.36,
+            "y": 24.84,
+            "rotation": 58.13,
+            "width": 137,
+            "height": 99
+          }
+        },
+        "body1": {
+          "Cryogenic_lv5/body1": {
+            "name": "Cryogenic_lv2/body1",
+            "x": 72,
+            "rotation": -90,
+            "width": 205,
+            "height": 148
+          }
+        },
+        "body2": {
+          "Cryogenic_lv5/body2": {
+            "name": "Cryogenic_lv2/body2",
+            "x": 59.26,
+            "rotation": -90,
+            "width": 140,
+            "height": 142
+          }
+        },
+        "body3": {
+          "Cryogenic_lv5/body3": {
+            "name": "Cryogenic_lv2/body3",
+            "type": "mesh",
+            "uvs": [
+              1,
+              0.38607,
+              1,
+              1,
+              0.87283,
+              1,
+              0.67537,
+              1,
+              0.33688,
+              1,
+              0.16507,
+              1,
+              0,
+              1,
+              0,
+              0.35782,
+              0,
+              0,
+              0.14712,
+              0,
+              0.29841,
+              0,
+              0.69076,
+              0,
+              0.87539,
+              0,
+              1,
+              0,
+              0.16763,
+              0.48025,
+              0.33432,
+              0.52264,
+              0.67537,
+              0.53205,
+              0.86514,
+              0.48496
+            ],
+            "triangles": [
+              1,
+              17,
+              0,
+              2,
+              16,
+              17,
+              4,
+              15,
+              16,
+              5,
+              14,
+              15,
+              6,
+              7,
+              14,
+              1,
+              2,
+              17,
+              4,
+              16,
+              3,
+              2,
+              3,
+              16,
+              5,
+              15,
+              4,
+              5,
+              6,
+              14,
+              17,
+              16,
+              11,
+              14,
+              10,
+              15,
+              16,
+              15,
+              11,
+              15,
+              10,
+              11,
+              17,
+              12,
+              0,
+              17,
+              11,
+              12,
+              7,
+              9,
+              14,
+              14,
+              9,
+              10,
+              12,
+              13,
+              0,
+              7,
+              8,
+              9
+            ],
+            "vertices": [
+              2,
+              6,
+              -15.31,
+              -44.18,
+              0.32,
+              5,
+              95.75,
+              -44.18,
+              0.68,
+              1,
+              5,
+              64.87,
+              -44.18,
+              1,
+              1,
+              5,
+              64.87,
+              -32.44,
+              1,
+              1,
+              5,
+              64.87,
+              -14.2,
+              1,
+              1,
+              5,
+              64.87,
+              17.06,
+              1,
+              1,
+              5,
+              64.87,
+              32.93,
+              1,
+              1,
+              5,
+              64.87,
+              48.17,
+              1,
+              2,
+              6,
+              -13.89,
+              48.17,
+              0.32,
+              5,
+              97.17,
+              48.17,
+              0.68,
+              1,
+              6,
+              4.11,
+              48.17,
+              1,
+              1,
+              6,
+              4.11,
+              34.59,
+              1,
+              1,
+              6,
+              4.11,
+              20.61,
+              1,
+              1,
+              6,
+              4.11,
+              -15.62,
+              1,
+              1,
+              6,
+              4.11,
+              -32.67,
+              1,
+              1,
+              6,
+              4.11,
+              -44.18,
+              1,
+              2,
+              6,
+              -20.05,
+              32.69,
+              0.32,
+              5,
+              91.01,
+              32.69,
+              0.68,
+              2,
+              6,
+              -22.18,
+              17.3,
+              0.32,
+              5,
+              88.88,
+              17.3,
+              0.68,
+              2,
+              6,
+              -22.65,
+              -14.2,
+              0.32,
+              5,
+              88.41,
+              -14.2,
+              0.68,
+              2,
+              6,
+              -20.28,
+              -31.73,
+              0.32,
+              5,
+              90.77,
+              -31.73,
+              0.68
+            ],
+            "hull": 14
+          }
+        },
+        "gun1": {
+          "Cryogenic_lv5/gun1": {
+            "name": "Cryogenic_lv2/gun1",
+            "x": -64.81,
+            "y": 3.09,
+            "scaleX": 0.8995,
+            "scaleY": 0.8727,
+            "rotation": -90,
+            "width": 104,
+            "height": 64
+          }
+        },
+        "gun2": {
+          "Cryogenic_lv5/gun2": {
+            "name": "Cryogenic_lv2/gun2",
+            "type": "mesh",
+            "uvs": [
+              1,
+              0.68361,
+              1,
+              0.80847,
+              1,
+              1,
+              0,
+              1,
+              0,
+              0.81367,
+              0,
+              0.68881,
+              0,
+              0,
+              1,
+              0
+            ],
+            "triangles": [
+              5,
+              6,
+              0,
+              6,
+              7,
+              0,
+              2,
+              4,
+              1,
+              2,
+              3,
+              4,
+              4,
+              5,
+              1,
+              5,
+              0,
+              1
+            ],
+            "vertices": [
+              2,
+              6,
+              -2.35,
+              -30.33,
+              0.536,
+              7,
+              -36.39,
+              -29.73,
+              0.464,
+              2,
+              6,
+              -16.68,
+              -30.28,
+              0.904,
+              7,
+              -50.72,
+              -29.68,
+              0.096,
+              1,
+              6,
+              -25.68,
+              -30.27,
+              1,
+              1,
+              6,
+              -25.68,
+              34.36,
+              1,
+              2,
+              6,
+              -17.02,
+              34.35,
+              0.904,
+              7,
+              -51.06,
+              34.94,
+              0.096,
+              2,
+              6,
+              -2.69,
+              34.3,
+              0.536,
+              7,
+              -36.73,
+              34.9,
+              0.464,
+              2,
+              6,
+              42.36,
+              34.27,
+              0.352,
+              7,
+              8.32,
+              34.87,
+              0.648,
+              2,
+              6,
+              42.36,
+              -30.35,
+              0.352,
+              7,
+              8.32,
+              -29.75,
+              0.648
+            ],
+            "hull": 8
+          }
+        }
+      }
+    },
+    {
+      "name": "lv3",
+      "bones": [
+        "body1",
+        "body2",
+        "body2b",
+        "body4",
+        "body5",
+        "gun2",
+        "gun3",
+        "gun_target",
+        "guntip_lv3",
+        "location"
+      ],
+      "ik": [
+        "gun_target"
+      ],
+      "transform": [
+        "body2",
+        "body2a"
+      ],
+      "attachments": {
+        "Cryogenic_lv3/body2a": {
+          "body2a": {
+            "name": "Cryogenic_lv3/body2a",
+            "x": 1.53,
+            "rotation": -90,
+            "width": 68,
+            "height": 68
+          }
+        },
+        "Cryogenic_lv5/steam1": {
+          "Cryogenic_lv5/steam1": {
+            "name": "Cryogenic_lv3/steam1",
+            "x": 38.36,
+            "y": 24.84,
+            "rotation": 58.13,
+            "width": 137,
+            "height": 99
+          },
+          "Cryogenic_lv5/steam2": {
+            "name": "Cryogenic_lv3/steam2",
+            "x": 38.36,
+            "y": 24.84,
+            "rotation": 58.13,
+            "width": 137,
+            "height": 99
+          },
+          "Cryogenic_lv5/steam3": {
+            "name": "Cryogenic_lv3/steam3",
+            "x": 38.36,
+            "y": 24.84,
+            "rotation": 58.13,
+            "width": 137,
+            "height": 99
+          },
+          "Cryogenic_lv5/steam4": {
+            "name": "Cryogenic_lv3/steam4",
+            "x": 38.36,
+            "y": 24.84,
+            "rotation": 58.13,
+            "width": 137,
+            "height": 99
+          },
+          "Cryogenic_lv5/steam5": {
+            "name": "Cryogenic_lv3/steam5",
+            "x": 38.36,
+            "y": 24.84,
+            "rotation": 58.13,
+            "width": 137,
+            "height": 99
+          }
+        },
+        "Cryogenic_lv5/steam2": {
+          "Cryogenic_lv5/steam1": {
+            "name": "Cryogenic_lv3/steam1",
+            "x": 38.36,
+            "y": 24.84,
+            "rotation": 58.13,
+            "width": 137,
+            "height": 99
+          },
+          "Cryogenic_lv5/steam2": {
+            "name": "Cryogenic_lv3/steam2",
+            "x": 38.36,
+            "y": 24.84,
+            "rotation": 58.13,
+            "width": 137,
+            "height": 99
+          },
+          "Cryogenic_lv5/steam3": {
+            "name": "Cryogenic_lv3/steam3",
+            "x": 38.36,
+            "y": 24.84,
+            "rotation": 58.13,
+            "width": 137,
+            "height": 99
+          },
+          "Cryogenic_lv5/steam4": {
+            "name": "Cryogenic_lv3/steam4",
+            "x": 38.36,
+            "y": 24.84,
+            "rotation": 58.13,
+            "width": 137,
+            "height": 99
+          },
+          "Cryogenic_lv5/steam5": {
+            "name": "Cryogenic_lv3/steam5",
+            "x": 38.36,
+            "y": 24.84,
+            "rotation": 58.13,
+            "width": 137,
+            "height": 99
+          }
+        },
+        "body1": {
+          "Cryogenic_lv5/body1": {
+            "name": "Cryogenic_lv3/body1",
+            "x": 72,
+            "rotation": -90,
+            "width": 205,
+            "height": 148
+          }
+        },
+        "body2": {
+          "Cryogenic_lv5/body2": {
+            "name": "Cryogenic_lv3/body2",
+            "x": 70,
+            "rotation": -90,
+            "width": 140,
+            "height": 142
+          }
+        },
+        "body3": {
+          "Cryogenic_lv5/body3": {
+            "name": "Cryogenic_lv3/body3",
+            "type": "mesh",
+            "uvs": [
+              1,
+              0.38607,
+              1,
+              1,
+              0.87283,
+              1,
+              0.67537,
+              1,
+              0.33688,
+              1,
+              0.16507,
+              1,
+              0,
+              1,
+              0,
+              0.35782,
+              0,
+              0,
+              0.14712,
+              0,
+              0.29841,
+              0,
+              0.69076,
+              0,
+              0.87539,
+              0,
+              1,
+              0,
+              0.16763,
+              0.48025,
+              0.33432,
+              0.52264,
+              0.67537,
+              0.53205,
+              0.86514,
+              0.48496
+            ],
+            "triangles": [
+              1,
+              17,
+              0,
+              2,
+              16,
+              17,
+              4,
+              15,
+              16,
+              5,
+              14,
+              15,
+              6,
+              7,
+              14,
+              1,
+              2,
+              17,
+              4,
+              16,
+              3,
+              2,
+              3,
+              16,
+              5,
+              15,
+              4,
+              5,
+              6,
+              14,
+              17,
+              16,
+              11,
+              14,
+              10,
+              15,
+              16,
+              15,
+              11,
+              15,
+              10,
+              11,
+              17,
+              12,
+              0,
+              17,
+              11,
+              12,
+              7,
+              9,
+              14,
+              14,
+              9,
+              10,
+              12,
+              13,
+              0,
+              7,
+              8,
+              9
+            ],
+            "vertices": [
+              2,
+              6,
+              24.57,
+              -44.18,
+              0.32,
+              5,
+              135.63,
+              -44.18,
+              0.68,
+              1,
+              5,
+              104.76,
+              -44.18,
+              1,
+              1,
+              5,
+              104.76,
+              -32.44,
+              1,
+              1,
+              5,
+              104.76,
+              -14.2,
+              1,
+              1,
+              5,
+              104.76,
+              17.06,
+              1,
+              1,
+              5,
+              104.76,
+              32.93,
+              1,
+              1,
+              5,
+              104.76,
+              48.17,
+              1,
+              2,
+              6,
+              26,
+              48.17,
+              0.32,
+              5,
+              137.05,
+              48.17,
+              0.68,
+              1,
+              6,
+              43.99,
+              48.17,
+              1,
+              1,
+              6,
+              43.99,
+              34.59,
+              1,
+              1,
+              6,
+              43.99,
+              20.61,
+              1,
+              1,
+              6,
+              43.99,
+              -15.62,
+              1,
+              1,
+              6,
+              43.99,
+              -32.67,
+              1,
+              1,
+              6,
+              43.99,
+              -44.18,
+              1,
+              2,
+              6,
+              19.84,
+              32.69,
+              0.32,
+              5,
+              130.89,
+              32.69,
+              0.68,
+              2,
+              6,
+              17.71,
+              17.3,
+              0.32,
+              5,
+              128.76,
+              17.3,
+              0.68,
+              2,
+              6,
+              17.23,
+              -14.2,
+              0.32,
+              5,
+              128.29,
+              -14.2,
+              0.68,
+              2,
+              6,
+              19.6,
+              -31.73,
+              0.32,
+              5,
+              130.66,
+              -31.73,
+              0.68
+            ],
+            "hull": 14
+          }
+        },
+        "body13": {
+          "Cryogenic_lv5/body4": {
+            "name": "Cryogenic_lv3/body4",
+            "type": "mesh",
+            "uvs": [
+              1,
+              0.52754,
+              1,
+              1,
+              0,
+              1,
+              0,
+              0.51929,
+              0,
+              0,
+              1,
+              0
+            ],
+            "triangles": [
+              3,
+              4,
+              5,
+              3,
+              5,
+              0,
+              2,
+              0,
+              1,
+              2,
+              3,
+              0
+            ],
+            "vertices": [
+              2,
+              20,
+              7.5,
+              5.68,
+              0.408,
+              7,
+              -16.36,
+              -45.69,
+              0.592,
+              1,
+              20,
+              -12.87,
+              5.74,
+              1,
+              1,
+              20,
+              -12.87,
+              36.42,
+              1,
+              2,
+              20,
+              7.86,
+              36.39,
+              0.68,
+              7,
+              -16.01,
+              -14.97,
+              0.32,
+              2,
+              20,
+              30.26,
+              36.33,
+              0.12,
+              7,
+              6.39,
+              -15.03,
+              0.88,
+              2,
+              20,
+              30.26,
+              5.65,
+              0.12,
+              7,
+              6.39,
+              -45.71,
+              0.88
+            ],
+            "hull": 6
+          }
+        },
+        "body14": {
+          "Cryogenic_lv5/body4": {
+            "name": "Cryogenic_lv3/body4",
+            "type": "mesh",
+            "uvs": [
+              1,
+              0.52754,
+              1,
+              1,
+              0,
+              1,
+              0,
+              0.51929,
+              0,
+              0,
+              1,
+              0
+            ],
+            "triangles": [
+              3,
+              5,
+              0,
+              3,
+              4,
+              5,
+              2,
+              3,
+              0,
+              2,
+              0,
+              1
+            ],
+            "vertices": [
+              2,
+              20,
+              6.99,
+              101.66,
+              0.408,
+              7,
+              -16.87,
+              50.3,
+              0.592,
+              1,
+              20,
+              -13.38,
+              102.31,
+              1,
+              1,
+              20,
+              -13.38,
+              71.62,
+              1,
+              2,
+              20,
+              7.35,
+              71.27,
+              0.68,
+              7,
+              -16.52,
+              19.91,
+              0.32,
+              2,
+              20,
+              29.75,
+              70.54,
+              0.152,
+              7,
+              5.88,
+              19.18,
+              0.848,
+              2,
+              20,
+              29.75,
+              101.23,
+              0.152,
+              7,
+              5.88,
+              49.87,
+              0.848
+            ],
+            "hull": 6
+          }
+        },
+        "gun1": {
+          "Cryogenic_lv5/gun1": {
+            "name": "Cryogenic_lv3/gun1",
+            "x": -24.16,
+            "y": 3.09,
+            "scaleX": 0.8106,
+            "scaleY": 0.8106,
+            "rotation": -90,
+            "width": 104,
+            "height": 64
+          }
+        },
+        "gun2": {
+          "Cryogenic_lv5/gun2": {
+            "name": "Cryogenic_lv3/gun2",
+            "type": "mesh",
+            "uvs": [
+              1,
+              0.68361,
+              1,
+              0.80847,
+              1,
+              1,
+              0,
+              1,
+              0,
+              0.81367,
+              0,
+              0.68881,
+              0,
+              0,
+              1,
+              0
+            ],
+            "triangles": [
+              5,
+              6,
+              0,
+              6,
+              7,
+              0,
+              2,
+              4,
+              1,
+              2,
+              3,
+              4,
+              4,
+              5,
+              1,
+              5,
+              0,
+              1
+            ],
+            "vertices": [
+              2,
+              6,
+              39.83,
+              -30.33,
+              0.536,
+              7,
+              5.79,
+              -29.73,
+              0.464,
+              2,
+              6,
+              25.51,
+              -30.28,
+              0.904,
+              7,
+              -8.53,
+              -29.68,
+              0.096,
+              1,
+              6,
+              16.51,
+              -30.27,
+              1,
+              1,
+              6,
+              16.51,
+              34.36,
+              1,
+              2,
+              6,
+              25.17,
+              34.35,
+              0.904,
+              7,
+              -8.87,
+              34.94,
+              0.096,
+              2,
+              6,
+              39.49,
+              34.3,
+              0.536,
+              7,
+              5.45,
+              34.9,
+              0.464,
+              2,
+              6,
+              84.54,
+              34.27,
+              0.352,
+              7,
+              50.51,
+              34.87,
+              0.648,
+              2,
+              6,
+              84.54,
+              -30.35,
+              0.352,
+              7,
+              50.51,
+              -29.75,
+              0.648
+            ],
+            "hull": 8
+          }
+        }
+      }
+    },
+    {
+      "name": "lv4",
+      "bones": [
+        "body1",
+        "body2",
+        "body2b",
+        "body5",
+        "body6",
+        "body7",
+        "body10",
+        "body12",
+        "body13",
+        "body14",
+        "gun2",
+        "gun3",
+        "gun_target",
+        "guntip_lv4",
+        "location"
+      ],
+      "ik": [
+        "gun_target"
+      ],
+      "transform": [
+        "body2",
+        "body2a"
+      ],
+      "attachments": {
+        "Cryogenic_lv5/steam1": {
+          "Cryogenic_lv5/steam1": {
+            "name": "Cryogenic_lv4/steam1",
+            "x": 38.36,
+            "y": 24.84,
+            "rotation": 58.13,
+            "width": 137,
+            "height": 99
+          },
+          "Cryogenic_lv5/steam2": {
+            "name": "Cryogenic_lv4/steam2",
+            "x": 38.36,
+            "y": 24.84,
+            "rotation": 58.13,
+            "width": 137,
+            "height": 99
+          },
+          "Cryogenic_lv5/steam3": {
+            "name": "Cryogenic_lv4/steam3",
+            "x": 38.36,
+            "y": 24.84,
+            "rotation": 58.13,
+            "width": 137,
+            "height": 99
+          },
+          "Cryogenic_lv5/steam4": {
+            "name": "Cryogenic_lv4/steam4",
+            "x": 38.36,
+            "y": 24.84,
+            "rotation": 58.13,
+            "width": 137,
+            "height": 99
+          },
+          "Cryogenic_lv5/steam5": {
+            "name": "Cryogenic_lv4/steam5",
+            "x": 38.36,
+            "y": 24.84,
+            "rotation": 58.13,
+            "width": 137,
+            "height": 99
+          }
+        },
+        "Cryogenic_lv5/steam2": {
+          "Cryogenic_lv5/steam1": {
+            "name": "Cryogenic_lv4/steam1",
+            "x": 38.36,
+            "y": 24.84,
+            "rotation": 58.13,
+            "width": 137,
+            "height": 99
+          },
+          "Cryogenic_lv5/steam2": {
+            "name": "Cryogenic_lv4/steam2",
+            "x": 38.36,
+            "y": 24.84,
+            "rotation": 58.13,
+            "width": 137,
+            "height": 99
+          },
+          "Cryogenic_lv5/steam3": {
+            "name": "Cryogenic_lv4/steam3",
+            "x": 38.36,
+            "y": 24.84,
+            "rotation": 58.13,
+            "width": 137,
+            "height": 99
+          },
+          "Cryogenic_lv5/steam4": {
+            "name": "Cryogenic_lv4/steam4",
+            "x": 38.36,
+            "y": 24.84,
+            "rotation": 58.13,
+            "width": 137,
+            "height": 99
+          },
+          "Cryogenic_lv5/steam5": {
+            "name": "Cryogenic_lv4/steam5",
+            "x": 38.36,
+            "y": 24.84,
+            "rotation": 58.13,
+            "width": 137,
+            "height": 99
+          }
+        },
+        "body1": {
+          "Cryogenic_lv5/body1": {
+            "name": "Cryogenic_lv4/body1",
+            "x": 72,
+            "rotation": -90,
+            "width": 205,
+            "height": 148
+          }
+        },
+        "body2": {
+          "Cryogenic_lv5/body2": {
+            "name": "Cryogenic_lv4/body2",
+            "x": 70,
+            "rotation": -90,
+            "width": 140,
+            "height": 142
+          }
+        },
+        "body3": {
+          "Cryogenic_lv5/body3": {
+            "name": "Cryogenic_lv4/body3",
+            "type": "mesh",
+            "uvs": [
+              1,
+              0.38607,
+              1,
+              1,
+              0.87283,
+              1,
+              0.67537,
+              1,
+              0.33688,
+              1,
+              0.16507,
+              1,
+              0,
+              1,
+              0,
+              0.35782,
+              0,
+              0,
+              0.14712,
+              0,
+              0.29841,
+              0,
+              0.69076,
+              0,
+              0.87539,
+              0,
+              1,
+              0,
+              0.16763,
+              0.48025,
+              0.33432,
+              0.52264,
+              0.67537,
+              0.53205,
+              0.86514,
+              0.48496
+            ],
+            "triangles": [
+              1,
+              17,
+              0,
+              2,
+              16,
+              17,
+              4,
+              15,
+              16,
+              5,
+              14,
+              15,
+              6,
+              7,
+              14,
+              1,
+              2,
+              17,
+              4,
+              16,
+              3,
+              2,
+              3,
+              16,
+              5,
+              15,
+              4,
+              5,
+              6,
+              14,
+              17,
+              16,
+              11,
+              14,
+              10,
+              15,
+              16,
+              15,
+              11,
+              15,
+              10,
+              11,
+              17,
+              12,
+              0,
+              17,
+              11,
+              12,
+              7,
+              9,
+              14,
+              14,
+              9,
+              10,
+              12,
+              13,
+              0,
+              7,
+              8,
+              9
+            ],
+            "vertices": [
+              2,
+              6,
+              33.05,
+              -48.5,
+              0.32,
+              5,
+              144.1,
+              -48.5,
+              0.68,
+              1,
+              5,
+              110.34,
+              -48.5,
+              1,
+              1,
+              5,
+              110.34,
+              -35.66,
+              1,
+              1,
+              5,
+              110.34,
+              -15.72,
+              1,
+              1,
+              5,
+              110.34,
+              18.47,
+              1,
+              1,
+              5,
+              110.34,
+              35.82,
+              1,
+              1,
+              5,
+              110.34,
+              52.5,
+              1,
+              2,
+              6,
+              34.6,
+              52.5,
+              0.32,
+              5,
+              145.66,
+              52.5,
+              0.68,
+              1,
+              6,
+              54.28,
+              52.5,
+              1,
+              1,
+              6,
+              54.28,
+              37.64,
+              1,
+              1,
+              6,
+              54.28,
+              22.36,
+              1,
+              1,
+              6,
+              54.28,
+              -17.27,
+              1,
+              1,
+              6,
+              54.28,
+              -35.92,
+              1,
+              1,
+              6,
+              54.28,
+              -48.5,
+              1,
+              2,
+              6,
+              27.87,
+              35.57,
+              0.32,
+              5,
+              138.92,
+              35.57,
+              0.68,
+              2,
+              6,
+              25.54,
+              18.73,
+              0.32,
+              5,
+              136.59,
+              18.73,
+              0.68,
+              2,
+              6,
+              25.02,
+              -15.72,
+              0.32,
+              5,
+              136.07,
+              -15.72,
+              0.68,
+              2,
+              6,
+              27.61,
+              -34.88,
+              0.32,
+              5,
+              138.66,
+              -34.88,
+              0.68
+            ],
+            "hull": 14
+          }
+        },
+        "body5": {
+          "Cryogenic_lv5/body5": {
+            "name": "Cryogenic_lv4/body5",
+            "scaleX": 0.8731,
+            "scaleY": 0.8731,
+            "rotation": -90,
+            "width": 103,
+            "height": 89
+          }
+        },
+        "body6": {
+          "Cryogenic_lv5/body6": {
+            "name": "Cryogenic_lv4/body6",
+            "type": "mesh",
+            "uvs": [
+              1,
+              0.52313,
+              1,
+              1,
+              0,
+              1,
+              0,
+              0.52634,
+              0,
+              0,
+              1,
+              0
+            ],
+            "triangles": [
+              4,
+              5,
+              0,
+              1,
+              3,
+              0,
+              1,
+              2,
+              3,
+              3,
+              4,
+              0
+            ],
+            "vertices": [
+              2,
+              3,
+              67.65,
+              -80.71,
+              0.5,
+              11,
+              70.87,
+              15.19,
+              0.5,
+              1,
+              3,
+              33.33,
+              -80.08,
+              1,
+              1,
+              3,
+              34.69,
+              -21.29,
+              1,
+              2,
+              3,
+              68.78,
+              -21.92,
+              0.75,
+              11,
+              42.8,
+              -36.48,
+              0.25,
+              2,
+              3,
+              106.67,
+              -22.61,
+              0.5,
+              11,
+              9.49,
+              -18.42,
+              0.5,
+              1,
+              11,
+              37.76,
+              33.14,
+              1
+            ],
+            "hull": 6
+          }
+        },
+        "body7": {
+          "Cryogenic_lv5/body7": {
+            "name": "Cryogenic_lv4/body7",
+            "x": 43.29,
+            "y": 6.55,
+            "rotation": 65.3,
+            "width": 86,
+            "height": 94
+          }
+        },
+        "body8": {
+          "Cryogenic_lv5/body8": {
+            "name": "Cryogenic_lv4/body8",
+            "type": "mesh",
+            "uvs": [
+              1,
+              0.72743,
+              0.83876,
+              0.76082,
+              0.65558,
+              0.79876,
+              0.56072,
+              0.88518,
+              0.43468,
+              1,
+              0,
+              1,
+              0,
+              0.77023,
+              0,
+              0.42783,
+              0.17236,
+              0.34223,
+              0.27699,
+              0.25985,
+              0.31732,
+              0.2281,
+              0.40707,
+              0,
+              1,
+              0,
+              0.57274,
+              0.3137,
+              0.6832,
+              0.56336,
+              0.37945,
+              0.47063,
+              0.46229,
+              0.7203,
+              0.72462,
+              0.2281,
+              0.82126,
+              0.48489,
+              0.50679,
+              0.37939,
+              0.59717,
+              0.62825
+            ],
+            "triangles": [
+              16,
+              4,
+              6,
+              6,
+              15,
+              16,
+              15,
+              7,
+              8,
+              4,
+              5,
+              6,
+              15,
+              6,
+              7,
+              4,
+              16,
+              3,
+              2,
+              3,
+              20,
+              3,
+              16,
+              20,
+              2,
+              14,
+              1,
+              2,
+              20,
+              14,
+              14,
+              18,
+              1,
+              1,
+              18,
+              0,
+              18,
+              12,
+              0,
+              16,
+              15,
+              20,
+              15,
+              19,
+              20,
+              20,
+              19,
+              14,
+              19,
+              13,
+              14,
+              14,
+              13,
+              18,
+              13,
+              17,
+              18,
+              18,
+              17,
+              12,
+              8,
+              9,
+              15,
+              15,
+              9,
+              19,
+              9,
+              10,
+              19,
+              19,
+              10,
+              13,
+              17,
+              13,
+              11,
+              13,
+              10,
+              11,
+              17,
+              11,
+              12
+            ],
+            "vertices": [
+              1,
+              16,
+              54.52,
+              -6.97,
+              1,
+              1,
+              16,
+              53.05,
+              -11.85,
+              1,
+              1,
+              16,
+              51.39,
+              -17.4,
+              1,
+              2,
+              16,
+              52.36,
+              -23.23,
+              0.792,
+              19,
+              11.56,
+              38.06,
+              0.208,
+              2,
+              16,
+              53.66,
+              -30.98,
+              0.408,
+              19,
+              6.77,
+              31.83,
+              0.592,
+              2,
+              16,
+              46.26,
+              -47.15,
+              0.096,
+              19,
+              5.7,
+              14.08,
+              0.904,
+              2,
+              16,
+              40.17,
+              -43.91,
+              0.096,
+              19,
+              12.59,
+              14.08,
+              0.904,
+              2,
+              16,
+              31.11,
+              -39.08,
+              0.096,
+              19,
+              22.87,
+              14.08,
+              0.904,
+              2,
+              16,
+              32.42,
+              -28.88,
+              0.408,
+              19,
+              26.5,
+              23.7,
+              0.592,
+              2,
+              16,
+              31.64,
+              -21.47,
+              0.792,
+              19,
+              30.67,
+              29.88,
+              0.208,
+              1,
+              16,
+              31.35,
+              -18.61,
+              1,
+              1,
+              16,
+              26.61,
+              -12.94,
+              1,
+              1,
+              16,
+              35.25,
+              3.29,
+              1,
+              1,
+              16,
+              37.33,
+              -12.83,
+              1,
+              1,
+              16,
+              45.55,
+              -13.33,
+              1,
+              2,
+              16,
+              38.84,
+              -25.02,
+              0.408,
+              19,
+              22.65,
+              30.12,
+              0.592,
+              2,
+              16,
+              46.66,
+              -26.28,
+              0.408,
+              19,
+              15.16,
+              32.69,
+              0.592,
+              1,
+              16,
+              37.28,
+              -7.46,
+              1,
+              1,
+              16,
+              45.49,
+              -8.44,
+              1,
+              2,
+              16,
+              38.17,
+              -17.26,
+              0.792,
+              19,
+              26.89,
+              36.66,
+              0.208,
+              2,
+              16,
+              46.08,
+              -18.41,
+              0.792,
+              19,
+              19.37,
+              39.36,
+              0.208
+            ],
+            "hull": 13
+          }
+        },
+        "body9": {
+          "Cryogenic_lv5/body9": {
+            "name": "Cryogenic_lv4/body9a",
+            "x": -7,
+            "y": -0.27,
+            "scaleX": 0.9391,
+            "scaleY": 0.9391,
+            "rotation": -90,
+            "width": 92,
+            "height": 129
+          }
+        },
+        "body10": {
+          "Cryogenic_lv5/body6": {
+            "name": "Cryogenic_lv4/body6",
+            "type": "mesh",
+            "uvs": [
+              1,
+              0.52647,
+              1,
+              1,
+              0,
+              1,
+              0,
+              0.51605,
+              0,
+              0,
+              1,
+              0
+            ],
+            "triangles": [
+              3,
+              4,
+              5,
+              3,
+              5,
+              0,
+              2,
+              3,
+              0,
+              2,
+              0,
+              1
+            ],
+            "vertices": [
+              2,
+              3,
+              68.78,
+              78.37,
+              0.5,
+              16,
+              68.7,
+              13.98,
+              0.5,
+              1,
+              3,
+              34.69,
+              78.95,
+              1,
+              1,
+              3,
+              33.33,
+              24.16,
+              1,
+              2,
+              3,
+              68.16,
+              23.57,
+              0.75,
+              16,
+              43.48,
+              -34.68,
+              0.25,
+              2,
+              3,
+              105.31,
+              22.93,
+              0.5,
+              16,
+              10.39,
+              -17.78,
+              0.5,
+              1,
+              16,
+              34.95,
+              31.22,
+              1
+            ],
+            "hull": 6
+          }
+        },
+        "body11": {
+          "Cryogenic_lv5/body7": {
+            "name": "Cryogenic_lv4/body7",
+            "x": 43.26,
+            "y": 6.5,
+            "rotation": 65.3,
+            "width": 86,
+            "height": 94
+          }
+        },
+        "body12": {
+          "Cryogenic_lv5/body8": {
+            "name": "Cryogenic_lv4/body8",
+            "type": "mesh",
+            "uvs": [
+              1,
+              0.72743,
+              0.83876,
+              0.76082,
+              0.65558,
+              0.79876,
+              0.56072,
+              0.88518,
+              0.43468,
+              1,
+              0,
+              1,
+              0,
+              0.77023,
+              0,
+              0.42783,
+              0.17236,
+              0.34223,
+              0.27699,
+              0.25985,
+              0.31732,
+              0.2281,
+              0.40707,
+              0,
+              1,
+              0,
+              0.57274,
+              0.3137,
+              0.6832,
+              0.56336,
+              0.37945,
+              0.47063,
+              0.46229,
+              0.7203,
+              0.72462,
+              0.2281,
+              0.82126,
+              0.48489,
+              0.50679,
+              0.37939,
+              0.59717,
+              0.62825
+            ],
+            "triangles": [
+              15,
+              6,
+              7,
+              15,
+              7,
+              8,
+              6,
+              15,
+              16,
+              4,
+              5,
+              6,
+              16,
+              4,
+              6,
+              17,
+              11,
+              12,
+              13,
+              10,
+              11,
+              17,
+              13,
+              11,
+              19,
+              10,
+              13,
+              9,
+              10,
+              19,
+              15,
+              9,
+              19,
+              8,
+              9,
+              15,
+              18,
+              17,
+              12,
+              13,
+              17,
+              18,
+              14,
+              13,
+              18,
+              19,
+              13,
+              14,
+              20,
+              19,
+              14,
+              15,
+              19,
+              20,
+              16,
+              15,
+              20,
+              18,
+              12,
+              0,
+              1,
+              18,
+              0,
+              14,
+              18,
+              1,
+              2,
+              20,
+              14,
+              2,
+              14,
+              1,
+              3,
+              16,
+              20,
+              2,
+              3,
+              20,
+              4,
+              16,
+              3
+            ],
+            "vertices": [
+              1,
+              11,
+              53.96,
+              -6.74,
+              1,
+              1,
+              11,
+              52.55,
+              -11.64,
+              1,
+              1,
+              11,
+              50.95,
+              -17.21,
+              1,
+              2,
+              11,
+              51.99,
+              -23.03,
+              0.75609,
+              19,
+              12.71,
+              -37.92,
+              0.24391,
+              2,
+              11,
+              53.37,
+              -30.76,
+              0.432,
+              19,
+              7.92,
+              -31.7,
+              0.568,
+              2,
+              11,
+              46.14,
+              -47.01,
+              0.072,
+              19,
+              6.85,
+              -13.94,
+              0.928,
+              2,
+              11,
+              40.02,
+              -43.84,
+              0.072,
+              19,
+              13.74,
+              -13.94,
+              0.928,
+              2,
+              11,
+              30.91,
+              -39.11,
+              0.072,
+              19,
+              24.01,
+              -13.94,
+              0.928,
+              2,
+              11,
+              32.11,
+              -28.89,
+              0.432,
+              19,
+              27.65,
+              -23.56,
+              0.568,
+              2,
+              11,
+              31.25,
+              -21.49,
+              0.84195,
+              19,
+              31.82,
+              -29.74,
+              0.15805,
+              1,
+              11,
+              30.92,
+              -18.63,
+              1,
+              1,
+              11,
+              26.13,
+              -13.01,
+              1,
+              1,
+              11,
+              34.59,
+              3.3,
+              1,
+              1,
+              11,
+              36.85,
+              -12.79,
+              1,
+              1,
+              11,
+              45.07,
+              -13.2,
+              1,
+              2,
+              11,
+              38.48,
+              -24.97,
+              0.432,
+              19,
+              23.8,
+              -29.98,
+              0.568,
+              2,
+              11,
+              46.31,
+              -26.14,
+              0.432,
+              19,
+              16.31,
+              -32.55,
+              0.568,
+              1,
+              11,
+              36.73,
+              -7.42,
+              1,
+              1,
+              11,
+              44.95,
+              -8.31,
+              1,
+              2,
+              11,
+              37.73,
+              -17.21,
+              0.79457,
+              19,
+              28.04,
+              -36.53,
+              0.20543,
+              2,
+              11,
+              45.66,
+              -18.28,
+              0.78006,
+              19,
+              20.51,
+              -39.22,
+              0.21994
+            ],
+            "hull": 13
+          }
+        },
+        "body13": {
+          "Cryogenic_lv5/body4": {
+            "name": "Cryogenic_lv4/body4",
+            "type": "mesh",
+            "uvs": [
+              1,
+              0.52754,
+              1,
+              1,
+              0,
+              1,
+              0,
+              0.51929,
+              0,
+              0,
+              1,
+              0
+            ],
+            "triangles": [
+              3,
+              4,
+              5,
+              3,
+              5,
+              0,
+              2,
+              0,
+              1,
+              2,
+              3,
+              0
+            ],
+            "vertices": [
+              2,
+              20,
+              17.81,
+              -5.33,
+              0.408,
+              7,
+              -6.06,
+              -56.69,
+              0.592,
+              1,
+              20,
+              -4.48,
+              -5.3,
+              1,
+              1,
+              20,
+              -4.48,
+              28.27,
+              1,
+              2,
+              20,
+              18.2,
+              28.25,
+              0.68,
+              7,
+              -5.67,
+              -23.11,
+              0.32,
+              2,
+              20,
+              42.7,
+              28.22,
+              0.12,
+              7,
+              18.83,
+              -23.14,
+              0.88,
+              2,
+              20,
+              42.7,
+              -5.35,
+              0.12,
+              7,
+              18.83,
+              -56.71,
+              0.88
+            ],
+            "hull": 6
+          }
+        },
+        "body14": {
+          "Cryogenic_lv5/body4": {
+            "name": "Cryogenic_lv4/body4",
+            "type": "mesh",
+            "uvs": [
+              1,
+              0.52754,
+              1,
+              1,
+              0,
+              1,
+              0,
+              0.51929,
+              0,
+              0,
+              1,
+              0
+            ],
+            "triangles": [
+              3,
+              5,
+              0,
+              3,
+              4,
+              5,
+              2,
+              3,
+              0,
+              2,
+              0,
+              1
+            ],
+            "vertices": [
+              2,
+              20,
+              16.3,
+              111.68,
+              0.408,
+              7,
+              -7.56,
+              60.32,
+              0.592,
+              1,
+              20,
+              -6.05,
+              112.33,
+              1,
+              1,
+              20,
+              -6.05,
+              81.26,
+              1,
+              2,
+              20,
+              16.69,
+              80.91,
+              0.68,
+              7,
+              -7.17,
+              29.55,
+              0.32,
+              2,
+              20,
+              41.26,
+              80.18,
+              0.152,
+              7,
+              17.39,
+              28.82,
+              0.848,
+              2,
+              20,
+              41.26,
+              111.25,
+              0.152,
+              7,
+              17.39,
+              59.88,
+              0.848
+            ],
+            "hull": 6
+          }
+        },
+        "gun1": {
+          "Cryogenic_lv5/gun1": {
+            "name": "Cryogenic_lv4/gun1",
+            "x": -6.55,
+            "y": 3.09,
+            "scaleX": 0.8106,
+            "scaleY": 0.8106,
+            "rotation": -90,
+            "width": 104,
+            "height": 64
+          }
+        },
+        "gun2": {
+          "Cryogenic_lv5/gun2": {
+            "name": "Cryogenic_lv4/gun2",
+            "type": "mesh",
+            "uvs": [
+              1,
+              0.68361,
+              1,
+              0.80847,
+              1,
+              1,
+              0,
+              1,
+              0,
+              0.81367,
+              0,
+              0.68881,
+              0,
+              0,
+              1,
+              0
+            ],
+            "triangles": [
+              5,
+              6,
+              0,
+              6,
+              7,
+              0,
+              2,
+              4,
+              1,
+              2,
+              3,
+              4,
+              4,
+              5,
+              1,
+              5,
+              0,
+              1
+            ],
+            "vertices": [
+              2,
+              6,
+              53.05,
+              -39.5,
+              0.536,
+              7,
+              19.01,
+              -38.91,
+              0.464,
+              2,
+              6,
+              40.05,
+              -39.5,
+              0.904,
+              7,
+              6.02,
+              -38.91,
+              0.096,
+              1,
+              6,
+              26.47,
+              -39.5,
+              1,
+              1,
+              6,
+              26.47,
+              43.5,
+              1,
+              2,
+              6,
+              39.62,
+              43.5,
+              0.904,
+              7,
+              5.58,
+              44.09,
+              0.096,
+              2,
+              6,
+              52.61,
+              43.5,
+              0.536,
+              7,
+              18.57,
+              44.09,
+              0.464,
+              2,
+              6,
+              110.47,
+              43.5,
+              0.352,
+              7,
+              76.43,
+              44.09,
+              0.648,
+              2,
+              6,
+              110.47,
+              -39.5,
+              0.352,
+              7,
+              76.43,
+              -38.91,
+              0.648
+            ],
+            "hull": 8
+          }
+        }
+      }
+    },
+    {
+      "name": "lv5",
+      "bones": [
+        "body1",
+        "body2",
+        "body2b",
+        "body3",
+        "body4",
+        "body5",
+        "body6",
+        "body7",
+        "body8",
+        "body9",
+        "body10",
+        "body11",
+        "body12",
+        "body13",
+        "body14",
+        "enegy3",
+        "enegy4",
+        "enegy5",
+        "enegy6",
+        "enegy7",
+        "enegy8",
+        "gun2",
+        "gun3",
+        "gun_target",
+        "guntip_lv5",
+        "location"
+      ],
+      "ik": [
+        "enegy4",
+        "enegy6",
+        "gun_target"
+      ],
+      "transform": [
+        "body2",
+        "body2a"
+      ],
+      "attachments": {
+        "Cryogenic_lv5/steam1": {
+          "Cryogenic_lv5/steam1": {
+            "x": 38.36,
+            "y": 24.84,
+            "rotation": 58.13,
+            "width": 137,
+            "height": 99
+          },
+          "Cryogenic_lv5/steam2": {
+            "x": 38.36,
+            "y": 24.84,
+            "rotation": 58.13,
+            "width": 137,
+            "height": 99
+          },
+          "Cryogenic_lv5/steam3": {
+            "x": 38.36,
+            "y": 24.84,
+            "rotation": 58.13,
+            "width": 137,
+            "height": 99
+          },
+          "Cryogenic_lv5/steam4": {
+            "x": 38.36,
+            "y": 24.84,
+            "rotation": 58.13,
+            "width": 137,
+            "height": 99
+          },
+          "Cryogenic_lv5/steam5": {
+            "x": 38.36,
+            "y": 24.84,
+            "rotation": 58.13,
+            "width": 137,
+            "height": 99
+          }
+        },
+        "Cryogenic_lv5/steam2": {
+          "Cryogenic_lv5/steam1": {
+            "x": 38.36,
+            "y": 24.84,
+            "rotation": 58.13,
+            "width": 137,
+            "height": 99
+          },
+          "Cryogenic_lv5/steam2": {
+            "x": 38.36,
+            "y": 24.84,
+            "rotation": 58.13,
+            "width": 137,
+            "height": 99
+          },
+          "Cryogenic_lv5/steam3": {
+            "x": 38.36,
+            "y": 24.84,
+            "rotation": 58.13,
+            "width": 137,
+            "height": 99
+          },
+          "Cryogenic_lv5/steam4": {
+            "x": 38.36,
+            "y": 24.84,
+            "rotation": 58.13,
+            "width": 137,
+            "height": 99
+          },
+          "Cryogenic_lv5/steam5": {
+            "x": 38.36,
+            "y": 24.84,
+            "rotation": 58.13,
+            "width": 137,
+            "height": 99
+          }
+        },
+        "body1": {
+          "Cryogenic_lv5/body1": {
+            "x": 72,
+            "rotation": -90,
+            "width": 205,
+            "height": 148
+          }
+        },
+        "body2": {
+          "Cryogenic_lv5/body2": {
+            "x": 70,
+            "rotation": -90,
+            "width": 140,
+            "height": 142
+          }
+        },
+        "body3": {
+          "Cryogenic_lv5/body3": {
+            "type": "mesh",
+            "uvs": [
+              1,
+              0.38607,
+              1,
+              1,
+              0.87283,
+              1,
+              0.67537,
+              1,
+              0.33688,
+              1,
+              0.16507,
+              1,
+              0,
+              1,
+              0,
+              0.35782,
+              0,
+              0,
+              0.14712,
+              0,
+              0.29841,
+              0,
+              0.69076,
+              0,
+              0.87539,
+              0,
+              1,
+              0,
+              0.16763,
+              0.48025,
+              0.33432,
+              0.52264,
+              0.67537,
+              0.53205,
+              0.86514,
+              0.48496
+            ],
+            "triangles": [
+              1,
+              17,
+              0,
+              2,
+              16,
+              17,
+              4,
+              15,
+              16,
+              5,
+              14,
+              15,
+              6,
+              7,
+              14,
+              1,
+              2,
+              17,
+              4,
+              16,
+              3,
+              2,
+              3,
+              16,
+              5,
+              15,
+              4,
+              5,
+              6,
+              14,
+              17,
+              16,
+              11,
+              14,
+              10,
+              15,
+              16,
+              15,
+              11,
+              15,
+              10,
+              11,
+              17,
+              12,
+              0,
+              17,
+              11,
+              12,
+              7,
+              9,
+              14,
+              14,
+              9,
+              10,
+              12,
+              13,
+              0,
+              7,
+              8,
+              9
+            ],
+            "vertices": [
+              2,
+              6,
+              33.05,
+              -48.5,
+              0.32,
+              5,
+              144.1,
+              -48.5,
+              0.68,
+              1,
+              5,
+              110.34,
+              -48.5,
+              1,
+              1,
+              5,
+              110.34,
+              -35.66,
+              1,
+              1,
+              5,
+              110.34,
+              -15.72,
+              1,
+              1,
+              5,
+              110.34,
+              18.47,
+              1,
+              1,
+              5,
+              110.34,
+              35.82,
+              1,
+              1,
+              5,
+              110.34,
+              52.5,
+              1,
+              2,
+              6,
+              34.6,
+              52.5,
+              0.32,
+              5,
+              145.66,
+              52.5,
+              0.68,
+              1,
+              6,
+              54.28,
+              52.5,
+              1,
+              1,
+              6,
+              54.28,
+              37.64,
+              1,
+              1,
+              6,
+              54.28,
+              22.36,
+              1,
+              1,
+              6,
+              54.28,
+              -17.27,
+              1,
+              1,
+              6,
+              54.28,
+              -35.92,
+              1,
+              1,
+              6,
+              54.28,
+              -48.5,
+              1,
+              2,
+              6,
+              27.87,
+              35.57,
+              0.32,
+              5,
+              138.92,
+              35.57,
+              0.68,
+              2,
+              6,
+              25.54,
+              18.73,
+              0.32,
+              5,
+              136.59,
+              18.73,
+              0.68,
+              2,
+              6,
+              25.02,
+              -15.72,
+              0.32,
+              5,
+              136.07,
+              -15.72,
+              0.68,
+              2,
+              6,
+              27.61,
+              -34.88,
+              0.32,
+              5,
+              138.66,
+              -34.88,
+              0.68
+            ],
+            "hull": 14
+          }
+        },
+        "body5": {
+          "Cryogenic_lv5/body5": {
+            "scaleX": 1.0022,
+            "scaleY": 1.0022,
+            "rotation": -90,
+            "width": 103,
+            "height": 89
+          }
+        },
+        "body6": {
+          "Cryogenic_lv5/body6": {
+            "type": "mesh",
+            "uvs": [
+              1,
+              0.52313,
+              1,
+              1,
+              0,
+              1,
+              0,
+              0.52634,
+              0,
+              0,
+              1,
+              0
+            ],
+            "triangles": [
+              4,
+              5,
+              0,
+              1,
+              3,
+              0,
+              1,
+              2,
+              3,
+              3,
+              4,
+              0
+            ],
+            "vertices": [
+              2,
+              3,
+              67.65,
+              -89.96,
+              0.5,
+              11,
+              75.13,
+              23.4,
+              0.5,
+              1,
+              3,
+              33.33,
+              -89.25,
+              1,
+              1,
+              3,
+              34.69,
+              -23.26,
+              1,
+              2,
+              3,
+              68.78,
+              -23.97,
+              0.75,
+              11,
+              43.74,
+              -34.66,
+              0.25,
+              2,
+              3,
+              106.67,
+              -24.75,
+              0.5,
+              11,
+              10.47,
+              -16.52,
+              0.5,
+              1,
+              11,
+              42.06,
+              41.43,
+              1
+            ],
+            "hull": 6
+          }
+        },
+        "body7": {
+          "Cryogenic_lv5/body7": {
+            "x": 38.11,
+            "y": 9.24,
+            "rotation": 65.3,
+            "width": 86,
+            "height": 94
+          }
+        },
+        "body8": {
+          "Cryogenic_lv5/body8": {
+            "type": "mesh",
+            "uvs": [
+              1,
+              0.72743,
+              0.83876,
+              0.76082,
+              0.65558,
+              0.79876,
+              0.56072,
+              0.88518,
+              0.43468,
+              1,
+              0,
+              1,
+              0,
+              0.77023,
+              0,
+              0.42783,
+              0.17236,
+              0.34223,
+              0.27699,
+              0.25985,
+              0.31732,
+              0.2281,
+              0.40707,
+              0,
+              1,
+              0,
+              0.57274,
+              0.3137,
+              0.6832,
+              0.56336,
+              0.37945,
+              0.47063,
+              0.46229,
+              0.7203,
+              0.72462,
+              0.2281,
+              0.82126,
+              0.48489,
+              0.50679,
+              0.37939,
+              0.59717,
+              0.62825
+            ],
+            "triangles": [
+              16,
+              4,
+              6,
+              6,
+              15,
+              16,
+              15,
+              7,
+              8,
+              4,
+              5,
+              6,
+              15,
+              6,
+              7,
+              4,
+              16,
+              3,
+              2,
+              3,
+              20,
+              3,
+              16,
+              20,
+              2,
+              14,
+              1,
+              2,
+              20,
+              14,
+              14,
+              18,
+              1,
+              1,
+              18,
+              0,
+              18,
+              12,
+              0,
+              16,
+              15,
+              20,
+              15,
+              19,
+              20,
+              20,
+              19,
+              14,
+              19,
+              13,
+              14,
+              14,
+              13,
+              18,
+              13,
+              17,
+              18,
+              18,
+              17,
+              12,
+              8,
+              9,
+              15,
+              15,
+              9,
+              19,
+              9,
+              10,
+              19,
+              19,
+              10,
+              13,
+              17,
+              13,
+              11,
+              13,
+              10,
+              11,
+              17,
+              11,
+              12
+            ],
+            "vertices": [
+              1,
+              16,
+              54.52,
+              -6.97,
+              1,
+              1,
+              16,
+              53.05,
+              -11.85,
+              1,
+              1,
+              16,
+              51.39,
+              -17.4,
+              1,
+              2,
+              16,
+              52.36,
+              -23.23,
+              0.792,
+              19,
+              11.56,
+              38.06,
+              0.208,
+              2,
+              16,
+              53.66,
+              -30.98,
+              0.408,
+              19,
+              6.77,
+              31.83,
+              0.592,
+              2,
+              16,
+              46.26,
+              -47.15,
+              0.096,
+              19,
+              5.7,
+              14.08,
+              0.904,
+              2,
+              16,
+              40.17,
+              -43.91,
+              0.096,
+              19,
+              12.59,
+              14.08,
+              0.904,
+              2,
+              16,
+              31.11,
+              -39.08,
+              0.096,
+              19,
+              22.87,
+              14.08,
+              0.904,
+              2,
+              16,
+              32.42,
+              -28.88,
+              0.408,
+              19,
+              26.5,
+              23.7,
+              0.592,
+              2,
+              16,
+              31.64,
+              -21.47,
+              0.792,
+              19,
+              30.67,
+              29.88,
+              0.208,
+              1,
+              16,
+              31.35,
+              -18.61,
+              1,
+              1,
+              16,
+              26.61,
+              -12.94,
+              1,
+              1,
+              16,
+              35.25,
+              3.29,
+              1,
+              1,
+              16,
+              37.33,
+              -12.83,
+              1,
+              1,
+              16,
+              45.55,
+              -13.33,
+              1,
+              2,
+              16,
+              38.84,
+              -25.02,
+              0.408,
+              19,
+              22.65,
+              30.12,
+              0.592,
+              2,
+              16,
+              46.66,
+              -26.28,
+              0.408,
+              19,
+              15.16,
+              32.69,
+              0.592,
+              1,
+              16,
+              37.28,
+              -7.46,
+              1,
+              1,
+              16,
+              45.49,
+              -8.44,
+              1,
+              2,
+              16,
+              38.17,
+              -17.26,
+              0.792,
+              19,
+              26.89,
+              36.66,
+              0.208,
+              2,
+              16,
+              46.08,
+              -18.41,
+              0.792,
+              19,
+              19.37,
+              39.36,
+              0.208
+            ],
+            "hull": 13
+          }
+        },
+        "body9": {
+          "Cryogenic_lv5/body9": {
+            "x": 21.77,
+            "y": 0.22,
+            "rotation": -90,
+            "width": 64,
+            "height": 77
+          }
+        },
+        "body10": {
+          "Cryogenic_lv5/body6": {
+            "type": "mesh",
+            "uvs": [
+              1,
+              0.52647,
+              1,
+              1,
+              0,
+              1,
+              0,
+              0.51605,
+              0,
+              0,
+              1,
+              0
+            ],
+            "triangles": [
+              3,
+              4,
+              5,
+              3,
+              5,
+              0,
+              2,
+              3,
+              0,
+              2,
+              0,
+              1
+            ],
+            "vertices": [
+              2,
+              3,
+              68.78,
+              90.03,
+              0.5,
+              16,
+              74.19,
+              24.27,
+              0.5,
+              1,
+              3,
+              34.69,
+              90.74,
+              1,
+              1,
+              3,
+              33.33,
+              24.75,
+              1,
+              2,
+              3,
+              68.16,
+              24.03,
+              0.75,
+              16,
+              43.7,
+              -34.27,
+              0.25,
+              2,
+              3,
+              105.31,
+              23.26,
+              0.5,
+              16,
+              10.55,
+              -17.48,
+              0.5,
+              1,
+              16,
+              40.37,
+              41.4,
+              1
+            ],
+            "hull": 6
+          }
+        },
+        "body11": {
+          "Cryogenic_lv5/body7": {
+            "x": 38.11,
+            "y": 9.24,
+            "rotation": 65.3,
+            "width": 86,
+            "height": 94
+          }
+        },
+        "body12": {
+          "Cryogenic_lv5/body8": {
+            "type": "mesh",
+            "uvs": [
+              1,
+              0.72743,
+              0.83876,
+              0.76082,
+              0.65558,
+              0.79876,
+              0.56072,
+              0.88518,
+              0.43468,
+              1,
+              0,
+              1,
+              0,
+              0.77023,
+              0,
+              0.42783,
+              0.17236,
+              0.34223,
+              0.27699,
+              0.25985,
+              0.31732,
+              0.2281,
+              0.40707,
+              0,
+              1,
+              0,
+              0.57274,
+              0.3137,
+              0.6832,
+              0.56336,
+              0.37945,
+              0.47063,
+              0.46229,
+              0.7203,
+              0.72462,
+              0.2281,
+              0.82126,
+              0.48489,
+              0.50679,
+              0.37939,
+              0.59717,
+              0.62825
+            ],
+            "triangles": [
+              15,
+              6,
+              7,
+              15,
+              7,
+              8,
+              6,
+              15,
+              16,
+              4,
+              5,
+              6,
+              16,
+              4,
+              6,
+              17,
+              11,
+              12,
+              13,
+              10,
+              11,
+              17,
+              13,
+              11,
+              19,
+              10,
+              13,
+              9,
+              10,
+              19,
+              15,
+              9,
+              19,
+              8,
+              9,
+              15,
+              18,
+              17,
+              12,
+              13,
+              17,
+              18,
+              14,
+              13,
+              18,
+              19,
+              13,
+              14,
+              20,
+              19,
+              14,
+              15,
+              19,
+              20,
+              16,
+              15,
+              20,
+              18,
+              12,
+              0,
+              1,
+              18,
+              0,
+              14,
+              18,
+              1,
+              2,
+              20,
+              14,
+              2,
+              14,
+              1,
+              3,
+              16,
+              20,
+              2,
+              3,
+              20,
+              4,
+              16,
+              3
+            ],
+            "vertices": [
+              1,
+              11,
+              53.96,
+              -6.74,
+              1,
+              1,
+              11,
+              52.55,
+              -11.64,
+              1,
+              1,
+              11,
+              50.95,
+              -17.21,
+              1,
+              2,
+              11,
+              51.99,
+              -23.03,
+              0.75609,
+              19,
+              12.71,
+              -37.92,
+              0.24391,
+              2,
+              11,
+              53.37,
+              -30.76,
+              0.432,
+              19,
+              7.92,
+              -31.7,
+              0.568,
+              2,
+              11,
+              46.14,
+              -47.01,
+              0.072,
+              19,
+              6.85,
+              -13.94,
+              0.928,
+              2,
+              11,
+              40.02,
+              -43.84,
+              0.072,
+              19,
+              13.74,
+              -13.94,
+              0.928,
+              2,
+              11,
+              30.91,
+              -39.11,
+              0.072,
+              19,
+              24.01,
+              -13.94,
+              0.928,
+              2,
+              11,
+              32.11,
+              -28.89,
+              0.432,
+              19,
+              27.65,
+              -23.56,
+              0.568,
+              2,
+              11,
+              31.25,
+              -21.49,
+              0.84195,
+              19,
+              31.82,
+              -29.74,
+              0.15805,
+              1,
+              11,
+              30.92,
+              -18.63,
+              1,
+              1,
+              11,
+              26.13,
+              -13.01,
+              1,
+              1,
+              11,
+              34.59,
+              3.3,
+              1,
+              1,
+              11,
+              36.85,
+              -12.79,
+              1,
+              1,
+              11,
+              45.07,
+              -13.2,
+              1,
+              2,
+              11,
+              38.48,
+              -24.97,
+              0.432,
+              19,
+              23.8,
+              -29.98,
+              0.568,
+              2,
+              11,
+              46.31,
+              -26.14,
+              0.432,
+              19,
+              16.31,
+              -32.55,
+              0.568,
+              1,
+              11,
+              36.73,
+              -7.42,
+              1,
+              1,
+              11,
+              44.95,
+              -8.31,
+              1,
+              2,
+              11,
+              37.73,
+              -17.21,
+              0.79457,
+              19,
+              28.04,
+              -36.53,
+              0.20543,
+              2,
+              11,
+              45.66,
+              -18.28,
+              0.78006,
+              19,
+              20.51,
+              -39.22,
+              0.21994
+            ],
+            "hull": 13
+          }
+        },
+        "body13": {
+          "Cryogenic_lv5/body4": {
+            "type": "mesh",
+            "uvs": [
+              1,
+              0.52754,
+              1,
+              1,
+              0,
+              1,
+              0,
+              0.51929,
+              0,
+              0,
+              1,
+              0
+            ],
+            "triangles": [
+              3,
+              4,
+              5,
+              3,
+              5,
+              0,
+              2,
+              0,
+              1,
+              2,
+              3,
+              0
+            ],
+            "vertices": [
+              2,
+              20,
+              18.68,
+              -10.55,
+              0.408,
+              7,
+              -5.19,
+              -61.91,
+              0.592,
+              1,
+              20,
+              -5.89,
+              -10.55,
+              1,
+              1,
+              20,
+              -5.89,
+              26.45,
+              1,
+              2,
+              20,
+              19.11,
+              26.45,
+              0.68,
+              7,
+              -4.76,
+              -24.91,
+              0.32,
+              2,
+              20,
+              46.11,
+              26.45,
+              0.12,
+              7,
+              22.24,
+              -24.91,
+              0.88,
+              2,
+              20,
+              46.11,
+              -10.55,
+              0.12,
+              7,
+              22.24,
+              -61.91,
+              0.88
+            ],
+            "hull": 6
+          }
+        },
+        "body14": {
+          "Cryogenic_lv5/body4": {
+            "type": "mesh",
+            "uvs": [
+              1,
+              0.52754,
+              1,
+              1,
+              0,
+              1,
+              0,
+              0.51929,
+              0,
+              0,
+              1,
+              0
+            ],
+            "triangles": [
+              3,
+              5,
+              0,
+              3,
+              4,
+              5,
+              2,
+              3,
+              0,
+              2,
+              0,
+              1
+            ],
+            "vertices": [
+              2,
+              20,
+              18.68,
+              118.15,
+              0.408,
+              7,
+              -5.19,
+              66.79,
+              0.592,
+              1,
+              20,
+              -5.89,
+              118.86,
+              1,
+              1,
+              20,
+              -5.89,
+              81.86,
+              1,
+              2,
+              20,
+              19.11,
+              81.48,
+              0.68,
+              7,
+              -4.76,
+              30.11,
+              0.32,
+              2,
+              20,
+              46.11,
+              80.66,
+              0.152,
+              7,
+              22.24,
+              29.3,
+              0.848,
+              2,
+              20,
+              46.11,
+              117.66,
+              0.152,
+              7,
+              22.24,
+              66.3,
+              0.848
+            ],
+            "hull": 6
+          }
+        },
+        "enegy3": {
+          "Cryogenic_lv5/enegy3": {
+            "type": "mesh",
+            "uvs": [
+              0.53752,
+              0.13269,
+              0.56064,
+              0.22335,
+              0.71979,
+              0.32982,
+              0.86959,
+              0.47888,
+              1,
+              0.64568,
+              1,
+              1,
+              0.87271,
+              1,
+              0.6605,
+              1,
+              0.56376,
+              0.79829,
+              0.4795,
+              0.68117,
+              0.39836,
+              0.5747,
+              0.2236,
+              0.63858,
+              0,
+              0.49307,
+              0,
+              0,
+              0.41181,
+              0,
+              0.48162,
+              0.39443,
+              0.6449,
+              0.52856,
+              0.79781,
+              0.70956
+            ],
+            "triangles": [
+              16,
+              2,
+              3,
+              17,
+              16,
+              3,
+              17,
+              3,
+              4,
+              8,
+              9,
+              16,
+              8,
+              16,
+              17,
+              7,
+              8,
+              17,
+              6,
+              17,
+              4,
+              7,
+              17,
+              6,
+              6,
+              4,
+              5,
+              15,
+              14,
+              0,
+              15,
+              0,
+              1,
+              15,
+              1,
+              2,
+              12,
+              13,
+              14,
+              12,
+              14,
+              15,
+              16,
+              15,
+              2,
+              15,
+              11,
+              12,
+              10,
+              15,
+              16,
+              10,
+              11,
+              15,
+              9,
+              10,
+              16
+            ],
+            "vertices": [
+              2,
+              10,
+              6.94,
+              -19.8,
+              0.89319,
+              13,
+              18.38,
+              43.63,
+              0.10681,
+              2,
+              10,
+              2.32,
+              -21.14,
+              0.71468,
+              13,
+              15.41,
+              39.85,
+              0.28532,
+              2,
+              10,
+              -3.11,
+              -30.37,
+              0.51579,
+              13,
+              16.37,
+              29.18,
+              0.48421,
+              2,
+              10,
+              -10.71,
+              -39.06,
+              0.30344,
+              13,
+              15.26,
+              17.69,
+              0.69656,
+              2,
+              10,
+              -19.22,
+              -46.62,
+              0.1453,
+              13,
+              12.75,
+              6.59,
+              0.8547,
+              2,
+              10,
+              -37.29,
+              -46.62,
+              0.07246,
+              13,
+              -1.93,
+              -3.94,
+              0.92754,
+              2,
+              10,
+              -37.29,
+              -39.24,
+              0.10537,
+              13,
+              -6.23,
+              2.06,
+              0.89463,
+              2,
+              10,
+              -37.29,
+              -26.93,
+              0.15277,
+              13,
+              -13.41,
+              12.06,
+              0.84723,
+              2,
+              10,
+              -27,
+              -21.32,
+              0.2932,
+              13,
+              -8.32,
+              22.61,
+              0.7068,
+              2,
+              10,
+              -21.03,
+              -16.43,
+              0.49705,
+              13,
+              -6.31,
+              30.06,
+              0.50295,
+              2,
+              10,
+              -15.6,
+              -11.73,
+              0.69928,
+              13,
+              -4.64,
+              37.05,
+              0.30072,
+              1,
+              10,
+              -18.86,
+              -1.59,
+              1,
+              2,
+              10,
+              -11.44,
+              11.38,
+              0.97012,
+              13,
+              -14.72,
+              58.26,
+              0.02988,
+              1,
+              10,
+              13.71,
+              11.38,
+              1,
+              1,
+              10,
+              13.71,
+              -12.51,
+              1,
+              2,
+              10,
+              -6.41,
+              -16.55,
+              0.64792,
+              13,
+              5.65,
+              38.49,
+              0.35208,
+              2,
+              10,
+              -13.25,
+              -26.02,
+              0.43475,
+              13,
+              5.61,
+              26.8,
+              0.56525,
+              2,
+              10,
+              -22.48,
+              -34.89,
+              0.2336,
+              13,
+              3.27,
+              14.22,
+              0.7664
+            ],
+            "hull": 15
+          }
+        },
+        "enegy4": {
+          "Cryogenic_lv5/enegy4": {
+            "name": "Cryogenic_lv5/body9a",
+            "x": 40.03,
+            "y": -2.92,
+            "scaleX": -1,
+            "rotation": -90.76,
+            "width": 92,
+            "height": 129
+          }
+        },
+        "enegy5": {
+          "Cryogenic_lv5/enegy4": {
+            "name": "Cryogenic_lv5/body9a",
+            "x": 40.16,
+            "y": 4.18,
+            "rotation": -90.76,
+            "width": 92,
+            "height": 129
+          }
+        },
+        "enegy6": {
+          "Cryogenic_lv5/enegy3": {
+            "type": "mesh",
+            "uvs": [
+              0.53752,
+              0.13269,
+              0.56064,
+              0.22335,
+              0.71979,
+              0.32982,
+              0.86959,
+              0.47888,
+              1,
+              0.64568,
+              1,
+              1,
+              0.87271,
+              1,
+              0.6605,
+              1,
+              0.56376,
+              0.79829,
+              0.4795,
+              0.68117,
+              0.39836,
+              0.5747,
+              0.2236,
+              0.63858,
+              0,
+              0.49307,
+              0,
+              0,
+              0.41181,
+              0,
+              0.48162,
+              0.39443,
+              0.6449,
+              0.52856,
+              0.79781,
+              0.70956
+            ],
+            "triangles": [
+              16,
+              15,
+              2,
+              16,
+              2,
+              3,
+              17,
+              16,
+              3,
+              17,
+              3,
+              4,
+              8,
+              9,
+              16,
+              8,
+              16,
+              17,
+              7,
+              8,
+              17,
+              6,
+              17,
+              4,
+              7,
+              17,
+              6,
+              6,
+              4,
+              5,
+              15,
+              14,
+              0,
+              15,
+              0,
+              1,
+              15,
+              1,
+              2,
+              12,
+              13,
+              14,
+              12,
+              14,
+              15,
+              15,
+              11,
+              12,
+              10,
+              15,
+              16,
+              10,
+              11,
+              15,
+              9,
+              10,
+              16
+            ],
+            "vertices": [
+              2,
+              15,
+              -16.95,
+              -7.06,
+              0.992,
+              18,
+              12.4,
+              34.99,
+              0.008,
+              2,
+              15,
+              -16.84,
+              -10.81,
+              0.7095,
+              18,
+              11.08,
+              31.48,
+              0.2905,
+              2,
+              15,
+              -22.17,
+              -20.83,
+              0.36788,
+              18,
+              12.92,
+              20.28,
+              0.63212,
+              2,
+              15,
+              -26.46,
+              -31.85,
+              0.11492,
+              18,
+              13.44,
+              8.47,
+              0.88508,
+              2,
+              15,
+              -29,
+              -42.87,
+              0.01069,
+              18,
+              12.31,
+              -2.79,
+              0.98931,
+              1,
+              18,
+              -2.06,
+              -11.97,
+              1,
+              2,
+              15,
+              -12.19,
+              -51.25,
+              4.0E-4,
+              18,
+              -6.31,
+              -5.32,
+              0.9996,
+              2,
+              15,
+              -2.18,
+              -42.93,
+              0.05832,
+              18,
+              -13.11,
+              5.77,
+              0.94168,
+              2,
+              15,
+              -2.61,
+              -31.38,
+              0.26091,
+              18,
+              -9,
+              16.57,
+              0.73909,
+              2,
+              15,
+              0.02,
+              -23.46,
+              0.52541,
+              18,
+              -8.94,
+              24.91,
+              0.47459,
+              2,
+              15,
+              2.44,
+              -16.09,
+              0.79106,
+              18,
+              -8.86,
+              32.67,
+              0.20894,
+              2,
+              15,
+              14.24,
+              -10.45,
+              0.992,
+              18,
+              -18.23,
+              41.8,
+              0.008,
+              1,
+              15,
+              18.31,
+              4.44,
+              1,
+              1,
+              15,
+              -0.48,
+              20.84,
+              1,
+              1,
+              15,
+              -16.26,
+              2.7,
+              1,
+              2,
+              15,
+              -8.29,
+              -13.35,
+              0.71954,
+              18,
+              2.18,
+              31.82,
+              0.28046,
+              2,
+              15,
+              -13.22,
+              -24.77,
+              0.35927,
+              18,
+              3.17,
+              19.42,
+              0.64073,
+              2,
+              15,
+              -16.59,
+              -37.43,
+              0.0697,
+              18,
+              2.3,
+              6.35,
+              0.9303
+            ],
+            "hull": 15
+          }
+        },
+        "gun1": {
+          "Cryogenic_lv5/gun1": {
+            "x": 5.94,
+            "y": 3.09,
+            "rotation": -90,
+            "width": 104,
+            "height": 64
+          }
+        },
+        "gun2": {
+          "Cryogenic_lv5/gun2": {
+            "type": "mesh",
+            "uvs": [
+              1,
+              0.68361,
+              1,
+              0.80847,
+              1,
+              1,
+              0,
+              1,
+              0,
+              0.81367,
+              0,
+              0.68881,
+              0,
+              0,
+              1,
+              0
+            ],
+            "triangles": [
+              5,
+              6,
+              0,
+              6,
+              7,
+              0,
+              2,
+              4,
+              1,
+              2,
+              3,
+              4,
+              4,
+              5,
+              1,
+              5,
+              0,
+              1
+            ],
+            "vertices": [
+              2,
+              6,
+              56.05,
+              -39.5,
+              0.536,
+              7,
+              22.02,
+              -38.91,
+              0.464,
+              2,
+              6,
+              45.56,
+              -39.5,
+              0.904,
+              7,
+              11.53,
+              -38.91,
+              0.096,
+              1,
+              6,
+              29.47,
+              -39.5,
+              1,
+              1,
+              6,
+              29.47,
+              43.5,
+              1,
+              2,
+              6,
+              45.13,
+              43.5,
+              0.904,
+              7,
+              11.09,
+              44.09,
+              0.096,
+              2,
+              6,
+              55.61,
+              43.5,
+              0.536,
+              7,
+              21.58,
+              44.09,
+              0.464,
+              2,
+              6,
+              113.47,
+              43.5,
+              0.352,
+              7,
+              79.44,
+              44.09,
+              0.648,
+              2,
+              6,
+              113.47,
+              -39.5,
+              0.352,
+              7,
+              79.44,
+              -38.91,
+              0.648
+            ],
+            "hull": 8
+          }
+        }
+      }
+    }
+  ],
+  "events": {
+    "shot": {}
+  },
+  "animations": {
+    "attack": {
+      "slots": {
+        "Cryogenic_lv5/steam1": {
+          "attachment": [
+            {
+              "time": 0.3333,
+              "name": "Cryogenic_lv5/steam1"
+            },
+            {
+              "time": 0.3667,
+              "name": "Cryogenic_lv5/steam2"
+            },
+            {
+              "time": 0.4,
+              "name": "Cryogenic_lv5/steam3"
+            },
+            {
+              "time": 0.4333,
+              "name": "Cryogenic_lv5/steam4"
+            },
+            {
+              "time": 0.4667,
+              "name": "Cryogenic_lv5/steam5"
+            },
+            {
+              "time": 0.5,
+              "name": null
+            }
+          ]
+        },
+        "Cryogenic_lv5/steam2": {
+          "attachment": [
+            {
+              "time": 0.3333,
+              "name": "Cryogenic_lv5/steam1"
+            },
+            {
+              "time": 0.3667,
+              "name": "Cryogenic_lv5/steam2"
+            },
+            {
+              "time": 0.4,
+              "name": "Cryogenic_lv5/steam3"
+            },
+            {
+              "time": 0.4333,
+              "name": "Cryogenic_lv5/steam4"
+            },
+            {
+              "time": 0.4667,
+              "name": "Cryogenic_lv5/steam5"
+            },
+            {
+              "time": 0.5,
+              "name": null
+            }
+          ]
+        }
+      },
+      "bones": {
+        "body2": {
+          "translate": [
+            {},
+            {
+              "time": 0.2333,
+              "x": -10.78
+            },
+            {
+              "time": 0.3333,
+              "x": -3.23
+            },
+            {
+              "time": 0.4,
+              "x": 15.09
+            },
+            {
+              "time": 0.5,
+              "x": 20.43
+            },
+            {
+              "time": 0.6,
+              "x": -13.36
+            },
+            {
+              "time": 0.8333
+            }
+          ],
+          "scale": [
+            {},
+            {
+              "time": 0.2333,
+              "x": 0.935
+            },
+            {
+              "time": 0.3333,
+              "x": 0.955
+            },
+            {
+              "time": 0.4,
+              "x": 1.074
+            },
+            {
+              "time": 0.5,
+              "x": 1.109
+            },
+            {
+              "time": 0.6,
+              "x": 0.951
+            },
+            {
+              "time": 0.8333
+            }
+          ]
+        },
+        "body7": {
+          "rotate": [
+            {},
+            {
+              "time": 0.2333,
+              "angle": 11.28
+            },
+            {
+              "time": 0.3333,
+              "angle": 5.31,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.4667,
+              "angle": 5.31
+            },
+            {
+              "time": 0.6
+            }
+          ],
+          "translate": [
+            {},
+            {
+              "time": 0.2333,
+              "x": -18.22
+            },
+            {
+              "time": 0.3333,
+              "x": -28.98
+            },
+            {
+              "time": 0.4667,
+              "x": 19.87
+            },
+            {
+              "time": 0.6,
+              "x": 26.5,
+              "y": -18.22
+            },
+            {
+              "time": 0.7333,
+              "x": -20.94,
+              "y": -7.81
+            },
+            {
+              "time": 0.8333
+            }
+          ]
+        },
+        "body10": {
+          "rotate": [
+            {},
+            {
+              "time": 0.2333,
+              "angle": -11.35
+            },
+            {
+              "time": 0.3333,
+              "angle": -7.2,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.4667,
+              "angle": -7.2
+            },
+            {
+              "time": 0.6
+            }
+          ],
+          "translate": [
+            {},
+            {
+              "time": 0.2333,
+              "x": -18.22
+            },
+            {
+              "time": 0.3333,
+              "x": -28.98
+            },
+            {
+              "time": 0.4667,
+              "x": 19.87
+            },
+            {
+              "time": 0.6,
+              "x": 26.5,
+              "y": 21.53
+            },
+            {
+              "time": 0.7333,
+              "x": -20.94,
+              "y": 9.23
+            },
+            {
+              "time": 0.8333
+            }
+          ]
+        },
+        "enegy4": {
+          "translate": [
+            {
+              "x": -14.15
+            },
+            {
+              "time": 0.2333,
+              "x": 12.51
+            },
+            {
+              "time": 0.3333,
+              "x": -14.58
+            },
+            {
+              "time": 0.4667,
+              "x": -27.48
+            },
+            {
+              "time": 0.6,
+              "x": -14.15
+            }
+          ],
+          "scale": [
+            {},
+            {
+              "time": 0.2333,
+              "x": 1.202
+            },
+            {
+              "time": 0.3333,
+              "x": 1.11,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.4667,
+              "x": 1.11
+            },
+            {
+              "time": 0.6
+            }
+          ]
+        },
+        "enegy6": {
+          "translate": [
+            {
+              "x": -11.05
+            },
+            {
+              "time": 0.2333,
+              "x": 12.54
+            },
+            {
+              "time": 0.3333,
+              "x": -14.55
+            },
+            {
+              "time": 0.4667,
+              "x": -27.45
+            },
+            {
+              "time": 0.6,
+              "x": -11.05
+            }
+          ],
+          "scale": [
+            {},
+            {
+              "time": 0.2333,
+              "x": 1.169
+            },
+            {
+              "time": 0.3333,
+              "x": 1.079,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.4667,
+              "x": 1.079
+            },
+            {
+              "time": 0.6
+            }
+          ]
+        },
+        "body12": {
+          "translate": [
+            {},
+            {
+              "time": 0.2,
+              "x": -1.02
+            },
+            {
+              "time": 0.3333,
+              "x": -8.1
+            },
+            {
+              "time": 0.4,
+              "x": 8.29
+            },
+            {
+              "time": 0.5,
+              "x": 18.79
+            },
+            {
+              "time": 0.6,
+              "x": 17.72
+            },
+            {
+              "time": 0.8333
+            }
+          ]
+        },
+        "gun2": {
+          "scale": [
+            {},
+            {
+              "time": 0.2333,
+              "x": 0.828,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.3667,
+              "x": 0.828
+            },
+            {
+              "time": 0.4333,
+              "x": 1.684
+            },
+            {
+              "time": 0.5,
+              "x": 1.427
+            },
+            {
+              "time": 0.6,
+              "x": 1.063
+            },
+            {
+              "time": 0.8333
+            }
+          ]
+        },
+        "body13": {
+          "scale": [
+            {},
+            {
+              "time": 0.3333,
+              "x": 0.653,
+              "y": 0.653
+            },
+            {
+              "time": 0.4667,
+              "x": 1.066,
+              "y": 1.066,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.6,
+              "x": 1.066,
+              "y": 1.066
+            },
+            {
+              "time": 0.8333
+            }
+          ]
+        },
+        "body14": {
+          "scale": [
+            {},
+            {
+              "time": 0.3333,
+              "x": 0.653,
+              "y": 0.653
+            },
+            {
+              "time": 0.4667,
+              "x": 1.066,
+              "y": 1.066,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.6,
+              "x": 1.066,
+              "y": 1.066
+            },
+            {
+              "time": 0.8333
+            }
+          ]
+        },
+        "body1": {
+          "scale": [
+            {},
+            {
+              "time": 0.2333,
+              "x": 0.952
+            },
+            {
+              "time": 0.3333,
+              "x": 0.986
+            },
+            {
+              "time": 0.4333,
+              "x": 1.098
+            },
+            {
+              "time": 0.6333
+            }
+          ]
+        },
+        "enegy7": {
+          "rotate": [
+            {
+              "angle": -0.63
+            },
+            {
+              "time": 0.2333,
+              "angle": -6.72
+            },
+            {
+              "time": 0.3333,
+              "angle": -4.13
+            },
+            {
+              "time": 0.5,
+              "angle": -2.1
+            },
+            {
+              "time": 0.6667,
+              "angle": 0.72
+            },
+            {
+              "time": 0.8333,
+              "angle": -0.63
+            }
+          ],
+          "translate": [
+            {
+              "x": -6.13,
+              "y": 0.51
+            },
+            {
+              "time": 0.2333,
+              "x": -31.12,
+              "y": -4.7
+            },
+            {
+              "time": 0.3333,
+              "x": -22.21,
+              "y": -0.21
+            },
+            {
+              "time": 0.5,
+              "x": -42.18,
+              "y": -18.56
+            },
+            {
+              "time": 0.6667,
+              "x": -14.4,
+              "y": -34.08
+            },
+            {
+              "time": 0.8333,
+              "x": -6.13,
+              "y": 0.51
+            }
+          ]
+        },
+        "enegy8": {
+          "rotate": [
+            {
+              "angle": -0.63
+            },
+            {
+              "time": 0.2333,
+              "angle": -6.72
+            },
+            {
+              "time": 0.3333,
+              "angle": -4.13
+            },
+            {
+              "time": 0.5,
+              "angle": -2.1
+            },
+            {
+              "time": 0.6667,
+              "angle": 0.72
+            },
+            {
+              "time": 0.8333,
+              "angle": -0.63
+            }
+          ],
+          "translate": [
+            {
+              "x": -6.13,
+              "y": 0.51
+            },
+            {
+              "time": 0.2333,
+              "x": -7.15,
+              "y": 1.24
+            },
+            {
+              "time": 0.3333,
+              "x": -10.36,
+              "y": 3.18
+            },
+            {
+              "time": 0.5,
+              "x": -6.24,
+              "y": 23.96
+            },
+            {
+              "time": 0.6667,
+              "x": 5.88,
+              "y": 10.62
+            },
+            {
+              "time": 0.8333,
+              "x": -6.13,
+              "y": 0.51
+            }
+          ]
+        }
+      },
+      "deform": {
+        "lv2": {
+          "gun2": {
+            "Cryogenic_lv5/gun2": [
+              {},
+              {
+                "time": 0.2333,
+                "offset": 20,
+                "vertices": [
+                  -12.34439,
+                  0,
+                  -14.9173,
+                  0,
+                  -12.34439,
+                  0,
+                  -14.9173
+                ]
+              },
+              {
+                "time": 0.3667,
+                "offset": 20,
+                "vertices": [
+                  -7.42056,
+                  0,
+                  -8.96735,
+                  0,
+                  -7.42056,
+                  0,
+                  -8.96735
+                ]
+              },
+              {
+                "time": 0.4333,
+                "offset": 20,
+                "vertices": [
+                  53.69594,
+                  0,
+                  31.88791,
+                  0,
+                  53.69594,
+                  0,
+                  31.88791
+                ]
+              },
+              {
+                "time": 0.6,
+                "offset": 20,
+                "vertices": [
+                  9.33897,
+                  0,
+                  -9.82414,
+                  0,
+                  9.33897,
+                  0,
+                  -9.82414
+                ]
+              },
+              {
+                "time": 0.8333
+              }
+            ]
+          }
+        }
+      },
+      "events": [
+        {
+          "time": 0.4333,
+          "name": "shot"
+        }
+      ]
+    },
+    "idle": {
+      "slots": {
+        "Cryogenic_lv5/steam1": {
+          "attachment": [
+            {
+              "time": 0.3333,
+              "name": "Cryogenic_lv5/steam1"
+            },
+            {
+              "time": 0.4,
+              "name": "Cryogenic_lv5/steam2"
+            },
+            {
+              "time": 0.4667,
+              "name": "Cryogenic_lv5/steam3"
+            },
+            {
+              "time": 0.5333,
+              "name": "Cryogenic_lv5/steam4"
+            },
+            {
+              "time": 0.6,
+              "name": "Cryogenic_lv5/steam5"
+            },
+            {
+              "time": 0.6333,
+              "name": null
+            }
+          ]
+        },
+        "Cryogenic_lv5/steam2": {
+          "attachment": [
+            {
+              "time": 0.3333,
+              "name": "Cryogenic_lv5/steam1"
+            },
+            {
+              "time": 0.4,
+              "name": "Cryogenic_lv5/steam2"
+            },
+            {
+              "time": 0.4667,
+              "name": "Cryogenic_lv5/steam3"
+            },
+            {
+              "time": 0.5333,
+              "name": "Cryogenic_lv5/steam4"
+            },
+            {
+              "time": 0.6,
+              "name": "Cryogenic_lv5/steam5"
+            },
+            {
+              "time": 0.6333,
+              "name": null
+            }
+          ]
+        }
+      },
+      "bones": {
+        "body2": {
+          "scale": [
+            {},
+            {
+              "time": 0.6667,
+              "x": 1.03
+            },
+            {
+              "time": 1.3333
+            }
+          ]
+        },
+        "enegy4": {
+          "translate": [
+            {},
+            {
+              "time": 0.3333,
+              "x": -16.13,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.6667,
+              "x": -16.13
+            },
+            {
+              "time": 1
+            }
+          ]
+        },
+        "body7": {
+          "rotate": [
+            {
+              "angle": 0.48,
+              "curve": 0.375,
+              "c2": 0.62,
+              "c3": 0.716
+            },
+            {
+              "time": 0.1333,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 0.8,
+              "angle": 3.66,
+              "curve": 0.243,
+              "c3": 0.68,
+              "c4": 0.71
+            },
+            {
+              "time": 1.3333,
+              "angle": 0.48
+            }
+          ],
+          "translate": [
+            {
+              "x": -0.69,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 0.0667,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 0.7333,
+              "x": -6.91,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 1.3333,
+              "x": -0.69
+            }
+          ]
+        },
+        "body10": {
+          "rotate": [
+            {
+              "angle": -0.75,
+              "curve": 0.375,
+              "c2": 0.62,
+              "c3": 0.716
+            },
+            {
+              "time": 0.1333,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 0.8,
+              "angle": -5.76,
+              "curve": 0.243,
+              "c3": 0.68,
+              "c4": 0.71
+            },
+            {
+              "time": 1.3333,
+              "angle": -0.75
+            }
+          ],
+          "translate": [
+            {
+              "x": -0.69,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 0.0667,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 0.7333,
+              "x": -6.91,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 1.3333,
+              "x": -0.69
+            }
+          ]
+        },
+        "enegy6": {
+          "translate": [
+            {},
+            {
+              "time": 0.3333,
+              "x": -10,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.6667,
+              "x": -10
+            },
+            {
+              "time": 1
+            }
+          ]
+        },
+        "body12": {
+          "translate": [
+            {
+              "x": -0.09,
+              "curve": 0.36,
+              "c2": 0.64,
+              "c3": 0.695
+            },
+            {
+              "time": 0.0667,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 0.7333,
+              "x": -2.19,
+              "curve": 0.245,
+              "c3": 0.711,
+              "c4": 0.83
+            },
+            {
+              "time": 1.3333,
+              "x": -0.09
+            }
+          ]
+        },
+        "body2b": {
+          "scale": [
+            {},
+            {
+              "time": 0.6667,
+              "x": 1.098
+            },
+            {
+              "time": 1.3333
+            }
+          ]
+        },
+        "body13": {
+          "scale": [
+            {
+              "time": 0.3333,
+              "x": 0.653,
+              "y": 0.653
+            },
+            {
+              "time": 0.6,
+              "x": 1.066,
+              "y": 1.066
+            }
+          ]
+        },
+        "body14": {
+          "scale": [
+            {
+              "time": 0.3333,
+              "x": 0.653,
+              "y": 0.653
+            },
+            {
+              "time": 0.6,
+              "x": 1.066,
+              "y": 1.066
+            }
+          ]
+        },
+        "body6": {
+          "translate": [
+            {
+              "x": 0.71,
+              "curve": 0.375,
+              "c2": 0.62,
+              "c3": 0.716
+            },
+            {
+              "time": 0.1333,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 0.8,
+              "x": 5.46,
+              "curve": 0.243,
+              "c3": 0.68,
+              "c4": 0.71
+            },
+            {
+              "time": 1.3333,
+              "x": 0.71
+            }
+          ]
+        },
+        "body1": {
+          "scale": [
+            {},
+            {
+              "time": 0.6667,
+              "x": 1.049
+            },
+            {
+              "time": 1.3333
+            }
+          ]
+        },
+        "body4": {
+          "scale": [
+            {},
+            {
+              "time": 0.3333,
+              "x": 1.042,
+              "y": 1.042
+            },
+            {
+              "time": 0.6667
+            },
+            {
+              "time": 1,
+              "x": 1.042,
+              "y": 1.042
+            },
+            {
+              "time": 1.3333
+            }
+          ]
+        }
+      }
+    },
+    "realease": {
+      "slots": {
+        "Cryogenic_lv3/body2a": {
+          "attachment": [
+            {
+              "name": null
+            },
+            {
+              "time": 0.7,
+              "name": "body2a"
+            }
+          ]
+        },
+        "body2": {
+          "attachment": [
+            {
+              "name": null
+            },
+            {
+              "time": 0.7,
+              "name": "Cryogenic_lv5/body2"
+            }
+          ]
+        },
+        "body3": {
+          "attachment": [
+            {
+              "name": null
+            },
+            {
+              "time": 0.7,
+              "name": "Cryogenic_lv5/body3"
+            }
+          ]
+        },
+        "body5": {
+          "attachment": [
+            {
+              "name": null
+            },
+            {
+              "time": 0.7,
+              "name": "Cryogenic_lv5/body5"
+            }
+          ]
+        },
+        "body6": {
+          "attachment": [
+            {
+              "name": null
+            },
+            {
+              "time": 0.8,
+              "name": "Cryogenic_lv5/body6"
+            }
+          ]
+        },
+        "body7": {
+          "attachment": [
+            {
+              "name": null
+            },
+            {
+              "time": 0.7,
+              "name": "Cryogenic_lv5/body7"
+            }
+          ]
+        },
+        "body8": {
+          "attachment": [
+            {
+              "name": null
+            },
+            {
+              "time": 0.7,
+              "name": "Cryogenic_lv5/body8"
+            }
+          ]
+        },
+        "body9": {
+          "attachment": [
+            {
+              "name": null
+            },
+            {
+              "time": 0.7,
+              "name": "Cryogenic_lv5/body9"
+            }
+          ]
+        },
+        "body10": {
+          "attachment": [
+            {
+              "name": null
+            },
+            {
+              "time": 0.8,
+              "name": "Cryogenic_lv5/body6"
+            }
+          ]
+        },
+        "body11": {
+          "attachment": [
+            {
+              "name": null
+            },
+            {
+              "time": 0.7,
+              "name": "Cryogenic_lv5/body7"
+            }
+          ]
+        },
+        "body12": {
+          "attachment": [
+            {
+              "name": null
+            },
+            {
+              "time": 0.7,
+              "name": "Cryogenic_lv5/body8"
+            }
+          ]
+        },
+        "body13": {
+          "attachment": [
+            {
+              "name": null
+            },
+            {
+              "time": 0.7,
+              "name": "Cryogenic_lv5/body4"
+            }
+          ]
+        },
+        "body14": {
+          "attachment": [
+            {
+              "name": null
+            },
+            {
+              "time": 0.7,
+              "name": "Cryogenic_lv5/body4"
+            }
+          ]
+        },
+        "enegy3": {
+          "attachment": [
+            {
+              "name": null
+            },
+            {
+              "time": 0.7,
+              "name": "Cryogenic_lv5/enegy3"
+            }
+          ]
+        },
+        "enegy4": {
+          "attachment": [
+            {
+              "name": null
+            },
+            {
+              "time": 0.7,
+              "name": "Cryogenic_lv5/enegy4"
+            }
+          ]
+        },
+        "enegy5": {
+          "attachment": [
+            {
+              "name": null
+            },
+            {
+              "time": 0.7,
+              "name": "Cryogenic_lv5/enegy4"
+            }
+          ]
+        },
+        "enegy6": {
+          "attachment": [
+            {
+              "name": null
+            },
+            {
+              "time": 0.7,
+              "name": "Cryogenic_lv5/enegy3"
+            }
+          ]
+        },
+        "gun1": {
+          "attachment": [
+            {
+              "name": null
+            },
+            {
+              "time": 0.7,
+              "name": "Cryogenic_lv5/gun1"
+            }
+          ]
+        },
+        "gun2": {
+          "attachment": [
+            {
+              "name": null
+            },
+            {
+              "time": 0.7,
+              "name": "Cryogenic_lv5/gun2"
+            }
+          ]
+        }
+      },
+      "bones": {
+        "body1": {
+          "translate": [
+            {
+              "time": 0.6667
+            },
+            {
+              "time": 0.7333,
+              "y": 20.32
+            },
+            {
+              "time": 0.8667
+            }
+          ],
+          "scale": [
+            {
+              "x": 0.705,
+              "y": 0.849
+            },
+            {
+              "time": 0.1667,
+              "x": 0.808,
+              "y": 0.922
+            },
+            {
+              "time": 0.3333,
+              "x": 0.705,
+              "y": 0.849
+            },
+            {
+              "time": 0.5,
+              "x": 0.808,
+              "y": 0.922
+            },
+            {
+              "time": 0.6667,
+              "x": 0.705,
+              "y": 0.849
+            },
+            {
+              "time": 0.7333,
+              "y": 1.222
+            },
+            {
+              "time": 0.8667,
+              "x": 0.864
+            },
+            {
+              "time": 0.9667
+            }
+          ]
+        },
+        "body2": {
+          "translate": [
+            {
+              "time": 0.7
+            },
+            {
+              "time": 0.8,
+              "x": 61.95
+            },
+            {
+              "time": 0.9667,
+              "x": -10.6
+            },
+            {
+              "time": 1.0667
+            },
+            {
+              "time": 1.2,
+              "x": -4.54
+            },
+            {
+              "time": 1.3333
+            }
+          ],
+          "scale": [
+            {
+              "time": 0.7,
+              "x": 0.577,
+              "y": 0.577
+            },
+            {
+              "time": 0.8,
+              "x": 1.321,
+              "y": 1.321
+            },
+            {
+              "time": 0.9667
+            }
+          ]
+        },
+        "body7": {
+          "translate": [
+            {
+              "time": 0.7,
+              "x": -16.34
+            },
+            {
+              "time": 0.8,
+              "x": 40.86
+            },
+            {
+              "time": 0.9,
+              "x": -30.97
+            },
+            {
+              "time": 0.9667
+            }
+          ],
+          "scale": [
+            {
+              "time": 0.7,
+              "x": 0.606,
+              "y": 0.606
+            },
+            {
+              "time": 0.8
+            }
+          ]
+        },
+        "body10": {
+          "translate": [
+            {
+              "time": 0.7,
+              "x": -16.34
+            },
+            {
+              "time": 0.8,
+              "x": 40.86
+            },
+            {
+              "time": 0.9,
+              "x": -30.97
+            },
+            {
+              "time": 0.9667
+            }
+          ],
+          "scale": [
+            {
+              "time": 0.7,
+              "x": 0.59,
+              "y": 0.59
+            },
+            {
+              "time": 0.8
+            }
+          ]
+        },
+        "body12": {
+          "translate": [
+            {
+              "time": 0.7
+            },
+            {
+              "time": 0.8,
+              "x": 22.95
+            },
+            {
+              "time": 0.9,
+              "x": 7.48
+            },
+            {
+              "time": 0.9667,
+              "x": -18.25
+            },
+            {
+              "time": 1.0667
+            }
+          ]
+        },
+        "enegy4": {
+          "translate": [
+            {
+              "time": 0.7
+            },
+            {
+              "time": 0.8,
+              "x": 33.15
+            },
+            {
+              "time": 0.9,
+              "x": -7.43
+            },
+            {
+              "time": 1.0333,
+              "x": -16.74
+            }
+          ],
+          "scale": [
+            {
+              "time": 0.7
+            },
+            {
+              "time": 0.8,
+              "x": 1.518
+            },
+            {
+              "time": 0.9
+            }
+          ]
+        },
+        "enegy6": {
+          "translate": [
+            {
+              "time": 0.7
+            },
+            {
+              "time": 0.8,
+              "x": 33.15
+            },
+            {
+              "time": 0.9,
+              "x": -5.41
+            },
+            {
+              "time": 1.0333,
+              "x": -19.02
+            }
+          ],
+          "scale": [
+            {
+              "time": 0.7
+            },
+            {
+              "time": 0.8,
+              "x": 1.518
+            },
+            {
+              "time": 0.9
+            }
+          ]
+        },
+        "gun3": {
+          "translate": [
+            {
+              "time": 0.7
+            },
+            {
+              "time": 0.8,
+              "x": 10.01
+            },
+            {
+              "time": 0.9333,
+              "x": 2.88
+            },
+            {
+              "time": 1
+            }
+          ],
+          "scale": [
+            {
+              "time": 0.7,
+              "x": 0.6,
+              "y": 0.6
+            },
+            {
+              "time": 0.8,
+              "x": 1.407,
+              "y": 1.407
+            },
+            {
+              "time": 0.9333,
+              "x": 1.069,
+              "y": 1.069
+            },
+            {
+              "time": 1
+            }
+          ]
+        },
+        "gun2": {
+          "scale": [
+            {
+              "time": 0.7,
+              "x": 0.592
+            },
+            {
+              "time": 0.8,
+              "x": 1.727
+            },
+            {
+              "time": 0.9333,
+              "x": 1.499
+            },
+            {
+              "time": 1,
+              "x": 0.672
+            },
+            {
+              "time": 1.1333
+            }
+          ]
+        },
+        "body6": {
+          "scale": [
+            {
+              "time": 0.7,
+              "x": 0.39,
+              "y": 0.39
+            },
+            {
+              "time": 0.8,
+              "x": 0.616,
+              "y": 0.616
+            }
+          ]
+        },
+        "body8": {
+          "rotate": [
+            {
+              "time": 0.7
+            },
+            {
+              "time": 0.8,
+              "angle": -10.44
+            },
+            {
+              "time": 0.9333,
+              "angle": 5.71
+            },
+            {
+              "time": 1.0667
+            }
+          ]
+        },
+        "body11": {
+          "rotate": [
+            {
+              "time": 0.7
+            },
+            {
+              "time": 0.8,
+              "angle": -10.9
+            },
+            {
+              "time": 0.9333,
+              "angle": 8.32
+            },
+            {
+              "time": 1.0667
+            }
+          ]
+        }
+      }
+    }
+  }
+}

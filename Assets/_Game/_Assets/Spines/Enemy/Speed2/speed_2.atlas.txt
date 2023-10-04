@@ -1,0 +1,104 @@
+
+speed_2.png
+size: 512,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 145, 369
+  size: 111, 121
+  orig: 111, 121
+  offset: 0, 0
+  index: -1
+body2
+  rotate: false
+  xy: 256, 369
+  size: 111, 121
+  orig: 111, 121
+  offset: 0, 0
+  index: -1
+eff
+  rotate: false
+  xy: 0, 639
+  size: 380, 380
+  orig: 380, 380
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 210, 3
+  size: 53, 57
+  orig: 53, 57
+  offset: 0, 0
+  index: -1
+eye2
+  rotate: false
+  xy: 289, 582
+  size: 53, 57
+  orig: 53, 57
+  offset: 0, 0
+  index: -1
+eye3
+  rotate: false
+  xy: 289, 525
+  size: 53, 57
+  orig: 53, 57
+  offset: 0, 0
+  index: -1
+hat
+  rotate: false
+  xy: 0, 0
+  size: 105, 60
+  orig: 105, 60
+  offset: 0, 0
+  index: -1
+hat2
+  rotate: false
+  xy: 105, 0
+  size: 105, 60
+  orig: 105, 60
+  offset: 0, 0
+  index: -1
+horn
+  rotate: false
+  xy: 342, 595
+  size: 38, 44
+  orig: 38, 44
+  offset: 0, 0
+  index: -1
+wing1
+  rotate: false
+  xy: 145, 490
+  size: 144, 149
+  orig: 144, 149
+  offset: 0, 0
+  index: -1
+wing1b
+  rotate: false
+  xy: 216, 220
+  size: 144, 149
+  orig: 144, 149
+  offset: 0, 0
+  index: -1
+wing2
+  rotate: true
+  xy: 0, 352
+  size: 287, 145
+  orig: 287, 145
+  offset: 0, 0
+  index: -1
+wing3
+  rotate: true
+  xy: 0, 60
+  size: 292, 108
+  orig: 292, 108
+  offset: 0, 0
+  index: -1
+wing3b
+  rotate: true
+  xy: 108, 60
+  size: 292, 108
+  orig: 292, 108
+  offset: 0, 0
+  index: -1

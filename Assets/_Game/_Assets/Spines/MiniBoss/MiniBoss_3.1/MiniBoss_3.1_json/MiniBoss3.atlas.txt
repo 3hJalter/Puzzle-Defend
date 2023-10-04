@@ -1,0 +1,97 @@
+
+MiniBoss3.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eye1
+  rotate: false
+  xy: 922, 41
+  size: 22, 24
+  orig: 22, 24
+  offset: 0, 0
+  index: -1
+eye2
+  rotate: false
+  xy: 0, 4
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+glass
+  rotate: false
+  xy: 780, 67
+  size: 95, 87
+  orig: 95, 87
+  offset: 0, 0
+  index: -1
+glass_b
+  rotate: false
+  xy: 928, 152
+  size: 95, 87
+  orig: 95, 87
+  offset: 0, 0
+  index: -1
+glass_b1
+  rotate: false
+  xy: 875, 65
+  size: 95, 87
+  orig: 95, 87
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 780, 2
+  size: 65, 71
+  orig: 65, 71
+  offset: 0, 0
+  index: -1
+head_b
+  rotate: true
+  xy: 851, 0
+  size: 65, 71
+  orig: 65, 71
+  offset: 0, 0
+  index: -1
+neck
+  rotate: false
+  xy: 970, 124
+  size: 42, 28
+  orig: 42, 28
+  offset: 0, 0
+  index: -1
+shadown
+  rotate: false
+  xy: 780, 154
+  size: 148, 85
+  orig: 148, 85
+  offset: 0, 0
+  index: -1
+tentacle1
+  rotate: false
+  xy: 0, 31
+  size: 195, 208
+  orig: 195, 208
+  offset: 0, 0
+  index: -1
+tentacle2
+  rotate: false
+  xy: 195, 31
+  size: 195, 208
+  orig: 195, 208
+  offset: 0, 0
+  index: -1
+tentacle3
+  rotate: false
+  xy: 390, 31
+  size: 195, 208
+  orig: 195, 208
+  offset: 0, 0
+  index: -1
+tentacle4
+  rotate: false
+  xy: 585, 31
+  size: 195, 208
+  orig: 195, 208
+  offset: 0, 0
+  index: -1

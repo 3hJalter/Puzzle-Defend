@@ -1,0 +1,118 @@
+
+Shoot_3.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 0, 36
+  size: 91, 52
+  orig: 91, 52
+  offset: 0, 0
+  index: -1
+body_b
+  rotate: true
+  xy: 52, 36
+  size: 91, 52
+  orig: 91, 52
+  offset: 0, 0
+  index: -1
+cross
+  rotate: false
+  xy: 186, 99
+  size: 27, 28
+  orig: 27, 28
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 0, 0
+  size: 54, 36
+  orig: 54, 36
+  offset: 0, 0
+  index: -1
+face_b
+  rotate: false
+  xy: 54, 0
+  size: 54, 36
+  orig: 54, 36
+  offset: 0, 0
+  index: -1
+leg
+  rotate: false
+  xy: 168, 20
+  size: 19, 23
+  orig: 19, 23
+  offset: 0, 0
+  index: -1
+light
+  rotate: true
+  xy: 187, 26
+  size: 21, 15
+  orig: 21, 15
+  offset: 0, 0
+  index: -1
+shadown
+  rotate: true
+  xy: 104, 64
+  size: 63, 28
+  orig: 63, 28
+  offset: 0, 0
+  index: -1
+tail
+  rotate: true
+  xy: 158, 67
+  size: 22, 30
+  orig: 22, 30
+  offset: 0, 0
+  index: -1
+teeth
+  rotate: false
+  xy: 185, 47
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+teeth_b
+  rotate: false
+  xy: 168, 0
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+wing_1
+  rotate: true
+  xy: 158, 89
+  size: 38, 28
+  orig: 38, 28
+  offset: 0, 0
+  index: -1
+wing_2a
+  rotate: false
+  xy: 104, 38
+  size: 60, 26
+  orig: 60, 26
+  offset: 0, 0
+  index: -1
+wing_2b
+  rotate: false
+  xy: 108, 12
+  size: 60, 26
+  orig: 60, 26
+  offset: 0, 0
+  index: -1
+wing_2c
+  rotate: true
+  xy: 132, 67
+  size: 60, 26
+  orig: 60, 26
+  offset: 0, 0
+  index: -1
+wing_3
+  rotate: false
+  xy: 164, 43
+  size: 21, 24
+  orig: 21, 24
+  offset: 0, 0
+  index: -1

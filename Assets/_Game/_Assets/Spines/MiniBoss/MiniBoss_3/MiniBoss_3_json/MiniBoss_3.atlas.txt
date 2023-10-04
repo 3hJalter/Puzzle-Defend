@@ -1,0 +1,118 @@
+
+MiniBoss_3.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: true
+  xy: 173, 53
+  size: 74, 72
+  orig: 74, 72
+  offset: 0, 0
+  index: -1
+L_Eyes
+  rotate: true
+  xy: 309, 77
+  size: 22, 23
+  orig: 22, 23
+  offset: 0, 0
+  index: -1
+R_Eyes
+  rotate: false
+  xy: 317, 53
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+alten
+  rotate: false
+  xy: 301, 46
+  size: 16, 31
+  orig: 16, 31
+  offset: 0, 0
+  index: -1
+arm1
+  rotate: false
+  xy: 278, 41
+  size: 23, 36
+  orig: 23, 36
+  offset: 0, 0
+  index: -1
+arm2
+  rotate: false
+  xy: 278, 6
+  size: 22, 35
+  orig: 22, 35
+  offset: 0, 0
+  index: -1
+box
+  rotate: true
+  xy: 35, 12
+  size: 115, 100
+  orig: 115, 100
+  offset: 0, 0
+  index: -1
+gun
+  rotate: false
+  xy: 135, 3
+  size: 76, 41
+  orig: 76, 41
+  offset: 0, 0
+  index: -1
+hand1
+  rotate: true
+  xy: 269, 77
+  size: 50, 40
+  orig: 50, 40
+  offset: 0, 0
+  index: -1
+hand2
+  rotate: true
+  xy: 300, 10
+  size: 31, 28
+  orig: 31, 28
+  offset: 0, 0
+  index: -1
+hend3
+  rotate: true
+  xy: 211, 0
+  size: 53, 41
+  orig: 53, 41
+  offset: 0, 0
+  index: -1
+leg2
+  rotate: false
+  xy: 245, 67
+  size: 24, 60
+  orig: 24, 60
+  offset: 0, 0
+  index: -1
+leg3
+  rotate: false
+  xy: 135, 44
+  size: 38, 83
+  orig: 38, 83
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 309, 99
+  size: 27, 28
+  orig: 27, 28
+  offset: 0, 0
+  index: -1
+muzze_flash
+  rotate: true
+  xy: 252, 12
+  size: 55, 26
+  orig: 55, 26
+  offset: 0, 0
+  index: -1
+shadown
+  rotate: true
+  xy: 0, 6
+  size: 121, 35
+  orig: 121, 35
+  offset: 0, 0
+  index: -1

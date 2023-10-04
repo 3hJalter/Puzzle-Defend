@@ -1,0 +1,370 @@
+
+shockwave_cannon.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Shockwave_lv1/body1
+  rotate: true
+  xy: 429, 103
+  size: 147, 90
+  orig: 147, 90
+  offset: 0, 0
+  index: -1
+Shockwave_lv2/body1
+  rotate: true
+  xy: 429, 103
+  size: 147, 90
+  orig: 147, 90
+  offset: 0, 0
+  index: -1
+Shockwave_lv3/body1
+  rotate: true
+  xy: 429, 103
+  size: 147, 90
+  orig: 147, 90
+  offset: 0, 0
+  index: -1
+Shockwave_lv4/body1
+  rotate: true
+  xy: 429, 103
+  size: 147, 90
+  orig: 147, 90
+  offset: 0, 0
+  index: -1
+Shockwave_lv5/body1
+  rotate: true
+  xy: 429, 103
+  size: 147, 90
+  orig: 147, 90
+  offset: 0, 0
+  index: -1
+Shockwave_lv1/body2
+  rotate: true
+  xy: 0, 86
+  size: 164, 143
+  orig: 164, 143
+  offset: 0, 0
+  index: -1
+Shockwave_lv2/body2
+  rotate: true
+  xy: 0, 86
+  size: 164, 143
+  orig: 164, 143
+  offset: 0, 0
+  index: -1
+Shockwave_lv1/body3
+  rotate: false
+  xy: 0, 0
+  size: 190, 86
+  orig: 190, 86
+  offset: 0, 0
+  index: -1
+Shockwave_lv2/body3
+  rotate: false
+  xy: 0, 0
+  size: 190, 86
+  orig: 190, 86
+  offset: 0, 0
+  index: -1
+Shockwave_lv1/body6
+  rotate: false
+  xy: 519, 138
+  size: 108, 112
+  orig: 108, 112
+  offset: 0, 0
+  index: -1
+Shockwave_lv2/body6
+  rotate: false
+  xy: 519, 138
+  size: 108, 112
+  orig: 108, 112
+  offset: 0, 0
+  index: -1
+Shockwave_lv1/gun
+  rotate: false
+  xy: 570, 0
+  size: 74, 92
+  orig: 74, 92
+  offset: 0, 0
+  index: -1
+Shockwave_lv2/gun
+  rotate: false
+  xy: 570, 0
+  size: 74, 92
+  orig: 74, 92
+  offset: 0, 0
+  index: -1
+Shockwave_lv1/wing1
+  rotate: true
+  xy: 519, 92
+  size: 46, 131
+  orig: 46, 131
+  offset: 0, 0
+  index: -1
+Shockwave_lv2/wing1
+  rotate: true
+  xy: 519, 92
+  size: 46, 131
+  orig: 46, 131
+  offset: 0, 0
+  index: -1
+Shockwave_lv3/wing1
+  rotate: true
+  xy: 519, 92
+  size: 46, 131
+  orig: 46, 131
+  offset: 0, 0
+  index: -1
+Shockwave_lv4/wing1
+  rotate: true
+  xy: 519, 92
+  size: 46, 131
+  orig: 46, 131
+  offset: 0, 0
+  index: -1
+Shockwave_lv5/wing1
+  rotate: true
+  xy: 519, 92
+  size: 46, 131
+  orig: 46, 131
+  offset: 0, 0
+  index: -1
+Shockwave_lv1/wing2
+  rotate: true
+  xy: 650, 93
+  size: 45, 131
+  orig: 45, 131
+  offset: 0, 0
+  index: -1
+Shockwave_lv2/wing2
+  rotate: true
+  xy: 650, 93
+  size: 45, 131
+  orig: 45, 131
+  offset: 0, 0
+  index: -1
+Shockwave_lv3/wing2
+  rotate: true
+  xy: 650, 93
+  size: 45, 131
+  orig: 45, 131
+  offset: 0, 0
+  index: -1
+Shockwave_lv4/wing2
+  rotate: true
+  xy: 650, 93
+  size: 45, 131
+  orig: 45, 131
+  offset: 0, 0
+  index: -1
+Shockwave_lv5/wing2
+  rotate: true
+  xy: 650, 93
+  size: 45, 131
+  orig: 45, 131
+  offset: 0, 0
+  index: -1
+Shockwave_lv3/body2
+  rotate: true
+  xy: 143, 86
+  size: 164, 143
+  orig: 164, 143
+  offset: 0, 0
+  index: -1
+Shockwave_lv3/body3
+  rotate: false
+  xy: 190, 0
+  size: 190, 86
+  orig: 190, 86
+  offset: 0, 0
+  index: -1
+Shockwave_lv3/body6
+  rotate: false
+  xy: 627, 138
+  size: 108, 112
+  orig: 108, 112
+  offset: 0, 0
+  index: -1
+Shockwave_lv3/gun
+  rotate: false
+  xy: 644, 0
+  size: 74, 92
+  orig: 74, 92
+  offset: 0, 0
+  index: -1
+Shockwave_lv4/back
+  rotate: true
+  xy: 964, 126
+  size: 54, 56
+  orig: 54, 56
+  offset: 0, 0
+  index: -1
+Shockwave_lv5/back
+  rotate: true
+  xy: 964, 126
+  size: 54, 56
+  orig: 54, 56
+  offset: 0, 0
+  index: -1
+Shockwave_lv4/back_wing
+  rotate: false
+  xy: 964, 75
+  size: 54, 51
+  orig: 54, 51
+  offset: 0, 0
+  index: -1
+Shockwave_lv5/back_wing
+  rotate: false
+  xy: 964, 75
+  size: 54, 51
+  orig: 54, 51
+  offset: 0, 0
+  index: -1
+Shockwave_lv4/body2
+  rotate: true
+  xy: 286, 86
+  size: 164, 143
+  orig: 164, 143
+  offset: 0, 0
+  index: -1
+Shockwave_lv5/body2
+  rotate: true
+  xy: 286, 86
+  size: 164, 143
+  orig: 164, 143
+  offset: 0, 0
+  index: -1
+Shockwave_lv4/body3
+  rotate: false
+  xy: 380, 0
+  size: 190, 86
+  orig: 190, 86
+  offset: 0, 0
+  index: -1
+Shockwave_lv5/body3
+  rotate: false
+  xy: 380, 0
+  size: 190, 86
+  orig: 190, 86
+  offset: 0, 0
+  index: -1
+Shockwave_lv4/body4
+  rotate: true
+  xy: 866, 24
+  size: 60, 42
+  orig: 60, 42
+  offset: 0, 0
+  index: -1
+Shockwave_lv5/body4
+  rotate: true
+  xy: 866, 24
+  size: 60, 42
+  orig: 60, 42
+  offset: 0, 0
+  index: -1
+Shockwave_lv4/body6
+  rotate: false
+  xy: 735, 138
+  size: 108, 112
+  orig: 108, 112
+  offset: 0, 0
+  index: -1
+Shockwave_lv5/body6
+  rotate: false
+  xy: 735, 138
+  size: 108, 112
+  orig: 108, 112
+  offset: 0, 0
+  index: -1
+Shockwave_lv4/energy
+  rotate: true
+  xy: 917, 180
+  size: 70, 69
+  orig: 70, 69
+  offset: 0, 0
+  index: -1
+Shockwave_lv5/energy
+  rotate: true
+  xy: 917, 180
+  size: 70, 69
+  orig: 70, 69
+  offset: 0, 0
+  index: -1
+Shockwave_lv4/energy_l
+  rotate: true
+  xy: 908, 37
+  size: 47, 53
+  orig: 47, 53
+  offset: 0, 0
+  index: -1
+Shockwave_lv5/energy_l
+  rotate: true
+  xy: 908, 37
+  size: 47, 53
+  orig: 47, 53
+  offset: 0, 0
+  index: -1
+Shockwave_lv4/gun
+  rotate: false
+  xy: 718, 1
+  size: 74, 92
+  orig: 74, 92
+  offset: 0, 0
+  index: -1
+Shockwave_lv5/gun
+  rotate: false
+  xy: 718, 1
+  size: 74, 92
+  orig: 74, 92
+  offset: 0, 0
+  index: -1
+Shockwave_lv4/gun_wing
+  rotate: false
+  xy: 781, 106
+  size: 91, 32
+  orig: 91, 32
+  offset: 0, 0
+  index: -1
+Shockwave_lv5/gun_wing
+  rotate: false
+  xy: 781, 106
+  size: 91, 32
+  orig: 91, 32
+  offset: 0, 0
+  index: -1
+Shockwave_lv4/light1
+  rotate: false
+  xy: 986, 199
+  size: 38, 51
+  orig: 38, 51
+  offset: 0, 0
+  index: -1
+Shockwave_lv5/light1
+  rotate: false
+  xy: 986, 199
+  size: 38, 51
+  orig: 38, 51
+  offset: 0, 0
+  index: -1
+Shockwave_lv5/gun_l1
+  rotate: false
+  xy: 843, 158
+  size: 74, 92
+  orig: 74, 92
+  offset: 0, 0
+  index: -1
+Shockwave_lv5/gun_l2
+  rotate: true
+  xy: 872, 84
+  size: 74, 92
+  orig: 74, 92
+  offset: 0, 0
+  index: -1
+Shockwave_lv5/gun_l3
+  rotate: false
+  xy: 792, 14
+  size: 74, 92
+  orig: 74, 92
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,475 @@
+
+cryogenic.png
+size: 1656,284
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Cryogenic_lv1/body1
+  rotate: true
+  xy: 0, 79
+  size: 205, 148
+  orig: 205, 148
+  offset: 0, 0
+  index: -1
+Cryogenic_lv1/body2
+  rotate: false
+  xy: 740, 142
+  size: 140, 142
+  orig: 140, 142
+  offset: 0, 0
+  index: -1
+Cryogenic_lv1/body2a
+  rotate: false
+  xy: 130, 11
+  size: 68, 68
+  orig: 68, 68
+  offset: 0, 0
+  index: -1
+Cryogenic_lv2/body2a
+  rotate: false
+  xy: 130, 11
+  size: 68, 68
+  orig: 68, 68
+  offset: 0, 0
+  index: -1
+Cryogenic_lv3/body2a
+  rotate: false
+  xy: 130, 11
+  size: 68, 68
+  orig: 68, 68
+  offset: 0, 0
+  index: -1
+Cryogenic_lv1/body3
+  rotate: false
+  xy: 457, 24
+  size: 101, 55
+  orig: 101, 55
+  offset: 0, 0
+  index: -1
+Cryogenic_lv1/gun1
+  rotate: false
+  xy: 198, 15
+  size: 104, 64
+  orig: 104, 64
+  offset: 0, 0
+  index: -1
+Cryogenic_lv2/gun1
+  rotate: false
+  xy: 198, 15
+  size: 104, 64
+  orig: 104, 64
+  offset: 0, 0
+  index: -1
+Cryogenic_lv3/gun1
+  rotate: false
+  xy: 198, 15
+  size: 104, 64
+  orig: 104, 64
+  offset: 0, 0
+  index: -1
+Cryogenic_lv1/steam1
+  rotate: true
+  xy: 1040, 5
+  size: 137, 99
+  orig: 137, 99
+  offset: 0, 0
+  index: -1
+Cryogenic_lv2/steam1
+  rotate: true
+  xy: 1040, 5
+  size: 137, 99
+  orig: 137, 99
+  offset: 0, 0
+  index: -1
+Cryogenic_lv3/steam1
+  rotate: true
+  xy: 1040, 5
+  size: 137, 99
+  orig: 137, 99
+  offset: 0, 0
+  index: -1
+Cryogenic_lv4/steam1
+  rotate: true
+  xy: 1040, 5
+  size: 137, 99
+  orig: 137, 99
+  offset: 0, 0
+  index: -1
+Cryogenic_lv5/steam1
+  rotate: true
+  xy: 1040, 5
+  size: 137, 99
+  orig: 137, 99
+  offset: 0, 0
+  index: -1
+Cryogenic_lv1/steam2
+  rotate: true
+  xy: 1139, 5
+  size: 137, 99
+  orig: 137, 99
+  offset: 0, 0
+  index: -1
+Cryogenic_lv2/steam2
+  rotate: true
+  xy: 1139, 5
+  size: 137, 99
+  orig: 137, 99
+  offset: 0, 0
+  index: -1
+Cryogenic_lv3/steam2
+  rotate: true
+  xy: 1139, 5
+  size: 137, 99
+  orig: 137, 99
+  offset: 0, 0
+  index: -1
+Cryogenic_lv4/steam2
+  rotate: true
+  xy: 1139, 5
+  size: 137, 99
+  orig: 137, 99
+  offset: 0, 0
+  index: -1
+Cryogenic_lv5/steam2
+  rotate: true
+  xy: 1139, 5
+  size: 137, 99
+  orig: 137, 99
+  offset: 0, 0
+  index: -1
+Cryogenic_lv1/steam3
+  rotate: true
+  xy: 1160, 147
+  size: 137, 99
+  orig: 137, 99
+  offset: 0, 0
+  index: -1
+Cryogenic_lv2/steam3
+  rotate: true
+  xy: 1160, 147
+  size: 137, 99
+  orig: 137, 99
+  offset: 0, 0
+  index: -1
+Cryogenic_lv3/steam3
+  rotate: true
+  xy: 1160, 147
+  size: 137, 99
+  orig: 137, 99
+  offset: 0, 0
+  index: -1
+Cryogenic_lv4/steam3
+  rotate: true
+  xy: 1160, 147
+  size: 137, 99
+  orig: 137, 99
+  offset: 0, 0
+  index: -1
+Cryogenic_lv5/steam3
+  rotate: true
+  xy: 1160, 147
+  size: 137, 99
+  orig: 137, 99
+  offset: 0, 0
+  index: -1
+Cryogenic_lv1/steam4
+  rotate: true
+  xy: 1238, 10
+  size: 137, 99
+  orig: 137, 99
+  offset: 0, 0
+  index: -1
+Cryogenic_lv2/steam4
+  rotate: true
+  xy: 1238, 10
+  size: 137, 99
+  orig: 137, 99
+  offset: 0, 0
+  index: -1
+Cryogenic_lv3/steam4
+  rotate: true
+  xy: 1238, 10
+  size: 137, 99
+  orig: 137, 99
+  offset: 0, 0
+  index: -1
+Cryogenic_lv4/steam4
+  rotate: true
+  xy: 1238, 10
+  size: 137, 99
+  orig: 137, 99
+  offset: 0, 0
+  index: -1
+Cryogenic_lv5/steam4
+  rotate: true
+  xy: 1238, 10
+  size: 137, 99
+  orig: 137, 99
+  offset: 0, 0
+  index: -1
+Cryogenic_lv1/steam5
+  rotate: true
+  xy: 1259, 147
+  size: 137, 99
+  orig: 137, 99
+  offset: 0, 0
+  index: -1
+Cryogenic_lv2/steam5
+  rotate: true
+  xy: 1259, 147
+  size: 137, 99
+  orig: 137, 99
+  offset: 0, 0
+  index: -1
+Cryogenic_lv3/steam5
+  rotate: true
+  xy: 1259, 147
+  size: 137, 99
+  orig: 137, 99
+  offset: 0, 0
+  index: -1
+Cryogenic_lv4/steam5
+  rotate: true
+  xy: 1259, 147
+  size: 137, 99
+  orig: 137, 99
+  offset: 0, 0
+  index: -1
+Cryogenic_lv5/steam5
+  rotate: true
+  xy: 1259, 147
+  size: 137, 99
+  orig: 137, 99
+  offset: 0, 0
+  index: -1
+Cryogenic_lv2/body1
+  rotate: true
+  xy: 148, 79
+  size: 205, 148
+  orig: 205, 148
+  offset: 0, 0
+  index: -1
+Cryogenic_lv2/body2
+  rotate: false
+  xy: 760, 0
+  size: 140, 142
+  orig: 140, 142
+  offset: 0, 0
+  index: -1
+Cryogenic_lv2/body3
+  rotate: false
+  xy: 558, 24
+  size: 101, 55
+  orig: 101, 55
+  offset: 0, 0
+  index: -1
+Cryogenic_lv2/gun2
+  rotate: false
+  xy: 1533, 200
+  size: 83, 84
+  orig: 83, 84
+  offset: 0, 0
+  index: -1
+Cryogenic_lv3/body1
+  rotate: true
+  xy: 296, 79
+  size: 205, 148
+  orig: 205, 148
+  offset: 0, 0
+  index: -1
+Cryogenic_lv3/body2
+  rotate: false
+  xy: 880, 142
+  size: 140, 142
+  orig: 140, 142
+  offset: 0, 0
+  index: -1
+Cryogenic_lv3/body3
+  rotate: false
+  xy: 659, 24
+  size: 101, 55
+  orig: 101, 55
+  offset: 0, 0
+  index: -1
+Cryogenic_lv3/body4
+  rotate: false
+  xy: 1429, 28
+  size: 37, 52
+  orig: 37, 52
+  offset: 0, 0
+  index: -1
+Cryogenic_lv4/body4
+  rotate: false
+  xy: 1429, 28
+  size: 37, 52
+  orig: 37, 52
+  offset: 0, 0
+  index: -1
+Cryogenic_lv5/body4
+  rotate: false
+  xy: 1429, 28
+  size: 37, 52
+  orig: 37, 52
+  offset: 0, 0
+  index: -1
+Cryogenic_lv3/gun2
+  rotate: false
+  xy: 1484, 12
+  size: 83, 84
+  orig: 83, 84
+  offset: 0, 0
+  index: -1
+Cryogenic_lv4/body1
+  rotate: true
+  xy: 444, 79
+  size: 205, 148
+  orig: 205, 148
+  offset: 0, 0
+  index: -1
+Cryogenic_lv4/body2
+  rotate: false
+  xy: 900, 0
+  size: 140, 142
+  orig: 140, 142
+  offset: 0, 0
+  index: -1
+Cryogenic_lv4/body3
+  rotate: true
+  xy: 1429, 80
+  size: 101, 55
+  orig: 101, 55
+  offset: 0, 0
+  index: -1
+Cryogenic_lv5/body3
+  rotate: true
+  xy: 1429, 80
+  size: 101, 55
+  orig: 101, 55
+  offset: 0, 0
+  index: -1
+Cryogenic_lv4/body5
+  rotate: true
+  xy: 1358, 181
+  size: 103, 89
+  orig: 103, 89
+  offset: 0, 0
+  index: -1
+Cryogenic_lv5/body5
+  rotate: true
+  xy: 1358, 181
+  size: 103, 89
+  orig: 103, 89
+  offset: 0, 0
+  index: -1
+Cryogenic_lv4/body6
+  rotate: false
+  xy: 64, 7
+  size: 66, 72
+  orig: 66, 72
+  offset: 0, 0
+  index: -1
+Cryogenic_lv5/body6
+  rotate: false
+  xy: 64, 7
+  size: 66, 72
+  orig: 66, 72
+  offset: 0, 0
+  index: -1
+Cryogenic_lv4/body7
+  rotate: false
+  xy: 1447, 190
+  size: 86, 94
+  orig: 86, 94
+  offset: 0, 0
+  index: -1
+Cryogenic_lv4/body8
+  rotate: true
+  xy: 1358, 150
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: -1
+Cryogenic_lv5/body8
+  rotate: true
+  xy: 1358, 150
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: -1
+Cryogenic_lv4/body9a
+  rotate: false
+  xy: 1337, 18
+  size: 92, 129
+  orig: 92, 129
+  offset: 0, 0
+  index: -1
+Cryogenic_lv5/body9a
+  rotate: false
+  xy: 1337, 18
+  size: 92, 129
+  orig: 92, 129
+  offset: 0, 0
+  index: -1
+Cryogenic_lv4/gun1
+  rotate: false
+  xy: 302, 15
+  size: 104, 64
+  orig: 104, 64
+  offset: 0, 0
+  index: -1
+Cryogenic_lv5/gun1
+  rotate: false
+  xy: 302, 15
+  size: 104, 64
+  orig: 104, 64
+  offset: 0, 0
+  index: -1
+Cryogenic_lv4/gun2
+  rotate: false
+  xy: 1567, 12
+  size: 83, 84
+  orig: 83, 84
+  offset: 0, 0
+  index: -1
+Cryogenic_lv5/body1
+  rotate: true
+  xy: 592, 79
+  size: 205, 148
+  orig: 205, 148
+  offset: 0, 0
+  index: -1
+Cryogenic_lv5/body2
+  rotate: false
+  xy: 1020, 142
+  size: 140, 142
+  orig: 140, 142
+  offset: 0, 0
+  index: -1
+Cryogenic_lv5/body7
+  rotate: false
+  xy: 1484, 96
+  size: 86, 94
+  orig: 86, 94
+  offset: 0, 0
+  index: -1
+Cryogenic_lv5/body9
+  rotate: false
+  xy: 0, 2
+  size: 64, 77
+  orig: 64, 77
+  offset: 0, 0
+  index: -1
+Cryogenic_lv5/enegy3
+  rotate: true
+  xy: 406, 21
+  size: 58, 51
+  orig: 58, 51
+  offset: 0, 0
+  index: -1
+Cryogenic_lv5/gun2
+  rotate: false
+  xy: 1570, 116
+  size: 83, 84
+  orig: 83, 84
+  offset: 0, 0
+  index: -1

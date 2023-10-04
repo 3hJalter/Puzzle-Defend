@@ -1,0 +1,266 @@
+{
+  "skeleton": {
+    "images": "D:/Project/survival_city/Boss/life_guard(Boss)/life_guard_images/"
+  },
+  "bones": [
+    {
+      "name": "root"
+    }
+  ],
+  "slots": [
+    {
+      "name": "l_arm_1",
+      "bone": "root",
+      "attachment": "l_arm_1"
+    },
+    {
+      "name": "l_arm_2",
+      "bone": "root",
+      "attachment": "l_arm_2"
+    },
+    {
+      "name": "gun",
+      "bone": "root",
+      "attachment": "gun"
+    },
+    {
+      "name": "r_finger",
+      "bone": "root",
+      "attachment": "r_finger"
+    },
+    {
+      "name": "l_leg_2",
+      "bone": "root",
+      "attachment": "l_leg_2"
+    },
+    {
+      "name": "l_leg_1",
+      "bone": "root",
+      "attachment": "l_leg_1"
+    },
+    {
+      "name": "r_leg_2",
+      "bone": "root",
+      "attachment": "r_leg_2"
+    },
+    {
+      "name": "r_leg_1",
+      "bone": "root",
+      "attachment": "r_leg_1"
+    },
+    {
+      "name": "bubble",
+      "bone": "root",
+      "attachment": "bubble"
+    },
+    {
+      "name": "body",
+      "bone": "root",
+      "attachment": "body"
+    },
+    {
+      "name": "life_vest_1",
+      "bone": "root",
+      "attachment": "life_vest_1"
+    },
+    {
+      "name": "r_arm_1",
+      "bone": "root",
+      "attachment": "r_arm_1"
+    },
+    {
+      "name": "life_vest_2",
+      "bone": "root",
+      "attachment": "life_vest_2"
+    },
+    {
+      "name": "r_arm_2",
+      "bone": "root",
+      "attachment": "r_arm_2"
+    },
+    {
+      "name": "head1",
+      "bone": "root",
+      "attachment": "head1"
+    },
+    {
+      "name": "fish",
+      "bone": "root",
+      "attachment": "fish"
+    },
+    {
+      "name": "head2",
+      "bone": "root",
+      "attachment": "head2"
+    },
+    {
+      "name": "eye1",
+      "bone": "root",
+      "attachment": "eye1"
+    },
+    {
+      "name": "eye2",
+      "bone": "root",
+      "attachment": "eye2"
+    }
+  ],
+  "skins": {
+    "default": {
+      "l_arm_1": {
+        "l_arm_1": {
+          "x": 882.5,
+          "y": -896,
+          "width": 321,
+          "height": 224
+        }
+      },
+      "l_arm_2": {
+        "l_arm_2": {
+          "x": 732.5,
+          "y": -822.5,
+          "width": 299,
+          "height": 299
+        }
+      },
+      "gun": {
+        "gun": {
+          "x": 427.5,
+          "y": -1248.5,
+          "width": 723,
+          "height": 485
+        }
+      },
+      "r_finger": {
+        "r_finger": {
+          "x": 704.5,
+          "y": -721,
+          "width": 245,
+          "height": 200
+        }
+      },
+      "l_leg_2": {
+        "l_leg_2": {
+          "x": 1143,
+          "y": -1514.5,
+          "width": 106,
+          "height": 161
+        }
+      },
+      "l_leg_1": {
+        "l_leg_1": {
+          "x": 1161,
+          "y": -1424.5,
+          "width": 232,
+          "height": 223
+        }
+      },
+      "r_leg_2": {
+        "r_leg_2": {
+          "x": 1318,
+          "y": -1522.5,
+          "width": 106,
+          "height": 161
+        }
+      },
+      "r_leg_1": {
+        "r_leg_1": {
+          "x": 1286,
+          "y": -1428,
+          "width": 254,
+          "height": 226
+        }
+      },
+      "bubble": {
+        "bubble": {
+          "x": 1239.5,
+          "y": -1282,
+          "width": 515,
+          "height": 294
+        }
+      },
+      "body": {
+        "body": {
+          "x": 1243,
+          "y": -1027.5,
+          "width": 616,
+          "height": 597
+        }
+      },
+      "life_vest_1": {
+        "life_vest_1": {
+          "x": 1263,
+          "y": -938.5,
+          "width": 748,
+          "height": 459
+        }
+      },
+      "r_arm_1": {
+        "r_arm_1": {
+          "x": 1584,
+          "y": -996.5,
+          "width": 260,
+          "height": 281
+        }
+      },
+      "life_vest_2": {
+        "life_vest_2": {
+          "x": 1253.5,
+          "y": -938.5,
+          "width": 729,
+          "height": 459
+        }
+      },
+      "r_arm_2": {
+        "r_arm_2": {
+          "x": 1594,
+          "y": -1136.5,
+          "width": 294,
+          "height": 405
+        }
+      },
+      "head1": {
+        "head1": {
+          "x": 1217.5,
+          "y": -443,
+          "width": 447,
+          "height": 258
+        }
+      },
+      "fish": {
+        "fish": {
+          "x": 1155.5,
+          "y": -297,
+          "width": 355,
+          "height": 410
+        }
+      },
+      "head2": {
+        "head2": {
+          "x": 1212.5,
+          "y": -643.5,
+          "width": 469,
+          "height": 595
+        }
+      },
+      "eye1": {
+        "eye1": {
+          "x": 1264,
+          "y": -583.5,
+          "width": 182,
+          "height": 191
+        }
+      },
+      "eye2": {
+        "eye2": {
+          "x": 1063.5,
+          "y": -580.5,
+          "width": 133,
+          "height": 161
+        }
+      }
+    }
+  },
+  "animations": {
+    "animation": {}
+  }
+}

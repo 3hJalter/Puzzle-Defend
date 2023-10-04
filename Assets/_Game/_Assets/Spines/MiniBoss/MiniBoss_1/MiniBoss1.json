@@ -1,0 +1,167 @@
+{
+  "skeleton": {
+    "images": "F:/Project/Dung_abi/MiniBoss/MiniBoss_1/MiniBoss_1_images/"
+  },
+  "PhotoshopToSpine": {
+    "scale": 1,
+    "padding": 1,
+    "trim": true
+  },
+  "bones": [
+    {
+      "name": "root"
+    }
+  ],
+  "slots": [
+    {
+      "name": "shadown",
+      "bone": "root",
+      "attachment": "shadown"
+    },
+    {
+      "name": "jet",
+      "bone": "root",
+      "attachment": "jet"
+    },
+    {
+      "name": "body1",
+      "bone": "root",
+      "attachment": "body1"
+    },
+    {
+      "name": "r_ear",
+      "bone": "root",
+      "attachment": "r_ear"
+    },
+    {
+      "name": "r_arm",
+      "bone": "root",
+      "attachment": "r_arm"
+    },
+    {
+      "name": "body2",
+      "bone": "root",
+      "attachment": "body2"
+    },
+    {
+      "name": "hair",
+      "bone": "root",
+      "attachment": "hair"
+    },
+    {
+      "name": "l_ear",
+      "bone": "root",
+      "attachment": "l_ear"
+    },
+    {
+      "name": "l_arm",
+      "bone": "root",
+      "attachment": "l_arm"
+    },
+    {
+      "name": "eye",
+      "bone": "root",
+      "attachment": "eye"
+    },
+    {
+      "name": "noser",
+      "bone": "root",
+      "attachment": "noser"
+    }
+  ],
+  "skins": {
+    "default": {
+      "shadown": {
+        "shadown": {
+          "x": 61,
+          "y": -169.5,
+          "width": 80,
+          "height": 53
+        }
+      },
+      "jet": {
+        "jet": {
+          "x": 63,
+          "y": -155.5,
+          "width": 66,
+          "height": 75
+        }
+      },
+      "body1": {
+        "body1": {
+          "x": 57.5,
+          "y": -119.5,
+          "width": 77,
+          "height": 69
+        }
+      },
+      "r_ear": {
+        "r_ear": {
+          "x": 106,
+          "y": -41,
+          "width": 32,
+          "height": 38
+        }
+      },
+      "r_arm": {
+        "r_arm": {
+          "x": 100.5,
+          "y": -95,
+          "width": 33,
+          "height": 44
+        }
+      },
+      "body2": {
+        "body2": {
+          "x": 59,
+          "y": -69.5,
+          "width": 94,
+          "height": 109
+        }
+      },
+      "hair": {
+        "hair": {
+          "x": 59.5,
+          "y": -31,
+          "width": 105,
+          "height": 64
+        }
+      },
+      "l_ear": {
+        "l_ear": {
+          "x": 18,
+          "y": -27.5,
+          "width": 30,
+          "height": 31
+        }
+      },
+      "l_arm": {
+        "l_arm": {
+          "x": 21.5,
+          "y": -95,
+          "width": 33,
+          "height": 44
+        }
+      },
+      "eye": {
+        "eye": {
+          "x": 66.5,
+          "y": -63,
+          "width": 79,
+          "height": 34
+        }
+      },
+      "noser": {
+        "noser": {
+          "x": 72,
+          "y": -81,
+          "width": 42,
+          "height": 42
+        }
+      }
+    }
+  },
+  "animations": {
+    "animation": {}
+  }
+}

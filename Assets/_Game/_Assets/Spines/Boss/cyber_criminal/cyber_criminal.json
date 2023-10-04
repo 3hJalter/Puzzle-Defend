@@ -1,0 +1,409 @@
+{
+  "skeleton": {
+    "images": "D:/Project/survival_city/Boss/cyber_criminal/cyber_criminal_images/"
+  },
+  "bones": [
+    {
+      "name": "root"
+    }
+  ],
+  "slots": [
+    {
+      "name": "eff",
+      "bone": "root",
+      "attachment": "eff"
+    },
+    {
+      "name": "eff_1",
+      "bone": "root",
+      "attachment": "eff_1"
+    },
+    {
+      "name": "ship_1",
+      "bone": "root",
+      "attachment": "ship_1"
+    },
+    {
+      "name": "ship_2",
+      "bone": "root",
+      "attachment": "ship_2"
+    },
+    {
+      "name": "l_armor",
+      "bone": "root",
+      "attachment": "l_armor"
+    },
+    {
+      "name": "l_arm2",
+      "bone": "root",
+      "attachment": "l_arm2"
+    },
+    {
+      "name": "l_hand",
+      "bone": "root",
+      "attachment": "l_hand"
+    },
+    {
+      "name": "tablet",
+      "bone": "root",
+      "attachment": "tablet"
+    },
+    {
+      "name": "detail",
+      "bone": "root",
+      "attachment": "detail"
+    },
+    {
+      "name": "l_thumb",
+      "bone": "root",
+      "attachment": "l_thumb"
+    },
+    {
+      "name": "body_1",
+      "bone": "root",
+      "attachment": "body_1"
+    },
+    {
+      "name": "body_2",
+      "bone": "root",
+      "attachment": "body_2"
+    },
+    {
+      "name": "belly",
+      "bone": "root",
+      "attachment": "belly"
+    },
+    {
+      "name": "neck",
+      "bone": "root",
+      "attachment": "neck"
+    },
+    {
+      "name": "yellow",
+      "bone": "root",
+      "attachment": "yellow"
+    },
+    {
+      "name": "red",
+      "bone": "root",
+      "attachment": "red"
+    },
+    {
+      "name": "blue",
+      "bone": "root",
+      "attachment": "blue"
+    },
+    {
+      "name": "finger_3",
+      "bone": "root",
+      "attachment": "finger_3"
+    },
+    {
+      "name": "armor",
+      "bone": "root",
+      "attachment": "armor"
+    },
+    {
+      "name": "arm2",
+      "bone": "root",
+      "attachment": "arm2"
+    },
+    {
+      "name": "finger_2",
+      "bone": "root",
+      "attachment": "finger_2"
+    },
+    {
+      "name": "finger_1",
+      "bone": "root",
+      "attachment": "finger_1"
+    },
+    {
+      "name": "anten3",
+      "bone": "root",
+      "attachment": "anten3"
+    },
+    {
+      "name": "anten2",
+      "bone": "root",
+      "attachment": "anten2"
+    },
+    {
+      "name": "anten1",
+      "bone": "root",
+      "attachment": "anten1"
+    },
+    {
+      "name": "face",
+      "bone": "root",
+      "attachment": "face"
+    },
+    {
+      "name": "jaw",
+      "bone": "root",
+      "attachment": "jaw"
+    },
+    {
+      "name": "eye1",
+      "bone": "root",
+      "attachment": "eye1"
+    },
+    {
+      "name": "eye2",
+      "bone": "root",
+      "attachment": "eye2"
+    },
+    {
+      "name": "glass",
+      "bone": "root",
+      "attachment": "glass"
+    }
+  ],
+  "skins": {
+    "default": {
+      "eff": {
+        "eff": {
+          "x": 882,
+          "y": -1498,
+          "width": 722,
+          "height": 722
+        }
+      },
+      "eff_1": {
+        "eff_1": {
+          "x": 882,
+          "y": -1498,
+          "width": 594,
+          "height": 594
+        }
+      },
+      "ship_1": {
+        "ship_1": {
+          "x": 865,
+          "y": -1196.5,
+          "width": 908,
+          "height": 589
+        }
+      },
+      "ship_2": {
+        "ship_2": {
+          "x": 865,
+          "y": -1088.5,
+          "width": 872,
+          "height": 337
+        }
+      },
+      "l_armor": {
+        "l_armor": {
+          "x": 659.5,
+          "y": -807.5,
+          "width": 159,
+          "height": 159
+        }
+      },
+      "l_arm2": {
+        "l_arm2": {
+          "x": 540.5,
+          "y": -739.5,
+          "width": 263,
+          "height": 221
+        }
+      },
+      "l_hand": {
+        "l_hand": {
+          "x": 453,
+          "y": -663.5,
+          "width": 174,
+          "height": 193
+        }
+      },
+      "tablet": {
+        "tablet": {
+          "x": 206.5,
+          "y": -621,
+          "width": 239,
+          "height": 314
+        }
+      },
+      "detail": {
+        "detail": {
+          "x": 208.5,
+          "y": -618.5,
+          "width": 149,
+          "height": 227
+        }
+      },
+      "l_thumb": {
+        "l_thumb": {
+          "x": 482,
+          "y": -635,
+          "width": 134,
+          "height": 142
+        }
+      },
+      "body_1": {
+        "body_1": {
+          "x": 861,
+          "y": -1042.5,
+          "width": 562,
+          "height": 225
+        }
+      },
+      "body_2": {
+        "body_2": {
+          "x": 854,
+          "y": -896.5,
+          "width": 476,
+          "height": 371
+        }
+      },
+      "belly": {
+        "belly": {
+          "x": 809.5,
+          "y": -1027.5,
+          "width": 285,
+          "height": 159
+        }
+      },
+      "neck": {
+        "neck": {
+          "x": 865.5,
+          "y": -783,
+          "width": 381,
+          "height": 302
+        }
+      },
+      "yellow": {
+        "yellow": {
+          "x": 1057,
+          "y": -1176.5,
+          "width": 110,
+          "height": 87
+        }
+      },
+      "red": {
+        "red": {
+          "x": 897,
+          "y": -1199.5,
+          "width": 110,
+          "height": 87
+        }
+      },
+      "blue": {
+        "blue": {
+          "x": 733,
+          "y": -1183.5,
+          "width": 110,
+          "height": 87
+        }
+      },
+      "finger_3": {
+        "finger_3": {
+          "x": 1166.5,
+          "y": -1008,
+          "width": 83,
+          "height": 130
+        }
+      },
+      "armor": {
+        "armor": {
+          "x": 1047.5,
+          "y": -777,
+          "width": 183,
+          "height": 184
+        }
+      },
+      "arm2": {
+        "arm2": {
+          "x": 1104,
+          "y": -871.5,
+          "width": 208,
+          "height": 297
+        }
+      },
+      "finger_2": {
+        "finger_2": {
+          "x": 1037,
+          "y": -986.5,
+          "width": 106,
+          "height": 123
+        }
+      },
+      "finger_1": {
+        "finger_1": {
+          "x": 1100,
+          "y": -1028.5,
+          "width": 98,
+          "height": 125
+        }
+      },
+      "anten3": {
+        "anten3": {
+          "x": 735,
+          "y": -206,
+          "width": 148,
+          "height": 204
+        }
+      },
+      "anten2": {
+        "anten2": {
+          "x": 763.5,
+          "y": -294,
+          "width": 277,
+          "height": 114
+        }
+      },
+      "anten1": {
+        "anten1": {
+          "x": 660,
+          "y": -101,
+          "width": 116,
+          "height": 116
+        }
+      },
+      "face": {
+        "face": {
+          "x": 789.5,
+          "y": -545,
+          "width": 517,
+          "height": 532
+        }
+      },
+      "jaw": {
+        "jaw": {
+          "x": 808.5,
+          "y": -631,
+          "width": 479,
+          "height": 366
+        }
+      },
+      "eye1": {
+        "eye1": {
+          "x": 847,
+          "y": -485,
+          "width": 186,
+          "height": 226
+        }
+      },
+      "eye2": {
+        "eye2": {
+          "x": 612.5,
+          "y": -534,
+          "width": 153,
+          "height": 194
+        }
+      },
+      "glass": {
+        "glass": {
+          "x": 920,
+          "y": -493.5,
+          "width": 398,
+          "height": 203
+        }
+      }
+    }
+  },
+  "animations": {
+    "animation": {}
+  }
+}

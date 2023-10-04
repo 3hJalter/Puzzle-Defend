@@ -1,0 +1,83 @@
+
+pleasant.png
+size: 112,272
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 77, 232
+  size: 39, 32
+  orig: 39, 32
+  offset: 0, 0
+  index: -1
+eye
+  rotate: true
+  xy: 77, 180
+  size: 52, 24
+  orig: 52, 24
+  offset: 0, 0
+  index: -1
+hat
+  rotate: true
+  xy: 0, 85
+  size: 116, 58
+  orig: 116, 58
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 0, 201
+  size: 70, 77
+  orig: 70, 77
+  offset: 0, 0
+  index: -1
+l_arm
+  rotate: false
+  xy: 58, 134
+  size: 50, 46
+  orig: 50, 46
+  offset: 0, 0
+  index: -1
+l_ear
+  rotate: false
+  xy: 36, 21
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+r_arm
+  rotate: false
+  xy: 0, 5
+  size: 36, 37
+  orig: 36, 37
+  offset: 0, 0
+  index: -1
+r_ear
+  rotate: false
+  xy: 36, 0
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+r_leg
+  rotate: true
+  xy: 58, 189
+  size: 12, 18
+  orig: 12, 18
+  offset: 0, 0
+  index: -1
+shadown
+  rotate: false
+  xy: 0, 42
+  size: 50, 43
+  orig: 50, 43
+  offset: 0, 0
+  index: -1
+wp_1t
+  rotate: false
+  xy: 58, 3
+  size: 39, 131
+  orig: 39, 131
+  offset: 0, 0
+  index: -1

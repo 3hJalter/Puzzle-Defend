@@ -1,0 +1,227 @@
+{
+  "skeleton": {
+    "images": "D:/Project/survival_city/Boss/the_space_commander/space_commander_images/"
+  },
+  "bones": [
+    {
+      "name": "root"
+    }
+  ],
+  "slots": [
+    {
+      "name": "ship_4",
+      "bone": "root",
+      "attachment": "ship_4"
+    },
+    {
+      "name": "ship_5",
+      "bone": "root",
+      "attachment": "ship_5"
+    },
+    {
+      "name": "ship_1",
+      "bone": "root",
+      "attachment": "ship_1"
+    },
+    {
+      "name": "r_arm2",
+      "bone": "root",
+      "attachment": "r_arm2"
+    },
+    {
+      "name": "body_1",
+      "bone": "root",
+      "attachment": "body_1"
+    },
+    {
+      "name": "body_2",
+      "bone": "root",
+      "attachment": "body_2"
+    },
+    {
+      "name": "shouder",
+      "bone": "root",
+      "attachment": "shouder"
+    },
+    {
+      "name": "r_arm1",
+      "bone": "root",
+      "attachment": "r_arm1"
+    },
+    {
+      "name": "r_hand",
+      "bone": "root",
+      "attachment": "r_hand"
+    },
+    {
+      "name": "face",
+      "bone": "root",
+      "attachment": "face"
+    },
+    {
+      "name": "jaw",
+      "bone": "root",
+      "attachment": "jaw"
+    },
+    {
+      "name": "helmet",
+      "bone": "root",
+      "attachment": "helmet"
+    },
+    {
+      "name": "glass",
+      "bone": "root",
+      "attachment": "glass"
+    },
+    {
+      "name": "ship_3",
+      "bone": "root",
+      "attachment": "ship_3"
+    },
+    {
+      "name": "ship_2",
+      "bone": "root",
+      "attachment": "ship_2"
+    },
+    {
+      "name": "hand_2",
+      "bone": "root",
+      "attachment": "hand_2"
+    }
+  ],
+  "skins": {
+    "default": {
+      "ship_4": {
+        "ship_4": {
+          "x": 1793,
+          "y": -1469.5,
+          "width": 316,
+          "height": 311
+        }
+      },
+      "ship_5": {
+        "ship_5": {
+          "x": 1949.5,
+          "y": -1649.5,
+          "width": 419,
+          "height": 601
+        }
+      },
+      "ship_1": {
+        "ship_1": {
+          "x": 1152.5,
+          "y": -1407.5,
+          "width": 1469,
+          "height": 829
+        }
+      },
+      "r_arm2": {
+        "r_arm2": {
+          "x": 1523.5,
+          "y": -946.5,
+          "width": 313,
+          "height": 325
+        }
+      },
+      "body_1": {
+        "body_1": {
+          "x": 1143,
+          "y": -1170.5,
+          "width": 514,
+          "height": 317
+        }
+      },
+      "body_2": {
+        "body_2": {
+          "x": 1148,
+          "y": -955,
+          "width": 722,
+          "height": 504
+        }
+      },
+      "shouder": {
+        "shouder": {
+          "x": 1488,
+          "y": -817.5,
+          "width": 228,
+          "height": 415
+        }
+      },
+      "r_arm1": {
+        "r_arm1": {
+          "x": 1586.5,
+          "y": -1077,
+          "width": 311,
+          "height": 392
+        }
+      },
+      "r_hand": {
+        "r_hand": {
+          "x": 1564.5,
+          "y": -1212.5,
+          "width": 277,
+          "height": 277
+        }
+      },
+      "face": {
+        "face": {
+          "x": 1152.5,
+          "y": -591,
+          "width": 483,
+          "height": 538
+        }
+      },
+      "jaw": {
+        "jaw": {
+          "x": 1153.5,
+          "y": -747.5,
+          "width": 479,
+          "height": 269
+        }
+      },
+      "helmet": {
+        "helmet": {
+          "x": 1150.5,
+          "y": -484.5,
+          "width": 553,
+          "height": 553
+        }
+      },
+      "glass": {
+        "glass": {
+          "x": 1165.5,
+          "y": -532.5,
+          "width": 521,
+          "height": 247
+        }
+      },
+      "ship_3": {
+        "ship_3": {
+          "x": 1148,
+          "y": -1306,
+          "width": 890,
+          "height": 566
+        }
+      },
+      "ship_2": {
+        "ship_2": {
+          "x": 1144.5,
+          "y": -1398,
+          "width": 545,
+          "height": 454
+        }
+      },
+      "hand_2": {
+        "hand_2": {
+          "x": 1573,
+          "y": -1237.5,
+          "width": 220,
+          "height": 227
+        }
+      }
+    }
+  },
+  "animations": {
+    "animation": {}
+  }
+}

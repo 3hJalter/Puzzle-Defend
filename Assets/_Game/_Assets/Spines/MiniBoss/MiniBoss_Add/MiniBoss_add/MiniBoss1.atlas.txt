@@ -1,0 +1,34 @@
+
+MiniBoss1.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ellipse 5 copy
+  rotate: false
+  xy: 186, 1
+  size: 138, 130
+  orig: 138, 130
+  offset: 0, 0
+  index: -1
+Ellipse 5 copy 3
+  rotate: true
+  xy: 324, 0
+  size: 131, 173
+  orig: 131, 173
+  offset: 0, 0
+  index: -1
+Group 58
+  rotate: false
+  xy: 0, 73
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+Group 59
+  rotate: true
+  xy: 58, 14
+  size: 117, 128
+  orig: 117, 128
+  offset: 0, 0
+  index: -1

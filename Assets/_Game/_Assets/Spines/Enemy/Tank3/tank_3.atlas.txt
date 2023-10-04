@@ -1,0 +1,104 @@
+
+tank_3.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 159, 51
+  size: 77, 66
+  orig: 77, 66
+  offset: 0, 0
+  index: -1
+eff
+  rotate: true
+  xy: 0, 33
+  size: 95, 90
+  orig: 95, 90
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 90, 49
+  size: 79, 69
+  orig: 79, 69
+  offset: 0, 0
+  index: -1
+l_arm
+  rotate: true
+  xy: 0, 4
+  size: 29, 39
+  orig: 29, 39
+  offset: 0, 0
+  index: -1
+l_cheek
+  rotate: false
+  xy: 102, 1
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+l_ear
+  rotate: false
+  xy: 136, 11
+  size: 16, 18
+  orig: 16, 18
+  offset: 0, 0
+  index: -1
+l_eye
+  rotate: false
+  xy: 66, 8
+  size: 21, 25
+  orig: 21, 25
+  offset: 0, 0
+  index: -1
+l_hand
+  rotate: false
+  xy: 87, 5
+  size: 15, 28
+  orig: 15, 28
+  offset: 0, 0
+  index: -1
+l_leg
+  rotate: true
+  xy: 90, 35
+  size: 14, 24
+  orig: 14, 24
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 66, 0
+  size: 17, 8
+  orig: 17, 8
+  offset: 0, 0
+  index: -1
+r_cheek
+  rotate: false
+  xy: 39, 4
+  size: 27, 29
+  orig: 27, 29
+  offset: 0, 0
+  index: -1
+r_eye
+  rotate: false
+  xy: 136, 29
+  size: 16, 20
+  orig: 16, 20
+  offset: 0, 0
+  index: -1
+shadown
+  rotate: false
+  xy: 159, 1
+  size: 63, 50
+  orig: 63, 50
+  offset: 0, 0
+  index: -1
+shield
+  rotate: true
+  xy: 225, 61
+  size: 67, 57
+  orig: 67, 57
+  offset: 0, 0
+  index: -1

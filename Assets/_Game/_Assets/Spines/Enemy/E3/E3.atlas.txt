@@ -1,0 +1,62 @@
+
+E3.png
+size: 256,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 0, 0
+  size: 57, 55
+  orig: 57, 55
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: true
+  xy: 163, 8
+  size: 17, 22
+  orig: 17, 22
+  offset: 0, 0
+  index: -1
+Foot
+  rotate: true
+  xy: 205, 6
+  size: 17, 20
+  orig: 17, 20
+  offset: 0, 0
+  index: -1
+Gun
+  rotate: true
+  xy: 205, 23
+  size: 32, 35
+  orig: 32, 35
+  offset: 0, 0
+  index: -1
+Hair
+  rotate: true
+  xy: 185, 7
+  size: 18, 20
+  orig: 18, 20
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 163, 25
+  size: 42, 30
+  orig: 42, 30
+  offset: 0, 0
+  index: -1
+Wing 1
+  rotate: true
+  xy: 57, 8
+  size: 47, 53
+  orig: 47, 53
+  offset: 0, 0
+  index: -1
+Wing 2
+  rotate: true
+  xy: 110, 8
+  size: 47, 53
+  orig: 47, 53
+  offset: 0, 0
+  index: -1

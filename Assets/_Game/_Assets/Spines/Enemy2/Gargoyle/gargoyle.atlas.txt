@@ -1,0 +1,160 @@
+
+gargoyle.png
+size: 592,536
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 136
+  rotate: false
+  xy: 377, 400
+  size: 209, 131
+  orig: 209, 131
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 158, 163
+  size: 187, 185
+  orig: 189, 187
+  offset: 1, 1
+  index: -1
+head
+  rotate: true
+  xy: 158, 350
+  size: 181, 217
+  orig: 181, 217
+  offset: 0, 0
+  index: -1
+l_arm
+  rotate: true
+  xy: 377, 181
+  size: 84, 179
+  orig: 84, 179
+  offset: 0, 0
+  index: -1
+l_arm_b
+  rotate: false
+  xy: 347, 2
+  size: 82, 177
+  orig: 84, 179
+  offset: 1, 1
+  index: -1
+l_ear
+  rotate: false
+  xy: 298, 114
+  size: 47, 47
+  orig: 49, 49
+  offset: 1, 1
+  index: -1
+l_eye
+  rotate: false
+  xy: 431, 9
+  size: 45, 53
+  orig: 47, 55
+  offset: 1, 1
+  index: -1
+l_foot
+  rotate: false
+  xy: 347, 306
+  size: 28, 42
+  orig: 28, 42
+  offset: 0, 0
+  index: -1
+l_horn
+  rotate: true
+  xy: 431, 122
+  size: 57, 92
+  orig: 59, 94
+  offset: 1, 1
+  index: -1
+l_wing
+  rotate: false
+  xy: 377, 267
+  size: 209, 131
+  orig: 209, 131
+  offset: 0, 0
+  index: -1
+nose
+  rotate: false
+  xy: 523, 53
+  size: 39, 39
+  orig: 41, 41
+  offset: 1, 1
+  index: -1
+r_arm
+  rotate: false
+  xy: 158, 21
+  size: 69, 140
+  orig: 69, 140
+  offset: 0, 0
+  index: -1
+r_arm_b
+  rotate: false
+  xy: 229, 23
+  size: 67, 138
+  orig: 69, 140
+  offset: 1, 1
+  index: -1
+r_bone
+  rotate: false
+  xy: 558, 233
+  size: 32, 32
+  orig: 34, 35
+  offset: 1, 1
+  index: -1
+r_claw
+  rotate: false
+  xy: 298, 9
+  size: 46, 54
+  orig: 48, 56
+  offset: 1, 1
+  index: -1
+r_ear
+  rotate: false
+  xy: 298, 65
+  size: 47, 47
+  orig: 49, 49
+  offset: 1, 1
+  index: -1
+r_eye
+  rotate: true
+  xy: 478, 17
+  size: 45, 43
+  orig: 47, 45
+  offset: 1, 1
+  index: -1
+r_foot
+  rotate: false
+  xy: 347, 263
+  size: 28, 41
+  orig: 28, 41
+  offset: 0, 0
+  index: -1
+r_hand
+  rotate: true
+  xy: 525, 94
+  size: 85, 57
+  orig: 87, 59
+  offset: 1, 1
+  index: -1
+r_horn
+  rotate: true
+  xy: 431, 64
+  size: 56, 90
+  orig: 58, 92
+  offset: 1, 1
+  index: -1
+r_wing
+  rotate: true
+  xy: 2, 275
+  size: 256, 154
+  orig: 256, 154
+  offset: 0, 0
+  index: -1
+r_wing_b
+  rotate: true
+  xy: 2, 17
+  size: 256, 154
+  orig: 256, 154
+  offset: 0, 0
+  index: -1

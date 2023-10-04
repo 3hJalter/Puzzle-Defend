@@ -1,0 +1,76 @@
+
+tank2.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 0, 33
+  size: 95, 79
+  orig: 95, 79
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 68, 9
+  size: 52, 24
+  orig: 52, 24
+  offset: 0, 0
+  index: -1
+hat
+  rotate: true
+  xy: 79, 34
+  size: 94, 90
+  orig: 94, 90
+  offset: 0, 0
+  index: -1
+hat_2
+  rotate: false
+  xy: 0, 0
+  size: 68, 33
+  orig: 68, 33
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 169, 51
+  size: 70, 77
+  orig: 70, 77
+  offset: 0, 0
+  index: -1
+l_ear
+  rotate: false
+  xy: 120, 0
+  size: 37, 34
+  orig: 37, 34
+  offset: 0, 0
+  index: -1
+r_arm
+  rotate: false
+  xy: 212, 3
+  size: 42, 48
+  orig: 42, 48
+  offset: 0, 0
+  index: -1
+r_ear
+  rotate: true
+  xy: 239, 90
+  size: 38, 37
+  orig: 38, 37
+  offset: 0, 0
+  index: -1
+r_leg
+  rotate: false
+  xy: 157, 16
+  size: 12, 18
+  orig: 12, 18
+  offset: 0, 0
+  index: -1
+shadown
+  rotate: true
+  xy: 169, 1
+  size: 50, 43
+  orig: 50, 43
+  offset: 0, 0
+  index: -1

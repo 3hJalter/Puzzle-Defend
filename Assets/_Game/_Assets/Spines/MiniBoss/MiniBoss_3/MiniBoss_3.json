@@ -1,0 +1,232 @@
+{
+  "skeleton": {
+    "images": "F:/Project/Dung_abi/MiniBoss/MiniBoss_3/MiniBoss_3_images/"
+  },
+  "PhotoshopToSpine": {
+    "scale": 1,
+    "padding": 1,
+    "trim": true
+  },
+  "bones": [
+    {
+      "name": "root"
+    }
+  ],
+  "slots": [
+    {
+      "name": "shadown",
+      "bone": "root",
+      "attachment": "shadown"
+    },
+    {
+      "name": "box",
+      "bone": "root",
+      "attachment": "box"
+    },
+    {
+      "name": "arm2",
+      "bone": "root",
+      "attachment": "arm2"
+    },
+    {
+      "name": "hend3",
+      "bone": "root",
+      "attachment": "hend3"
+    },
+    {
+      "name": "Body",
+      "bone": "root",
+      "attachment": "Body"
+    },
+    {
+      "name": "alten",
+      "bone": "root",
+      "attachment": "alten"
+    },
+    {
+      "name": "L_Eyes",
+      "bone": "root",
+      "attachment": "L_Eyes"
+    },
+    {
+      "name": "R_Eyes",
+      "bone": "root",
+      "attachment": "R_Eyes"
+    },
+    {
+      "name": "gun",
+      "bone": "root",
+      "attachment": "gun"
+    },
+    {
+      "name": "hand2",
+      "bone": "root",
+      "attachment": "hand2"
+    },
+    {
+      "name": "leg1",
+      "bone": "root",
+      "attachment": "leg1"
+    },
+    {
+      "name": "leg2",
+      "bone": "root",
+      "attachment": "leg2"
+    },
+    {
+      "name": "leg3",
+      "bone": "root",
+      "attachment": "leg3"
+    },
+    {
+      "name": "arm1",
+      "bone": "root",
+      "attachment": "arm1"
+    },
+    {
+      "name": "hand1",
+      "bone": "root",
+      "attachment": "hand1"
+    },
+    {
+      "name": "mouth",
+      "bone": "root",
+      "attachment": "mouth"
+    }
+  ],
+  "skins": {
+    "default": {
+      "shadown": {
+        "shadown": {
+          "x": 85.5,
+          "y": -132.5,
+          "width": 121,
+          "height": 35
+        }
+      },
+      "box": {
+        "box": {
+          "x": 66.5,
+          "y": -57,
+          "width": 115,
+          "height": 100
+        }
+      },
+      "arm2": {
+        "arm2": {
+          "x": 143,
+          "y": -91.5,
+          "width": 22,
+          "height": 35
+        }
+      },
+      "hend3": {
+        "hend3": {
+          "x": 163.5,
+          "y": -100.5,
+          "width": 53,
+          "height": 41
+        }
+      },
+      "Body": {
+        "Body": {
+          "x": 110,
+          "y": -70,
+          "width": 74,
+          "height": 72
+        }
+      },
+      "alten": {
+        "alten": {
+          "x": 123,
+          "y": -30.5,
+          "width": 16,
+          "height": 31
+        }
+      },
+      "L_Eyes": {
+        "L_Eyes": {
+          "x": 143,
+          "y": -58.5,
+          "width": 22,
+          "height": 23
+        }
+      },
+      "R_Eyes": {
+        "R_Eyes": {
+          "x": 112,
+          "y": -58,
+          "width": 24,
+          "height": 24
+        }
+      },
+      "gun": {
+        "gun": {
+          "x": 152,
+          "y": -94.5,
+          "width": 76,
+          "height": 41
+        }
+      },
+      "hand2": {
+        "hand2": {
+          "x": 160.5,
+          "y": -107,
+          "width": 31,
+          "height": 28
+        }
+      },
+      "leg1": {
+        "leg1": {
+          "x": 128,
+          "y": -110.5,
+          "width": 24,
+          "height": 55
+        }
+      },
+      "leg2": {
+        "leg2": {
+          "x": 87,
+          "y": -109,
+          "width": 24,
+          "height": 60
+        }
+      },
+      "leg3": {
+        "leg3": {
+          "x": 70,
+          "y": -97.5,
+          "width": 38,
+          "height": 83
+        }
+      },
+      "arm1": {
+        "arm1": {
+          "x": 102.5,
+          "y": -93,
+          "width": 23,
+          "height": 36
+        }
+      },
+      "hand1": {
+        "hand1": {
+          "x": 121,
+          "y": -101,
+          "width": 50,
+          "height": 40
+        }
+      },
+      "mouth": {
+        "mouth": {
+          "x": 132.5,
+          "y": -63,
+          "width": 27,
+          "height": 28
+        }
+      }
+    }
+  },
+  "animations": {
+    "animation": {}
+  }
+}

@@ -1,0 +1,643 @@
+
+Canon_Laser.png
+size: 1140,153
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+laser_lv1/arm1
+  rotate: true
+  xy: 899, 3
+  size: 33, 61
+  orig: 35, 63
+  offset: 1, 1
+  index: -1
+laser_lv1/arm2
+  rotate: true
+  xy: 457, 8
+  size: 33, 61
+  orig: 35, 63
+  offset: 1, 1
+  index: -1
+laser_lv1/body1
+  rotate: false
+  xy: 2, 6
+  size: 140, 145
+  orig: 142, 147
+  offset: 1, 1
+  index: -1
+laser_lv1/body2
+  rotate: false
+  xy: 999, 42
+  size: 61, 29
+  orig: 63, 31
+  offset: 1, 1
+  index: -1
+laser_lv2/body2
+  rotate: false
+  xy: 999, 42
+  size: 61, 29
+  orig: 63, 31
+  offset: 1, 1
+  index: -1
+laser_lv3/body2
+  rotate: false
+  xy: 999, 42
+  size: 61, 29
+  orig: 63, 31
+  offset: 1, 1
+  index: -1
+laser_lv4/body2
+  rotate: false
+  xy: 999, 42
+  size: 61, 29
+  orig: 63, 31
+  offset: 1, 1
+  index: -1
+laser_lv5/body2
+  rotate: false
+  xy: 999, 42
+  size: 61, 29
+  orig: 63, 31
+  offset: 1, 1
+  index: -1
+laser_lv1/body3
+  rotate: false
+  xy: 681, 100
+  size: 118, 51
+  orig: 120, 53
+  offset: 1, 1
+  index: -1
+laser_lv2/body3
+  rotate: false
+  xy: 681, 100
+  size: 118, 51
+  orig: 120, 53
+  offset: 1, 1
+  index: -1
+laser_lv3/body3
+  rotate: false
+  xy: 681, 100
+  size: 118, 51
+  orig: 120, 53
+  offset: 1, 1
+  index: -1
+laser_lv4/body3
+  rotate: false
+  xy: 681, 100
+  size: 118, 51
+  orig: 120, 53
+  offset: 1, 1
+  index: -1
+laser_lv5/body3
+  rotate: false
+  xy: 681, 100
+  size: 118, 51
+  orig: 120, 53
+  offset: 1, 1
+  index: -1
+laser_lv1/body3_l
+  rotate: false
+  xy: 801, 107
+  size: 108, 44
+  orig: 120, 53
+  offset: 7, 8
+  index: -1
+laser_lv2/body3_l
+  rotate: false
+  xy: 801, 107
+  size: 108, 44
+  orig: 120, 53
+  offset: 7, 8
+  index: -1
+laser_lv3/body3_l
+  rotate: false
+  xy: 801, 107
+  size: 108, 44
+  orig: 120, 53
+  offset: 7, 8
+  index: -1
+laser_lv4/body3_l
+  rotate: false
+  xy: 801, 107
+  size: 108, 44
+  orig: 120, 53
+  offset: 7, 8
+  index: -1
+laser_lv5/body3_l
+  rotate: false
+  xy: 801, 107
+  size: 108, 44
+  orig: 120, 53
+  offset: 7, 8
+  index: -1
+laser_lv1/body4
+  rotate: true
+  xy: 771, 34
+  size: 64, 60
+  orig: 66, 62
+  offset: 1, 1
+  index: -1
+laser_lv2/body4
+  rotate: true
+  xy: 771, 34
+  size: 64, 60
+  orig: 66, 62
+  offset: 1, 1
+  index: -1
+laser_lv3/body4
+  rotate: true
+  xy: 771, 34
+  size: 64, 60
+  orig: 66, 62
+  offset: 1, 1
+  index: -1
+laser_lv4/body4
+  rotate: true
+  xy: 771, 34
+  size: 64, 60
+  orig: 66, 62
+  offset: 1, 1
+  index: -1
+laser_lv5/body4
+  rotate: true
+  xy: 771, 34
+  size: 64, 60
+  orig: 66, 62
+  offset: 1, 1
+  index: -1
+laser_lv1/body5
+  rotate: false
+  xy: 894, 38
+  size: 61, 36
+  orig: 63, 38
+  offset: 1, 1
+  index: -1
+laser_lv2/body5
+  rotate: false
+  xy: 894, 38
+  size: 61, 36
+  orig: 63, 38
+  offset: 1, 1
+  index: -1
+laser_lv3/body5
+  rotate: false
+  xy: 894, 38
+  size: 61, 36
+  orig: 63, 38
+  offset: 1, 1
+  index: -1
+laser_lv4/body5
+  rotate: false
+  xy: 894, 38
+  size: 61, 36
+  orig: 63, 38
+  offset: 1, 1
+  index: -1
+laser_lv5/body5
+  rotate: false
+  xy: 894, 38
+  size: 61, 36
+  orig: 63, 38
+  offset: 1, 1
+  index: -1
+laser_lv1/body5a
+  rotate: false
+  xy: 394, 5
+  size: 61, 36
+  orig: 63, 38
+  offset: 1, 1
+  index: -1
+laser_lv2/body5a
+  rotate: false
+  xy: 394, 5
+  size: 61, 36
+  orig: 63, 38
+  offset: 1, 1
+  index: -1
+laser_lv3/body5a
+  rotate: false
+  xy: 394, 5
+  size: 61, 36
+  orig: 63, 38
+  offset: 1, 1
+  index: -1
+laser_lv4/body5a
+  rotate: false
+  xy: 394, 5
+  size: 61, 36
+  orig: 63, 38
+  offset: 1, 1
+  index: -1
+laser_lv5/body5a
+  rotate: false
+  xy: 394, 5
+  size: 61, 36
+  orig: 63, 38
+  offset: 1, 1
+  index: -1
+laser_lv1/body6
+  rotate: false
+  xy: 1062, 38
+  size: 61, 33
+  orig: 63, 35
+  offset: 1, 1
+  index: -1
+laser_lv2/body6
+  rotate: false
+  xy: 1062, 38
+  size: 61, 33
+  orig: 63, 35
+  offset: 1, 1
+  index: -1
+laser_lv3/body6
+  rotate: false
+  xy: 1062, 38
+  size: 61, 33
+  orig: 63, 35
+  offset: 1, 1
+  index: -1
+laser_lv4/body6
+  rotate: false
+  xy: 1062, 38
+  size: 61, 33
+  orig: 63, 35
+  offset: 1, 1
+  index: -1
+laser_lv5/body6
+  rotate: false
+  xy: 1062, 38
+  size: 61, 33
+  orig: 63, 35
+  offset: 1, 1
+  index: -1
+laser_lv1/body6a
+  rotate: false
+  xy: 962, 7
+  size: 61, 33
+  orig: 63, 35
+  offset: 1, 1
+  index: -1
+laser_lv2/body6a
+  rotate: false
+  xy: 962, 7
+  size: 61, 33
+  orig: 63, 35
+  offset: 1, 1
+  index: -1
+laser_lv3/body6a
+  rotate: false
+  xy: 962, 7
+  size: 61, 33
+  orig: 63, 35
+  offset: 1, 1
+  index: -1
+laser_lv4/body6a
+  rotate: false
+  xy: 962, 7
+  size: 61, 33
+  orig: 63, 35
+  offset: 1, 1
+  index: -1
+laser_lv5/body6a
+  rotate: false
+  xy: 962, 7
+  size: 61, 33
+  orig: 63, 35
+  offset: 1, 1
+  index: -1
+laser_lv1/door1
+  rotate: true
+  xy: 635, 2
+  size: 69, 62
+  orig: 71, 64
+  offset: 1, 1
+  index: -1
+laser_lv2/door1
+  rotate: true
+  xy: 635, 2
+  size: 69, 62
+  orig: 71, 64
+  offset: 1, 1
+  index: -1
+laser_lv3/door1
+  rotate: true
+  xy: 635, 2
+  size: 69, 62
+  orig: 71, 64
+  offset: 1, 1
+  index: -1
+laser_lv4/door1
+  rotate: true
+  xy: 635, 2
+  size: 69, 62
+  orig: 71, 64
+  offset: 1, 1
+  index: -1
+laser_lv5/door1
+  rotate: true
+  xy: 635, 2
+  size: 69, 62
+  orig: 71, 64
+  offset: 1, 1
+  index: -1
+laser_lv1/door2
+  rotate: false
+  xy: 563, 14
+  size: 70, 62
+  orig: 72, 64
+  offset: 1, 1
+  index: -1
+laser_lv2/door2
+  rotate: false
+  xy: 563, 14
+  size: 70, 62
+  orig: 72, 64
+  offset: 1, 1
+  index: -1
+laser_lv3/door2
+  rotate: false
+  xy: 563, 14
+  size: 70, 62
+  orig: 72, 64
+  offset: 1, 1
+  index: -1
+laser_lv4/door2
+  rotate: false
+  xy: 563, 14
+  size: 70, 62
+  orig: 72, 64
+  offset: 1, 1
+  index: -1
+laser_lv5/door2
+  rotate: false
+  xy: 563, 14
+  size: 70, 62
+  orig: 72, 64
+  offset: 1, 1
+  index: -1
+laser_lv1/door3
+  rotate: false
+  xy: 699, 36
+  size: 70, 62
+  orig: 72, 64
+  offset: 1, 1
+  index: -1
+laser_lv2/door3
+  rotate: false
+  xy: 699, 36
+  size: 70, 62
+  orig: 72, 64
+  offset: 1, 1
+  index: -1
+laser_lv3/door3
+  rotate: false
+  xy: 699, 36
+  size: 70, 62
+  orig: 72, 64
+  offset: 1, 1
+  index: -1
+laser_lv4/door3
+  rotate: false
+  xy: 699, 36
+  size: 70, 62
+  orig: 72, 64
+  offset: 1, 1
+  index: -1
+laser_lv5/door3
+  rotate: false
+  xy: 699, 36
+  size: 70, 62
+  orig: 72, 64
+  offset: 1, 1
+  index: -1
+laser_lv1/gun
+  rotate: true
+  xy: 911, 76
+  size: 75, 91
+  orig: 77, 93
+  offset: 1, 1
+  index: -1
+laser_lv2/gun
+  rotate: true
+  xy: 911, 76
+  size: 75, 91
+  orig: 77, 93
+  offset: 1, 1
+  index: -1
+laser_lv2/arm1
+  rotate: true
+  xy: 765, 2
+  size: 30, 65
+  orig: 35, 69
+  offset: 2, 1
+  index: -1
+laser_lv2/arm1a
+  rotate: false
+  xy: 1097, 79
+  size: 41, 72
+  orig: 45, 78
+  offset: 2, 3
+  index: -1
+laser_lv2/arm2
+  rotate: true
+  xy: 832, 2
+  size: 30, 65
+  orig: 35, 66
+  offset: 2, 1
+  index: -1
+laser_lv2/body1
+  rotate: false
+  xy: 144, 6
+  size: 140, 145
+  orig: 142, 147
+  offset: 1, 1
+  index: -1
+laser_lv3/body1
+  rotate: false
+  xy: 144, 6
+  size: 140, 145
+  orig: 142, 147
+  offset: 1, 1
+  index: -1
+laser_lv4/body1
+  rotate: false
+  xy: 144, 6
+  size: 140, 145
+  orig: 142, 147
+  offset: 1, 1
+  index: -1
+laser_lv5/body1
+  rotate: false
+  xy: 144, 6
+  size: 140, 145
+  orig: 142, 147
+  offset: 1, 1
+  index: -1
+laser_lv3/arm1
+  rotate: true
+  xy: 417, 43
+  size: 33, 71
+  orig: 39, 74
+  offset: 2, 2
+  index: -1
+laser_lv4/arm1
+  rotate: true
+  xy: 417, 43
+  size: 33, 71
+  orig: 39, 74
+  offset: 2, 2
+  index: -1
+laser_lv5/arm1
+  rotate: true
+  xy: 417, 43
+  size: 33, 71
+  orig: 39, 74
+  offset: 2, 2
+  index: -1
+laser_lv3/arm1a
+  rotate: true
+  xy: 286, 2
+  size: 47, 78
+  orig: 51, 79
+  offset: 3, 0
+  index: -1
+laser_lv4/arm1a
+  rotate: true
+  xy: 286, 2
+  size: 47, 78
+  orig: 51, 79
+  offset: 3, 0
+  index: -1
+laser_lv5/arm1a
+  rotate: true
+  xy: 286, 2
+  size: 47, 78
+  orig: 51, 79
+  offset: 3, 0
+  index: -1
+laser_lv3/arm2
+  rotate: true
+  xy: 490, 43
+  size: 33, 71
+  orig: 39, 74
+  offset: 2, 2
+  index: -1
+laser_lv4/arm2
+  rotate: true
+  xy: 490, 43
+  size: 33, 71
+  orig: 39, 74
+  offset: 2, 2
+  index: -1
+laser_lv5/arm2
+  rotate: true
+  xy: 490, 43
+  size: 33, 71
+  orig: 39, 74
+  offset: 2, 2
+  index: -1
+laser_lv3/gun
+  rotate: true
+  xy: 1004, 73
+  size: 78, 91
+  orig: 81, 93
+  offset: 2, 1
+  index: -1
+laser_lv4/gun
+  rotate: true
+  xy: 1004, 73
+  size: 78, 91
+  orig: 81, 93
+  offset: 2, 1
+  index: -1
+laser_lv5/gun
+  rotate: true
+  xy: 1004, 73
+  size: 78, 91
+  orig: 81, 93
+  offset: 2, 1
+  index: -1
+laser_lv3/ong_1
+  rotate: false
+  xy: 833, 38
+  size: 59, 67
+  orig: 59, 67
+  offset: 0, 0
+  index: -1
+laser_lv4/ong_1
+  rotate: false
+  xy: 833, 38
+  size: 59, 67
+  orig: 59, 67
+  offset: 0, 0
+  index: -1
+laser_lv5/ong_1
+  rotate: false
+  xy: 833, 38
+  size: 59, 67
+  orig: 59, 67
+  offset: 0, 0
+  index: -1
+laser_lv4/wing1
+  rotate: true
+  xy: 417, 78
+  size: 73, 130
+  orig: 79, 140
+  offset: 3, 5
+  index: -1
+laser_lv5/body7
+  rotate: false
+  xy: 1025, 8
+  size: 57, 28
+  orig: 61, 30
+  offset: 2, 1
+  index: -1
+laser_lv5/gun1
+  rotate: true
+  xy: 1084, 6
+  size: 30, 50
+  orig: 32, 54
+  offset: 1, 2
+  index: -1
+laser_lv5/gun1_l1
+  rotate: false
+  xy: 520, 13
+  size: 26, 28
+  orig: 32, 54
+  offset: 3, 22
+  index: -1
+laser_lv5/gun1_l2
+  rotate: false
+  xy: 366, 3
+  size: 26, 46
+  orig: 32, 54
+  offset: 3, 4
+  index: -1
+laser_lv5/gun1_l3
+  rotate: true
+  xy: 957, 48
+  size: 26, 40
+  orig: 32, 54
+  offset: 3, 4
+  index: -1
+laser_lv5/gun2
+  rotate: false
+  xy: 286, 51
+  size: 129, 100
+  orig: 135, 106
+  offset: 3, 3
+  index: -1
+laser_lv5/wing1
+  rotate: true
+  xy: 549, 78
+  size: 73, 130
+  orig: 79, 140
+  offset: 3, 5
+  index: -1
+laser_lv5/wing2
+  rotate: true
+  xy: 699, 2
+  size: 32, 64
+  orig: 36, 64
+  offset: 2, 0
+  index: -1

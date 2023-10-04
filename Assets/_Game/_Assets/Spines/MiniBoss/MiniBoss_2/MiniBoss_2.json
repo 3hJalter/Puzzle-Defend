@@ -1,0 +1,388 @@
+{
+  "skeleton": {
+    "images": "F:/Project/Dung_abi/MiniBoss/MiniBoss_2/MiniBoss_2_images/"
+  },
+  "PhotoshopToSpine": {
+    "scale": 1,
+    "padding": 1,
+    "trim": true
+  },
+  "bones": [
+    {
+      "name": "root"
+    }
+  ],
+  "slots": [
+    {
+      "name": "shadown",
+      "bone": "root",
+      "attachment": "shadown"
+    },
+    {
+      "name": "leg1",
+      "bone": "root",
+      "attachment": "leg1"
+    },
+    {
+      "name": "leg2",
+      "bone": "root",
+      "attachment": "leg2"
+    },
+    {
+      "name": "line3",
+      "bone": "root",
+      "attachment": "line3"
+    },
+    {
+      "name": "line1",
+      "bone": "root",
+      "attachment": "line1"
+    },
+    {
+      "name": "ball1",
+      "bone": "root",
+      "attachment": "ball1"
+    },
+    {
+      "name": "Ellipse 2 copy 2",
+      "bone": "root",
+      "attachment": "Ellipse 2 copy 2"
+    },
+    {
+      "name": "l_arm",
+      "bone": "root",
+      "attachment": "l_arm"
+    },
+    {
+      "name": "r_arm",
+      "bone": "root",
+      "attachment": "r_arm"
+    },
+    {
+      "name": "neck",
+      "bone": "root",
+      "attachment": "neck"
+    },
+    {
+      "name": "ear",
+      "bone": "root",
+      "attachment": "ear"
+    },
+    {
+      "name": "Shape 4 copy 3",
+      "bone": "root",
+      "attachment": "Shape 4 copy 3"
+    },
+    {
+      "name": "r_eye",
+      "bone": "root",
+      "attachment": "r_eye"
+    },
+    {
+      "name": "l_eye",
+      "bone": "root",
+      "attachment": "l_eye"
+    },
+    {
+      "name": "mouth",
+      "bone": "root",
+      "attachment": "mouth"
+    },
+    {
+      "name": "check1",
+      "bone": "root",
+      "attachment": "check1"
+    },
+    {
+      "name": "check2",
+      "bone": "root",
+      "attachment": "check2"
+    },
+    {
+      "name": "l_hand",
+      "bone": "root",
+      "attachment": "l_hand"
+    },
+    {
+      "name": "r_hand",
+      "bone": "root",
+      "attachment": "r_hand"
+    },
+    {
+      "name": "spoon",
+      "bone": "root",
+      "attachment": "spoon"
+    },
+    {
+      "name": "r_finger2",
+      "bone": "root",
+      "attachment": "r_finger2"
+    },
+    {
+      "name": "r_finger1",
+      "bone": "root",
+      "attachment": "r_finger1"
+    },
+    {
+      "name": "l_finger2",
+      "bone": "root",
+      "attachment": "l_finger2"
+    },
+    {
+      "name": "l_finger1",
+      "bone": "root",
+      "attachment": "l_finger1"
+    },
+    {
+      "name": "line2",
+      "bone": "root",
+      "attachment": "line2"
+    },
+    {
+      "name": "line4",
+      "bone": "root",
+      "attachment": "line4"
+    },
+    {
+      "name": "ball2",
+      "bone": "root",
+      "attachment": "ball2"
+    },
+    {
+      "name": "eff",
+      "bone": "root",
+      "attachment": "eff"
+    }
+  ],
+  "skins": {
+    "default": {
+      "shadown": {
+        "shadown": {
+          "x": 117,
+          "y": -303.5,
+          "width": 78,
+          "height": 61
+        }
+      },
+      "leg1": {
+        "leg1": {
+          "x": 136.5,
+          "y": -255,
+          "width": 23,
+          "height": 26
+        }
+      },
+      "leg2": {
+        "leg2": {
+          "x": 101,
+          "y": -259,
+          "width": 20,
+          "height": 28
+        }
+      },
+      "line3": {
+        "line3": {
+          "x": 162,
+          "y": -150.5,
+          "width": 46,
+          "height": 157
+        }
+      },
+      "line1": {
+        "line1": {
+          "x": 54.5,
+          "y": -147.5,
+          "width": 53,
+          "height": 155
+        }
+      },
+      "ball1": {
+        "ball1": {
+          "x": 104,
+          "y": -72,
+          "width": 172,
+          "height": 130
+        }
+      },
+      "Ellipse 2 copy 2": {
+        "Ellipse 2 copy 2": {
+          "x": 117,
+          "y": -225,
+          "width": 94,
+          "height": 76
+        }
+      },
+      "l_arm": {
+        "l_arm": {
+          "x": 85,
+          "y": -232,
+          "width": 32,
+          "height": 46
+        }
+      },
+      "r_arm": {
+        "r_arm": {
+          "x": 152.5,
+          "y": -232,
+          "width": 35,
+          "height": 48
+        }
+      },
+      "neck": {
+        "neck": {
+          "x": 116,
+          "y": -208.5,
+          "width": 112,
+          "height": 65
+        }
+      },
+      "ear": {
+        "ear": {
+          "x": 73,
+          "y": -196,
+          "width": 20,
+          "height": 22
+        }
+      },
+      "Shape 4 copy 3": {
+        "Shape 4 copy 3": {
+          "x": 117.5,
+          "y": -180,
+          "width": 97,
+          "height": 84
+        }
+      },
+      "r_eye": {
+        "r_eye": {
+          "x": 132.5,
+          "y": -173,
+          "width": 19,
+          "height": 24
+        }
+      },
+      "l_eye": {
+        "l_eye": {
+          "x": 114,
+          "y": -171.5,
+          "width": 26,
+          "height": 31
+        }
+      },
+      "mouth": {
+        "mouth": {
+          "x": 125.5,
+          "y": -196,
+          "width": 21,
+          "height": 10
+        }
+      },
+      "check1": {
+        "check1": {
+          "x": 101,
+          "y": -191,
+          "width": 40,
+          "height": 40
+        }
+      },
+      "check2": {
+        "check2": {
+          "x": 146.5,
+          "y": -190.5,
+          "width": 33,
+          "height": 35
+        }
+      },
+      "l_hand": {
+        "l_hand": {
+          "x": 94,
+          "y": -253.5,
+          "width": 34,
+          "height": 29
+        }
+      },
+      "r_hand": {
+        "r_hand": {
+          "x": 152,
+          "y": -245.5,
+          "width": 32,
+          "height": 29
+        }
+      },
+      "spoon": {
+        "spoon": {
+          "x": 133.5,
+          "y": -241.5,
+          "width": 121,
+          "height": 51
+        }
+      },
+      "r_finger2": {
+        "r_finger2": {
+          "x": 153,
+          "y": -240,
+          "width": 22,
+          "height": 20
+        }
+      },
+      "r_finger1": {
+        "r_finger1": {
+          "x": 155.5,
+          "y": -251,
+          "width": 33,
+          "height": 24
+        }
+      },
+      "l_finger2": {
+        "l_finger2": {
+          "x": 104,
+          "y": -261,
+          "width": 22,
+          "height": 18
+        }
+      },
+      "l_finger1": {
+        "l_finger1": {
+          "x": 97.5,
+          "y": -253,
+          "width": 35,
+          "height": 24
+        }
+      },
+      "line2": {
+        "line2": {
+          "x": 72.5,
+          "y": -159,
+          "width": 27,
+          "height": 128
+        }
+      },
+      "line4": {
+        "line4": {
+          "x": 154,
+          "y": -122,
+          "width": 18,
+          "height": 54
+        }
+      },
+      "ball2": {
+        "ball2": {
+          "x": 111,
+          "y": -97,
+          "width": 110,
+          "height": 22
+        }
+      },
+      "eff": {
+        "eff": {
+          "x": 114.5,
+          "y": -199.5,
+          "width": 167,
+          "height": 103
+        }
+      }
+    }
+  },
+  "animations": {
+    "animation": {}
+  }
+}

@@ -1,0 +1,264 @@
+
+cyber_criminal.png
+size: 2048,1904
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+anten1
+  rotate: false
+  xy: 708, 1787
+  size: 116, 116
+  orig: 116, 116
+  offset: 0, 0
+  index: -1
+anten3
+  rotate: true
+  xy: 0, 1668
+  size: 148, 204
+  orig: 148, 204
+  offset: 0, 0
+  index: -1
+arm2
+  rotate: true
+  xy: 398, 1420
+  size: 208, 297
+  orig: 208, 297
+  offset: 0, 0
+  index: -1
+arm2_b
+  rotate: true
+  xy: 695, 1394
+  size: 208, 297
+  orig: 208, 297
+  offset: 0, 0
+  index: -1
+armor
+  rotate: true
+  xy: 977, 1602
+  size: 183, 184
+  orig: 183, 184
+  offset: 0, 0
+  index: -1
+blue
+  rotate: false
+  xy: 130, 1816
+  size: 110, 87
+  orig: 110, 87
+  offset: 0, 0
+  index: -1
+body_1
+  rotate: false
+  xy: 1306, 1323
+  size: 562, 225
+  orig: 562, 225
+  offset: 0, 0
+  index: -1
+body_2_b
+  rotate: false
+  xy: 1330, 589
+  size: 476, 397
+  orig: 476, 397
+  offset: 0, 0
+  index: -1
+body_2a
+  rotate: false
+  xy: 0, 252
+  size: 476, 397
+  orig: 476, 397
+  offset: 0, 0
+  index: -1
+detail
+  rotate: true
+  xy: 204, 1667
+  size: 149, 227
+  orig: 149, 227
+  offset: 0, 0
+  index: -1
+eff_2
+  rotate: false
+  xy: 824, 1785
+  size: 483, 118
+  orig: 483, 118
+  offset: 0, 0
+  index: -1
+eff_3
+  rotate: false
+  xy: 1307, 1779
+  size: 583, 124
+  orig: 583, 124
+  offset: 0, 0
+  index: -1
+eye1
+  rotate: true
+  xy: 1161, 1593
+  size: 186, 226
+  orig: 186, 226
+  offset: 0, 0
+  index: -1
+eye2
+  rotate: true
+  xy: 431, 1644
+  size: 153, 194
+  orig: 153, 194
+  offset: 0, 0
+  index: -1
+face1
+  rotate: true
+  xy: 476, 77
+  size: 517, 580
+  orig: 517, 580
+  offset: 0, 0
+  index: -1
+finger_1
+  rotate: true
+  xy: 460, 1805
+  size: 98, 125
+  orig: 98, 125
+  offset: 0, 0
+  index: -1
+finger_2
+  rotate: true
+  xy: 585, 1797
+  size: 106, 123
+  orig: 106, 123
+  offset: 0, 0
+  index: -1
+finger_3
+  rotate: true
+  xy: 0, 1820
+  size: 83, 130
+  orig: 83, 130
+  offset: 0, 0
+  index: -1
+glass
+  rotate: false
+  xy: 1387, 1576
+  size: 398, 203
+  orig: 398, 203
+  offset: 0, 0
+  index: -1
+glass_b
+  rotate: false
+  xy: 0, 1464
+  size: 398, 203
+  orig: 398, 203
+  offset: 0, 0
+  index: -1
+jaw
+  rotate: false
+  xy: 381, 1028
+  size: 479, 366
+  orig: 479, 366
+  offset: 0, 0
+  index: -1
+l_arm2
+  rotate: false
+  xy: 1785, 1548
+  size: 263, 221
+  orig: 263, 221
+  offset: 0, 0
+  index: -1
+l_armor
+  rotate: false
+  xy: 625, 1628
+  size: 159, 159
+  orig: 159, 159
+  offset: 0, 0
+  index: -1
+l_hand
+  rotate: true
+  xy: 784, 1611
+  size: 174, 193
+  orig: 174, 193
+  offset: 0, 0
+  index: -1
+l_thumb
+  rotate: true
+  xy: 1890, 1769
+  size: 134, 142
+  orig: 134, 142
+  offset: 0, 0
+  index: -1
+neck
+  rotate: false
+  xy: 0, 1138
+  size: 381, 326
+  orig: 381, 326
+  offset: 0, 0
+  index: -1
+red
+  rotate: false
+  xy: 240, 1816
+  size: 110, 87
+  orig: 110, 87
+  offset: 0, 0
+  index: -1
+ship_1
+  rotate: false
+  xy: 1056, 0
+  size: 908, 589
+  orig: 908, 589
+  offset: 0, 0
+  index: -1
+ship_2
+  rotate: false
+  xy: 860, 986
+  size: 872, 337
+  orig: 872, 337
+  offset: 0, 0
+  index: -1
+ship_2_b
+  rotate: false
+  xy: 0, 649
+  size: 872, 337
+  orig: 872, 337
+  offset: 0, 0
+  index: -1
+tablet
+  rotate: true
+  xy: 992, 1354
+  size: 239, 314
+  orig: 239, 314
+  offset: 0, 0
+  index: -1
+tablet_l
+  rotate: true
+  xy: 872, 594
+  size: 392, 458
+  orig: 392, 458
+  offset: 0, 0
+  index: -1
+yellow
+  rotate: false
+  xy: 350, 1816
+  size: 110, 87
+  orig: 110, 87
+  offset: 0, 0
+  index: -1
+
+cyber_criminal2.png
+size: 1312,1316
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eff
+  rotate: false
+  xy: 589, 594
+  size: 722, 722
+  orig: 722, 722
+  offset: 0, 0
+  index: -1
+eff_1
+  rotate: false
+  xy: 589, 0
+  size: 594, 594
+  orig: 594, 594
+  offset: 0, 0
+  index: -1
+ship_1_b
+  rotate: true
+  xy: 0, 408
+  size: 908, 589
+  orig: 908, 589
+  offset: 0, 0
+  index: -1

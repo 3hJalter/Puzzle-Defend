@@ -1,0 +1,3479 @@
+{
+  "skeleton": {
+    "hash": "jmnYH8KTCL0YkClmBRz8CqjwyNg",
+    "spine": "3.8.99",
+    "x": -121.04,
+    "y": -21.12,
+    "width": 247.19,
+    "height": 247.23
+  },
+  "bones": [
+    {
+      "name": "root"
+    },
+    {
+      "name": "location",
+      "parent": "root"
+    },
+    {
+      "name": "body6",
+      "parent": "location",
+      "length": 112.92,
+      "rotation": 90,
+      "y": -1.4,
+      "skin": true
+    },
+    {
+      "name": "body5",
+      "parent": "body6",
+      "length": 14.15,
+      "rotation": 180,
+      "x": 159.52,
+      "scaleX": 1.0127,
+      "scaleY": 1.0127,
+      "skin": true
+    },
+    {
+      "name": "button2",
+      "parent": "body6",
+      "length": 29.48,
+      "rotation": -1.88,
+      "x": 65.67,
+      "y": 0.61,
+      "scaleX": 0.9,
+      "scaleY": 0.9,
+      "skin": true
+    },
+    {
+      "name": "gun1",
+      "parent": "body6",
+      "length": 34.27,
+      "x": 105.27,
+      "skin": true
+    },
+    {
+      "name": "gun3",
+      "parent": "gun1",
+      "x": 73.66,
+      "y": -0.18,
+      "skin": true
+    },
+    {
+      "name": "body3",
+      "parent": "location",
+      "rotation": 90,
+      "x": 33.6,
+      "y": 4.39,
+      "skin": true
+    },
+    {
+      "name": "body2",
+      "parent": "location",
+      "rotation": 90,
+      "x": -33.24,
+      "y": 5.66,
+      "skin": true
+    },
+    {
+      "name": "energy1",
+      "parent": "body6",
+      "x": 42.46,
+      "y": 62.33,
+      "skin": true
+    },
+    {
+      "name": "energy2",
+      "parent": "energy1",
+      "length": 35.75,
+      "rotation": 110.79,
+      "x": -2.54,
+      "y": 12.69,
+      "skin": true
+    },
+    {
+      "name": "wing",
+      "parent": "location",
+      "rotation": 90,
+      "x": -79.34,
+      "y": 58.95,
+      "skin": true
+    },
+    {
+      "name": "energy3",
+      "parent": "body6",
+      "x": 42.46,
+      "y": -67.44,
+      "scaleY": -1,
+      "skin": true
+    },
+    {
+      "name": "energy4",
+      "parent": "energy3",
+      "length": 35.75,
+      "rotation": 110.79,
+      "x": -2.54,
+      "y": 12.69,
+      "skin": true
+    },
+    {
+      "name": "gun_target",
+      "parent": "root",
+      "y": 380.95
+    },
+    {
+      "name": "button4",
+      "parent": "button2",
+      "x": 34,
+      "scaleX": 0.9,
+      "scaleY": 0.9,
+      "skin": true
+    }
+  ],
+  "slots": [
+    {
+      "name": "body1",
+      "bone": "body6",
+      "attachment": "body1"
+    },
+    {
+      "name": "gun3",
+      "bone": "gun3",
+      "attachment": "gun3"
+    },
+    {
+      "name": "gun2",
+      "bone": "gun3",
+      "attachment": "gun2"
+    },
+    {
+      "name": "gun1",
+      "bone": "gun1",
+      "attachment": "gun1"
+    },
+    {
+      "name": "body4",
+      "bone": "body6",
+      "attachment": "body4"
+    },
+    {
+      "name": "body6_clp",
+      "bone": "body6",
+      "attachment": "body6_clp"
+    },
+    {
+      "name": "body5",
+      "bone": "body5",
+      "attachment": "body5"
+    },
+    {
+      "name": "button3",
+      "bone": "button2",
+      "attachment": "button3"
+    },
+    {
+      "name": "button2",
+      "bone": "button4",
+      "attachment": "button2"
+    },
+    {
+      "name": "button1",
+      "bone": "button2",
+      "attachment": "button1"
+    },
+    {
+      "name": "body6",
+      "bone": "body6",
+      "attachment": "body6"
+    },
+    {
+      "name": "body3",
+      "bone": "body3",
+      "attachment": "body3"
+    },
+    {
+      "name": "body7",
+      "bone": "body3",
+      "attachment": "body3"
+    },
+    {
+      "name": "wing",
+      "bone": "body6",
+      "attachment": "wing"
+    },
+    {
+      "name": "wing2",
+      "bone": "body6",
+      "attachment": "wing"
+    },
+    {
+      "name": "energy2",
+      "bone": "energy2",
+      "attachment": "energy2"
+    },
+    {
+      "name": "energy4",
+      "bone": "energy4",
+      "attachment": "energy2"
+    },
+    {
+      "name": "energy1",
+      "bone": "energy1",
+      "attachment": "energy1"
+    },
+    {
+      "name": "energy3",
+      "bone": "energy3",
+      "attachment": "energy1"
+    }
+  ],
+  "ik": [
+    {
+      "name": "gun_target",
+      "bones": [
+        "body6"
+      ],
+      "target": "gun_target"
+    }
+  ],
+  "skins": [
+    {
+      "name": "lv1",
+      "bones": [
+        "body5",
+        "body6",
+        "gun1"
+      ],
+      "attachments": {
+        "body1": {
+          "body1": {
+            "name": "Rail_lv1/body1",
+            "x": 62.22,
+            "scaleX": 0.75,
+            "scaleY": 0.75,
+            "rotation": -90,
+            "width": 145,
+            "height": 174
+          }
+        },
+        "body5": {
+          "body5": {
+            "name": "Rail_lv1/body5",
+            "x": 71.9,
+            "y": 0.85,
+            "scaleX": 0.75,
+            "scaleY": 0.75,
+            "rotation": 90,
+            "width": 86,
+            "height": 107
+          }
+        },
+        "body6": {
+          "body6": {
+            "name": "Rail_lv1/body6",
+            "x": 26.81,
+            "scaleX": 0.75,
+            "scaleY": 0.75,
+            "rotation": -90,
+            "width": 145,
+            "height": 88
+          }
+        },
+        "body6_clp": {
+          "body6_clp": {
+            "name": "Rail_lv1/body6_clp",
+            "type": "clipping",
+            "end": "body5",
+            "vertexCount": 10,
+            "vertices": [
+              141.91,
+              60.81,
+              159.81,
+              31.69,
+              158.43,
+              -30.75,
+              143.05,
+              -61.12,
+              35.69,
+              -70.4,
+              14.12,
+              -53.48,
+              -1.11,
+              -14.14,
+              0.58,
+              34.93,
+              15.81,
+              55.23,
+              39.5,
+              67.92
+            ]
+          }
+        },
+        "button1": {
+          "button1": {
+            "name": "Rail_lv1/button1",
+            "x": 15.15,
+            "y": -0.76,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "rotation": -88.12,
+            "width": 65,
+            "height": 50
+          }
+        },
+        "button2": {
+          "button2": {
+            "name": "Rail_lv1/button2",
+            "x": -5.59,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "rotation": -90,
+            "width": 44,
+            "height": 41
+          }
+        },
+        "button3": {
+          "button3": {
+            "name": "Rail_lv1/button3",
+            "x": 14.64,
+            "y": -0.28,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "rotation": -88.12,
+            "width": 70,
+            "height": 55
+          }
+        },
+        "energy1": {
+          "energy1": {
+            "name": "Rail_lv1/energy1",
+            "x": -1.46,
+            "y": -0.06,
+            "rotation": -90,
+            "width": 51,
+            "height": 80
+          }
+        },
+        "energy2": {
+          "energy2": {
+            "name": "Rail_lv1/energy2",
+            "x": 24.78,
+            "y": 0.42,
+            "rotation": 159.21,
+            "width": 46,
+            "height": 56
+          }
+        },
+        "energy3": {
+          "energy1": {
+            "name": "Rail_lv1/energy1",
+            "x": -1.46,
+            "y": -0.06,
+            "rotation": -90,
+            "width": 51,
+            "height": 80
+          }
+        },
+        "energy4": {
+          "energy2": {
+            "name": "Rail_lv1/energy2",
+            "x": 24.78,
+            "y": 0.42,
+            "rotation": 159.21,
+            "width": 46,
+            "height": 56
+          }
+        },
+        "gun1": {
+          "gun1": {
+            "name": "Rail_lv1/gun1",
+            "x": 26.8,
+            "y": 0.85,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "rotation": -90,
+            "width": 62,
+            "height": 108
+          }
+        },
+        "gun2": {
+          "gun2": {
+            "name": "Rail_lv1/gun2",
+            "x": -0.59,
+            "y": 31.39,
+            "rotation": -90,
+            "width": 21,
+            "height": 30
+          }
+        },
+        "gun3": {
+          "gun3": {
+            "name": "Rail_lv1/gun3",
+            "x": -0.59,
+            "y": -29.38,
+            "rotation": -90,
+            "width": 21,
+            "height": 30
+          }
+        }
+      }
+    },
+    {
+      "name": "lv2",
+      "bones": [
+        "body5",
+        "body6",
+        "gun1",
+        "wing"
+      ],
+      "attachments": {
+        "body1": {
+          "body1": {
+            "name": "Rail_lv2/body1",
+            "x": 62.22,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "rotation": -90,
+            "width": 145,
+            "height": 174
+          }
+        },
+        "body5": {
+          "body5": {
+            "name": "Rail_lv2/body5",
+            "x": 71.9,
+            "y": 0.85,
+            "scaleX": 0.7702,
+            "scaleY": 0.7702,
+            "rotation": 90,
+            "width": 86,
+            "height": 107
+          }
+        },
+        "body6": {
+          "body6": {
+            "name": "Rail_lv2/body6",
+            "x": 26.81,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "rotation": -90,
+            "width": 145,
+            "height": 88
+          }
+        },
+        "body6_clp": {
+          "body6_clp": {
+            "name": "Rail_lv2/body6_clp",
+            "type": "clipping",
+            "end": "body5",
+            "vertexCount": 10,
+            "vertices": [
+              141.91,
+              60.81,
+              159.81,
+              31.69,
+              158.43,
+              -30.75,
+              143.05,
+              -61.12,
+              35.69,
+              -70.4,
+              14.12,
+              -53.48,
+              -1.11,
+              -14.14,
+              0.58,
+              34.93,
+              15.81,
+              55.23,
+              39.5,
+              67.92
+            ]
+          }
+        },
+        "button1": {
+          "button1": {
+            "name": "Rail_lv2/button1",
+            "x": 15.15,
+            "y": -0.76,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "rotation": -88.12,
+            "width": 65,
+            "height": 50
+          }
+        },
+        "button2": {
+          "button2": {
+            "name": "Rail_lv2/button2",
+            "x": -5.59,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "rotation": -90,
+            "width": 44,
+            "height": 41
+          }
+        },
+        "button3": {
+          "button3": {
+            "name": "Rail_lv2/button3",
+            "x": 14.64,
+            "y": -0.28,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "rotation": -88.12,
+            "width": 70,
+            "height": 55
+          }
+        },
+        "energy1": {
+          "energy1": {
+            "name": "Rail_lv2/energy1",
+            "x": -1.46,
+            "y": -0.06,
+            "rotation": -90,
+            "width": 51,
+            "height": 80
+          }
+        },
+        "energy2": {
+          "energy2": {
+            "name": "Rail_lv2/energy2",
+            "x": 24.78,
+            "y": 0.42,
+            "rotation": 159.21,
+            "width": 46,
+            "height": 56
+          }
+        },
+        "energy3": {
+          "energy1": {
+            "name": "Rail_lv2/energy1",
+            "x": -1.46,
+            "y": -0.06,
+            "rotation": -90,
+            "width": 51,
+            "height": 80
+          }
+        },
+        "energy4": {
+          "energy2": {
+            "name": "Rail_lv2/energy2",
+            "x": 24.78,
+            "y": 0.42,
+            "rotation": 159.21,
+            "width": 46,
+            "height": 56
+          }
+        },
+        "gun1": {
+          "gun1": {
+            "name": "Rail_lv2/gun1",
+            "x": 32.77,
+            "y": 0.85,
+            "scaleX": 0.9313,
+            "scaleY": 0.9313,
+            "rotation": -90,
+            "width": 62,
+            "height": 108
+          }
+        },
+        "gun2": {
+          "gun2": {
+            "name": "Rail_lv2/gun2",
+            "x": -0.59,
+            "y": 31.39,
+            "rotation": -90,
+            "width": 21,
+            "height": 30
+          }
+        },
+        "gun3": {
+          "gun3": {
+            "name": "Rail_lv2/gun3",
+            "x": -0.59,
+            "y": -29.38,
+            "rotation": -90,
+            "width": 21,
+            "height": 30
+          }
+        },
+        "wing": {
+          "wing": {
+            "name": "Rail_lv2/wing",
+            "type": "mesh",
+            "uvs": [
+              1,
+              1,
+              0,
+              1,
+              0,
+              0.75,
+              0,
+              0.5,
+              0,
+              0.25,
+              0,
+              0,
+              1,
+              0,
+              1,
+              0.25,
+              1,
+              0.5,
+              1,
+              0.75
+            ],
+            "triangles": [
+              1,
+              2,
+              9,
+              2,
+              3,
+              8,
+              3,
+              7,
+              8,
+              4,
+              5,
+              6,
+              4,
+              6,
+              7,
+              1,
+              9,
+              0,
+              2,
+              8,
+              9,
+              3,
+              4,
+              7
+            ],
+            "vertices": [
+              1,
+              2,
+              35.52,
+              34.99,
+              1,
+              2,
+              2,
+              35.29,
+              76.59,
+              0.168,
+              11,
+              -23.67,
+              -2.75,
+              0.832,
+              2,
+              2,
+              50.49,
+              76.59,
+              0.168,
+              11,
+              -8.47,
+              -2.75,
+              0.832,
+              2,
+              2,
+              65.74,
+              76.59,
+              0.36,
+              11,
+              6.79,
+              -2.75,
+              0.64,
+              2,
+              2,
+              80.96,
+              76.59,
+              0.416,
+              11,
+              22,
+              -2.75,
+              0.584,
+              2,
+              2,
+              96.2,
+              76.59,
+              0.584,
+              11,
+              37.25,
+              -2.75,
+              0.416,
+              1,
+              2,
+              96.32,
+              34.99,
+              1,
+              1,
+              2,
+              81.12,
+              34.99,
+              1,
+              1,
+              2,
+              65.92,
+              34.99,
+              1,
+              1,
+              2,
+              50.72,
+              34.99,
+              1
+            ],
+            "hull": 10
+          }
+        },
+        "wing2": {
+          "wing": {
+            "name": "Rail_lv2/wing",
+            "type": "mesh",
+            "uvs": [
+              1,
+              1,
+              0,
+              1,
+              0,
+              0.75,
+              0,
+              0.5,
+              0,
+              0.25,
+              0,
+              0,
+              1,
+              0,
+              1,
+              0.25,
+              1,
+              0.5,
+              1,
+              0.75
+            ],
+            "triangles": [
+              1,
+              2,
+              9,
+              2,
+              8,
+              9,
+              1,
+              9,
+              0,
+              4,
+              6,
+              7,
+              4,
+              5,
+              6,
+              3,
+              7,
+              8,
+              3,
+              4,
+              7,
+              2,
+              3,
+              8
+            ],
+            "vertices": [
+              1,
+              2,
+              35.52,
+              -37,
+              1,
+              2,
+              2,
+              35.29,
+              -78.6,
+              0.2,
+              11,
+              -23.66,
+              -157.94,
+              0.8,
+              2,
+              2,
+              50.49,
+              -78.6,
+              0.2,
+              11,
+              -8.46,
+              -157.94,
+              0.8,
+              2,
+              2,
+              65.75,
+              -78.6,
+              0.392,
+              11,
+              6.79,
+              -157.94,
+              0.608,
+              2,
+              2,
+              80.96,
+              -78.6,
+              0.448,
+              11,
+              22.01,
+              -157.94,
+              0.552,
+              2,
+              2,
+              96.21,
+              -78.6,
+              0.616,
+              11,
+              37.25,
+              -157.94,
+              0.384,
+              1,
+              2,
+              96.32,
+              -37,
+              1,
+              1,
+              2,
+              81.12,
+              -37,
+              1,
+              1,
+              2,
+              65.92,
+              -37,
+              1,
+              1,
+              2,
+              50.72,
+              -37,
+              1
+            ],
+            "hull": 10
+          }
+        }
+      }
+    },
+    {
+      "name": "lv3",
+      "bones": [
+        "body2",
+        "body3",
+        "body5",
+        "body6",
+        "button2",
+        "button4",
+        "gun1",
+        "wing"
+      ],
+      "attachments": {
+        "body1": {
+          "body1": {
+            "name": "Rail_lv3/body1",
+            "x": 72.58,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "rotation": -90,
+            "width": 145,
+            "height": 174
+          }
+        },
+        "body3": {
+          "body3": {
+            "name": "Rail_lv3/body3",
+            "type": "mesh",
+            "uvs": [
+              1,
+              1,
+              0,
+              1,
+              0,
+              0.75,
+              0,
+              0.5,
+              0,
+              0.25,
+              0,
+              0,
+              1,
+              0,
+              1,
+              0.25,
+              1,
+              0.5,
+              1,
+              0.75
+            ],
+            "triangles": [
+              1,
+              9,
+              0,
+              1,
+              2,
+              9,
+              2,
+              8,
+              9,
+              2,
+              3,
+              8,
+              3,
+              7,
+              8,
+              3,
+              4,
+              7,
+              4,
+              6,
+              7,
+              4,
+              5,
+              6
+            ],
+            "vertices": [
+              2,
+              2,
+              -19.02,
+              55.4,
+              0.088,
+              8,
+              -24.67,
+              22.16,
+              0.912,
+              2,
+              2,
+              -19.02,
+              13.3,
+              0.088,
+              8,
+              -24.67,
+              -19.93,
+              0.912,
+              2,
+              2,
+              -8.02,
+              13.3,
+              0.192,
+              8,
+              -13.68,
+              -19.93,
+              0.808,
+              2,
+              2,
+              2.97,
+              13.3,
+              0.32,
+              8,
+              -2.68,
+              -19.93,
+              0.68,
+              2,
+              2,
+              13.98,
+              13.3,
+              0.536,
+              8,
+              8.32,
+              -19.93,
+              0.464,
+              1,
+              2,
+              25.02,
+              13.3,
+              1,
+              1,
+              2,
+              25.02,
+              55.4,
+              1,
+              2,
+              2,
+              13.98,
+              55.4,
+              0.536,
+              8,
+              8.32,
+              22.16,
+              0.464,
+              2,
+              2,
+              2.97,
+              55.4,
+              0.32,
+              8,
+              -2.68,
+              22.16,
+              0.68,
+              2,
+              2,
+              -8.02,
+              55.4,
+              0.192,
+              8,
+              -13.68,
+              22.16,
+              0.808
+            ],
+            "hull": 10
+          }
+        },
+        "body4": {
+          "body4": {
+            "name": "Rail_lv3/body4",
+            "x": 75.44,
+            "y": 0.67,
+            "scaleX": 0.9,
+            "scaleY": 0.9,
+            "rotation": -90,
+            "width": 80,
+            "height": 60
+          }
+        },
+        "body5": {
+          "body5": {
+            "name": "Rail_lv3/body5",
+            "x": 64.79,
+            "y": 0.85,
+            "scaleX": 0.85,
+            "scaleY": 0.85,
+            "rotation": 90,
+            "width": 86,
+            "height": 107
+          }
+        },
+        "body6": {
+          "body6": {
+            "name": "Rail_lv3/body6",
+            "x": 33.32,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "rotation": -90,
+            "width": 145,
+            "height": 79
+          }
+        },
+        "body6_clp": {
+          "body6_clp": {
+            "name": "Rail_lv3/body6_clp",
+            "type": "clipping",
+            "end": "body5",
+            "vertexCount": 10,
+            "vertices": [
+              141.91,
+              60.81,
+              159.81,
+              31.69,
+              158.43,
+              -30.75,
+              143.05,
+              -61.12,
+              35.69,
+              -70.4,
+              14.12,
+              -53.48,
+              -1.11,
+              -14.14,
+              0.58,
+              34.93,
+              15.81,
+              55.23,
+              39.5,
+              67.92
+            ]
+          }
+        },
+        "body7": {
+          "body3": {
+            "name": "Rail_lv3/body3",
+            "type": "mesh",
+            "uvs": [
+              1,
+              1,
+              0,
+              1,
+              0,
+              0.75,
+              0,
+              0.5,
+              0,
+              0.25,
+              0,
+              0,
+              1,
+              0,
+              1,
+              0.25,
+              1,
+              0.5,
+              1,
+              0.75
+            ],
+            "triangles": [
+              3,
+              4,
+              7,
+              3,
+              7,
+              8,
+              2,
+              3,
+              8,
+              2,
+              8,
+              9,
+              1,
+              2,
+              9,
+              1,
+              9,
+              0,
+              4,
+              5,
+              6,
+              4,
+              6,
+              7
+            ],
+            "vertices": [
+              2,
+              2,
+              -19.02,
+              -54.38,
+              0.072,
+              7,
+              -23.41,
+              -20.78,
+              0.928,
+              2,
+              2,
+              -19.02,
+              -12.28,
+              0.072,
+              7,
+              -23.41,
+              21.31,
+              0.928,
+              2,
+              2,
+              -8.03,
+              -12.28,
+              0.152,
+              7,
+              -12.42,
+              21.32,
+              0.848,
+              2,
+              2,
+              2.97,
+              -12.28,
+              0.32,
+              7,
+              -1.41,
+              21.32,
+              0.68,
+              2,
+              2,
+              13.97,
+              -12.28,
+              0.472,
+              7,
+              9.58,
+              21.32,
+              0.528,
+              1,
+              2,
+              25.02,
+              -12.28,
+              1,
+              1,
+              2,
+              25.02,
+              -54.38,
+              1,
+              2,
+              2,
+              13.97,
+              -54.38,
+              0.472,
+              7,
+              9.58,
+              -20.78,
+              0.528,
+              2,
+              2,
+              2.97,
+              -54.38,
+              0.32,
+              7,
+              -1.41,
+              -20.78,
+              0.68,
+              2,
+              2,
+              -8.03,
+              -54.38,
+              0.152,
+              7,
+              -12.42,
+              -20.78,
+              0.848
+            ],
+            "hull": 10
+          }
+        },
+        "button1": {
+          "button1": {
+            "name": "Rail_lv3/button1",
+            "x": 15.15,
+            "y": -0.76,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "rotation": -88.12,
+            "width": 65,
+            "height": 50
+          }
+        },
+        "button2": {
+          "button2": {
+            "name": "Rail_lv3/button2",
+            "x": -5.59,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "rotation": -90,
+            "width": 44,
+            "height": 41
+          }
+        },
+        "button3": {
+          "button3": {
+            "name": "Rail_lv3/button3",
+            "x": 14.64,
+            "y": -0.28,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "rotation": -88.12,
+            "width": 70,
+            "height": 55
+          }
+        },
+        "energy1": {
+          "energy1": {
+            "name": "Rail_lv3/energy1",
+            "x": -1.46,
+            "y": -0.06,
+            "rotation": -90,
+            "width": 51,
+            "height": 80
+          }
+        },
+        "energy2": {
+          "energy2": {
+            "name": "Rail_lv3/energy2",
+            "x": 24.78,
+            "y": 0.42,
+            "rotation": 159.21,
+            "width": 46,
+            "height": 56
+          }
+        },
+        "energy3": {
+          "energy1": {
+            "name": "Rail_lv3/energy1",
+            "x": -1.46,
+            "y": -0.06,
+            "rotation": -90,
+            "width": 51,
+            "height": 80
+          }
+        },
+        "energy4": {
+          "energy2": {
+            "name": "Rail_lv3/energy2",
+            "x": 24.78,
+            "y": 0.42,
+            "rotation": 159.21,
+            "width": 46,
+            "height": 56
+          }
+        },
+        "gun1": {
+          "gun1": {
+            "name": "Rail_lv3/gun1",
+            "x": 35.07,
+            "y": 0.85,
+            "scaleX": 0.9313,
+            "scaleY": 0.9313,
+            "rotation": -90,
+            "width": 62,
+            "height": 108
+          }
+        },
+        "gun2": {
+          "gun2": {
+            "name": "Rail_lv3/gun2",
+            "x": -0.59,
+            "y": 31.39,
+            "rotation": -90,
+            "width": 21,
+            "height": 30
+          }
+        },
+        "gun3": {
+          "gun3": {
+            "name": "Rail_lv3/gun3",
+            "x": -0.59,
+            "y": -29.38,
+            "rotation": -90,
+            "width": 21,
+            "height": 30
+          }
+        },
+        "wing": {
+          "wing": {
+            "name": "Rail_lv3/wing",
+            "type": "mesh",
+            "uvs": [
+              1,
+              1,
+              0,
+              1,
+              0,
+              0.75,
+              0,
+              0.5,
+              0,
+              0.25,
+              0,
+              0,
+              1,
+              0,
+              1,
+              0.25,
+              1,
+              0.5,
+              1,
+              0.75
+            ],
+            "triangles": [
+              1,
+              2,
+              9,
+              2,
+              3,
+              8,
+              3,
+              7,
+              8,
+              4,
+              5,
+              6,
+              4,
+              6,
+              7,
+              1,
+              9,
+              0,
+              2,
+              8,
+              9,
+              3,
+              4,
+              7
+            ],
+            "vertices": [
+              1,
+              2,
+              47.38,
+              36.99,
+              1,
+              2,
+              2,
+              47.26,
+              83.79,
+              0.168,
+              11,
+              -11.69,
+              4.45,
+              0.832,
+              2,
+              2,
+              64.36,
+              83.79,
+              0.168,
+              11,
+              5.41,
+              4.45,
+              0.832,
+              2,
+              2,
+              81.49,
+              83.79,
+              0.36,
+              11,
+              22.54,
+              4.45,
+              0.64,
+              2,
+              2,
+              98.6,
+              83.79,
+              0.416,
+              11,
+              39.64,
+              4.45,
+              0.584,
+              2,
+              2,
+              115.72,
+              83.79,
+              0.584,
+              11,
+              56.77,
+              4.45,
+              0.416,
+              1,
+              2,
+              115.78,
+              36.99,
+              1,
+              1,
+              2,
+              98.68,
+              36.99,
+              1,
+              1,
+              2,
+              81.58,
+              36.99,
+              1,
+              1,
+              2,
+              64.48,
+              36.99,
+              1
+            ],
+            "hull": 10
+          }
+        },
+        "wing2": {
+          "wing": {
+            "name": "Rail_lv3/wing",
+            "type": "mesh",
+            "uvs": [
+              1,
+              1,
+              0,
+              1,
+              0,
+              0.75,
+              0,
+              0.5,
+              0,
+              0.25,
+              0,
+              0,
+              1,
+              0,
+              1,
+              0.25,
+              1,
+              0.5,
+              1,
+              0.75
+            ],
+            "triangles": [
+              1,
+              2,
+              9,
+              2,
+              8,
+              9,
+              1,
+              9,
+              0,
+              4,
+              6,
+              7,
+              4,
+              5,
+              6,
+              3,
+              7,
+              8,
+              3,
+              4,
+              7,
+              2,
+              3,
+              8
+            ],
+            "vertices": [
+              1,
+              2,
+              47.38,
+              -38.62,
+              1,
+              2,
+              2,
+              47.27,
+              -85.42,
+              0.2,
+              11,
+              -11.69,
+              -164.76,
+              0.8,
+              2,
+              2,
+              64.37,
+              -85.42,
+              0.2,
+              11,
+              5.41,
+              -164.76,
+              0.8,
+              2,
+              2,
+              81.49,
+              -85.42,
+              0.392,
+              11,
+              22.54,
+              -164.76,
+              0.608,
+              2,
+              2,
+              98.6,
+              -85.42,
+              0.448,
+              11,
+              39.65,
+              -164.76,
+              0.552,
+              2,
+              2,
+              115.72,
+              -85.42,
+              0.616,
+              11,
+              56.77,
+              -164.76,
+              0.384,
+              1,
+              2,
+              115.78,
+              -38.62,
+              1,
+              1,
+              2,
+              98.68,
+              -38.62,
+              1,
+              1,
+              2,
+              81.58,
+              -38.62,
+              1,
+              1,
+              2,
+              64.48,
+              -38.62,
+              1
+            ],
+            "hull": 10
+          }
+        }
+      }
+    },
+    {
+      "name": "lv4",
+      "bones": [
+        "body2",
+        "body3",
+        "body5",
+        "body6",
+        "button2",
+        "button4",
+        "energy1",
+        "energy3",
+        "gun1",
+        "wing"
+      ],
+      "attachments": {
+        "body1": {
+          "body1": {
+            "name": "Rail_lv4/body1",
+            "x": 85.24,
+            "scaleX": 0.9,
+            "scaleY": 0.9,
+            "rotation": -90,
+            "width": 145,
+            "height": 174
+          }
+        },
+        "body3": {
+          "body3": {
+            "name": "Rail_lv4/body3",
+            "type": "linkedmesh",
+            "skin": "lv5",
+            "parent": "body3"
+          }
+        },
+        "body4": {
+          "body4": {
+            "name": "Rail_lv4/body4",
+            "x": 80.41,
+            "y": 0.67,
+            "scaleX": 0.9,
+            "scaleY": 0.9,
+            "rotation": -90,
+            "width": 80,
+            "height": 60
+          }
+        },
+        "body5": {
+          "body5": {
+            "name": "Rail_lv4/body5",
+            "x": 54.11,
+            "y": 0.85,
+            "scaleX": 0.9,
+            "scaleY": 0.9,
+            "rotation": 90,
+            "width": 86,
+            "height": 107
+          }
+        },
+        "body6": {
+          "body6": {
+            "name": "Rail_lv4/body6",
+            "x": 40.1,
+            "scaleX": 0.9,
+            "scaleY": 0.9,
+            "rotation": -90,
+            "width": 145,
+            "height": 79
+          }
+        },
+        "body6_clp": {
+          "body6_clp": {
+            "name": "Rail_lv4/body6_clp",
+            "type": "clipping",
+            "end": "body5",
+            "vertexCount": 10,
+            "vertices": [
+              141.91,
+              60.81,
+              159.81,
+              31.69,
+              158.43,
+              -30.75,
+              143.05,
+              -61.12,
+              35.69,
+              -70.4,
+              14.12,
+              -53.48,
+              -1.11,
+              -14.14,
+              0.58,
+              34.93,
+              15.81,
+              55.23,
+              39.5,
+              67.92
+            ]
+          }
+        },
+        "body7": {
+          "body3": {
+            "name": "Rail_lv4/body3",
+            "type": "linkedmesh",
+            "skin": "lv5",
+            "parent": "body3"
+          }
+        },
+        "button1": {
+          "button1": {
+            "name": "Rail_lv4/button1",
+            "x": 20.74,
+            "y": -0.76,
+            "scaleX": 0.9,
+            "scaleY": 0.9,
+            "rotation": -88.12,
+            "width": 65,
+            "height": 50
+          }
+        },
+        "button2": {
+          "button2": {
+            "name": "Rail_lv4/button2",
+            "scaleX": 0.9,
+            "scaleY": 0.9,
+            "rotation": -90,
+            "width": 44,
+            "height": 41
+          }
+        },
+        "button3": {
+          "button3": {
+            "name": "Rail_lv4/button3",
+            "x": 20.23,
+            "y": -0.28,
+            "scaleX": 0.9,
+            "scaleY": 0.9,
+            "rotation": -88.12,
+            "width": 70,
+            "height": 55
+          }
+        },
+        "energy1": {
+          "energy1": {
+            "name": "Rail_lv4/energy1",
+            "x": -1.46,
+            "y": -0.06,
+            "rotation": -90,
+            "width": 51,
+            "height": 80
+          }
+        },
+        "energy2": {
+          "energy2": {
+            "name": "Rail_lv4/energy2",
+            "x": 24.78,
+            "y": 0.42,
+            "rotation": 159.21,
+            "width": 46,
+            "height": 56
+          }
+        },
+        "energy3": {
+          "energy1": {
+            "name": "Rail_lv4/energy1",
+            "x": -1.46,
+            "y": -0.06,
+            "rotation": -90,
+            "width": 51,
+            "height": 80
+          }
+        },
+        "energy4": {
+          "energy2": {
+            "name": "Rail_lv4/energy2",
+            "x": 24.78,
+            "y": 0.42,
+            "rotation": 159.21,
+            "width": 46,
+            "height": 56
+          }
+        },
+        "gun1": {
+          "gun1": {
+            "name": "Rail_lv4/gun1",
+            "x": 50.89,
+            "y": 0.85,
+            "scaleX": 0.9313,
+            "scaleY": 0.9313,
+            "rotation": -90,
+            "width": 62,
+            "height": 108
+          }
+        },
+        "gun2": {
+          "gun2": {
+            "name": "Rail_lv4/gun2",
+            "x": -0.59,
+            "y": 31.39,
+            "rotation": -90,
+            "width": 21,
+            "height": 30
+          }
+        },
+        "gun3": {
+          "gun3": {
+            "name": "Rail_lv4/gun3",
+            "x": -0.59,
+            "y": -29.38,
+            "rotation": -90,
+            "width": 21,
+            "height": 30
+          }
+        },
+        "wing": {
+          "wing": {
+            "name": "Rail_lv4/wing",
+            "type": "mesh",
+            "uvs": [
+              1,
+              1,
+              0,
+              1,
+              0,
+              0.75,
+              0,
+              0.5,
+              0,
+              0.25,
+              0,
+              0,
+              1,
+              0,
+              1,
+              0.25,
+              1,
+              0.5,
+              1,
+              0.75
+            ],
+            "triangles": [
+              1,
+              2,
+              9,
+              2,
+              3,
+              8,
+              3,
+              7,
+              8,
+              4,
+              5,
+              6,
+              4,
+              6,
+              7,
+              1,
+              9,
+              0,
+              2,
+              8,
+              9,
+              3,
+              4,
+              7
+            ],
+            "vertices": [
+              1,
+              2,
+              52,
+              42.07,
+              1,
+              2,
+              2,
+              52,
+              94.07,
+              0.168,
+              11,
+              -6.96,
+              14.73,
+              0.832,
+              2,
+              2,
+              71,
+              94.07,
+              0.168,
+              11,
+              12.04,
+              14.73,
+              0.832,
+              2,
+              2,
+              90,
+              94.07,
+              0.36,
+              11,
+              31.04,
+              14.73,
+              0.64,
+              2,
+              2,
+              109,
+              94.07,
+              0.416,
+              11,
+              50.04,
+              14.73,
+              0.584,
+              2,
+              2,
+              128,
+              94.07,
+              0.584,
+              11,
+              69.04,
+              14.73,
+              0.416,
+              1,
+              2,
+              128,
+              42.07,
+              1,
+              1,
+              2,
+              109,
+              42.07,
+              1,
+              1,
+              2,
+              90,
+              42.07,
+              1,
+              1,
+              2,
+              71,
+              42.07,
+              1
+            ],
+            "hull": 10
+          }
+        },
+        "wing2": {
+          "wing": {
+            "name": "Rail_lv4/wing",
+            "type": "mesh",
+            "uvs": [
+              1,
+              1,
+              0,
+              1,
+              0,
+              0.75,
+              0,
+              0.5,
+              0,
+              0.25,
+              0,
+              0,
+              1,
+              0,
+              1,
+              0.25,
+              1,
+              0.5,
+              1,
+              0.75
+            ],
+            "triangles": [
+              1,
+              2,
+              9,
+              2,
+              8,
+              9,
+              1,
+              9,
+              0,
+              4,
+              6,
+              7,
+              4,
+              5,
+              6,
+              3,
+              7,
+              8,
+              3,
+              4,
+              7,
+              2,
+              3,
+              8
+            ],
+            "vertices": [
+              1,
+              2,
+              52,
+              -43.63,
+              1,
+              2,
+              2,
+              52,
+              -95.63,
+              0.2,
+              11,
+              -6.96,
+              -174.97,
+              0.8,
+              2,
+              2,
+              71,
+              -95.63,
+              0.2,
+              11,
+              12.04,
+              -174.97,
+              0.8,
+              2,
+              2,
+              90,
+              -95.63,
+              0.392,
+              11,
+              31.04,
+              -174.97,
+              0.608,
+              2,
+              2,
+              109,
+              -95.63,
+              0.448,
+              11,
+              50.04,
+              -174.97,
+              0.552,
+              2,
+              2,
+              128,
+              -95.63,
+              0.616,
+              11,
+              69.04,
+              -174.97,
+              0.384,
+              1,
+              2,
+              128,
+              -43.63,
+              1,
+              1,
+              2,
+              109,
+              -43.63,
+              1,
+              1,
+              2,
+              90,
+              -43.63,
+              1,
+              1,
+              2,
+              71,
+              -43.63,
+              1
+            ],
+            "hull": 10
+          }
+        }
+      }
+    },
+    {
+      "name": "lv5",
+      "bones": [
+        "body2",
+        "body3",
+        "body5",
+        "body6",
+        "button2",
+        "button4",
+        "energy1",
+        "energy2",
+        "energy3",
+        "energy4",
+        "gun1",
+        "gun3",
+        "wing"
+      ],
+      "attachments": {
+        "body1": {
+          "body1": {
+            "name": "Rail_lv5/body1",
+            "x": 86.42,
+            "rotation": -90,
+            "width": 145,
+            "height": 174
+          }
+        },
+        "body3": {
+          "body3": {
+            "name": "Rail_lv5/body3",
+            "type": "mesh",
+            "uvs": [
+              1,
+              1,
+              0,
+              1,
+              0,
+              0.75,
+              0,
+              0.5,
+              0,
+              0.25,
+              0,
+              0,
+              1,
+              0,
+              1,
+              0.25,
+              1,
+              0.5,
+              1,
+              0.75
+            ],
+            "triangles": [
+              3,
+              4,
+              7,
+              3,
+              7,
+              8,
+              2,
+              3,
+              8,
+              2,
+              8,
+              9,
+              1,
+              2,
+              9,
+              1,
+              9,
+              0,
+              4,
+              5,
+              6,
+              4,
+              6,
+              7
+            ],
+            "vertices": [
+              2,
+              2,
+              -21,
+              57.35,
+              0.088,
+              8,
+              -26.66,
+              24.11,
+              0.912,
+              2,
+              2,
+              -21,
+              11.35,
+              0.088,
+              8,
+              -26.66,
+              -21.89,
+              0.912,
+              2,
+              2,
+              -9,
+              11.35,
+              0.192,
+              8,
+              -14.66,
+              -21.89,
+              0.808,
+              2,
+              2,
+              3,
+              11.35,
+              0.32,
+              8,
+              -2.66,
+              -21.89,
+              0.68,
+              2,
+              2,
+              15,
+              11.35,
+              0.536,
+              8,
+              9.34,
+              -21.89,
+              0.464,
+              1,
+              2,
+              27,
+              11.35,
+              1,
+              1,
+              2,
+              27,
+              57.35,
+              1,
+              2,
+              2,
+              15,
+              57.35,
+              0.536,
+              8,
+              9.34,
+              24.11,
+              0.464,
+              2,
+              2,
+              3,
+              57.35,
+              0.32,
+              8,
+              -2.66,
+              24.11,
+              0.68,
+              2,
+              2,
+              -9,
+              57.35,
+              0.192,
+              8,
+              -14.66,
+              24.11,
+              0.808
+            ],
+            "hull": 10
+          }
+        },
+        "body4": {
+          "body4": {
+            "name": "Rail_lv5/body4",
+            "x": 81.58,
+            "y": 0.67,
+            "rotation": -90,
+            "width": 80,
+            "height": 60
+          }
+        },
+        "body5": {
+          "body5": {
+            "name": "Rail_lv5/body5",
+            "x": 51.03,
+            "y": 0.85,
+            "rotation": 90,
+            "width": 86,
+            "height": 107
+          }
+        },
+        "body6": {
+          "body6": {
+            "name": "Rail_lv5/body6",
+            "x": 36.18,
+            "rotation": -90,
+            "width": 145,
+            "height": 79
+          }
+        },
+        "body6_clp": {
+          "body6_clp": {
+            "type": "clipping",
+            "end": "body5",
+            "vertexCount": 10,
+            "vertices": [
+              141.91,
+              60.81,
+              159.81,
+              31.69,
+              158.43,
+              -30.75,
+              143.05,
+              -61.12,
+              35.69,
+              -70.4,
+              14.12,
+              -53.48,
+              -1.11,
+              -14.14,
+              0.58,
+              34.93,
+              15.81,
+              55.23,
+              39.5,
+              67.92
+            ]
+          }
+        },
+        "body7": {
+          "body3": {
+            "name": "Rail_lv5/body3",
+            "type": "mesh",
+            "uvs": [
+              1,
+              1,
+              0,
+              1,
+              0,
+              0.75,
+              0,
+              0.5,
+              0,
+              0.25,
+              0,
+              0,
+              1,
+              0,
+              1,
+              0.25,
+              1,
+              0.5,
+              1,
+              0.75
+            ],
+            "triangles": [
+              1,
+              9,
+              0,
+              1,
+              2,
+              9,
+              2,
+              8,
+              9,
+              2,
+              3,
+              8,
+              3,
+              7,
+              8,
+              3,
+              4,
+              7,
+              4,
+              6,
+              7,
+              4,
+              5,
+              6
+            ],
+            "vertices": [
+              2,
+              2,
+              -21,
+              -56.33,
+              0.072,
+              7,
+              -25.39,
+              -22.73,
+              0.928,
+              2,
+              2,
+              -21,
+              -10.33,
+              0.072,
+              7,
+              -25.39,
+              23.27,
+              0.928,
+              2,
+              2,
+              -9,
+              -10.33,
+              0.152,
+              7,
+              -13.39,
+              23.27,
+              0.848,
+              2,
+              2,
+              3,
+              -10.33,
+              0.32,
+              7,
+              -1.39,
+              23.27,
+              0.68,
+              2,
+              2,
+              15,
+              -10.33,
+              0.472,
+              7,
+              10.61,
+              23.27,
+              0.528,
+              1,
+              2,
+              27,
+              -10.33,
+              1,
+              1,
+              2,
+              27,
+              -56.33,
+              1,
+              2,
+              2,
+              15,
+              -56.33,
+              0.472,
+              7,
+              10.61,
+              -22.73,
+              0.528,
+              2,
+              2,
+              3,
+              -56.33,
+              0.32,
+              7,
+              -1.39,
+              -22.73,
+              0.68,
+              2,
+              2,
+              -9,
+              -56.33,
+              0.152,
+              7,
+              -13.39,
+              -22.73,
+              0.848
+            ],
+            "hull": 10
+          }
+        },
+        "button1": {
+          "button1": {
+            "name": "Rail_lv5/button1",
+            "x": 20.74,
+            "y": -0.76,
+            "rotation": -88.12,
+            "width": 65,
+            "height": 50
+          }
+        },
+        "button2": {
+          "button2": {
+            "name": "Rail_lv5/button2",
+            "rotation": -90,
+            "width": 44,
+            "height": 41
+          }
+        },
+        "button3": {
+          "button3": {
+            "name": "Rail_lv5/button3",
+            "x": 20.23,
+            "y": -0.28,
+            "rotation": -88.12,
+            "width": 70,
+            "height": 55
+          }
+        },
+        "energy1": {
+          "energy1": {
+            "name": "Rail_lv5/energy1",
+            "x": -1.46,
+            "y": -0.06,
+            "rotation": -90,
+            "width": 51,
+            "height": 80
+          }
+        },
+        "energy2": {
+          "energy2": {
+            "name": "Rail_lv5/energy2",
+            "x": 24.78,
+            "y": 0.42,
+            "rotation": 159.21,
+            "width": 46,
+            "height": 56
+          }
+        },
+        "energy3": {
+          "energy1": {
+            "name": "Rail_lv5/energy1",
+            "x": -1.46,
+            "y": -0.06,
+            "rotation": -90,
+            "width": 51,
+            "height": 80
+          }
+        },
+        "energy4": {
+          "energy2": {
+            "name": "Rail_lv5/energy2",
+            "x": 24.78,
+            "y": 0.42,
+            "rotation": 159.21,
+            "width": 46,
+            "height": 56
+          }
+        },
+        "gun1": {
+          "gun1": {
+            "name": "Rail_lv5/gun1",
+            "x": 62.59,
+            "y": 0.85,
+            "scaleY": 1.1046,
+            "rotation": -90,
+            "width": 62,
+            "height": 108
+          }
+        },
+        "gun2": {
+          "gun2": {
+            "name": "Rail_lv5/gun2",
+            "x": -0.59,
+            "y": 31.39,
+            "rotation": -90,
+            "width": 21,
+            "height": 30
+          }
+        },
+        "gun3": {
+          "gun3": {
+            "name": "Rail_lv5/gun3",
+            "x": -0.59,
+            "y": -29.38,
+            "rotation": -90,
+            "width": 21,
+            "height": 30
+          }
+        },
+        "wing": {
+          "wing": {
+            "name": "Rail_lv5/wing",
+            "type": "mesh",
+            "uvs": [
+              1,
+              1,
+              0,
+              1,
+              0,
+              0.75,
+              0,
+              0.5,
+              0,
+              0.25,
+              0,
+              0,
+              1,
+              0,
+              1,
+              0.25,
+              1,
+              0.5,
+              1,
+              0.75
+            ],
+            "triangles": [
+              1,
+              2,
+              9,
+              2,
+              3,
+              8,
+              3,
+              7,
+              8,
+              4,
+              5,
+              6,
+              4,
+              6,
+              7,
+              1,
+              9,
+              0,
+              2,
+              8,
+              9,
+              3,
+              4,
+              7
+            ],
+            "vertices": [
+              1,
+              2,
+              52,
+              47.05,
+              1,
+              2,
+              2,
+              52,
+              99.05,
+              0.168,
+              11,
+              -6.96,
+              19.71,
+              0.832,
+              2,
+              2,
+              71,
+              99.05,
+              0.168,
+              11,
+              12.04,
+              19.71,
+              0.832,
+              2,
+              2,
+              90,
+              99.05,
+              0.36,
+              11,
+              31.04,
+              19.71,
+              0.64,
+              2,
+              2,
+              109,
+              99.05,
+              0.416,
+              11,
+              50.04,
+              19.71,
+              0.584,
+              2,
+              2,
+              128,
+              99.05,
+              0.584,
+              11,
+              69.04,
+              19.71,
+              0.416,
+              1,
+              2,
+              128,
+              47.05,
+              1,
+              1,
+              2,
+              109,
+              47.05,
+              1,
+              1,
+              2,
+              90,
+              47.05,
+              1,
+              1,
+              2,
+              71,
+              47.05,
+              1
+            ],
+            "hull": 10
+          }
+        },
+        "wing2": {
+          "wing": {
+            "name": "Rail_lv5/wing",
+            "type": "mesh",
+            "uvs": [
+              1,
+              1,
+              0,
+              1,
+              0,
+              0.75,
+              0,
+              0.5,
+              0,
+              0.25,
+              0,
+              0,
+              1,
+              0,
+              1,
+              0.25,
+              1,
+              0.5,
+              1,
+              0.75
+            ],
+            "triangles": [
+              1,
+              2,
+              9,
+              2,
+              8,
+              9,
+              1,
+              9,
+              0,
+              4,
+              6,
+              7,
+              4,
+              5,
+              6,
+              3,
+              7,
+              8,
+              3,
+              4,
+              7,
+              2,
+              3,
+              8
+            ],
+            "vertices": [
+              1,
+              2,
+              52,
+              -47.98,
+              1,
+              2,
+              2,
+              52,
+              -99.98,
+              0.2,
+              11,
+              -6.96,
+              -179.32,
+              0.8,
+              2,
+              2,
+              71,
+              -99.98,
+              0.2,
+              11,
+              12.04,
+              -179.32,
+              0.8,
+              2,
+              2,
+              90,
+              -99.98,
+              0.392,
+              11,
+              31.04,
+              -179.32,
+              0.608,
+              2,
+              2,
+              109,
+              -99.98,
+              0.448,
+              11,
+              50.04,
+              -179.32,
+              0.552,
+              2,
+              2,
+              128,
+              -99.98,
+              0.616,
+              11,
+              69.04,
+              -179.32,
+              0.384,
+              1,
+              2,
+              128,
+              -47.98,
+              1,
+              1,
+              2,
+              109,
+              -47.98,
+              1,
+              1,
+              2,
+              90,
+              -47.98,
+              1,
+              1,
+              2,
+              71,
+              -47.98,
+              1
+            ],
+            "hull": 10
+          }
+        }
+      }
+    }
+  ],
+  "events": {
+    "shot": {}
+  },
+  "animations": {
+    "attack": {
+      "bones": {
+        "body6": {
+          "translate": [
+            {},
+            {
+              "time": 0.2333,
+              "y": -5.06
+            },
+            {
+              "time": 0.3333,
+              "y": 3.97
+            },
+            {
+              "time": 0.4,
+              "y": 1.23
+            },
+            {
+              "time": 0.5667
+            }
+          ],
+          "scale": [
+            {},
+            {
+              "time": 0.2333,
+              "x": 0.919
+            },
+            {
+              "time": 0.3333,
+              "x": 1.074
+            },
+            {
+              "time": 0.4,
+              "x": 1.02
+            },
+            {
+              "time": 0.5667
+            }
+          ]
+        },
+        "button4": {
+          "translate": [
+            {
+              "x": 4.39
+            },
+            {
+              "time": 0.1667,
+              "x": 12.34
+            },
+            {
+              "time": 0.2667,
+              "x": -8.9
+            },
+            {
+              "time": 0.3333,
+              "x": -9.93
+            },
+            {
+              "time": 0.5,
+              "x": -6.8
+            },
+            {
+              "time": 0.6667,
+              "x": 4.39
+            }
+          ],
+          "scale": [
+            {
+              "x": 1.116,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.1667,
+              "x": 1.116
+            },
+            {
+              "time": 0.2667,
+              "x": 0.981,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.3333,
+              "x": 0.981
+            },
+            {
+              "time": 0.5
+            },
+            {
+              "time": 0.6667,
+              "x": 1.116
+            }
+          ]
+        },
+        "gun1": {
+          "translate": [
+            {},
+            {
+              "time": 0.2333,
+              "x": -2.21
+            },
+            {
+              "time": 0.3333,
+              "x": 6.6,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.4,
+              "x": 6.6
+            },
+            {
+              "time": 0.6667
+            }
+          ],
+          "scale": [
+            {},
+            {
+              "time": 0.2333,
+              "x": 0.939
+            },
+            {
+              "time": 0.3333,
+              "x": 1.441
+            },
+            {
+              "time": 0.4,
+              "x": 1.332
+            },
+            {
+              "time": 0.6667
+            }
+          ]
+        },
+        "gun3": {
+          "translate": [
+            {},
+            {
+              "time": 0.2333,
+              "x": -8.62
+            },
+            {
+              "time": 0.3333,
+              "x": -0.75,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.4,
+              "x": -0.75
+            },
+            {
+              "time": 0.6667
+            }
+          ]
+        },
+        "energy3": {
+          "translate": [
+            {},
+            {
+              "time": 0.2333,
+              "x": 7.06
+            },
+            {
+              "time": 0.4,
+              "x": -5.33
+            },
+            {
+              "time": 0.6667
+            }
+          ]
+        },
+        "energy1": {
+          "translate": [
+            {},
+            {
+              "time": 0.2333,
+              "x": 7.06
+            },
+            {
+              "time": 0.4,
+              "x": -5.33
+            },
+            {
+              "time": 0.6667
+            }
+          ]
+        }
+      },
+      "events": [
+        {
+          "time": 0.3,
+          "name": "shot"
+        }
+      ]
+    },
+    "idle": {
+      "bones": {
+        "body6": {
+          "translate": [
+            {
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 0.5,
+              "y": 4.64,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 1
+            }
+          ],
+          "scale": [
+            {
+              "x": 1.004,
+              "curve": 0.366,
+              "c2": 0.63,
+              "c3": 0.703
+            },
+            {
+              "time": 0.0667,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 0.5667,
+              "x": 1.053,
+              "curve": 0.244,
+              "c3": 0.7,
+              "c4": 0.79
+            },
+            {
+              "time": 1,
+              "x": 1.004
+            }
+          ]
+        },
+        "energy1": {
+          "rotate": [
+            {
+              "angle": -1.67,
+              "curve": 0.38,
+              "c2": 0.59,
+              "c3": 0.727
+            },
+            {
+              "time": 0.1333,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 0.6333,
+              "angle": -8.24,
+              "curve": 0.242,
+              "c3": 0.663,
+              "c4": 0.65
+            },
+            {
+              "time": 1,
+              "angle": -1.67
+            }
+          ],
+          "translate": [
+            {
+              "x": 0.4,
+              "curve": 0.366,
+              "c2": 0.63,
+              "c3": 0.703
+            },
+            {
+              "time": 0.0667,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 0.5667,
+              "x": 5.69,
+              "curve": 0.244,
+              "c3": 0.7,
+              "c4": 0.79
+            },
+            {
+              "time": 1,
+              "x": 0.4
+            }
+          ]
+        },
+        "energy3": {
+          "rotate": [
+            {
+              "angle": 2.18,
+              "curve": 0.38,
+              "c2": 0.59,
+              "c3": 0.727
+            },
+            {
+              "time": 0.1333,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 0.6333,
+              "angle": 10.77,
+              "curve": 0.242,
+              "c3": 0.663,
+              "c4": 0.65
+            },
+            {
+              "time": 1,
+              "angle": 2.18
+            }
+          ],
+          "translate": [
+            {
+              "x": 0.4,
+              "curve": 0.366,
+              "c2": 0.63,
+              "c3": 0.703
+            },
+            {
+              "time": 0.0667,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 0.5667,
+              "x": 5.69,
+              "curve": 0.244,
+              "c3": 0.7,
+              "c4": 0.79
+            },
+            {
+              "time": 1,
+              "x": 0.4
+            }
+          ]
+        },
+        "energy4": {
+          "rotate": [
+            {
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 0.5,
+              "angle": 13.87,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 1
+            }
+          ]
+        },
+        "energy2": {
+          "rotate": [
+            {
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 0.5,
+              "angle": 14.9,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 1
+            }
+          ]
+        },
+        "button4": {
+          "translate": [
+            {
+              "x": 0.62,
+              "curve": 0.366,
+              "c2": 0.63,
+              "c3": 0.703
+            },
+            {
+              "time": 0.0667,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 0.5667,
+              "x": 8.94,
+              "curve": 0.244,
+              "c3": 0.7,
+              "c4": 0.79
+            },
+            {
+              "time": 1,
+              "x": 0.62
+            }
+          ]
+        },
+        "gun3": {
+          "translate": [
+            {
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 0.5,
+              "x": 4.51,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 1
+            }
+          ]
+        }
+      }
+    },
+    "realease": {
+      "bones": {
+        "body6": {
+          "translate": [
+            {
+              "time": 0.7
+            },
+            {
+              "time": 0.8,
+              "y": 18.51
+            },
+            {
+              "time": 0.9
+            }
+          ]
+        },
+        "button2": {
+          "translate": [
+            {
+              "x": -65.26,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.6667,
+              "x": -65.26
+            },
+            {
+              "time": 0.8,
+              "x": -44.32
+            },
+            {
+              "time": 0.9,
+              "x": 26.3
+            },
+            {
+              "time": 1.0333,
+              "x": 2.43
+            }
+          ]
+        },
+        "gun1": {
+          "translate": [
+            {
+              "x": -97.89,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.6667,
+              "x": -97.89
+            },
+            {
+              "time": 0.8,
+              "x": -28.73
+            },
+            {
+              "time": 0.9,
+              "x": 28.68
+            },
+            {
+              "time": 1.0333,
+              "curve": "stepped"
+            },
+            {
+              "time": 1.3333
+            }
+          ]
+        },
+        "energy3": {
+          "translate": [
+            {
+              "x": 32.63,
+              "y": 61.36,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.7667,
+              "x": 32.63,
+              "y": 61.36
+            },
+            {
+              "time": 0.8667,
+              "x": 43.34,
+              "y": 7.79
+            },
+            {
+              "time": 0.9667,
+              "x": 3.9,
+              "y": -5.84
+            }
+          ]
+        },
+        "energy1": {
+          "translate": [
+            {
+              "x": 32.63,
+              "y": -54.06,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.7667,
+              "x": 32.63,
+              "y": -54.06
+            },
+            {
+              "time": 0.8667,
+              "x": 41.39,
+              "y": -4.38
+            },
+            {
+              "time": 0.9667,
+              "x": 1.95,
+              "y": 6.82
+            }
+          ]
+        },
+        "location": {
+          "scale": [
+            {
+              "x": 0.743,
+              "y": 0.743
+            },
+            {
+              "time": 0.1,
+              "x": 0.705,
+              "y": 0.705
+            },
+            {
+              "time": 0.2333,
+              "x": 0.743,
+              "y": 0.743
+            },
+            {
+              "time": 0.3333,
+              "x": 0.705,
+              "y": 0.705
+            },
+            {
+              "time": 0.4667,
+              "x": 0.743,
+              "y": 0.743
+            },
+            {
+              "time": 0.5667,
+              "x": 0.705,
+              "y": 0.705
+            },
+            {
+              "time": 0.7,
+              "x": 0.743,
+              "y": 0.743
+            },
+            {
+              "time": 0.8
+            }
+          ]
+        },
+        "body5": {
+          "translate": [
+            {
+              "x": -0.96,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.6667,
+              "x": -0.96
+            },
+            {
+              "time": 0.8,
+              "x": 16.57
+            },
+            {
+              "time": 0.9,
+              "x": 46.77
+            },
+            {
+              "time": 0.9667,
+              "x": -0.96
+            }
+          ]
+        },
+        "body3": {
+          "translate": [
+            {
+              "time": 0.7
+            },
+            {
+              "time": 0.7667,
+              "y": -14.32
+            },
+            {
+              "time": 0.9
+            }
+          ]
+        },
+        "body2": {
+          "translate": [
+            {
+              "time": 0.7
+            },
+            {
+              "time": 0.7667,
+              "y": -14.32
+            },
+            {
+              "time": 0.9
+            }
+          ]
+        },
+        "energy4": {
+          "rotate": [
+            {
+              "time": 0.6667
+            },
+            {
+              "time": 0.8333,
+              "angle": -36.26
+            },
+            {
+              "time": 0.9333,
+              "angle": 3.22
+            }
+          ]
+        },
+        "energy2": {
+          "rotate": [
+            {
+              "time": 0.6667
+            },
+            {
+              "time": 0.8333,
+              "angle": -35.42
+            },
+            {
+              "time": 0.9333,
+              "angle": -1.42
+            }
+          ]
+        },
+        "button4": {
+          "translate": [
+            {
+              "time": 0.7667,
+              "x": -11.03
+            },
+            {
+              "time": 0.9,
+              "x": 23.66
+            },
+            {
+              "time": 1.0333,
+              "x": -6.71
+            },
+            {
+              "time": 1.1667,
+              "x": 0.44
+            }
+          ]
+        }
+      },
+      "drawOrder": [
+        {
+          "offsets": [
+            {
+              "slot": "energy2",
+              "offset": -15
+            },
+            {
+              "slot": "energy4",
+              "offset": -15
+            },
+            {
+              "slot": "energy1",
+              "offset": -15
+            },
+            {
+              "slot": "energy3",
+              "offset": -15
+            }
+          ]
+        },
+        {
+          "time": 0.7667
+        }
+      ]
+    }
+  }
+}

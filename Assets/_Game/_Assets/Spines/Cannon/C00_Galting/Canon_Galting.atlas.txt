@@ -1,0 +1,608 @@
+
+Canon_Galting.png
+size: 965,142
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gatling_lv1/1
+  rotate: false
+  xy: 2, 4
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+gatling_lv2/1
+  rotate: false
+  xy: 2, 4
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+gatling_lv4/1
+  rotate: false
+  xy: 2, 4
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+gatling_lv5/1
+  rotate: false
+  xy: 2, 4
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+gatling_lv1/body1
+  rotate: false
+  xy: 63, 33
+  size: 101, 107
+  orig: 103, 109
+  offset: 1, 1
+  index: -1
+gatling_lv2/body1
+  rotate: false
+  xy: 63, 33
+  size: 101, 107
+  orig: 103, 109
+  offset: 1, 1
+  index: -1
+gatling_lv3/body1
+  rotate: false
+  xy: 63, 33
+  size: 101, 107
+  orig: 103, 109
+  offset: 1, 1
+  index: -1
+gatling_lv4/body1
+  rotate: false
+  xy: 63, 33
+  size: 101, 107
+  orig: 103, 109
+  offset: 1, 1
+  index: -1
+gatling_lv5/body1
+  rotate: false
+  xy: 63, 33
+  size: 101, 107
+  orig: 103, 109
+  offset: 1, 1
+  index: -1
+gatling_lv1/body1a
+  rotate: false
+  xy: 166, 33
+  size: 101, 107
+  orig: 103, 109
+  offset: 1, 1
+  index: -1
+gatling_lv2/body1a
+  rotate: false
+  xy: 166, 33
+  size: 101, 107
+  orig: 103, 109
+  offset: 1, 1
+  index: -1
+gatling_lv3/body1a
+  rotate: false
+  xy: 166, 33
+  size: 101, 107
+  orig: 103, 109
+  offset: 1, 1
+  index: -1
+gatling_lv4/body1a
+  rotate: false
+  xy: 166, 33
+  size: 101, 107
+  orig: 103, 109
+  offset: 1, 1
+  index: -1
+gatling_lv1/body1c
+  rotate: false
+  xy: 352, 45
+  size: 82, 95
+  orig: 103, 109
+  offset: 10, 7
+  index: -1
+gatling_lv2/body1c
+  rotate: false
+  xy: 352, 45
+  size: 82, 95
+  orig: 103, 109
+  offset: 10, 7
+  index: -1
+gatling_lv3/body1c
+  rotate: false
+  xy: 352, 45
+  size: 82, 95
+  orig: 103, 109
+  offset: 10, 7
+  index: -1
+gatling_lv4/body1c
+  rotate: false
+  xy: 352, 45
+  size: 82, 95
+  orig: 103, 109
+  offset: 10, 7
+  index: -1
+gatling_lv5/body1c
+  rotate: false
+  xy: 352, 45
+  size: 82, 95
+  orig: 103, 109
+  offset: 10, 7
+  index: -1
+gatling_lv1/body1d
+  rotate: false
+  xy: 488, 50
+  size: 82, 90
+  orig: 103, 109
+  offset: 10, 12
+  index: -1
+gatling_lv2/body1d
+  rotate: false
+  xy: 488, 50
+  size: 82, 90
+  orig: 103, 109
+  offset: 10, 12
+  index: -1
+gatling_lv3/body1d
+  rotate: false
+  xy: 488, 50
+  size: 82, 90
+  orig: 103, 109
+  offset: 10, 12
+  index: -1
+gatling_lv4/body1d
+  rotate: false
+  xy: 488, 50
+  size: 82, 90
+  orig: 103, 109
+  offset: 10, 12
+  index: -1
+gatling_lv5/body1d
+  rotate: false
+  xy: 488, 50
+  size: 82, 90
+  orig: 103, 109
+  offset: 10, 12
+  index: -1
+gatling_lv1/body2
+  rotate: false
+  xy: 862, 78
+  size: 21, 62
+  orig: 23, 64
+  offset: 1, 1
+  index: -1
+gatling_lv2/body2
+  rotate: false
+  xy: 862, 78
+  size: 21, 62
+  orig: 23, 64
+  offset: 1, 1
+  index: -1
+gatling_lv3/body2
+  rotate: false
+  xy: 862, 78
+  size: 21, 62
+  orig: 23, 64
+  offset: 1, 1
+  index: -1
+gatling_lv1/body3
+  rotate: true
+  xy: 270, 2
+  size: 39, 83
+  orig: 41, 85
+  offset: 1, 1
+  index: -1
+gatling_lv2/body3
+  rotate: true
+  xy: 270, 2
+  size: 39, 83
+  orig: 41, 85
+  offset: 1, 1
+  index: -1
+gatling_lv3/body3
+  rotate: true
+  xy: 270, 2
+  size: 39, 83
+  orig: 41, 85
+  offset: 1, 1
+  index: -1
+gatling_lv4/body3
+  rotate: true
+  xy: 270, 2
+  size: 39, 83
+  orig: 41, 85
+  offset: 1, 1
+  index: -1
+gatling_lv5/body3
+  rotate: true
+  xy: 270, 2
+  size: 39, 83
+  orig: 41, 85
+  offset: 1, 1
+  index: -1
+gatling_lv1/body5
+  rotate: true
+  xy: 175, 6
+  size: 25, 21
+  orig: 27, 23
+  offset: 1, 1
+  index: -1
+gatling_lv3/body5
+  rotate: true
+  xy: 175, 6
+  size: 25, 21
+  orig: 27, 23
+  offset: 1, 1
+  index: -1
+gatling_lv1/body6
+  rotate: true
+  xy: 885, 89
+  size: 51, 44
+  orig: 53, 46
+  offset: 1, 1
+  index: -1
+gatling_lv3/body6
+  rotate: true
+  xy: 885, 89
+  size: 51, 44
+  orig: 53, 46
+  offset: 1, 1
+  index: -1
+gatling_lv4/body6
+  rotate: true
+  xy: 885, 89
+  size: 51, 44
+  orig: 53, 46
+  offset: 1, 1
+  index: -1
+gatling_lv5/body6
+  rotate: true
+  xy: 885, 89
+  size: 51, 44
+  orig: 53, 46
+  offset: 1, 1
+  index: -1
+gatling_lv1/body7
+  rotate: false
+  xy: 125, 6
+  size: 48, 25
+  orig: 50, 27
+  offset: 1, 1
+  index: -1
+gatling_lv3/body7
+  rotate: false
+  xy: 125, 6
+  size: 48, 25
+  orig: 50, 27
+  offset: 1, 1
+  index: -1
+gatling_lv4/body7
+  rotate: false
+  xy: 125, 6
+  size: 48, 25
+  orig: 50, 27
+  offset: 1, 1
+  index: -1
+gatling_lv5/body7
+  rotate: false
+  xy: 125, 6
+  size: 48, 25
+  orig: 50, 27
+  offset: 1, 1
+  index: -1
+gatling_lv1/body8
+  rotate: true
+  xy: 63, 5
+  size: 26, 41
+  orig: 27, 41
+  offset: 1, 0
+  index: -1
+gatling_lv1/body9
+  rotate: false
+  xy: 106, 5
+  size: 17, 26
+  orig: 17, 26
+  offset: 0, 0
+  index: -1
+gatling_lv1/bullet1
+  rotate: false
+  xy: 419, 4
+  size: 13, 39
+  orig: 15, 41
+  offset: 1, 1
+  index: -1
+gatling_lv2/bullet1
+  rotate: false
+  xy: 419, 4
+  size: 13, 39
+  orig: 15, 41
+  offset: 1, 1
+  index: -1
+gatling_lv3/bullet1
+  rotate: false
+  xy: 419, 4
+  size: 13, 39
+  orig: 15, 41
+  offset: 1, 1
+  index: -1
+gatling_lv4/bullet1
+  rotate: false
+  xy: 419, 4
+  size: 13, 39
+  orig: 15, 41
+  offset: 1, 1
+  index: -1
+gatling_lv5/bullet1
+  rotate: false
+  xy: 419, 4
+  size: 13, 39
+  orig: 15, 41
+  offset: 1, 1
+  index: -1
+gatling_lv1/bullet2
+  rotate: false
+  xy: 403, 4
+  size: 14, 39
+  orig: 16, 41
+  offset: 1, 1
+  index: -1
+gatling_lv2/bullet2
+  rotate: false
+  xy: 403, 4
+  size: 14, 39
+  orig: 16, 41
+  offset: 1, 1
+  index: -1
+gatling_lv3/bullet2
+  rotate: false
+  xy: 403, 4
+  size: 14, 39
+  orig: 16, 41
+  offset: 1, 1
+  index: -1
+gatling_lv4/bullet2
+  rotate: false
+  xy: 403, 4
+  size: 14, 39
+  orig: 16, 41
+  offset: 1, 1
+  index: -1
+gatling_lv5/bullet2
+  rotate: false
+  xy: 403, 4
+  size: 14, 39
+  orig: 16, 41
+  offset: 1, 1
+  index: -1
+gatling_lv1/gun1
+  rotate: true
+  xy: 804, 7
+  size: 51, 68
+  orig: 53, 70
+  offset: 0, 0
+  index: -1
+gatling_lv2/gun1
+  rotate: true
+  xy: 804, 7
+  size: 51, 68
+  orig: 53, 70
+  offset: 0, 0
+  index: -1
+gatling_lv1/gun2a
+  rotate: true
+  xy: 479, 3
+  size: 44, 59
+  orig: 50, 62
+  offset: 3, 2
+  index: -1
+gatling_lv2/gun2a
+  rotate: true
+  xy: 479, 3
+  size: 44, 59
+  orig: 50, 62
+  offset: 3, 2
+  index: -1
+gatling_lv1/gun2b
+  rotate: true
+  xy: 540, 4
+  size: 44, 59
+  orig: 50, 62
+  offset: 3, 2
+  index: -1
+gatling_lv2/gun2b
+  rotate: true
+  xy: 540, 4
+  size: 44, 59
+  orig: 50, 62
+  offset: 3, 2
+  index: -1
+gatling_lv1/gun2c
+  rotate: false
+  xy: 874, 17
+  size: 44, 59
+  orig: 50, 62
+  offset: 3, 2
+  index: -1
+gatling_lv2/gun2c
+  rotate: false
+  xy: 874, 17
+  size: 44, 59
+  orig: 50, 62
+  offset: 3, 2
+  index: -1
+gatling_lv1/gun3
+  rotate: true
+  xy: 198, 7
+  size: 24, 34
+  orig: 26, 36
+  offset: 1, 1
+  index: -1
+gatling_lv2/gun3
+  rotate: true
+  xy: 198, 7
+  size: 24, 34
+  orig: 26, 36
+  offset: 1, 1
+  index: -1
+gatling_lv1/gun3_l
+  rotate: true
+  xy: 572, 52
+  size: 6, 17
+  orig: 10, 23
+  offset: 2, 2
+  index: -1
+gatling_lv2/gun3_l
+  rotate: true
+  xy: 572, 52
+  size: 6, 17
+  orig: 10, 23
+  offset: 2, 2
+  index: -1
+gatling_lv3/gun3_l
+  rotate: true
+  xy: 572, 52
+  size: 6, 17
+  orig: 10, 23
+  offset: 2, 2
+  index: -1
+gatling_lv3/body1b
+  rotate: false
+  xy: 269, 43
+  size: 81, 97
+  orig: 103, 109
+  offset: 10, 5
+  index: -1
+gatling_lv5/body1b
+  rotate: false
+  xy: 269, 43
+  size: 81, 97
+  orig: 103, 109
+  offset: 10, 5
+  index: -1
+gatling_lv3/gun1
+  rotate: true
+  xy: 601, 3
+  size: 55, 67
+  orig: 57, 69
+  offset: 1, 1
+  index: -1
+gatling_lv3/gun2a
+  rotate: true
+  xy: 434, 7
+  size: 36, 43
+  orig: 38, 45
+  offset: 1, 1
+  index: -1
+gatling_lv3/gun2b
+  rotate: false
+  xy: 920, 44
+  size: 36, 43
+  orig: 38, 45
+  offset: 1, 1
+  index: -1
+gatling_lv3/gun2c
+  rotate: true
+  xy: 920, 6
+  size: 36, 43
+  orig: 38, 45
+  offset: 1, 1
+  index: -1
+gatling_lv3/gun3
+  rotate: true
+  xy: 234, 7
+  size: 24, 34
+  orig: 26, 36
+  offset: 1, 1
+  index: -1
+gatling_lv4/body2
+  rotate: false
+  xy: 837, 78
+  size: 23, 62
+  orig: 25, 64
+  offset: 1, 1
+  index: -1
+gatling_lv5/body2
+  rotate: false
+  xy: 837, 78
+  size: 23, 62
+  orig: 25, 64
+  offset: 1, 1
+  index: -1
+gatling_lv4/body5
+  rotate: false
+  xy: 355, 3
+  size: 46, 40
+  orig: 51, 43
+  offset: 2, 2
+  index: -1
+gatling_lv5/body5
+  rotate: false
+  xy: 355, 3
+  size: 46, 40
+  orig: 51, 43
+  offset: 2, 2
+  index: -1
+gatling_lv4/gun1
+  rotate: true
+  xy: 436, 49
+  size: 91, 50
+  orig: 94, 56
+  offset: 1, 2
+  index: -1
+gatling_lv4/gun2a
+  rotate: false
+  xy: 572, 60
+  size: 51, 80
+  orig: 58, 85
+  offset: 3, 3
+  index: -1
+gatling_lv4/gun2b
+  rotate: false
+  xy: 625, 60
+  size: 51, 80
+  orig: 58, 85
+  offset: 3, 3
+  index: -1
+gatling_lv4/gun2c
+  rotate: false
+  xy: 678, 60
+  size: 51, 80
+  orig: 58, 85
+  offset: 3, 3
+  index: -1
+gatling_lv5/body10
+  rotate: true
+  xy: 2, 7
+  size: 133, 59
+  orig: 141, 63
+  offset: 4, 2
+  index: -1
+gatling_lv5/gun1
+  rotate: true
+  xy: 670, 3
+  size: 55, 50
+  orig: 60, 56
+  offset: 2, 2
+  index: -1
+gatling_lv5/gun2a
+  rotate: true
+  xy: 722, 7
+  size: 51, 80
+  orig: 58, 85
+  offset: 3, 3
+  index: -1
+gatling_lv5/gun2b
+  rotate: false
+  xy: 731, 60
+  size: 51, 80
+  orig: 58, 85
+  offset: 3, 3
+  index: -1
+gatling_lv5/gun2c
+  rotate: false
+  xy: 784, 60
+  size: 51, 80
+  orig: 58, 85
+  offset: 3, 3
+  index: -1

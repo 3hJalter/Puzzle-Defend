@@ -1,0 +1,132 @@
+
+Beach_Goer.png
+size: 960,184
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+(back) towel
+  rotate: false
+  xy: 905, 35
+  size: 52, 61
+  orig: 54, 63
+  offset: 1, 1
+  index: -1
+Layer 1
+  rotate: false
+  xy: 201, 15
+  size: 64, 48
+  orig: 67, 50
+  offset: 2, 1
+  index: -1
+b_l_arm
+  rotate: false
+  xy: 340, 85
+  size: 98, 97
+  orig: 98, 97
+  offset: 0, 0
+  index: -1
+b_pirate hook
+  rotate: false
+  xy: 644, 3
+  size: 65, 84
+  orig: 65, 84
+  offset: 0, 0
+  index: -1
+b_r_arm
+  rotate: true
+  xy: 553, 2
+  size: 85, 89
+  orig: 85, 89
+  offset: 0, 0
+  index: -1
+beach towel
+  rotate: false
+  xy: 553, 89
+  size: 172, 93
+  orig: 174, 95
+  offset: 1, 1
+  index: -1
+body
+  rotate: false
+  xy: 440, 88
+  size: 111, 94
+  orig: 113, 96
+  offset: 1, 1
+  index: -1
+effect
+  rotate: true
+  xy: 727, 92
+  size: 90, 151
+  orig: 90, 151
+  offset: 0, 0
+  index: -1
+eyes
+  rotate: false
+  xy: 340, 24
+  size: 120, 59
+  orig: 122, 61
+  offset: 1, 1
+  index: -1
+head
+  rotate: true
+  xy: 2, 5
+  size: 177, 197
+  orig: 179, 199
+  offset: 1, 1
+  index: -1
+l_arm
+  rotate: false
+  xy: 727, 4
+  size: 87, 86
+  orig: 87, 86
+  offset: 0, 0
+  index: -1
+l_ear
+  rotate: true
+  xy: 267, 17
+  size: 46, 71
+  orig: 48, 73
+  offset: 1, 1
+  index: -1
+leg 1
+  rotate: true
+  xy: 905, 5
+  size: 28, 41
+  orig: 28, 41
+  offset: 0, 0
+  index: -1
+leg 2
+  rotate: true
+  xy: 462, 10
+  size: 28, 41
+  orig: 28, 41
+  offset: 0, 0
+  index: -1
+pirate hook
+  rotate: false
+  xy: 880, 98
+  size: 67, 84
+  orig: 69, 86
+  offset: 1, 1
+  index: -1
+r_arm
+  rotate: false
+  xy: 816, 4
+  size: 87, 86
+  orig: 87, 86
+  offset: 0, 0
+  index: -1
+r_ear
+  rotate: true
+  xy: 462, 40
+  size: 46, 72
+  orig: 48, 74
+  offset: 1, 1
+  index: -1
+shadow
+  rotate: false
+  xy: 201, 65
+  size: 137, 117
+  orig: 139, 119
+  offset: 1, 1
+  index: -1

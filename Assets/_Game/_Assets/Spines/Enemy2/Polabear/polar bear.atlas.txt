@@ -1,0 +1,125 @@
+
+polar bear.png
+size: 1260,336
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L arm
+  rotate: false
+  xy: 982, 1
+  size: 139, 174
+  orig: 139, 174
+  offset: 0, 0
+  index: -1
+L ear
+  rotate: false
+  xy: 704, 17
+  size: 35, 44
+  orig: 35, 44
+  offset: 0, 0
+  index: -1
+L hand
+  rotate: true
+  xy: 775, 1
+  size: 117, 100
+  orig: 117, 100
+  offset: 0, 0
+  index: -1
+L leg
+  rotate: false
+  xy: 626, 7
+  size: 37, 54
+  orig: 37, 54
+  offset: 0, 0
+  index: -1
+R arm
+  rotate: false
+  xy: 1121, 1
+  size: 139, 174
+  orig: 139, 174
+  offset: 0, 0
+  index: -1
+R ear
+  rotate: true
+  xy: 543, 5
+  size: 56, 83
+  orig: 56, 83
+  offset: 0, 0
+  index: -1
+R hand
+  rotate: true
+  xy: 875, 1
+  size: 117, 100
+  orig: 117, 100
+  offset: 0, 0
+  index: -1
+R leg
+  rotate: false
+  xy: 505, 1
+  size: 38, 60
+  orig: 38, 60
+  offset: 0, 0
+  index: -1
+Slash_fx1
+  rotate: false
+  xy: 0, 0
+  size: 280, 334
+  orig: 280, 334
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 505, 61
+  size: 273, 270
+  orig: 273, 270
+  offset: 0, 0
+  index: -1
+fur coat
+  rotate: true
+  xy: 280, 23
+  size: 311, 225
+  orig: 311, 225
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 982, 175
+  size: 159, 180
+  orig: 159, 180
+  offset: 0, 0
+  index: -1
+l_eye
+  rotate: false
+  xy: 340, 3
+  size: 40, 20
+  orig: 40, 20
+  offset: 0, 0
+  index: -1
+loincloth
+  rotate: true
+  xy: 915, 126
+  size: 208, 67
+  orig: 208, 67
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 280, 0
+  size: 60, 23
+  orig: 60, 23
+  offset: 0, 0
+  index: -1
+r_eye
+  rotate: true
+  xy: 663, 11
+  size: 50, 41
+  orig: 50, 41
+  offset: 0, 0
+  index: -1
+sd
+  rotate: true
+  xy: 775, 118
+  size: 216, 140
+  orig: 216, 140
+  offset: 0, 0
+  index: -1

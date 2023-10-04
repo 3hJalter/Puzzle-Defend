@@ -1,0 +1,230 @@
+
+Boss_Super_Flies.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 637, 134
+  size: 122, 90
+  orig: 122, 90
+  offset: 0, 0
+  index: -1
+eff_1
+  rotate: false
+  xy: 1019, 1
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+eff_2
+  rotate: false
+  xy: 1022, 156
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+eff_3
+  rotate: false
+  xy: 1122, 156
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+eyebown
+  rotate: false
+  xy: 0, 8
+  size: 77, 25
+  orig: 77, 25
+  offset: 0, 0
+  index: -1
+fish1
+  rotate: false
+  xy: 1119, 67
+  size: 37, 42
+  orig: 37, 42
+  offset: 0, 0
+  index: -1
+fish2
+  rotate: true
+  xy: 1125, 118
+  size: 38, 37
+  orig: 38, 37
+  offset: 0, 0
+  index: -1
+fish_eye
+  rotate: true
+  xy: 685, 81
+  size: 53, 58
+  orig: 53, 58
+  offset: 0, 0
+  index: -1
+fish_eye1
+  rotate: false
+  xy: 637, 80
+  size: 48, 54
+  orig: 48, 54
+  offset: 0, 0
+  index: -1
+fish_jaw
+  rotate: false
+  xy: 727, 135
+  size: 95, 121
+  orig: 95, 121
+  offset: 0, 0
+  index: -1
+fish_mouth
+  rotate: true
+  xy: 883, 1
+  size: 98, 69
+  orig: 98, 69
+  offset: 0, 0
+  index: -1
+fish_tail
+  rotate: false
+  xy: 444, 2
+  size: 58, 54
+  orig: 58, 54
+  offset: 0, 0
+  index: -1
+hat1
+  rotate: true
+  xy: 0, 33
+  size: 223, 195
+  orig: 223, 195
+  offset: 0, 0
+  index: -1
+hat1b
+  rotate: true
+  xy: 195, 33
+  size: 223, 195
+  orig: 223, 195
+  offset: 0, 0
+  index: -1
+hat2
+  rotate: true
+  xy: 483, 80
+  size: 176, 154
+  orig: 176, 154
+  offset: 0, 0
+  index: -1
+l_arm1
+  rotate: true
+  xy: 997, 101
+  size: 47, 64
+  orig: 47, 64
+  offset: 0, 0
+  index: -1
+l_hand1
+  rotate: false
+  xy: 656, 2
+  size: 75, 78
+  orig: 75, 78
+  offset: 0, 0
+  index: -1
+l_hand2
+  rotate: false
+  xy: 502, 2
+  size: 77, 78
+  orig: 77, 78
+  offset: 0, 0
+  index: -1
+l_hand2b
+  rotate: false
+  xy: 579, 2
+  size: 77, 78
+  orig: 77, 78
+  offset: 0, 0
+  index: -1
+l_shouder
+  rotate: true
+  xy: 743, 85
+  size: 50, 63
+  orig: 50, 63
+  offset: 0, 0
+  index: -1
+l_shouderb
+  rotate: true
+  xy: 806, 85
+  size: 50, 63
+  orig: 50, 63
+  offset: 0, 0
+  index: -1
+leg
+  rotate: true
+  xy: 77, 8
+  size: 25, 38
+  orig: 25, 38
+  offset: 0, 0
+  index: -1
+r_amr1
+  rotate: true
+  xy: 1061, 109
+  size: 47, 64
+  orig: 47, 64
+  offset: 0, 0
+  index: -1
+r_arm2
+  rotate: true
+  xy: 731, 4
+  size: 77, 67
+  orig: 77, 67
+  offset: 0, 0
+  index: -1
+r_arm2b
+  rotate: true
+  xy: 952, 22
+  size: 77, 67
+  orig: 77, 67
+  offset: 0, 0
+  index: -1
+r_shouder
+  rotate: true
+  xy: 869, 99
+  size: 49, 64
+  orig: 49, 64
+  offset: 0, 0
+  index: -1
+r_shouderb
+  rotate: true
+  xy: 933, 99
+  size: 49, 64
+  orig: 49, 64
+  offset: 0, 0
+  index: -1
+shadown
+  rotate: true
+  xy: 930, 148
+  size: 108, 92
+  orig: 108, 92
+  offset: 0, 0
+  index: -1
+skill_1_eff
+  rotate: false
+  xy: 444, 56
+  size: 39, 200
+  orig: 39, 200
+  offset: 0, 0
+  index: -1
+skill_1_eff1
+  rotate: false
+  xy: 798, 0
+  size: 85, 85
+  orig: 85, 85
+  offset: 0, 0
+  index: -1
+skill_2_eff
+  rotate: false
+  xy: 390, 34
+  size: 54, 222
+  orig: 54, 222
+  offset: 0, 0
+  index: -1
+skill_3_eff
+  rotate: false
+  xy: 822, 148
+  size: 108, 108
+  orig: 108, 108
+  offset: 0, 0
+  index: -1

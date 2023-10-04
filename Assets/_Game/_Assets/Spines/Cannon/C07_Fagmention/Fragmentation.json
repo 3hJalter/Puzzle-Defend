@@ -1,0 +1,3291 @@
+{
+  "skeleton": {
+    "hash": "US6nHV7zK8mAfL/GqltRO6judLg",
+    "spine": "3.8.99",
+    "x": -192.48,
+    "y": -1.75,
+    "width": 391.83,
+    "height": 252.33
+  },
+  "bones": [
+    {
+      "name": "root"
+    },
+    {
+      "name": "location",
+      "parent": "root"
+    },
+    {
+      "name": "Fragmentation_lv5/ody_1",
+      "parent": "location",
+      "length": 55.93,
+      "rotation": 90,
+      "y": 17,
+      "skin": true
+    },
+    {
+      "name": "gun_target",
+      "parent": "Fragmentation_lv5/ody_1",
+      "length": 223.6,
+      "x": 57.14,
+      "skin": true
+    },
+    {
+      "name": "gun1_4",
+      "parent": "gun_target",
+      "length": 38.68,
+      "x": 0.86,
+      "y": 48,
+      "skin": true
+    },
+    {
+      "name": "gun1_3",
+      "parent": "gun_target",
+      "length": 82.13,
+      "x": 38.86,
+      "y": 48,
+      "skin": true
+    },
+    {
+      "name": "gun1_5",
+      "parent": "gun_target",
+      "length": 82.13,
+      "x": 76.94,
+      "y": 48,
+      "skin": true
+    },
+    {
+      "name": "gun2_6",
+      "parent": "gun_target",
+      "length": 38.68,
+      "x": 42.86,
+      "skin": true
+    },
+    {
+      "name": "gun2_7",
+      "parent": "gun_target",
+      "length": 82.13,
+      "x": 80.86,
+      "skin": true
+    },
+    {
+      "name": "gun2_8",
+      "parent": "gun_target",
+      "length": 82.13,
+      "x": 118.94,
+      "skin": true
+    },
+    {
+      "name": "gun1_6",
+      "parent": "gun_target",
+      "length": 38.68,
+      "x": 0.86,
+      "y": -48,
+      "skin": true
+    },
+    {
+      "name": "gun1_7",
+      "parent": "gun_target",
+      "length": 82.13,
+      "x": 38.86,
+      "y": -48,
+      "skin": true
+    },
+    {
+      "name": "gun1_8",
+      "parent": "gun_target",
+      "length": 82.13,
+      "x": 76.94,
+      "y": -48,
+      "skin": true
+    },
+    {
+      "name": "Fragmentation_lv5/ody_3",
+      "parent": "gun_target",
+      "length": 61.23,
+      "rotation": 145,
+      "x": 77.86,
+      "y": 80,
+      "skin": true
+    },
+    {
+      "name": "smoke",
+      "parent": "gun_target",
+      "length": 36.8,
+      "rotation": 140.91,
+      "x": 24.11,
+      "y": 119.07,
+      "skin": true
+    },
+    {
+      "name": "Fragmentation_lv5/ody_4",
+      "parent": "gun_target",
+      "length": 61.23,
+      "rotation": -145,
+      "x": 77.86,
+      "y": -80,
+      "skin": true
+    },
+    {
+      "name": "smoke2",
+      "parent": "gun_target",
+      "length": 36.8,
+      "rotation": -149.09,
+      "x": 22.76,
+      "y": -117.15,
+      "skin": true
+    },
+    {
+      "name": "gun_target2",
+      "parent": "root",
+      "y": 500
+    },
+    {
+      "name": "gun_tip_lv1",
+      "parent": "gun1_5",
+      "x": 40.91,
+      "y": -48,
+      "skin": true
+    },
+    {
+      "name": "gun_tip_lv2",
+      "parent": "gun1_5",
+      "x": 58.02,
+      "y": -48,
+      "skin": true
+    },
+    {
+      "name": "gun_tip_lv3",
+      "parent": "gun1_5",
+      "x": 84.29,
+      "y": -48,
+      "skin": true
+    },
+    {
+      "name": "gun_tip_lv4.1",
+      "parent": "gun1_8",
+      "x": 98.95,
+      "y": 1.46,
+      "skin": true
+    },
+    {
+      "name": "gun_tip_lv4.2",
+      "parent": "gun1_5",
+      "x": 98.95,
+      "y": -1.06,
+      "skin": true
+    },
+    {
+      "name": "gun_tip_lv5.1",
+      "parent": "gun2_8",
+      "x": 102.78,
+      "skin": true
+    },
+    {
+      "name": "gun_tip_lv5.2",
+      "parent": "gun1_8",
+      "x": 104.45,
+      "y": -0.88,
+      "skin": true
+    },
+    {
+      "name": "gun_tip_lv5.3",
+      "parent": "gun1_5",
+      "x": 104.45,
+      "y": 0.88,
+      "skin": true
+    }
+  ],
+  "slots": [
+    {
+      "name": "Fragmentation_lv5/ody_1",
+      "bone": "Fragmentation_lv5/ody_1",
+      "attachment": "Fragmentation_lv5/body_1"
+    },
+    {
+      "name": "Fragmentation_lv5/ody_2",
+      "bone": "Fragmentation_lv5/ody_3",
+      "attachment": "Fragmentation_lv5/body_2"
+    },
+    {
+      "name": "Fragmentation_lv5/ody_3",
+      "bone": "Fragmentation_lv5/ody_4",
+      "attachment": "Fragmentation_lv5/body_2"
+    },
+    {
+      "name": "smoke",
+      "bone": "smoke",
+      "color": "ffffff94",
+      "attachment": "Fragmentation_lv5/smoke5",
+      "blend": "additive"
+    },
+    {
+      "name": "smoke2",
+      "bone": "smoke2",
+      "color": "ffffff94",
+      "attachment": "Fragmentation_lv5/smoke5",
+      "blend": "additive"
+    },
+    {
+      "name": "Fragmentation_lv5/ody_4",
+      "bone": "Fragmentation_lv5/ody_3",
+      "attachment": "Fragmentation_lv5/body_2"
+    },
+    {
+      "name": "Fragmentation_lv5/ody_5",
+      "bone": "Fragmentation_lv5/ody_4",
+      "attachment": "Fragmentation_lv5/body_2"
+    },
+    {
+      "name": "gun1_5",
+      "bone": "gun1_5",
+      "attachment": "Fragmentation_lv5/gun1_1"
+    },
+    {
+      "name": "gun1_8",
+      "bone": "gun1_8",
+      "attachment": "Fragmentation_lv5/gun1_1"
+    },
+    {
+      "name": "gun1_2",
+      "bone": "gun1_5",
+      "attachment": "Fragmentation_lv5/gun1_2"
+    },
+    {
+      "name": "gun1_9",
+      "bone": "gun1_8",
+      "attachment": "Fragmentation_lv5/gun1_2"
+    },
+    {
+      "name": "gun1_3",
+      "bone": "gun1_3",
+      "attachment": "Fragmentation_lv5/gun1_3"
+    },
+    {
+      "name": "gun1_7",
+      "bone": "gun1_7",
+      "attachment": "Fragmentation_lv5/gun1_3"
+    },
+    {
+      "name": "gun1_4",
+      "bone": "gun1_4",
+      "attachment": "Fragmentation_lv5/gun1_4"
+    },
+    {
+      "name": "gun1_6",
+      "bone": "gun1_6",
+      "attachment": "Fragmentation_lv5/gun1_4"
+    },
+    {
+      "name": "gun2_sd",
+      "bone": "gun2_6",
+      "attachment": "Fragmentation_lv5/gun2_sd"
+    },
+    {
+      "name": "gun2_8",
+      "bone": "gun2_8",
+      "attachment": "Fragmentation_lv5/gun1_1"
+    },
+    {
+      "name": "gun2_9",
+      "bone": "gun2_8",
+      "attachment": "Fragmentation_lv5/gun1_2"
+    },
+    {
+      "name": "gun2_7",
+      "bone": "gun2_7",
+      "attachment": "Fragmentation_lv5/gun2_2"
+    },
+    {
+      "name": "gun2_6",
+      "bone": "gun2_6",
+      "attachment": "Fragmentation_lv5/gun2_3"
+    }
+  ],
+  "ik": [
+    {
+      "name": "gun_target",
+      "skin": true,
+      "bones": [
+        "gun_target"
+      ],
+      "target": "gun_target2"
+    }
+  ],
+  "skins": [
+    {
+      "name": "lv1",
+      "bones": [
+        "Fragmentation_lv5/ody_1",
+        "gun1_3",
+        "gun1_4",
+        "gun1_5",
+        "gun_tip_lv1"
+      ],
+      "ik": [
+        "gun_target"
+      ],
+      "attachments": {
+        "Fragmentation_lv5/ody_1": {
+          "Fragmentation_lv5/body_1": {
+            "name": "Fragmentation_lv1/body_1",
+            "x": 62.86,
+            "scaleX": 0.9293,
+            "scaleY": 0.9293,
+            "rotation": -90,
+            "width": 199,
+            "height": 175
+          }
+        },
+        "gun1_3": {
+          "Fragmentation_lv5/gun1_3": {
+            "name": "Fragmentation_lv1/gun1_3",
+            "x": -8.82,
+            "y": -47.64,
+            "scaleX": 1.0563,
+            "scaleY": 0.7968,
+            "rotation": -90,
+            "width": 91,
+            "height": 133
+          }
+        },
+        "gun1_4": {
+          "Fragmentation_lv5/gun1_4": {
+            "name": "Fragmentation_lv1/gun1_4",
+            "x": -6.69,
+            "y": -47.64,
+            "scaleX": 1.0857,
+            "scaleY": 0.9624,
+            "rotation": -90,
+            "width": 94,
+            "height": 64
+          }
+        },
+        "gun1_5": {
+          "Fragmentation_lv5/gun1_1": {
+            "name": "Fragmentation_lv1/gun1_1",
+            "x": -18.62,
+            "y": -47.64,
+            "scaleX": 1.1205,
+            "scaleY": 0.9933,
+            "rotation": -90,
+            "width": 55,
+            "height": 127
+          }
+        },
+        "gun1_6": {
+          "Fragmentation_lv5/gun1_4": {
+            "name": "Fragmentation_lv1/gun1_4",
+            "x": 10,
+            "y": 4.5,
+            "rotation": -90,
+            "width": 94,
+            "height": 64
+          }
+        },
+        "gun1_7": {
+          "Fragmentation_lv5/gun1_3": {
+            "name": "Fragmentation_lv1/gun1_3",
+            "x": 22,
+            "y": 4.5,
+            "rotation": -90,
+            "width": 91,
+            "height": 133
+          }
+        },
+        "gun1_8": {
+          "Fragmentation_lv5/gun1_1": {
+            "name": "Fragmentation_lv1/gun1_1",
+            "x": 24,
+            "y": 4.5,
+            "rotation": -90,
+            "width": 55,
+            "height": 127
+          }
+        },
+        "gun1_9": {
+          "Fragmentation_lv5/gun1_2": {
+            "name": "Fragmentation_lv1/gun1_2",
+            "x": 75,
+            "y": 4.5,
+            "rotation": -90,
+            "width": 66,
+            "height": 49
+          }
+        },
+        "gun2_8": {
+          "Fragmentation_lv5/gun1_1": {
+            "name": "Fragmentation_lv1/gun1_1",
+            "x": 24,
+            "rotation": -90,
+            "width": 55,
+            "height": 127
+          }
+        },
+        "gun2_9": {
+          "Fragmentation_lv5/gun1_2": {
+            "name": "Fragmentation_lv1/gun1_2",
+            "x": 75,
+            "rotation": -90,
+            "width": 66,
+            "height": 49
+          }
+        }
+      }
+    },
+    {
+      "name": "lv2",
+      "bones": [
+        "Fragmentation_lv5/ody_1",
+        "gun1_3",
+        "gun1_4",
+        "gun1_5",
+        "gun_tip_lv2"
+      ],
+      "ik": [
+        "gun_target"
+      ],
+      "attachments": {
+        "Fragmentation_lv5/ody_1": {
+          "Fragmentation_lv5/body_1": {
+            "name": "Fragmentation_lv2/body_1",
+            "x": 62.86,
+            "scaleX": 0.9293,
+            "scaleY": 0.9293,
+            "rotation": -90,
+            "width": 199,
+            "height": 175
+          }
+        },
+        "gun1_3": {
+          "Fragmentation_lv5/gun1_3": {
+            "name": "Fragmentation_lv2/gun1_3",
+            "x": 10.2,
+            "y": -47.64,
+            "scaleX": 1.0563,
+            "scaleY": 0.7968,
+            "rotation": -90,
+            "width": 91,
+            "height": 133
+          }
+        },
+        "gun1_4": {
+          "Fragmentation_lv5/gun1_4": {
+            "name": "Fragmentation_lv2/gun1_4",
+            "x": 3.17,
+            "y": -47.64,
+            "scaleX": 1.0857,
+            "scaleY": 0.9624,
+            "rotation": -90,
+            "width": 92,
+            "height": 64
+          }
+        },
+        "gun1_5": {
+          "Fragmentation_lv5/gun1_1": {
+            "name": "Fragmentation_lv2/gun1_1",
+            "x": 0.4,
+            "y": -47.64,
+            "scaleX": 1.1205,
+            "scaleY": 0.9933,
+            "rotation": -90,
+            "width": 55,
+            "height": 127
+          }
+        },
+        "gun1_6": {
+          "Fragmentation_lv5/gun1_4": {
+            "name": "Fragmentation_lv2/gun1_4",
+            "x": 10,
+            "y": 4.5,
+            "rotation": -90,
+            "width": 92,
+            "height": 64
+          }
+        },
+        "gun1_7": {
+          "Fragmentation_lv5/gun1_3": {
+            "name": "Fragmentation_lv2/gun1_3",
+            "x": 22,
+            "y": 4.5,
+            "rotation": -90,
+            "width": 91,
+            "height": 133
+          }
+        },
+        "gun1_8": {
+          "Fragmentation_lv5/gun1_1": {
+            "name": "Fragmentation_lv2/gun1_1",
+            "x": 24,
+            "y": 4.5,
+            "rotation": -90,
+            "width": 55,
+            "height": 127
+          }
+        },
+        "gun1_9": {
+          "Fragmentation_lv5/gun1_2": {
+            "name": "Fragmentation_lv2/gun1_2",
+            "x": 75,
+            "y": 4.5,
+            "rotation": -90,
+            "width": 66,
+            "height": 49
+          }
+        },
+        "gun2_8": {
+          "Fragmentation_lv5/gun1_1": {
+            "name": "Fragmentation_lv2/gun1_1",
+            "x": 24,
+            "rotation": -90,
+            "width": 55,
+            "height": 127
+          }
+        },
+        "gun2_9": {
+          "Fragmentation_lv5/gun1_2": {
+            "name": "Fragmentation_lv2/gun1_2",
+            "x": 75,
+            "rotation": -90,
+            "width": 66,
+            "height": 49
+          }
+        }
+      }
+    },
+    {
+      "name": "lv3",
+      "bones": [
+        "Fragmentation_lv5/ody_1",
+        "gun1_3",
+        "gun1_4",
+        "gun1_5",
+        "gun_tip_lv3"
+      ],
+      "ik": [
+        "gun_target"
+      ],
+      "attachments": {
+        "Fragmentation_lv5/ody_1": {
+          "Fragmentation_lv5/body_1": {
+            "name": "Fragmentation_lv3/body_1",
+            "x": 62.86,
+            "scaleX": 0.9293,
+            "scaleY": 0.9293,
+            "rotation": -90,
+            "width": 199,
+            "height": 175
+          }
+        },
+        "gun1_2": {
+          "Fragmentation_lv5/gun1_2": {
+            "name": "Fragmentation_lv3/gun1_2",
+            "x": 60.1,
+            "y": -47.64,
+            "scaleX": 1.1205,
+            "scaleY": 0.9933,
+            "rotation": -90,
+            "width": 66,
+            "height": 49
+          }
+        },
+        "gun1_3": {
+          "Fragmentation_lv5/gun1_3": {
+            "name": "Fragmentation_lv3/gun1_3",
+            "x": 11.44,
+            "y": -47.64,
+            "scaleX": 1.0447,
+            "scaleY": 0.9261,
+            "rotation": -90,
+            "width": 91,
+            "height": 133
+          }
+        },
+        "gun1_4": {
+          "Fragmentation_lv5/gun1_4": {
+            "name": "Fragmentation_lv3/gun1_4",
+            "x": 10,
+            "y": -47.64,
+            "scaleX": 1.1205,
+            "scaleY": 0.9933,
+            "rotation": -90,
+            "width": 92,
+            "height": 64
+          }
+        },
+        "gun1_5": {
+          "Fragmentation_lv5/gun1_1": {
+            "name": "Fragmentation_lv3/gun1_1",
+            "x": 9.1,
+            "y": -47.64,
+            "scaleX": 1.1205,
+            "scaleY": 0.9933,
+            "rotation": -90,
+            "width": 55,
+            "height": 127
+          }
+        },
+        "gun1_6": {
+          "Fragmentation_lv5/gun1_4": {
+            "name": "Fragmentation_lv3/gun1_4",
+            "x": 10,
+            "y": 4.5,
+            "rotation": -90,
+            "width": 92,
+            "height": 64
+          }
+        },
+        "gun1_7": {
+          "Fragmentation_lv5/gun1_3": {
+            "name": "Fragmentation_lv3/gun1_3",
+            "x": 22,
+            "y": 4.5,
+            "rotation": -90,
+            "width": 91,
+            "height": 133
+          }
+        },
+        "gun1_8": {
+          "Fragmentation_lv5/gun1_1": {
+            "name": "Fragmentation_lv3/gun1_1",
+            "x": 24,
+            "y": 4.5,
+            "rotation": -90,
+            "width": 55,
+            "height": 127
+          }
+        },
+        "gun1_9": {
+          "Fragmentation_lv5/gun1_2": {
+            "name": "Fragmentation_lv3/gun1_2",
+            "x": 75,
+            "y": 4.5,
+            "rotation": -90,
+            "width": 66,
+            "height": 49
+          }
+        },
+        "gun2_8": {
+          "Fragmentation_lv5/gun1_1": {
+            "name": "Fragmentation_lv3/gun1_1",
+            "x": 24,
+            "rotation": -90,
+            "width": 55,
+            "height": 127
+          }
+        },
+        "gun2_9": {
+          "Fragmentation_lv5/gun1_2": {
+            "name": "Fragmentation_lv3/gun1_2",
+            "x": 75,
+            "rotation": -90,
+            "width": 66,
+            "height": 49
+          }
+        }
+      }
+    },
+    {
+      "name": "lv4",
+      "bones": [
+        "Fragmentation_lv5/ody_1",
+        "Fragmentation_lv5/ody_3",
+        "Fragmentation_lv5/ody_4",
+        "gun1_3",
+        "gun1_4",
+        "gun1_5",
+        "gun1_6",
+        "gun1_7",
+        "gun1_8",
+        "gun_tip_lv4.1",
+        "gun_tip_lv4.2",
+        "smoke",
+        "smoke2"
+      ],
+      "ik": [
+        "gun_target"
+      ],
+      "attachments": {
+        "Fragmentation_lv5/ody_1": {
+          "Fragmentation_lv5/body_1": {
+            "name": "Fragmentation_lv4/body_1",
+            "x": 58.24,
+            "scaleX": 0.8798,
+            "scaleY": 0.8798,
+            "rotation": -90,
+            "width": 199,
+            "height": 175
+          }
+        },
+        "Fragmentation_lv5/ody_2": {
+          "Fragmentation_lv5/body_2": {
+            "name": "Fragmentation_lv4/body_2",
+            "x": 36.52,
+            "y": 2.11,
+            "scaleX": 0.9,
+            "scaleY": 0.9,
+            "rotation": 125,
+            "width": 74,
+            "height": 77
+          }
+        },
+        "Fragmentation_lv5/ody_3": {
+          "Fragmentation_lv5/body_2": {
+            "name": "Fragmentation_lv4/body_2",
+            "x": 38,
+            "scaleX": 0.9,
+            "scaleY": -0.9,
+            "rotation": -125,
+            "width": 74,
+            "height": 77
+          }
+        },
+        "Fragmentation_lv5/ody_4": {
+          "Fragmentation_lv5/body_2": {
+            "name": "Fragmentation_lv4/body_2",
+            "type": "mesh",
+            "uvs": [
+              0.2868,
+              0.16241,
+              0.6454,
+              0.19298,
+              0.79288,
+              0.39308,
+              0.62726,
+              0.89752,
+              0.51237,
+              0.82108,
+              0.47767,
+              0.72659,
+              0.3938,
+              0.66545,
+              0.28391,
+              0.62098,
+              0.16823,
+              0.6321,
+              0.1075,
+              0.68768,
+              0,
+              0.70713,
+              0,
+              0.58485
+            ],
+            "triangles": [
+              0,
+              8,
+              11,
+              7,
+              0,
+              1,
+              6,
+              7,
+              1,
+              7,
+              8,
+              0,
+              2,
+              6,
+              1,
+              9,
+              11,
+              8,
+              10,
+              11,
+              9,
+              5,
+              6,
+              2,
+              3,
+              4,
+              5,
+              2,
+              3,
+              5
+            ],
+            "vertices": [
+              26.35,
+              -23.92,
+              14.38,
+              -3.14,
+              20.11,
+              12.86,
+              55.07,
+              23.88,
+              55.12,
+              14.57,
+              51.08,
+              8.92,
+              50.81,
+              1.91,
+              52.49,
+              -5.85,
+              57.54,
+              -11.72,
+              63.01,
+              -12.82,
+              68.22,
+              -17.91,
+              61.28,
+              -22.77
+            ],
+            "hull": 12
+          }
+        },
+        "Fragmentation_lv5/ody_5": {
+          "Fragmentation_lv5/body_2": {
+            "name": "Fragmentation_lv4/body_2",
+            "type": "mesh",
+            "uvs": [
+              0.05299,
+              0.4614,
+              0.33126,
+              0.19701,
+              0.6032,
+              0.22132,
+              0.76447,
+              0.4614,
+              0.58739,
+              0.91724,
+              0.4862,
+              0.81088,
+              0.48304,
+              0.7501,
+              0.42928,
+              0.68628,
+              0.30596,
+              0.62854,
+              0.1858,
+              0.61943,
+              0.12255,
+              0.67413,
+              0,
+              0.6407
+            ],
+            "triangles": [
+              8,
+              9,
+              0,
+              1,
+              8,
+              0,
+              8,
+              1,
+              2,
+              7,
+              8,
+              2,
+              11,
+              0,
+              9,
+              10,
+              11,
+              9,
+              3,
+              7,
+              2,
+              6,
+              7,
+              3,
+              4,
+              5,
+              6,
+              3,
+              4,
+              6
+            ],
+            "vertices": [
+              53.24,
+              26.02,
+              27.6,
+              21.35,
+              18.59,
+              5.55,
+              26.06,
+              -12.79,
+              58.7,
+              -21.25,
+              56.53,
+              -11.5,
+              53.2,
+              -8.92,
+              51.63,
+              -3.45,
+              53.06,
+              5.58,
+              57.14,
+              12.49,
+              62.66,
+              13.77,
+              65.44,
+              21.79
+            ],
+            "hull": 12
+          }
+        },
+        "gun1_2": {
+          "Fragmentation_lv5/gun1_2": {
+            "name": "Fragmentation_lv4/gun1_2",
+            "x": 75,
+            "y": -4.5,
+            "rotation": -90,
+            "width": 66,
+            "height": 49
+          }
+        },
+        "gun1_3": {
+          "Fragmentation_lv5/gun1_3": {
+            "name": "Fragmentation_lv4/gun1_3",
+            "x": 22,
+            "y": -4.5,
+            "rotation": -90,
+            "width": 91,
+            "height": 133
+          }
+        },
+        "gun1_4": {
+          "Fragmentation_lv5/gun1_4": {
+            "name": "Fragmentation_lv4/gun1_4",
+            "x": 10,
+            "y": -4.5,
+            "rotation": -90,
+            "width": 92,
+            "height": 64
+          }
+        },
+        "gun1_5": {
+          "Fragmentation_lv5/gun1_1": {
+            "name": "Fragmentation_lv4/gun1_1",
+            "x": 24,
+            "y": -4.5,
+            "rotation": -90,
+            "width": 55,
+            "height": 127
+          }
+        },
+        "gun1_6": {
+          "Fragmentation_lv5/gun1_4": {
+            "name": "Fragmentation_lv4/gun1_4",
+            "x": 10,
+            "y": 4.5,
+            "rotation": -90,
+            "width": 92,
+            "height": 64
+          }
+        },
+        "gun1_7": {
+          "Fragmentation_lv5/gun1_3": {
+            "name": "Fragmentation_lv4/gun1_3",
+            "x": 22,
+            "y": 4.5,
+            "rotation": -90,
+            "width": 91,
+            "height": 133
+          }
+        },
+        "gun1_8": {
+          "Fragmentation_lv5/gun1_1": {
+            "name": "Fragmentation_lv4/gun1_1",
+            "x": 24,
+            "y": 4.5,
+            "rotation": -90,
+            "width": 55,
+            "height": 127
+          }
+        },
+        "gun1_9": {
+          "Fragmentation_lv5/gun1_2": {
+            "name": "Fragmentation_lv4/gun1_2",
+            "x": 75,
+            "y": 4.5,
+            "rotation": -90,
+            "width": 66,
+            "height": 49
+          }
+        },
+        "gun2_8": {
+          "Fragmentation_lv5/gun1_1": {
+            "name": "Fragmentation_lv4/gun1_1",
+            "x": 24,
+            "rotation": -90,
+            "width": 55,
+            "height": 127
+          }
+        },
+        "gun2_9": {
+          "Fragmentation_lv5/gun1_2": {
+            "name": "Fragmentation_lv4/gun1_2",
+            "x": 75,
+            "rotation": -90,
+            "width": 66,
+            "height": 49
+          }
+        },
+        "smoke": {
+          "Fragmentation_lv5/smoke1": {
+            "name": "Fragmentation_lv4/smoke1",
+            "x": 20.43,
+            "y": 7.58,
+            "rotation": 3.97,
+            "width": 110,
+            "height": 85
+          },
+          "Fragmentation_lv5/smoke2": {
+            "name": "Fragmentation_lv4/smoke2",
+            "x": 20.43,
+            "y": 7.58,
+            "rotation": 3.97,
+            "width": 110,
+            "height": 85
+          },
+          "Fragmentation_lv5/smoke3": {
+            "name": "Fragmentation_lv4/smoke3",
+            "x": 20.43,
+            "y": 7.58,
+            "rotation": 3.97,
+            "width": 110,
+            "height": 85
+          },
+          "Fragmentation_lv5/smoke4": {
+            "name": "Fragmentation_lv4/smoke4",
+            "x": 20.43,
+            "y": 7.58,
+            "rotation": 3.97,
+            "width": 110,
+            "height": 85
+          },
+          "Fragmentation_lv5/smoke5": {
+            "name": "Fragmentation_lv4/smoke5",
+            "x": 20.43,
+            "y": 7.58,
+            "rotation": 3.97,
+            "width": 110,
+            "height": 85
+          }
+        },
+        "smoke2": {
+          "Fragmentation_lv5/smoke1": {
+            "name": "Fragmentation_lv4/smoke1",
+            "x": 22.47,
+            "y": 6.43,
+            "rotation": 1.02,
+            "width": 110,
+            "height": 85
+          },
+          "Fragmentation_lv5/smoke2": {
+            "name": "Fragmentation_lv4/smoke2",
+            "x": 22.47,
+            "y": 6.43,
+            "rotation": 1.02,
+            "width": 110,
+            "height": 85
+          },
+          "Fragmentation_lv5/smoke3": {
+            "name": "Fragmentation_lv4/smoke3",
+            "x": 22.47,
+            "y": 6.43,
+            "rotation": 1.02,
+            "width": 110,
+            "height": 85
+          },
+          "Fragmentation_lv5/smoke4": {
+            "name": "Fragmentation_lv4/smoke4",
+            "x": 22.47,
+            "y": 6.43,
+            "rotation": 1.02,
+            "width": 110,
+            "height": 85
+          },
+          "Fragmentation_lv5/smoke5": {
+            "name": "Fragmentation_lv4/smoke5",
+            "x": 22.47,
+            "y": 6.43,
+            "rotation": 1.02,
+            "width": 110,
+            "height": 85
+          }
+        }
+      }
+    },
+    {
+      "name": "lv5",
+      "bones": [
+        "Fragmentation_lv5/ody_1",
+        "Fragmentation_lv5/ody_3",
+        "Fragmentation_lv5/ody_4",
+        "gun1_3",
+        "gun1_4",
+        "gun1_5",
+        "gun1_6",
+        "gun1_7",
+        "gun1_8",
+        "gun2_6",
+        "gun2_7",
+        "gun2_8",
+        "gun_target",
+        "gun_tip_lv5.1",
+        "gun_tip_lv5.2",
+        "gun_tip_lv5.3",
+        "smoke",
+        "smoke2"
+      ],
+      "ik": [
+        "gun_target"
+      ],
+      "attachments": {
+        "Fragmentation_lv5/ody_1": {
+          "Fragmentation_lv5/body_1": {
+            "x": 68,
+            "rotation": -90,
+            "width": 199,
+            "height": 175
+          }
+        },
+        "Fragmentation_lv5/ody_2": {
+          "Fragmentation_lv5/body_2": {
+            "x": 38,
+            "rotation": 125,
+            "width": 74,
+            "height": 77
+          }
+        },
+        "Fragmentation_lv5/ody_3": {
+          "Fragmentation_lv5/body_2": {
+            "x": 38,
+            "scaleY": -1,
+            "rotation": -125,
+            "width": 74,
+            "height": 77
+          }
+        },
+        "Fragmentation_lv5/ody_4": {
+          "Fragmentation_lv5/body_2": {
+            "type": "mesh",
+            "uvs": [
+              0.2868,
+              0.16241,
+              0.6454,
+              0.19298,
+              0.79288,
+              0.39308,
+              0.62726,
+              0.89752,
+              0.51237,
+              0.82108,
+              0.47767,
+              0.72659,
+              0.3938,
+              0.66545,
+              0.28391,
+              0.62098,
+              0.16823,
+              0.6321,
+              0.1075,
+              0.68768,
+              0,
+              0.70713,
+              0,
+              0.58485
+            ],
+            "triangles": [
+              0,
+              8,
+              11,
+              7,
+              0,
+              1,
+              6,
+              7,
+              1,
+              7,
+              8,
+              0,
+              2,
+              6,
+              1,
+              9,
+              11,
+              8,
+              10,
+              11,
+              9,
+              5,
+              6,
+              2,
+              3,
+              4,
+              5,
+              2,
+              3,
+              5
+            ],
+            "vertices": [
+              25.76,
+              -27.83,
+              12.46,
+              -4.75,
+              18.82,
+              13.03,
+              57.67,
+              25.27,
+              57.73,
+              14.93,
+              53.24,
+              8.65,
+              52.94,
+              0.87,
+              54.8,
+              -7.76,
+              60.41,
+              -14.28,
+              66.5,
+              -15.5,
+              72.29,
+              -21.16,
+              64.57,
+              -26.56
+            ],
+            "hull": 12
+          }
+        },
+        "Fragmentation_lv5/ody_5": {
+          "Fragmentation_lv5/body_2": {
+            "type": "mesh",
+            "uvs": [
+              0.05299,
+              0.4614,
+              0.33126,
+              0.19701,
+              0.6032,
+              0.22132,
+              0.76447,
+              0.4614,
+              0.58739,
+              0.91724,
+              0.4862,
+              0.81088,
+              0.48304,
+              0.7501,
+              0.42928,
+              0.68628,
+              0.30596,
+              0.62854,
+              0.1858,
+              0.61943,
+              0.12255,
+              0.67413,
+              0,
+              0.6407
+            ],
+            "triangles": [
+              8,
+              9,
+              0,
+              1,
+              8,
+              0,
+              8,
+              1,
+              2,
+              7,
+              8,
+              2,
+              11,
+              0,
+              9,
+              10,
+              11,
+              9,
+              3,
+              7,
+              2,
+              6,
+              7,
+              3,
+              4,
+              5,
+              6,
+              3,
+              4,
+              6
+            ],
+            "vertices": [
+              54.54,
+              28.8,
+              26.05,
+              23.61,
+              16.04,
+              6.05,
+              24.34,
+              -14.33,
+              60.61,
+              -23.73,
+              58.19,
+              -12.89,
+              54.49,
+              -10.02,
+              52.75,
+              -3.94,
+              54.34,
+              6.09,
+              58.87,
+              13.77,
+              65,
+              15.19,
+              68.1,
+              24.09
+            ],
+            "hull": 12
+          }
+        },
+        "gun1_2": {
+          "Fragmentation_lv5/gun1_2": {
+            "x": 81.15,
+            "rotation": -90,
+            "width": 66,
+            "height": 49
+          }
+        },
+        "gun1_3": {
+          "Fragmentation_lv5/gun1_3": {
+            "x": 28.15,
+            "rotation": -90,
+            "width": 91,
+            "height": 133
+          }
+        },
+        "gun1_4": {
+          "Fragmentation_lv5/gun1_4": {
+            "x": 16.15,
+            "rotation": -90,
+            "width": 92,
+            "height": 64
+          }
+        },
+        "gun1_5": {
+          "Fragmentation_lv5/gun1_1": {
+            "x": 30.15,
+            "rotation": -90,
+            "width": 55,
+            "height": 127
+          }
+        },
+        "gun1_6": {
+          "Fragmentation_lv5/gun1_4": {
+            "x": 16.15,
+            "rotation": -90,
+            "width": 92,
+            "height": 64
+          }
+        },
+        "gun1_7": {
+          "Fragmentation_lv5/gun1_3": {
+            "x": 28.15,
+            "rotation": -90,
+            "width": 91,
+            "height": 133
+          }
+        },
+        "gun1_8": {
+          "Fragmentation_lv5/gun1_1": {
+            "x": 30.15,
+            "rotation": -90,
+            "width": 55,
+            "height": 127
+          }
+        },
+        "gun1_9": {
+          "Fragmentation_lv5/gun1_2": {
+            "x": 81.15,
+            "rotation": -90,
+            "width": 66,
+            "height": 49
+          }
+        },
+        "gun2_6": {
+          "Fragmentation_lv5/gun2_3": {
+            "x": 14.92,
+            "rotation": -90,
+            "width": 92,
+            "height": 64
+          }
+        },
+        "gun2_7": {
+          "Fragmentation_lv5/gun2_2": {
+            "x": 29.46,
+            "scaleX": 0.95,
+            "rotation": -90,
+            "width": 91,
+            "height": 133
+          }
+        },
+        "gun2_8": {
+          "Fragmentation_lv5/gun1_1": {
+            "x": 28.92,
+            "rotation": -90,
+            "width": 55,
+            "height": 127
+          }
+        },
+        "gun2_9": {
+          "Fragmentation_lv5/gun1_2": {
+            "x": 79.92,
+            "rotation": -90,
+            "width": 66,
+            "height": 49
+          }
+        },
+        "gun2_sd": {
+          "Fragmentation_lv5/gun2_sd": {
+            "x": 59.55,
+            "y": 0.01,
+            "rotation": -90,
+            "width": 111,
+            "height": 176
+          }
+        },
+        "smoke": {
+          "Fragmentation_lv5/smoke1": {
+            "x": 20.43,
+            "y": 7.58,
+            "rotation": 3.97,
+            "width": 110,
+            "height": 85
+          },
+          "Fragmentation_lv5/smoke2": {
+            "x": 20.43,
+            "y": 7.58,
+            "rotation": 3.97,
+            "width": 110,
+            "height": 85
+          },
+          "Fragmentation_lv5/smoke3": {
+            "x": 20.43,
+            "y": 7.58,
+            "rotation": 3.97,
+            "width": 110,
+            "height": 85
+          },
+          "Fragmentation_lv5/smoke4": {
+            "x": 20.43,
+            "y": 7.58,
+            "rotation": 3.97,
+            "width": 110,
+            "height": 85
+          },
+          "Fragmentation_lv5/smoke5": {
+            "x": 20.43,
+            "y": 7.58,
+            "rotation": 3.97,
+            "width": 110,
+            "height": 85
+          }
+        },
+        "smoke2": {
+          "Fragmentation_lv5/smoke1": {
+            "x": 22.47,
+            "y": 6.43,
+            "rotation": 1.02,
+            "width": 110,
+            "height": 85
+          },
+          "Fragmentation_lv5/smoke2": {
+            "x": 22.47,
+            "y": 6.43,
+            "rotation": 1.02,
+            "width": 110,
+            "height": 85
+          },
+          "Fragmentation_lv5/smoke3": {
+            "x": 22.47,
+            "y": 6.43,
+            "rotation": 1.02,
+            "width": 110,
+            "height": 85
+          },
+          "Fragmentation_lv5/smoke4": {
+            "x": 22.47,
+            "y": 6.43,
+            "rotation": 1.02,
+            "width": 110,
+            "height": 85
+          },
+          "Fragmentation_lv5/smoke5": {
+            "x": 22.47,
+            "y": 6.43,
+            "rotation": 1.02,
+            "width": 110,
+            "height": 85
+          }
+        }
+      }
+    }
+  ],
+  "events": {
+    "1st_shot": {},
+    "2nd_shot": {},
+    "3nd_shot": {}
+  },
+  "animations": {
+    "attack": {
+      "slots": {
+        "smoke": {
+          "attachment": [
+            {
+              "name": "Fragmentation_lv5/smoke1"
+            },
+            {
+              "time": 0.0667,
+              "name": "Fragmentation_lv5/smoke2"
+            },
+            {
+              "time": 0.1333,
+              "name": "Fragmentation_lv5/smoke3"
+            },
+            {
+              "time": 0.2,
+              "name": "Fragmentation_lv5/smoke4"
+            },
+            {
+              "time": 0.2667,
+              "name": "Fragmentation_lv5/smoke5"
+            },
+            {
+              "time": 0.3333,
+              "name": "Fragmentation_lv5/smoke1"
+            },
+            {
+              "time": 0.4,
+              "name": "Fragmentation_lv5/smoke2"
+            },
+            {
+              "time": 0.4667,
+              "name": "Fragmentation_lv5/smoke3"
+            },
+            {
+              "time": 0.5333,
+              "name": "Fragmentation_lv5/smoke4"
+            },
+            {
+              "time": 0.6,
+              "name": "Fragmentation_lv5/smoke5"
+            },
+            {
+              "time": 0.6667,
+              "name": null
+            }
+          ]
+        },
+        "smoke2": {
+          "attachment": [
+            {
+              "name": "Fragmentation_lv5/smoke1"
+            },
+            {
+              "time": 0.0667,
+              "name": "Fragmentation_lv5/smoke2"
+            },
+            {
+              "time": 0.1333,
+              "name": "Fragmentation_lv5/smoke3"
+            },
+            {
+              "time": 0.2,
+              "name": "Fragmentation_lv5/smoke4"
+            },
+            {
+              "time": 0.2667,
+              "name": "Fragmentation_lv5/smoke5"
+            },
+            {
+              "time": 0.3333,
+              "name": "Fragmentation_lv5/smoke1"
+            },
+            {
+              "time": 0.4,
+              "name": "Fragmentation_lv5/smoke2"
+            },
+            {
+              "time": 0.4667,
+              "name": "Fragmentation_lv5/smoke3"
+            },
+            {
+              "time": 0.5333,
+              "name": "Fragmentation_lv5/smoke4"
+            },
+            {
+              "time": 0.6,
+              "name": "Fragmentation_lv5/smoke5"
+            },
+            {
+              "time": 0.6667,
+              "name": null
+            }
+          ]
+        }
+      },
+      "bones": {
+        "gun2_6": {
+          "translate": [
+            {
+              "x": -7
+            },
+            {
+              "time": 0.1667,
+              "x": -24.49
+            },
+            {
+              "time": 0.2333,
+              "x": 23.37
+            },
+            {
+              "time": 0.3667
+            },
+            {
+              "time": 0.4333,
+              "x": -7
+            }
+          ]
+        },
+        "gun1_6": {
+          "translate": [
+            {
+              "time": 0.1
+            },
+            {
+              "time": 0.3333,
+              "x": -22.26
+            },
+            {
+              "time": 0.4,
+              "x": 24.49
+            },
+            {
+              "time": 0.6
+            }
+          ]
+        },
+        "gun1_4": {
+          "translate": [
+            {
+              "time": 0.1
+            },
+            {
+              "time": 0.3333,
+              "x": -22.26
+            },
+            {
+              "time": 0.4,
+              "x": 24.49
+            },
+            {
+              "time": 0.6
+            }
+          ]
+        },
+        "gun1_3": {
+          "translate": [
+            {
+              "time": 0.1333
+            },
+            {
+              "time": 0.3667,
+              "x": -6.68
+            },
+            {
+              "time": 0.4333,
+              "x": 13.91
+            },
+            {
+              "time": 0.6333
+            }
+          ]
+        },
+        "gun1_7": {
+          "translate": [
+            {
+              "time": 0.1333
+            },
+            {
+              "time": 0.3667,
+              "x": -6.68
+            },
+            {
+              "time": 0.4333,
+              "x": 13.91
+            },
+            {
+              "time": 0.6333
+            }
+          ]
+        },
+        "gun1_8": {
+          "translate": [
+            {
+              "time": 0.1667
+            },
+            {
+              "time": 0.4,
+              "x": -11.13
+            },
+            {
+              "time": 0.4667,
+              "x": 33.95
+            },
+            {
+              "time": 0.5333,
+              "x": 41.06
+            },
+            {
+              "time": 0.6,
+              "x": -6.75
+            },
+            {
+              "time": 0.6667
+            }
+          ]
+        },
+        "gun2_7": {
+          "translate": [
+            {
+              "x": -1.59
+            },
+            {
+              "time": 0.2,
+              "x": -11.13
+            },
+            {
+              "time": 0.2667,
+              "x": 20.03
+            },
+            {
+              "time": 0.4
+            },
+            {
+              "time": 0.4333,
+              "x": -1.59
+            }
+          ],
+          "scale": [
+            {
+              "time": 0.2
+            },
+            {
+              "time": 0.2667,
+              "x": 1.285
+            },
+            {
+              "time": 0.3667
+            }
+          ]
+        },
+        "gun2_8": {
+          "translate": [
+            {},
+            {
+              "time": 0.2333,
+              "x": -16.7
+            },
+            {
+              "time": 0.3,
+              "x": 46.75
+            },
+            {
+              "time": 0.3667,
+              "x": 47.09
+            },
+            {
+              "time": 0.4333
+            },
+            {
+              "time": 0.5,
+              "x": -8.3
+            },
+            {
+              "time": 0.6
+            }
+          ]
+        },
+        "gun1_5": {
+          "translate": [
+            {
+              "time": 0.1667
+            },
+            {
+              "time": 0.4,
+              "x": -11.13
+            },
+            {
+              "time": 0.4667,
+              "x": 33.95
+            },
+            {
+              "time": 0.5333,
+              "x": 41.06
+            },
+            {
+              "time": 0.6,
+              "x": -6.75
+            },
+            {
+              "time": 0.6667
+            }
+          ]
+        },
+        "Fragmentation_lv5/ody_3": {
+          "rotate": [
+            {
+              "angle": 0.08,
+              "curve": 0.382,
+              "c2": 0.57,
+              "c3": 0.735
+            },
+            {
+              "time": 0.0667,
+              "angle": -1.59,
+              "curve": 0.375,
+              "c2": 0.62,
+              "c3": 0.716
+            },
+            {
+              "time": 0.4,
+              "angle": -12.18,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 0.5333,
+              "angle": 4.29,
+              "curve": 0.243,
+              "c3": 0.649,
+              "c4": 0.6
+            },
+            {
+              "time": 0.6667,
+              "angle": 0.08
+            }
+          ],
+          "translate": [
+            {
+              "x": -2.29,
+              "curve": 0.371,
+              "c2": 0.62,
+              "c3": 0.71
+            },
+            {
+              "time": 0.0333,
+              "curve": 0.305,
+              "c3": 0.64,
+              "c4": 0.36
+            },
+            {
+              "time": 0.0667,
+              "x": -0.56,
+              "curve": 0.289,
+              "c2": 0.17,
+              "c3": 0.755
+            },
+            {
+              "time": 0.3667,
+              "x": -13.05,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 0.5,
+              "x": -23.72,
+              "curve": 0.243,
+              "c3": 0.689,
+              "c4": 0.75
+            },
+            {
+              "time": 0.6667,
+              "x": -2.29
+            }
+          ]
+        },
+        "Fragmentation_lv5/ody_4": {
+          "rotate": [
+            {
+              "angle": 1.49,
+              "curve": 0.382,
+              "c2": 0.57,
+              "c3": 0.735
+            },
+            {
+              "time": 0.0667,
+              "angle": 1.99,
+              "curve": 0.375,
+              "c2": 0.62,
+              "c3": 0.716
+            },
+            {
+              "time": 0.4,
+              "angle": 11.93,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 0.5333,
+              "angle": 0.24,
+              "curve": 0.243,
+              "c3": 0.649,
+              "c4": 0.6
+            },
+            {
+              "time": 0.6667,
+              "angle": 1.49
+            }
+          ],
+          "translate": [
+            {
+              "x": -2.29,
+              "curve": 0.371,
+              "c2": 0.62,
+              "c3": 0.71
+            },
+            {
+              "time": 0.0333,
+              "curve": 0.305,
+              "c3": 0.64,
+              "c4": 0.36
+            },
+            {
+              "time": 0.0667,
+              "x": -0.56,
+              "curve": 0.289,
+              "c2": 0.17,
+              "c3": 0.755
+            },
+            {
+              "time": 0.3667,
+              "x": -13.05,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 0.5,
+              "x": -23.72,
+              "curve": 0.243,
+              "c3": 0.689,
+              "c4": 0.75
+            },
+            {
+              "time": 0.6667,
+              "x": -2.29
+            }
+          ]
+        }
+      },
+      "events": [
+        {
+          "time": 0.3333,
+          "name": "1st_shot"
+        },
+        {
+          "time": 0.4667,
+          "name": "2nd_shot"
+        },
+        {
+          "time": 0.4667,
+          "name": "3nd_shot"
+        }
+      ]
+    },
+    "idle": {
+      "slots": {
+        "smoke": {
+          "attachment": [
+            {
+              "name": "Fragmentation_lv5/smoke1"
+            },
+            {
+              "time": 0.0667,
+              "name": "Fragmentation_lv5/smoke2"
+            },
+            {
+              "time": 0.1333,
+              "name": "Fragmentation_lv5/smoke3"
+            },
+            {
+              "time": 0.2,
+              "name": "Fragmentation_lv5/smoke4"
+            },
+            {
+              "time": 0.2667,
+              "name": "Fragmentation_lv5/smoke5"
+            },
+            {
+              "time": 0.3333,
+              "name": "Fragmentation_lv5/smoke1"
+            },
+            {
+              "time": 0.4,
+              "name": "Fragmentation_lv5/smoke2"
+            },
+            {
+              "time": 0.4667,
+              "name": "Fragmentation_lv5/smoke3"
+            },
+            {
+              "time": 0.5333,
+              "name": "Fragmentation_lv5/smoke4"
+            },
+            {
+              "time": 0.6,
+              "name": "Fragmentation_lv5/smoke5"
+            },
+            {
+              "time": 0.6667,
+              "name": null
+            }
+          ]
+        },
+        "smoke2": {
+          "attachment": [
+            {
+              "name": "Fragmentation_lv5/smoke1"
+            },
+            {
+              "time": 0.0667,
+              "name": "Fragmentation_lv5/smoke2"
+            },
+            {
+              "time": 0.1333,
+              "name": "Fragmentation_lv5/smoke3"
+            },
+            {
+              "time": 0.2,
+              "name": "Fragmentation_lv5/smoke4"
+            },
+            {
+              "time": 0.2667,
+              "name": "Fragmentation_lv5/smoke5"
+            },
+            {
+              "time": 0.3333,
+              "name": "Fragmentation_lv5/smoke1"
+            },
+            {
+              "time": 0.4,
+              "name": "Fragmentation_lv5/smoke2"
+            },
+            {
+              "time": 0.4667,
+              "name": "Fragmentation_lv5/smoke3"
+            },
+            {
+              "time": 0.5333,
+              "name": "Fragmentation_lv5/smoke4"
+            },
+            {
+              "time": 0.6,
+              "name": "Fragmentation_lv5/smoke5"
+            },
+            {
+              "time": 0.6667,
+              "name": null
+            }
+          ]
+        }
+      },
+      "bones": {
+        "Fragmentation_lv5/ody_1": {
+          "scale": [
+            {},
+            {
+              "time": 0.3333,
+              "x": 1.033
+            },
+            {
+              "time": 0.6667
+            }
+          ]
+        },
+        "gun1_4": {
+          "translate": [
+            {
+              "x": 1.23,
+              "curve": 0.375,
+              "c2": 0.62,
+              "c3": 0.716
+            },
+            {
+              "time": 0.0667,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 0.4,
+              "x": 9.46,
+              "curve": 0.243,
+              "c3": 0.68,
+              "c4": 0.71
+            },
+            {
+              "time": 0.6667,
+              "x": 1.23
+            }
+          ]
+        },
+        "gun1_6": {
+          "translate": [
+            {
+              "x": 1.23,
+              "curve": 0.375,
+              "c2": 0.62,
+              "c3": 0.716
+            },
+            {
+              "time": 0.0667,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 0.4,
+              "x": 9.46,
+              "curve": 0.243,
+              "c3": 0.68,
+              "c4": 0.71
+            },
+            {
+              "time": 0.6667,
+              "x": 1.23
+            }
+          ]
+        },
+        "gun1_3": {
+          "translate": [
+            {
+              "x": 2.03,
+              "curve": 0.381,
+              "c2": 0.55,
+              "c3": 0.742
+            },
+            {
+              "time": 0.1333,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 0.4667,
+              "x": 5.52,
+              "curve": 0.245,
+              "c3": 0.637,
+              "c4": 0.56
+            },
+            {
+              "time": 0.6667,
+              "x": 2.03
+            }
+          ]
+        },
+        "gun1_7": {
+          "translate": [
+            {
+              "x": 2.03,
+              "curve": 0.381,
+              "c2": 0.55,
+              "c3": 0.742
+            },
+            {
+              "time": 0.1333,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 0.4667,
+              "x": 5.52,
+              "curve": 0.245,
+              "c3": 0.637,
+              "c4": 0.56
+            },
+            {
+              "time": 0.6667,
+              "x": 2.03
+            }
+          ]
+        },
+        "gun1_8": {
+          "translate": [
+            {
+              "x": 3.49,
+              "curve": 0.363,
+              "c2": 0.44,
+              "c3": 0.755
+            },
+            {
+              "time": 0.2,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 0.5333,
+              "x": 5.52,
+              "curve": 0.258,
+              "c3": 0.619,
+              "c4": 0.45
+            },
+            {
+              "time": 0.6667,
+              "x": 3.49
+            }
+          ]
+        },
+        "gun1_5": {
+          "translate": [
+            {
+              "x": 3.49,
+              "curve": 0.363,
+              "c2": 0.44,
+              "c3": 0.755
+            },
+            {
+              "time": 0.2,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 0.5333,
+              "x": 5.52,
+              "curve": 0.258,
+              "c3": 0.619,
+              "c4": 0.45
+            },
+            {
+              "time": 0.6667,
+              "x": 3.49
+            }
+          ]
+        },
+        "gun2_6": {
+          "translate": [
+            {
+              "x": 5.36,
+              "curve": 0.326,
+              "c2": 0.31,
+              "c3": 0.697,
+              "c4": 0.76
+            },
+            {
+              "time": 0.1667,
+              "x": 0.92,
+              "curve": 0.375,
+              "c2": 0.62,
+              "c3": 0.716
+            },
+            {
+              "time": 0.2333,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 0.5667,
+              "x": 7.09,
+              "curve": 0.269,
+              "c3": 0.618,
+              "c4": 0.42
+            },
+            {
+              "time": 0.6667,
+              "x": 5.36
+            }
+          ]
+        },
+        "gun2_7": {
+          "translate": [
+            {
+              "x": 6.81,
+              "curve": 0.278,
+              "c2": 0.15,
+              "c3": 0.651,
+              "c4": 0.61
+            },
+            {
+              "time": 0.1667,
+              "x": 2.61,
+              "curve": 0.381,
+              "c2": 0.55,
+              "c3": 0.742
+            },
+            {
+              "time": 0.3,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 0.6333,
+              "x": 7.1,
+              "curve": 0.305,
+              "c3": 0.64,
+              "c4": 0.36
+            },
+            {
+              "time": 0.6667,
+              "x": 6.81
+            }
+          ]
+        },
+        "gun2_8": {
+          "translate": [
+            {
+              "x": 17.36,
+              "curve": 0.36,
+              "c2": 0.64,
+              "c3": 0.695
+            },
+            {
+              "time": 0.0333,
+              "x": 18.13,
+              "curve": 0.258,
+              "c3": 0.619,
+              "c4": 0.45
+            },
+            {
+              "time": 0.1667,
+              "x": 11.46,
+              "curve": 0.363,
+              "c2": 0.44,
+              "c3": 0.755
+            },
+            {
+              "time": 0.3667,
+              "curve": 0.245,
+              "c3": 0.711,
+              "c4": 0.83
+            },
+            {
+              "time": 0.6667,
+              "x": 17.36
+            }
+          ]
+        },
+        "Fragmentation_lv5/ody_4": {
+          "rotate": [
+            {
+              "angle": -2.8,
+              "curve": 0.381,
+              "c2": 0.55,
+              "c3": 0.742
+            },
+            {
+              "time": 0.1333,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 0.4667,
+              "angle": -7.61,
+              "curve": 0.245,
+              "c3": 0.637,
+              "c4": 0.56
+            },
+            {
+              "time": 0.6667,
+              "angle": -2.8
+            }
+          ],
+          "translate": [
+            {
+              "x": 0.88,
+              "curve": 0.375,
+              "c2": 0.62,
+              "c3": 0.716
+            },
+            {
+              "time": 0.0667,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 0.4,
+              "x": 6.8,
+              "curve": 0.243,
+              "c3": 0.68,
+              "c4": 0.71
+            },
+            {
+              "time": 0.6667,
+              "x": 0.88
+            }
+          ]
+        },
+        "Fragmentation_lv5/ody_3": {
+          "rotate": [
+            {
+              "angle": 2.14,
+              "curve": 0.381,
+              "c2": 0.55,
+              "c3": 0.742
+            },
+            {
+              "time": 0.1333,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 0.4667,
+              "angle": 5.81,
+              "curve": 0.245,
+              "c3": 0.637,
+              "c4": 0.56
+            },
+            {
+              "time": 0.6667,
+              "angle": 2.14
+            }
+          ],
+          "translate": [
+            {
+              "x": 0.88,
+              "curve": 0.375,
+              "c2": 0.62,
+              "c3": 0.716
+            },
+            {
+              "time": 0.0667,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 0.4,
+              "x": 6.8,
+              "curve": 0.243,
+              "c3": 0.68,
+              "c4": 0.71
+            },
+            {
+              "time": 0.6667,
+              "x": 0.88
+            }
+          ]
+        }
+      }
+    },
+    "realease": {
+      "slots": {
+        "Fragmentation_lv5/ody_2": {
+          "attachment": [
+            {
+              "name": null
+            },
+            {
+              "time": 0.8333,
+              "name": "Fragmentation_lv5/body_2"
+            }
+          ]
+        },
+        "Fragmentation_lv5/ody_3": {
+          "attachment": [
+            {
+              "name": null
+            },
+            {
+              "time": 0.8333,
+              "name": "Fragmentation_lv5/body_2"
+            }
+          ]
+        },
+        "Fragmentation_lv5/ody_4": {
+          "attachment": [
+            {
+              "name": null
+            },
+            {
+              "time": 1.2667,
+              "name": "Fragmentation_lv5/body_2"
+            }
+          ]
+        },
+        "Fragmentation_lv5/ody_5": {
+          "attachment": [
+            {
+              "name": null
+            },
+            {
+              "time": 1.2667,
+              "name": "Fragmentation_lv5/body_2"
+            }
+          ]
+        },
+        "gun1_2": {
+          "attachment": [
+            {
+              "name": null
+            },
+            {
+              "time": 1.1667,
+              "name": "Fragmentation_lv5/gun1_2"
+            }
+          ]
+        },
+        "gun1_3": {
+          "attachment": [
+            {
+              "name": null
+            },
+            {
+              "time": 1.1,
+              "name": "Fragmentation_lv5/gun1_3"
+            }
+          ]
+        },
+        "gun1_4": {
+          "attachment": [
+            {
+              "name": null
+            },
+            {
+              "time": 0.7333,
+              "name": "Fragmentation_lv5/gun1_4"
+            }
+          ]
+        },
+        "gun1_5": {
+          "attachment": [
+            {
+              "name": null
+            },
+            {
+              "time": 1.1667,
+              "name": "Fragmentation_lv5/gun1_1"
+            }
+          ]
+        },
+        "gun1_6": {
+          "attachment": [
+            {
+              "name": null
+            },
+            {
+              "time": 0.7333,
+              "name": "Fragmentation_lv5/gun1_4"
+            }
+          ]
+        },
+        "gun1_7": {
+          "attachment": [
+            {
+              "name": null
+            },
+            {
+              "time": 1.1,
+              "name": "Fragmentation_lv5/gun1_3"
+            }
+          ]
+        },
+        "gun1_8": {
+          "attachment": [
+            {
+              "name": null
+            },
+            {
+              "time": 1.1667,
+              "name": "Fragmentation_lv5/gun1_1"
+            }
+          ]
+        },
+        "gun1_9": {
+          "attachment": [
+            {
+              "name": null
+            },
+            {
+              "time": 1.1667,
+              "name": "Fragmentation_lv5/gun1_2"
+            }
+          ]
+        },
+        "gun2_6": {
+          "attachment": [
+            {
+              "name": null
+            },
+            {
+              "time": 0.7333,
+              "name": "Fragmentation_lv5/gun2_3"
+            }
+          ]
+        },
+        "gun2_7": {
+          "attachment": [
+            {
+              "name": null
+            },
+            {
+              "time": 1.1,
+              "name": "Fragmentation_lv5/gun2_2"
+            }
+          ]
+        },
+        "gun2_8": {
+          "attachment": [
+            {
+              "name": null
+            },
+            {
+              "time": 1.1667,
+              "name": "Fragmentation_lv5/gun1_1"
+            }
+          ]
+        },
+        "gun2_9": {
+          "attachment": [
+            {
+              "name": null
+            },
+            {
+              "time": 1.1667,
+              "name": "Fragmentation_lv5/gun1_2"
+            }
+          ]
+        },
+        "gun2_sd": {
+          "attachment": [
+            {
+              "name": null
+            },
+            {
+              "time": 1.1667,
+              "name": "Fragmentation_lv5/gun2_sd"
+            }
+          ]
+        },
+        "smoke": {
+          "attachment": [
+            {
+              "name": null
+            },
+            {
+              "time": 1.2667,
+              "name": "Fragmentation_lv5/smoke1"
+            },
+            {
+              "time": 1.3333,
+              "name": "Fragmentation_lv5/smoke2"
+            },
+            {
+              "time": 1.4,
+              "name": "Fragmentation_lv5/smoke3"
+            },
+            {
+              "time": 1.4667,
+              "name": "Fragmentation_lv5/smoke4"
+            },
+            {
+              "time": 1.5333,
+              "name": "Fragmentation_lv5/smoke5"
+            },
+            {
+              "time": 1.6,
+              "name": null
+            }
+          ]
+        },
+        "smoke2": {
+          "attachment": [
+            {
+              "name": null
+            },
+            {
+              "time": 1.2667,
+              "name": "Fragmentation_lv5/smoke1"
+            },
+            {
+              "time": 1.3333,
+              "name": "Fragmentation_lv5/smoke2"
+            },
+            {
+              "time": 1.4,
+              "name": "Fragmentation_lv5/smoke3"
+            },
+            {
+              "time": 1.4667,
+              "name": "Fragmentation_lv5/smoke4"
+            },
+            {
+              "time": 1.5333,
+              "name": "Fragmentation_lv5/smoke5"
+            },
+            {
+              "time": 1.6,
+              "name": null
+            }
+          ]
+        }
+      },
+      "bones": {
+        "Fragmentation_lv5/ody_1": {
+          "translate": [
+            {
+              "y": -3.36
+            },
+            {
+              "time": 0.1667,
+              "y": -5.87
+            },
+            {
+              "time": 0.3333,
+              "y": -3.36
+            },
+            {
+              "time": 0.5,
+              "y": -5.87
+            },
+            {
+              "time": 0.6667,
+              "y": -3.36
+            },
+            {
+              "time": 0.7333,
+              "y": 19.3
+            },
+            {
+              "time": 0.8333
+            }
+          ],
+          "scale": [
+            {
+              "x": 0.732,
+              "y": 0.888
+            },
+            {
+              "time": 0.1667,
+              "x": 0.618,
+              "y": 0.85
+            },
+            {
+              "time": 0.3333,
+              "x": 0.732,
+              "y": 0.888
+            },
+            {
+              "time": 0.5,
+              "x": 0.618,
+              "y": 0.85
+            },
+            {
+              "time": 0.6667,
+              "x": 0.732,
+              "y": 0.888
+            },
+            {
+              "time": 0.7333,
+              "x": 1.185,
+              "y": 1.316
+            },
+            {
+              "time": 0.8333
+            }
+          ]
+        },
+        "Fragmentation_lv5/ody_3": {
+          "rotate": [
+            {
+              "angle": -33.55,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.8333,
+              "angle": -33.55
+            },
+            {
+              "time": 0.9667,
+              "angle": -71.08
+            },
+            {
+              "time": 1.0667,
+              "angle": -69.75
+            },
+            {
+              "time": 1.1667,
+              "angle": 11.71
+            },
+            {
+              "time": 1.2667
+            }
+          ],
+          "translate": [
+            {
+              "x": 39.44,
+              "y": -60.76,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.8333,
+              "x": 39.44,
+              "y": -60.76
+            },
+            {
+              "time": 0.9667,
+              "x": 8.53,
+              "y": -45.84
+            },
+            {
+              "time": 1.0667,
+              "x": -11.73,
+              "y": -25.58
+            },
+            {
+              "time": 1.1667,
+              "curve": "stepped"
+            },
+            {
+              "time": 1.2667
+            },
+            {
+              "time": 1.3667,
+              "x": 11.2
+            },
+            {
+              "time": 1.4667
+            },
+            {
+              "time": 1.5667,
+              "x": 11.2
+            },
+            {
+              "time": 1.6667
+            }
+          ],
+          "scale": [
+            {
+              "x": 0.554,
+              "y": 0.554,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.8333,
+              "x": 0.554,
+              "y": 0.554
+            },
+            {
+              "time": 0.9667,
+              "x": 1.313,
+              "y": 1.313
+            },
+            {
+              "time": 1.0667,
+              "x": 1.3,
+              "y": 1.1
+            },
+            {
+              "time": 1.1667
+            }
+          ]
+        },
+        "Fragmentation_lv5/ody_4": {
+          "rotate": [
+            {
+              "angle": 36.43,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.8333,
+              "angle": 36.43
+            },
+            {
+              "time": 0.9667,
+              "angle": 69.19
+            },
+            {
+              "time": 1.0667,
+              "angle": 71.94
+            },
+            {
+              "time": 1.1667,
+              "angle": -11.5
+            },
+            {
+              "time": 1.2667
+            }
+          ],
+          "translate": [
+            {
+              "x": 38.38,
+              "y": 62.89,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.8333,
+              "x": 38.38,
+              "y": 62.89
+            },
+            {
+              "time": 0.9667,
+              "x": 6.4,
+              "y": 44.77
+            },
+            {
+              "time": 1.0667,
+              "x": -11.73,
+              "y": 24.52
+            },
+            {
+              "time": 1.1667,
+              "curve": "stepped"
+            },
+            {
+              "time": 1.2667
+            },
+            {
+              "time": 1.3667,
+              "x": 11.2
+            },
+            {
+              "time": 1.4667
+            },
+            {
+              "time": 1.5667,
+              "x": 11.2
+            },
+            {
+              "time": 1.6667
+            }
+          ],
+          "scale": [
+            {
+              "x": 0.554,
+              "y": 0.554,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.8333,
+              "x": 0.554,
+              "y": 0.554
+            },
+            {
+              "time": 0.9667,
+              "x": 1.313,
+              "y": 1.313
+            },
+            {
+              "time": 1.0667,
+              "x": 1.3,
+              "y": 1.1
+            },
+            {
+              "time": 1.1667
+            }
+          ]
+        },
+        "gun1_5": {
+          "translate": [
+            {
+              "time": 1.1667,
+              "x": -42.79
+            },
+            {
+              "time": 1.2667,
+              "x": 39.43
+            },
+            {
+              "time": 1.3667,
+              "x": -11.75
+            },
+            {
+              "time": 1.4667,
+              "x": 7.38
+            },
+            {
+              "time": 1.5333
+            }
+          ]
+        },
+        "gun2_8": {
+          "translate": [
+            {
+              "time": 1.1667,
+              "x": -46.84
+            },
+            {
+              "time": 1.3,
+              "x": 50.44
+            },
+            {
+              "time": 1.4,
+              "x": -14.59
+            },
+            {
+              "time": 1.5333,
+              "x": 20.59
+            },
+            {
+              "time": 1.6333
+            }
+          ]
+        },
+        "gun1_8": {
+          "translate": [
+            {
+              "time": 1.1667,
+              "x": -42.79
+            },
+            {
+              "time": 1.2667,
+              "x": 39.43
+            },
+            {
+              "time": 1.3667,
+              "x": -11.75
+            },
+            {
+              "time": 1.4667,
+              "x": 7.38
+            },
+            {
+              "time": 1.5333
+            }
+          ]
+        },
+        "gun2_6": {
+          "translate": [
+            {
+              "time": 0.7333
+            },
+            {
+              "time": 0.8333,
+              "x": 72.99
+            },
+            {
+              "time": 0.9667,
+              "x": 8.39
+            },
+            {
+              "time": 1.0333,
+              "x": -20.14
+            },
+            {
+              "time": 1.1667,
+              "x": 18.46
+            },
+            {
+              "time": 1.3
+            },
+            {
+              "time": 1.4,
+              "x": -5.33
+            },
+            {
+              "time": 1.5
+            }
+          ],
+          "scale": [
+            {
+              "time": 0.7333
+            },
+            {
+              "time": 0.8333,
+              "x": 1.47
+            },
+            {
+              "time": 0.9667
+            },
+            {
+              "time": 1.0333,
+              "x": 0.934
+            },
+            {
+              "time": 1.1667,
+              "x": 1.252
+            },
+            {
+              "time": 1.3
+            }
+          ]
+        },
+        "gun2_7": {
+          "translate": [
+            {
+              "time": 1.1,
+              "x": -9.3
+            },
+            {
+              "time": 1.2,
+              "x": 10.37
+            },
+            {
+              "time": 1.3,
+              "x": 3.97
+            },
+            {
+              "time": 1.3667,
+              "x": -4.56
+            },
+            {
+              "time": 1.4667
+            }
+          ],
+          "scale": [
+            {
+              "time": 1.1,
+              "x": 0.35
+            },
+            {
+              "time": 1.2,
+              "x": 1.297
+            },
+            {
+              "time": 1.3
+            }
+          ]
+        },
+        "gun1_6": {
+          "translate": [
+            {
+              "time": 0.7333
+            },
+            {
+              "time": 0.8333,
+              "x": 44.14
+            },
+            {
+              "time": 0.9667
+            },
+            {
+              "time": 1.0333,
+              "x": -14.26
+            },
+            {
+              "time": 1.1667,
+              "x": 12.59
+            },
+            {
+              "time": 1.3
+            },
+            {
+              "time": 1.3667,
+              "x": -4.2
+            },
+            {
+              "time": 1.4333
+            }
+          ],
+          "scale": [
+            {
+              "time": 0.7333
+            },
+            {
+              "time": 0.8333,
+              "x": 1.47
+            },
+            {
+              "time": 0.9667
+            }
+          ]
+        },
+        "gun1_4": {
+          "translate": [
+            {
+              "time": 0.7333
+            },
+            {
+              "time": 0.8333,
+              "x": 44.14
+            },
+            {
+              "time": 0.9667
+            },
+            {
+              "time": 1.0333,
+              "x": -14.26
+            },
+            {
+              "time": 1.1667,
+              "x": 12.59
+            },
+            {
+              "time": 1.3
+            },
+            {
+              "time": 1.3667,
+              "x": -4.2
+            },
+            {
+              "time": 1.4333
+            }
+          ],
+          "scale": [
+            {
+              "time": 0.7333
+            },
+            {
+              "time": 0.8333,
+              "x": 1.47
+            },
+            {
+              "time": 0.9667
+            }
+          ]
+        },
+        "gun1_7": {
+          "translate": [
+            {
+              "time": 1.1
+            },
+            {
+              "time": 1.2,
+              "x": 17.62
+            },
+            {
+              "time": 1.3
+            },
+            {
+              "time": 1.3667,
+              "x": -5.03
+            },
+            {
+              "time": 1.4667
+            }
+          ],
+          "scale": [
+            {
+              "time": 1.1,
+              "x": 0.27
+            },
+            {
+              "time": 1.2,
+              "x": 1.31
+            },
+            {
+              "time": 1.3
+            }
+          ]
+        },
+        "gun1_3": {
+          "translate": [
+            {
+              "time": 1.1
+            },
+            {
+              "time": 1.2,
+              "x": 17.62
+            },
+            {
+              "time": 1.3
+            },
+            {
+              "time": 1.3667,
+              "x": -5.03
+            },
+            {
+              "time": 1.4667
+            }
+          ],
+          "scale": [
+            {
+              "time": 1.1,
+              "x": 0.27
+            },
+            {
+              "time": 1.2,
+              "x": 1.31
+            },
+            {
+              "time": 1.3
+            }
+          ]
+        }
+      }
+    }
+  }
+}

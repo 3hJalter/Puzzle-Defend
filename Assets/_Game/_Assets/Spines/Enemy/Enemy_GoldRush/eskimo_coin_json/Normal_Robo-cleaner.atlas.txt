@@ -1,0 +1,139 @@
+
+Normal_Robo-cleaner.png
+size: 348,852
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bag
+  rotate: false
+  xy: 204, 111
+  size: 112, 168
+  orig: 112, 168
+  offset: 0, 0
+  index: -1
+bag1
+  rotate: false
+  xy: 0, 101
+  size: 112, 103
+  orig: 112, 103
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 0, 370
+  size: 204, 166
+  orig: 204, 166
+  offset: 0, 0
+  index: -1
+body1
+  rotate: false
+  xy: 0, 204
+  size: 204, 166
+  orig: 204, 166
+  offset: 0, 0
+  index: -1
+cleaner
+  rotate: true
+  xy: 0, 726
+  size: 124, 227
+  orig: 124, 227
+  offset: 0, 0
+  index: -1
+coin
+  rotate: true
+  xy: 297, 58
+  size: 53, 40
+  orig: 53, 40
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 208, 648
+  size: 137, 63
+  orig: 137, 63
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 0, 536
+  size: 190, 208
+  orig: 190, 208
+  offset: 0, 0
+  index: -1
+l_arm
+  rotate: false
+  xy: 0, 5
+  size: 109, 96
+  orig: 109, 96
+  offset: 0, 0
+  index: -1
+l_ear
+  rotate: true
+  xy: 112, 61
+  size: 62, 76
+  orig: 62, 76
+  offset: 0, 0
+  index: -1
+l_leg
+  rotate: false
+  xy: 316, 232
+  size: 30, 47
+  orig: 30, 47
+  offset: 0, 0
+  index: -1
+r_arm
+  rotate: false
+  xy: 188, 15
+  size: 109, 96
+  orig: 109, 96
+  offset: 0, 0
+  index: -1
+r_ear
+  rotate: true
+  xy: 109, 0
+  size: 61, 76
+  orig: 61, 76
+  offset: 0, 0
+  index: -1
+r_leg
+  rotate: false
+  xy: 316, 185
+  size: 29, 47
+  orig: 29, 47
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 227, 711
+  size: 139, 119
+  orig: 139, 119
+  offset: 0, 0
+  index: -1
+smoke1
+  rotate: false
+  xy: 204, 353
+  size: 126, 183
+  orig: 126, 183
+  offset: 0, 0
+  index: -1
+smoke2
+  rotate: false
+  xy: 112, 123
+  size: 83, 81
+  orig: 83, 81
+  offset: 0, 0
+  index: -1
+smoke3
+  rotate: true
+  xy: 204, 279
+  size: 74, 119
+  orig: 74, 119
+  offset: 0, 0
+  index: -1
+vacuum
+  rotate: false
+  xy: 208, 536
+  size: 128, 112
+  orig: 128, 112
+  offset: 0, 0
+  index: -1

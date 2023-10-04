@@ -1,0 +1,123 @@
+{
+  "skeleton": {
+    "images": "D:/Project/survival_city/Boss/the_haunting_spirit/haunting_spirit_images/"
+  },
+  "bones": [
+    {
+      "name": "root"
+    }
+  ],
+  "slots": [
+    {
+      "name": "telepot_1",
+      "bone": "root",
+      "attachment": "telepot_1"
+    },
+    {
+      "name": "telepot_2",
+      "bone": "root",
+      "attachment": "telepot_2"
+    },
+    {
+      "name": "telepot_3",
+      "bone": "root",
+      "attachment": "telepot_3"
+    },
+    {
+      "name": "telepot_4",
+      "bone": "root",
+      "attachment": "telepot_4"
+    },
+    {
+      "name": "telepot_5",
+      "bone": "root",
+      "attachment": "telepot_5"
+    },
+    {
+      "name": "telepot_6",
+      "bone": "root",
+      "attachment": "telepot_6"
+    },
+    {
+      "name": "telepot_7",
+      "bone": "root",
+      "attachment": "telepot_7"
+    },
+    {
+      "name": "telepot_8",
+      "bone": "root",
+      "attachment": "telepot_8"
+    }
+  ],
+  "skins": {
+    "default": {
+      "telepot_1": {
+        "telepot_1": {
+          "x": 114,
+          "y": -222,
+          "width": 230,
+          "height": 446
+        }
+      },
+      "telepot_2": {
+        "telepot_2": {
+          "x": 114,
+          "y": -222,
+          "width": 230,
+          "height": 446
+        }
+      },
+      "telepot_3": {
+        "telepot_3": {
+          "x": 114,
+          "y": -222,
+          "width": 230,
+          "height": 446
+        }
+      },
+      "telepot_4": {
+        "telepot_4": {
+          "x": 114,
+          "y": -222,
+          "width": 230,
+          "height": 446
+        }
+      },
+      "telepot_5": {
+        "telepot_5": {
+          "x": 114,
+          "y": -222,
+          "width": 230,
+          "height": 446
+        }
+      },
+      "telepot_6": {
+        "telepot_6": {
+          "x": 114,
+          "y": -222,
+          "width": 230,
+          "height": 446
+        }
+      },
+      "telepot_7": {
+        "telepot_7": {
+          "x": 114,
+          "y": -222,
+          "width": 230,
+          "height": 446
+        }
+      },
+      "telepot_8": {
+        "telepot_8": {
+          "x": 114,
+          "y": -222,
+          "width": 230,
+          "height": 446
+        }
+      }
+    }
+  },
+  "animations": {
+    "animation": {}
+  }
+}

@@ -1,0 +1,216 @@
+
+snowmobile .png
+size: 1036,1040
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L arm
+  rotate: false
+  xy: 827, 94
+  size: 85, 78
+  orig: 85, 78
+  offset: 0, 0
+  index: -1
+L ear
+  rotate: true
+  xy: 507, 31
+  size: 37, 62
+  orig: 39, 64
+  offset: 1, 1
+  index: -1
+L hand
+  rotate: false
+  xy: 682, 3
+  size: 51, 42
+  orig: 53, 44
+  offset: 1, 1
+  index: -1
+L handlebar
+  rotate: false
+  xy: 209, 5
+  size: 55, 33
+  orig: 57, 35
+  offset: 1, 1
+  index: -1
+L snowboard
+  rotate: false
+  xy: 941, 295
+  size: 87, 177
+  orig: 89, 179
+  offset: 1, 1
+  index: -1
+Layer 1
+  rotate: true
+  xy: 634, 29
+  size: 39, 46
+  orig: 41, 48
+  offset: 1, 1
+  index: -1
+R arm
+  rotate: false
+  xy: 827, 14
+  size: 83, 78
+  orig: 83, 78
+  offset: 0, 0
+  index: -1
+R ear
+  rotate: true
+  xy: 571, 31
+  size: 37, 61
+  orig: 39, 63
+  offset: 1, 1
+  index: -1
+R hand
+  rotate: false
+  xy: 735, 4
+  size: 51, 41
+  orig: 53, 43
+  offset: 1, 1
+  index: -1
+R handlebar
+  rotate: false
+  xy: 266, 7
+  size: 55, 31
+  orig: 57, 33
+  offset: 1, 1
+  index: -1
+R snowboard
+  rotate: true
+  xy: 507, 70
+  size: 91, 176
+  orig: 93, 178
+  offset: 1, 1
+  index: -1
+body
+  rotate: false
+  xy: 685, 47
+  size: 140, 114
+  orig: 146, 120
+  offset: 3, 3
+  index: -1
+eyes
+  rotate: true
+  xy: 323, 7
+  size: 31, 32
+  orig: 33, 34
+  offset: 1, 1
+  index: -1
+hat
+  rotate: true
+  xy: 935, 863
+  size: 173, 93
+  orig: 175, 95
+  offset: 1, 1
+  index: -1
+head
+  rotate: true
+  xy: 780, 174
+  size: 141, 157
+  orig: 141, 157
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 939, 133
+  size: 92, 160
+  orig: 94, 162
+  offset: 1, 1
+  index: -1
+mobile
+  rotate: false
+  xy: 369, 727
+  size: 282, 309
+  orig: 282, 309
+  offset: 0, 0
+  index: -1
+mobile_broken
+  rotate: false
+  xy: 653, 729
+  size: 280, 307
+  orig: 280, 307
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 2, 229
+  size: 377, 218
+  orig: 378, 218
+  offset: 1, 0
+  index: -1
+smoke1
+  rotate: false
+  xy: 935, 759
+  size: 79, 102
+  orig: 81, 104
+  offset: 1, 1
+  index: -1
+smoke2
+  rotate: false
+  xy: 369, 611
+  size: 109, 114
+  orig: 111, 116
+  offset: 1, 1
+  index: -1
+smoke3
+  rotate: false
+  xy: 914, 6
+  size: 119, 125
+  orig: 121, 127
+  offset: 1, 1
+  index: -1
+smoke_0000_Layer-1
+  rotate: false
+  xy: 780, 317
+  size: 159, 155
+  orig: 159, 155
+  offset: 0, 0
+  index: -1
+smoke_0001_Layer-2
+  rotate: true
+  xy: 2, 2
+  size: 225, 205
+  orig: 225, 205
+  offset: 0, 0
+  index: -1
+smoke_0002_Layer-3
+  rotate: true
+  xy: 770, 474
+  size: 253, 245
+  orig: 253, 245
+  offset: 0, 0
+  index: -1
+smoke_0003_Layer-4
+  rotate: false
+  xy: 222, 40
+  size: 283, 273
+  orig: 283, 273
+  offset: 0, 0
+  index: -1
+smoke_0004_Layer-5
+  rotate: true
+  xy: 507, 442
+  size: 283, 261
+  orig: 283, 261
+  offset: 0, 0
+  index: -1
+smoke_0005_Layer-6
+  rotate: false
+  xy: 507, 163
+  size: 271, 277
+  orig: 272, 277
+  offset: 1, 0
+  index: -1
+smoke_0006_Layer-0
+  rotate: true
+  xy: 222, 315
+  size: 291, 283
+  orig: 293, 285
+  offset: 1, 1
+  index: -1
+smoke_broken
+  rotate: false
+  xy: 2, 608
+  size: 365, 428
+  orig: 365, 428
+  offset: 0, 0
+  index: -1

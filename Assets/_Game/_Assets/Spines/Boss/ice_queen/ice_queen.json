@@ -1,0 +1,357 @@
+{
+  "skeleton": {
+    "images": "D:/Project/survival_city/Boss/ice_queen/ice_queen_images/"
+  },
+  "bones": [
+    {
+      "name": "root"
+    }
+  ],
+  "slots": [
+    {
+      "name": "shadow",
+      "bone": "root",
+      "attachment": "shadow"
+    },
+    {
+      "name": "body",
+      "bone": "root",
+      "attachment": "body"
+    },
+    {
+      "name": "cloth4",
+      "bone": "root",
+      "attachment": "cloth4"
+    },
+    {
+      "name": "cloth3",
+      "bone": "root",
+      "attachment": "cloth3"
+    },
+    {
+      "name": "cloth2",
+      "bone": "root",
+      "attachment": "cloth2"
+    },
+    {
+      "name": "cloth1",
+      "bone": "root",
+      "attachment": "cloth1"
+    },
+    {
+      "name": "cape1",
+      "bone": "root",
+      "attachment": "cape1"
+    },
+    {
+      "name": "cape2",
+      "bone": "root",
+      "attachment": "cape2"
+    },
+    {
+      "name": "cape3",
+      "bone": "root",
+      "attachment": "cape3"
+    },
+    {
+      "name": "cape4",
+      "bone": "root",
+      "attachment": "cape4"
+    },
+    {
+      "name": "cape5",
+      "bone": "root",
+      "attachment": "cape5"
+    },
+    {
+      "name": "r_wist",
+      "bone": "root",
+      "attachment": "r_wist"
+    },
+    {
+      "name": "r_hand1",
+      "bone": "root",
+      "attachment": "r_hand1"
+    },
+    {
+      "name": "r_hand",
+      "bone": "root",
+      "attachment": "r_hand"
+    },
+    {
+      "name": "r_finger",
+      "bone": "root",
+      "attachment": "r_finger"
+    },
+    {
+      "name": "head_sd",
+      "bone": "root",
+      "attachment": "head_sd"
+    },
+    {
+      "name": "head",
+      "bone": "root",
+      "attachment": "head"
+    },
+    {
+      "name": "r_eye2",
+      "bone": "root",
+      "attachment": "r_eye2"
+    },
+    {
+      "name": "r_eye1",
+      "bone": "root",
+      "attachment": "r_eye1"
+    },
+    {
+      "name": "l_eye",
+      "bone": "root",
+      "attachment": "l_eye"
+    },
+    {
+      "name": "l_wist",
+      "bone": "root",
+      "attachment": "l_wist"
+    },
+    {
+      "name": "l_hand2",
+      "bone": "root",
+      "attachment": "l_hand2"
+    },
+    {
+      "name": "l_hand1",
+      "bone": "root",
+      "attachment": "l_hand1"
+    },
+    {
+      "name": "l_finger",
+      "bone": "root",
+      "attachment": "l_finger"
+    },
+    {
+      "name": "crown_sd",
+      "bone": "root",
+      "attachment": "crown_sd"
+    },
+    {
+      "name": "crown",
+      "bone": "root",
+      "attachment": "crown"
+    }
+  ],
+  "skins": {
+    "default": {
+      "shadow": {
+        "shadow": {
+          "x": 251,
+          "y": -581.5,
+          "width": 236,
+          "height": 93
+        }
+      },
+      "body": {
+        "body": {
+          "x": 238,
+          "y": -462.5,
+          "width": 170,
+          "height": 221
+        }
+      },
+      "cloth4": {
+        "cloth4": {
+          "x": 155.5,
+          "y": -468,
+          "width": 79,
+          "height": 194
+        }
+      },
+      "cloth3": {
+        "cloth3": {
+          "x": 161.5,
+          "y": -449.5,
+          "width": 95,
+          "height": 277
+        }
+      },
+      "cloth2": {
+        "cloth2": {
+          "x": 356,
+          "y": -453.5,
+          "width": 98,
+          "height": 207
+        }
+      },
+      "cloth1": {
+        "cloth1": {
+          "x": 347.5,
+          "y": -451,
+          "width": 107,
+          "height": 280
+        }
+      },
+      "cape1": {
+        "cape1": {
+          "x": 256,
+          "y": -343,
+          "width": 282,
+          "height": 162
+        }
+      },
+      "cape2": {
+        "cape2": {
+          "x": 105.5,
+          "y": -304.5,
+          "width": 51,
+          "height": 45
+        }
+      },
+      "cape3": {
+        "cape3": {
+          "x": 113,
+          "y": -323.5,
+          "width": 26,
+          "height": 33
+        }
+      },
+      "cape4": {
+        "cape4": {
+          "x": 410,
+          "y": -318.5,
+          "width": 56,
+          "height": 61
+        }
+      },
+      "cape5": {
+        "cape5": {
+          "x": 373.5,
+          "y": -345.5,
+          "width": 45,
+          "height": 53
+        }
+      },
+      "r_wist": {
+        "r_wist": {
+          "x": 138.5,
+          "y": -434.5,
+          "width": 57,
+          "height": 75
+        }
+      },
+      "r_hand1": {
+        "r_hand1": {
+          "x": 99.5,
+          "y": -414,
+          "width": 55,
+          "height": 64
+        }
+      },
+      "r_hand": {
+        "r_hand": {
+          "x": 84,
+          "y": -404.5,
+          "width": 98,
+          "height": 97
+        }
+      },
+      "r_finger": {
+        "r_finger": {
+          "x": 99.5,
+          "y": -414,
+          "width": 49,
+          "height": 58
+        }
+      },
+      "head_sd": {
+        "head_sd": {
+          "x": 252.5,
+          "y": -299.5,
+          "width": 195,
+          "height": 67
+        }
+      },
+      "head": {
+        "head": {
+          "x": 255.5,
+          "y": -214.5,
+          "width": 205,
+          "height": 213
+        }
+      },
+      "r_eye2": {
+        "r_eye2": {
+          "x": 194.5,
+          "y": -231,
+          "width": 65,
+          "height": 82
+        }
+      },
+      "r_eye1": {
+        "r_eye1": {
+          "x": 204,
+          "y": -230.5,
+          "width": 46,
+          "height": 51
+        }
+      },
+      "l_eye": {
+        "l_eye": {
+          "x": 287,
+          "y": -238.5,
+          "width": 74,
+          "height": 61
+        }
+      },
+      "l_wist": {
+        "l_wist": {
+          "x": 379,
+          "y": -452,
+          "width": 96,
+          "height": 74
+        }
+      },
+      "l_hand2": {
+        "l_hand2": {
+          "x": 396,
+          "y": -450.5,
+          "width": 42,
+          "height": 65
+        }
+      },
+      "l_hand1": {
+        "l_hand1": {
+          "x": 381.5,
+          "y": -474.5,
+          "width": 111,
+          "height": 89
+        }
+      },
+      "l_finger": {
+        "l_finger": {
+          "x": 394,
+          "y": -455.5,
+          "width": 40,
+          "height": 61
+        }
+      },
+      "crown_sd": {
+        "crown_sd": {
+          "x": 236,
+          "y": -143,
+          "width": 112,
+          "height": 48
+        }
+      },
+      "crown": {
+        "crown": {
+          "x": 227,
+          "y": -106.5,
+          "width": 134,
+          "height": 107
+        }
+      }
+    }
+  },
+  "animations": {
+    "animation": {}
+  }
+}

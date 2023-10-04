@@ -1,0 +1,141 @@
+{
+  "skeleton": {
+    "images": "F:/Project/Dung_abi/MiniBoss/MiniBoss_3.1/MiniBoss_3.1_images/"
+  },
+  "PhotoshopToSpine": {
+    "scale": 1,
+    "padding": 1,
+    "trim": true
+  },
+  "bones": [
+    {
+      "name": "root"
+    }
+  ],
+  "slots": [
+    {
+      "name": "shadown",
+      "bone": "root",
+      "attachment": "shadown"
+    },
+    {
+      "name": "tentacle1",
+      "bone": "root",
+      "attachment": "tentacle1"
+    },
+    {
+      "name": "tentacle2",
+      "bone": "root",
+      "attachment": "tentacle2"
+    },
+    {
+      "name": "tentacle3",
+      "bone": "root",
+      "attachment": "tentacle3"
+    },
+    {
+      "name": "neck",
+      "bone": "root",
+      "attachment": "neck"
+    },
+    {
+      "name": "head",
+      "bone": "root",
+      "attachment": "head"
+    },
+    {
+      "name": "glass",
+      "bone": "root",
+      "attachment": "glass"
+    },
+    {
+      "name": "eye2",
+      "bone": "root",
+      "attachment": "eye2"
+    },
+    {
+      "name": "eye1",
+      "bone": "root",
+      "attachment": "eye1"
+    }
+  ],
+  "skins": {
+    "default": {
+      "shadown": {
+        "shadown": {
+          "x": 97,
+          "y": -158.5,
+          "width": 148,
+          "height": 85
+        }
+      },
+      "tentacle1": {
+        "tentacle1": {
+          "x": 96.5,
+          "y": -111,
+          "width": 195,
+          "height": 148
+        }
+      },
+      "tentacle2": {
+        "tentacle2": {
+          "x": 96.5,
+          "y": -111,
+          "width": 195,
+          "height": 148
+        }
+      },
+      "tentacle3": {
+        "tentacle3": {
+          "x": 96.5,
+          "y": -110,
+          "width": 195,
+          "height": 146
+        }
+      },
+      "neck": {
+        "neck": {
+          "x": 97,
+          "y": -95,
+          "width": 42,
+          "height": 28
+        }
+      },
+      "head": {
+        "head": {
+          "x": 96.5,
+          "y": -60.5,
+          "width": 65,
+          "height": 71
+        }
+      },
+      "glass": {
+        "glass": {
+          "x": 97.5,
+          "y": -53.5,
+          "width": 95,
+          "height": 87
+        }
+      },
+      "eye2": {
+        "eye2": {
+          "x": 84.5,
+          "y": -67.5,
+          "width": 25,
+          "height": 27
+        }
+      },
+      "eye1": {
+        "eye1": {
+          "x": 110,
+          "y": -68,
+          "width": 22,
+          "height": 24
+        }
+      }
+    }
+  },
+  "animations": {
+    "animation": {}
+  }
+}

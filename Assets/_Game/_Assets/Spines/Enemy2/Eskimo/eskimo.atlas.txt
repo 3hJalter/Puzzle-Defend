@@ -1,0 +1,125 @@
+
+eskimo.png
+size: 344,544
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L arm
+  rotate: true
+  xy: 259, 333
+  size: 92, 83
+  orig: 92, 83
+  offset: 0, 0
+  index: -1
+L ear
+  rotate: true
+  xy: 92, 10
+  size: 42, 65
+  orig: 44, 67
+  offset: 1, 1
+  index: -1
+L leg
+  rotate: true
+  xy: 264, 14
+  size: 25, 38
+  orig: 25, 38
+  offset: 0, 0
+  index: -1
+Layer 1
+  rotate: true
+  xy: 259, 208
+  size: 123, 70
+  orig: 123, 70
+  offset: 0, 0
+  index: -1
+Layer 3
+  rotate: true
+  xy: 237, 41
+  size: 45, 54
+  orig: 47, 56
+  offset: 1, 1
+  index: -1
+R arm
+  rotate: false
+  xy: 259, 138
+  size: 76, 68
+  orig: 76, 68
+  offset: 0, 0
+  index: -1
+R ear
+  rotate: true
+  xy: 159, 10
+  size: 42, 65
+  orig: 44, 67
+  offset: 1, 1
+  index: -1
+R hand
+  rotate: true
+  xy: 293, 85
+  size: 51, 49
+  orig: 54, 52
+  offset: 1, 2
+  index: -1
+R hand_
+  rotate: false
+  xy: 237, 88
+  size: 54, 48
+  orig: 56, 50
+  offset: 1, 1
+  index: -1
+R leg
+  rotate: false
+  xy: 293, 42
+  size: 30, 41
+  orig: 30, 41
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 2, 2
+  size: 101, 88
+  orig: 103, 90
+  offset: 1, 1
+  index: -1
+eyes
+  rotate: false
+  xy: 226, 2
+  size: 36, 37
+  orig: 38, 39
+  offset: 1, 1
+  index: -1
+fur
+  rotate: false
+  xy: 2, 356
+  size: 232, 186
+  orig: 234, 188
+  offset: 1, 1
+  index: -1
+head
+  rotate: false
+  xy: 96, 175
+  size: 161, 179
+  orig: 163, 182
+  offset: 1, 1
+  index: -1
+shadown
+  rotate: false
+  xy: 96, 54
+  size: 139, 119
+  orig: 141, 121
+  offset: 1, 1
+  index: -1
+shirt
+  rotate: true
+  xy: 236, 427
+  size: 115, 87
+  orig: 117, 89
+  offset: 1, 1
+  index: -1
+spear
+  rotate: false
+  xy: 2, 105
+  size: 92, 249
+  orig: 95, 251
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,167 @@
+
+boss.png
+size: 278,523
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm11
+  rotate: true
+  xy: 211, 343
+  size: 51, 63
+  orig: 53, 65
+  offset: 1, 1
+  index: -1
+arm12
+  rotate: false
+  xy: 209, 128
+  size: 67, 66
+  orig: 69, 68
+  offset: 1, 1
+  index: -1
+arm21
+  rotate: true
+  xy: 211, 396
+  size: 68, 64
+  orig: 70, 66
+  offset: 1, 1
+  index: -1
+arm22
+  rotate: true
+  xy: 2, 96
+  size: 49, 77
+  orig: 51, 79
+  offset: 1, 1
+  index: -1
+body
+  rotate: false
+  xy: 2, 196
+  size: 148, 139
+  orig: 148, 139
+  offset: 0, 0
+  index: -1
+eye1
+  rotate: true
+  xy: 211, 466
+  size: 55, 65
+  orig: 57, 67
+  offset: 1, 1
+  index: -1
+eye2
+  rotate: false
+  xy: 81, 80
+  size: 66, 58
+  orig: 68, 60
+  offset: 1, 1
+  index: -1
+eye_lip1
+  rotate: false
+  xy: 75, 49
+  size: 52, 29
+  orig: 52, 29
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 2, 337
+  size: 207, 184
+  orig: 207, 184
+  offset: 0, 0
+  index: -1
+hair1
+  rotate: false
+  xy: 2, 147
+  size: 93, 47
+  orig: 95, 49
+  offset: 1, 1
+  index: -1
+hair3
+  rotate: false
+  xy: 97, 140
+  size: 53, 54
+  orig: 53, 54
+  offset: 0, 0
+  index: -1
+hair4
+  rotate: false
+  xy: 89, 17
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: -1
+hand11
+  rotate: false
+  xy: 2, 2
+  size: 51, 50
+  orig: 53, 52
+  offset: 1, 1
+  index: -1
+hand21
+  rotate: true
+  xy: 152, 112
+  size: 52, 53
+  orig: 54, 55
+  offset: 1, 1
+  index: -1
+horn1
+  rotate: false
+  xy: 152, 264
+  size: 56, 71
+  orig: 58, 73
+  offset: 1, 1
+  index: -1
+horn2
+  rotate: true
+  xy: 207, 80
+  size: 46, 68
+  orig: 48, 70
+  offset: 1, 1
+  index: -1
+leg
+  rotate: true
+  xy: 2, 54
+  size: 40, 71
+  orig: 40, 71
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 204, 31
+  size: 71, 47
+  orig: 73, 49
+  offset: 1, 1
+  index: -1
+noser
+  rotate: true
+  xy: 152, 166
+  size: 96, 55
+  orig: 98, 57
+  offset: 1, 1
+  index: -1
+nuocdai
+  rotate: true
+  xy: 55, 20
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+shadown
+  rotate: true
+  xy: 211, 196
+  size: 145, 61
+  orig: 147, 63
+  offset: 1, 1
+  index: -1
+tongue
+  rotate: true
+  xy: 149, 59
+  size: 51, 53
+  orig: 51, 53
+  offset: 0, 0
+  index: -1
+vu
+  rotate: false
+  xy: 129, 14
+  size: 46, 43
+  orig: 46, 43
+  offset: 0, 0
+  index: -1

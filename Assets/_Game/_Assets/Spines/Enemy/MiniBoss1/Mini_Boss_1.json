@@ -1,0 +1,334 @@
+{
+  "skeleton": {
+    "hash": "bE/HcZSaMHq+CbZwLdq5Bqj7IlI",
+    "spine": "3.8.99",
+    "x": -68.86,
+    "y": -9.64,
+    "width": 137,
+    "height": 181.5,
+    "images": "./images/",
+    "audio": "D:/05. ANIM/2. ENEMIES/MINI_BOSS/MiniBoss1"
+  },
+  "bones": [
+    {
+      "name": "root"
+    },
+    {
+      "name": "Move",
+      "parent": "root",
+      "y": -29.57,
+      "color": "000097ff"
+    },
+    {
+      "name": "Shell",
+      "parent": "Move",
+      "rotation": 90,
+      "y": 29.57,
+      "color": "f7ff00ff"
+    },
+    {
+      "name": "Body",
+      "parent": "Move",
+      "length": 19.19,
+      "rotation": 90,
+      "y": 38.78,
+      "color": "ff0000ff"
+    },
+    {
+      "name": "Eye",
+      "parent": "Body",
+      "rotation": -90,
+      "x": 23.32,
+      "color": "ff34eaff"
+    },
+    {
+      "name": "Shadow",
+      "parent": "Move",
+      "y": 20.29,
+      "color": "000097ff"
+    }
+  ],
+  "slots": [
+    {
+      "name": "Shadow",
+      "bone": "Shadow",
+      "attachment": "Shadow"
+    },
+    {
+      "name": "Shell",
+      "bone": "Shell",
+      "attachment": "Shell"
+    },
+    {
+      "name": "Body",
+      "bone": "Body",
+      "attachment": "Body"
+    },
+    {
+      "name": "Eye",
+      "bone": "Eye",
+      "attachment": "Eye"
+    }
+  ],
+  "skins": [
+    {
+      "name": "default",
+      "attachments": {
+        "Body": {
+          "Body": {
+            "x": 62.67,
+            "y": 0.36,
+            "rotation": -90,
+            "width": 117,
+            "height": 128
+          }
+        },
+        "Eye": {
+          "Eye": {
+            "x": -0.86,
+            "y": 26.35,
+            "width": 58,
+            "height": 58
+          }
+        },
+        "Shadow": {
+          "Shadow": {
+            "x": -0.36,
+            "y": 64.15,
+            "width": 137,
+            "height": 129
+          }
+        },
+        "Shell": {
+          "Shell": {
+            "x": 85.36,
+            "y": 0.36,
+            "rotation": -90,
+            "width": 131,
+            "height": 173
+          }
+        }
+      }
+    }
+  ],
+  "animations": {
+    "Get-hit": {
+      "bones": {
+        "Shell": {
+          "scale": [
+            {
+              "curve": 0.25,
+              "c3": 0.215,
+              "c4": 1.01
+            },
+            {
+              "time": 0.2333,
+              "x": 1.1,
+              "y": 0.95,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 0.6667
+            }
+          ]
+        },
+        "Body": {
+          "translate": [
+            {
+              "curve": 0.25,
+              "c3": 0.215,
+              "c4": 1.01
+            },
+            {
+              "time": 0.1333,
+              "y": 7.22
+            },
+            {
+              "time": 0.6667
+            }
+          ],
+          "scale": [
+            {
+              "curve": 0.25,
+              "c3": 0.215,
+              "c4": 1.01
+            },
+            {
+              "time": 0.1333,
+              "x": 1.05,
+              "y": 0.88
+            },
+            {
+              "time": 0.6667
+            }
+          ]
+        },
+        "Shadow": {
+          "scale": [
+            {
+              "curve": 0.25,
+              "c3": 0.215,
+              "c4": 1.01
+            },
+            {
+              "time": 0.2667,
+              "x": 0.9,
+              "y": 0.9,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 0.6667
+            }
+          ]
+        },
+        "Eye": {
+          "translate": [
+            {
+              "curve": 0.25,
+              "c3": 0.215,
+              "c4": 1.01
+            },
+            {
+              "time": 0.1333,
+              "x": -4.2
+            },
+            {
+              "time": 0.6667
+            }
+          ],
+          "scale": [
+            {
+              "curve": 0.25,
+              "c3": 0.215,
+              "c4": 1.01
+            },
+            {
+              "time": 0.1333,
+              "x": 0.947,
+              "y": 1.151
+            },
+            {
+              "time": 0.6667
+            }
+          ]
+        }
+      }
+    },
+    "Move": {
+      "bones": {
+        "Shell": {
+          "scale": [
+            {
+              "x": 0.95,
+              "y": 1.1,
+              "curve": 0.375,
+              "c2": 0.5,
+              "c3": 0.75
+            },
+            {
+              "time": 0.1333,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 0.5,
+              "x": 1.1,
+              "y": 0.95,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 0.7667,
+              "x": 0.9,
+              "y": 1.2,
+              "curve": 0.25,
+              "c3": 0.625,
+              "c4": 0.5
+            },
+            {
+              "time": 1,
+              "x": 0.95,
+              "y": 1.1
+            }
+          ]
+        },
+        "Body": {
+          "translate": [
+            {
+              "time": 0.3,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 0.7,
+              "y": -2.42,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 1
+            }
+          ],
+          "scale": [
+            {},
+            {
+              "time": 0.4333,
+              "x": 1.1,
+              "y": 0.85,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 0.7,
+              "x": 0.9,
+              "y": 1.05,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 1
+            }
+          ]
+        },
+        "Shadow": {
+          "scale": [
+            {
+              "x": 1.1,
+              "y": 0.9,
+              "curve": 0.375,
+              "c2": 0.5,
+              "c3": 0.75
+            },
+            {
+              "time": 0.1667,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 0.5333,
+              "x": 0.895,
+              "y": 1.122,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 0.8,
+              "x": 1.2,
+              "y": 0.8,
+              "curve": 0.25,
+              "c3": 0.625,
+              "c4": 0.5
+            },
+            {
+              "time": 1,
+              "x": 1.1,
+              "y": 0.9
+            }
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,146 @@
+
+zk_big.png
+size: 1024,1052
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+belt
+  rotate: true
+  xy: 872, 421
+  size: 380, 140
+  orig: 380, 140
+  offset: 0, 0
+  index: -1
+belt1
+  rotate: true
+  xy: 736, 9
+  size: 380, 140
+  orig: 380, 140
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 0, 574
+  size: 406, 478
+  orig: 406, 478
+  offset: 0, 0
+  index: -1
+crown
+  rotate: true
+  xy: 730, 389
+  size: 189, 140
+  orig: 189, 140
+  offset: 0, 0
+  index: -1
+eye
+  rotate: true
+  xy: 601, 34
+  size: 223, 135
+  orig: 223, 135
+  offset: 0, 0
+  index: -1
+fur
+  rotate: true
+  xy: 0, 0
+  size: 574, 293
+  orig: 574, 293
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 736, 801
+  size: 251, 288
+  orig: 251, 288
+  offset: 0, 0
+  index: -1
+l_ear
+  rotate: false
+  xy: 958, 218
+  size: 47, 85
+  orig: 47, 85
+  offset: 0, 0
+  index: -1
+l_eye
+  rotate: false
+  xy: 876, 91
+  size: 86, 98
+  orig: 86, 98
+  offset: 0, 0
+  index: -1
+l_feet
+  rotate: false
+  xy: 876, 305
+  size: 82, 116
+  orig: 82, 116
+  offset: 0, 0
+  index: -1
+l_gun
+  rotate: false
+  xy: 523, 257
+  size: 207, 308
+  orig: 207, 308
+  offset: 0, 0
+  index: -1
+l_hand
+  rotate: true
+  xy: 406, 565
+  size: 230, 321
+  orig: 230, 321
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: true
+  xy: 958, 303
+  size: 118, 50
+  orig: 118, 50
+  offset: 0, 0
+  index: -1
+r_ear
+  rotate: false
+  xy: 962, 133
+  size: 47, 85
+  orig: 47, 85
+  offset: 0, 0
+  index: -1
+r_eye
+  rotate: false
+  xy: 876, 24
+  size: 79, 67
+  orig: 79, 67
+  offset: 0, 0
+  index: -1
+r_feet
+  rotate: false
+  xy: 876, 189
+  size: 82, 116
+  orig: 82, 116
+  offset: 0, 0
+  index: -1
+r_gun
+  rotate: true
+  xy: 293, 37
+  size: 207, 308
+  orig: 207, 308
+  offset: 0, 0
+  index: -1
+r_hand
+  rotate: false
+  xy: 293, 244
+  size: 230, 321
+  orig: 230, 321
+  offset: 0, 0
+  index: -1
+sd
+  rotate: false
+  xy: 406, 795
+  size: 330, 257
+  orig: 330, 257
+  offset: 0, 0
+  index: -1
+shot_ef
+  rotate: false
+  xy: 727, 578
+  size: 145, 217
+  orig: 145, 217
+  offset: 0, 0
+  index: -1

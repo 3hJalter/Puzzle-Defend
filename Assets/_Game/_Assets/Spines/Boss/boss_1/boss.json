@@ -1,0 +1,331 @@
+{
+  "skeleton": {
+    "images": "D:/Project/survival_city/Boss/boss_1/boss_images/"
+  },
+  "bones": [
+    {
+      "name": "root"
+    }
+  ],
+  "slots": [
+    {
+      "name": "shadown",
+      "bone": "root",
+      "attachment": "shadown"
+    },
+    {
+      "name": "leg",
+      "bone": "root",
+      "attachment": "leg"
+    },
+    {
+      "name": "arm22",
+      "bone": "root",
+      "attachment": "arm22"
+    },
+    {
+      "name": "arm21",
+      "bone": "root",
+      "attachment": "arm21"
+    },
+    {
+      "name": "hand21",
+      "bone": "root",
+      "attachment": "hand21"
+    },
+    {
+      "name": "body",
+      "bone": "root",
+      "attachment": "body"
+    },
+    {
+      "name": "arm12",
+      "bone": "root",
+      "attachment": "arm12"
+    },
+    {
+      "name": "arm11",
+      "bone": "root",
+      "attachment": "arm11"
+    },
+    {
+      "name": "hand11",
+      "bone": "root",
+      "attachment": "hand11"
+    },
+    {
+      "name": "vu",
+      "bone": "root",
+      "attachment": "vu"
+    },
+    {
+      "name": "horn2",
+      "bone": "root",
+      "attachment": "horn2"
+    },
+    {
+      "name": "face",
+      "bone": "root",
+      "attachment": "face"
+    },
+    {
+      "name": "horn1",
+      "bone": "root",
+      "attachment": "horn1"
+    },
+    {
+      "name": "hair1",
+      "bone": "root",
+      "attachment": "hair1"
+    },
+    {
+      "name": "hair2",
+      "bone": "root",
+      "attachment": "hair2"
+    },
+    {
+      "name": "hair3",
+      "bone": "root",
+      "attachment": "hair3"
+    },
+    {
+      "name": "hair4",
+      "bone": "root",
+      "attachment": "hair4"
+    },
+    {
+      "name": "eye2",
+      "bone": "root",
+      "attachment": "eye2"
+    },
+    {
+      "name": "eye_lip1",
+      "bone": "root",
+      "attachment": "eye_lip1"
+    },
+    {
+      "name": "eye1",
+      "bone": "root",
+      "attachment": "eye1"
+    },
+    {
+      "name": "mouth",
+      "bone": "root",
+      "attachment": "mouth"
+    },
+    {
+      "name": "nuocdai",
+      "bone": "root",
+      "attachment": "nuocdai"
+    },
+    {
+      "name": "tongue",
+      "bone": "root",
+      "attachment": "tongue"
+    },
+    {
+      "name": "noser",
+      "bone": "root",
+      "attachment": "noser"
+    }
+  ],
+  "skins": {
+    "default": {
+      "shadown": {
+        "shadown": {
+          "x": 141.5,
+          "y": -328.5,
+          "width": 149,
+          "height": 65
+        }
+      },
+      "leg": {
+        "leg": {
+          "x": 114,
+          "y": -302.5,
+          "width": 42,
+          "height": 73
+        }
+      },
+      "arm22": {
+        "arm22": {
+          "x": 206.5,
+          "y": -225.5,
+          "width": 53,
+          "height": 81
+        }
+      },
+      "arm21": {
+        "arm21": {
+          "x": 227,
+          "y": -261,
+          "width": 72,
+          "height": 68
+        }
+      },
+      "hand21": {
+        "hand21": {
+          "x": 251,
+          "y": -279.5,
+          "width": 56,
+          "height": 57
+        }
+      },
+      "body": {
+        "body": {
+          "x": 139,
+          "y": -246.5,
+          "width": 150,
+          "height": 141
+        }
+      },
+      "arm12": {
+        "arm12": {
+          "x": 65.5,
+          "y": -206,
+          "width": 71,
+          "height": 70
+        }
+      },
+      "arm11": {
+        "arm11": {
+          "x": 45.5,
+          "y": -235.5,
+          "width": 55,
+          "height": 67
+        }
+      },
+      "hand11": {
+        "hand11": {
+          "x": 41.5,
+          "y": -266,
+          "width": 55,
+          "height": 54
+        }
+      },
+      "vu": {
+        "vu": {
+          "x": 192,
+          "y": -302.5,
+          "width": 48,
+          "height": 45
+        }
+      },
+      "horn2": {
+        "horn2": {
+          "x": 248,
+          "y": -77,
+          "width": 50,
+          "height": 72
+        }
+      },
+      "face": {
+        "face": {
+          "x": 160.5,
+          "y": -142,
+          "width": 209,
+          "height": 186
+        }
+      },
+      "horn1": {
+        "horn1": {
+          "x": 62,
+          "y": -75.5,
+          "width": 60,
+          "height": 75
+        }
+      },
+      "hair1": {
+        "hair1": {
+          "x": 164.5,
+          "y": -66.5,
+          "width": 97,
+          "height": 51
+        }
+      },
+      "hair2": {
+        "hair2": {
+          "x": 193.5,
+          "y": -50.5,
+          "width": 69,
+          "height": 45
+        }
+      },
+      "hair3": {
+        "hair3": {
+          "x": 158.5,
+          "y": -37,
+          "width": 55,
+          "height": 56
+        }
+      },
+      "hair4": {
+        "hair4": {
+          "x": 170.5,
+          "y": -82,
+          "width": 33,
+          "height": 32
+        }
+      },
+      "eye2": {
+        "eye2": {
+          "x": 125,
+          "y": -118,
+          "width": 70,
+          "height": 62
+        }
+      },
+      "eye_lip1": {
+        "eye_lip1": {
+          "x": 134,
+          "y": -141.5,
+          "width": 54,
+          "height": 31
+        }
+      },
+      "eye1": {
+        "eye1": {
+          "x": 220.5,
+          "y": -121.5,
+          "width": 59,
+          "height": 69
+        }
+      },
+      "mouth": {
+        "mouth": {
+          "x": 179.5,
+          "y": -192.5,
+          "width": 75,
+          "height": 51
+        }
+      },
+      "nuocdai": {
+        "nuocdai": {
+          "x": 159.5,
+          "y": -214,
+          "width": 29,
+          "height": 34
+        }
+      },
+      "tongue": {
+        "tongue": {
+          "x": 186.5,
+          "y": -213.5,
+          "width": 53,
+          "height": 55
+        }
+      },
+      "noser": {
+        "noser": {
+          "x": 183,
+          "y": -174.5,
+          "width": 100,
+          "height": 59
+        }
+      }
+    }
+  },
+  "animations": {
+    "animation": {}
+  }
+}

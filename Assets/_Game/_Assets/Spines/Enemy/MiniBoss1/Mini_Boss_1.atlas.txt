@@ -1,0 +1,34 @@
+
+Mini_Boss_1.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: true
+  xy: 58, 14
+  size: 117, 128
+  orig: 117, 128
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: false
+  xy: 0, 73
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 186, 2
+  size: 137, 129
+  orig: 137, 129
+  offset: 0, 0
+  index: -1
+Shell
+  rotate: true
+  xy: 323, 0
+  size: 131, 173
+  orig: 131, 173
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,251 @@
+
+ice_queen.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 1760, 129
+  size: 170, 221
+  orig: 170, 221
+  offset: 0, 0
+  index: -1
+cape1
+  rotate: false
+  xy: 0, 102
+  size: 282, 162
+  orig: 282, 162
+  offset: 0, 0
+  index: -1
+cape2
+  rotate: false
+  xy: 277, 14
+  size: 51, 45
+  orig: 51, 45
+  offset: 0, 0
+  index: -1
+cape3
+  rotate: false
+  xy: 1218, 8
+  size: 26, 33
+  orig: 26, 33
+  offset: 0, 0
+  index: -1
+cape4
+  rotate: true
+  xy: 1387, 36
+  size: 56, 61
+  orig: 56, 61
+  offset: 0, 0
+  index: -1
+cape5
+  rotate: false
+  xy: 1546, 99
+  size: 45, 53
+  orig: 45, 53
+  offset: 0, 0
+  index: -1
+cloth1
+  rotate: true
+  xy: 282, 157
+  size: 107, 280
+  orig: 107, 280
+  offset: 0, 0
+  index: -1
+cloth2
+  rotate: true
+  xy: 282, 59
+  size: 98, 207
+  orig: 98, 207
+  offset: 0, 0
+  index: -1
+cloth3
+  rotate: true
+  xy: 0, 7
+  size: 95, 277
+  orig: 95, 277
+  offset: 0, 0
+  index: -1
+crown
+  rotate: false
+  xy: 798, 157
+  size: 134, 107
+  orig: 134, 107
+  offset: 0, 0
+  index: -1
+crown_sd
+  rotate: false
+  xy: 1542, 152
+  size: 112, 86
+  orig: 112, 86
+  offset: 0, 0
+  index: -1
+eff1
+  rotate: false
+  xy: 0, 388
+  size: 938, 124
+  orig: 938, 124
+  offset: 0, 0
+  index: -1
+eff2
+  rotate: false
+  xy: 0, 264
+  size: 938, 124
+  orig: 938, 124
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 1760, 299
+  size: 205, 213
+  orig: 205, 213
+  offset: 0, 0
+  index: -1
+head_sd
+  rotate: true
+  xy: 1965, 317
+  size: 195, 67
+  orig: 195, 67
+  offset: 0, 0
+  index: -1
+l_eye
+  rotate: false
+  xy: 489, 0
+  size: 74, 61
+  orig: 74, 61
+  offset: 0, 0
+  index: -1
+l_finger
+  rotate: false
+  xy: 1506, 88
+  size: 40, 61
+  orig: 40, 61
+  offset: 0, 0
+  index: -1
+l_hand1
+  rotate: false
+  xy: 1431, 149
+  size: 111, 89
+  orig: 111, 89
+  offset: 0, 0
+  index: -1
+l_hand2
+  rotate: true
+  xy: 1250, 44
+  size: 48, 73
+  orig: 48, 73
+  offset: 0, 0
+  index: -1
+l_wist
+  rotate: true
+  xy: 489, 61
+  size: 96, 74
+  orig: 96, 74
+  offset: 0, 0
+  index: -1
+magic_circle1
+  rotate: false
+  xy: 938, 238
+  size: 274, 274
+  orig: 274, 274
+  offset: 0, 0
+  index: -1
+magic_circle2
+  rotate: false
+  xy: 1212, 238
+  size: 274, 274
+  orig: 274, 274
+  offset: 0, 0
+  index: -1
+magic_circle3
+  rotate: false
+  xy: 1486, 238
+  size: 274, 274
+  orig: 274, 274
+  offset: 0, 0
+  index: -1
+magic_sphere
+  rotate: false
+  xy: 1139, 92
+  size: 146, 146
+  orig: 146, 146
+  offset: 0, 0
+  index: -1
+magic_sphere_b1
+  rotate: false
+  xy: 1285, 92
+  size: 146, 146
+  orig: 146, 146
+  offset: 0, 0
+  index: -1
+magic_sphere_b2
+  rotate: false
+  xy: 1139, 41
+  size: 111, 51
+  orig: 111, 51
+  offset: 0, 0
+  index: -1
+magic_sphere_l
+  rotate: true
+  xy: 1187, 0
+  size: 41, 31
+  orig: 41, 31
+  offset: 0, 0
+  index: -1
+magic_sphere_l2
+  rotate: false
+  xy: 932, 31
+  size: 207, 207
+  orig: 207, 207
+  offset: 0, 0
+  index: -1
+r_eye1
+  rotate: false
+  xy: 1591, 101
+  size: 46, 51
+  orig: 46, 51
+  offset: 0, 0
+  index: -1
+r_finger
+  rotate: true
+  xy: 1448, 43
+  size: 49, 58
+  orig: 49, 58
+  offset: 0, 0
+  index: -1
+r_hand
+  rotate: false
+  xy: 1654, 141
+  size: 98, 97
+  orig: 98, 97
+  offset: 0, 0
+  index: -1
+r_hand1
+  rotate: true
+  xy: 1323, 37
+  size: 55, 64
+  orig: 55, 64
+  offset: 0, 0
+  index: -1
+r_wist
+  rotate: true
+  xy: 1431, 92
+  size: 57, 75
+  orig: 57, 75
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 562, 171
+  size: 236, 93
+  orig: 236, 93
+  offset: 0, 0
+  index: -1
+snow_flake
+  rotate: false
+  xy: 1139, 0
+  size: 48, 41
+  orig: 48, 41
+  offset: 0, 0
+  index: -1

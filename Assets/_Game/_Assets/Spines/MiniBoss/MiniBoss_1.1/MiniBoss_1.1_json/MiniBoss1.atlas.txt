@@ -1,0 +1,293 @@
+
+MiniBoss1.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+b_wheel
+  rotate: true
+  xy: 991, 9
+  size: 32, 57
+  orig: 32, 57
+  offset: 0, 0
+  index: -1
+bander
+  rotate: true
+  xy: 826, 2
+  size: 38, 43
+  orig: 38, 43
+  offset: 0, 0
+  index: -1
+bike1
+  rotate: true
+  xy: 99, 11
+  size: 68, 88
+  orig: 68, 88
+  offset: 0, 0
+  index: -1
+bike2
+  rotate: false
+  xy: 1004, 47
+  size: 44, 56
+  orig: 44, 56
+  offset: 0, 0
+  index: -1
+bike3
+  rotate: false
+  xy: 877, 41
+  size: 127, 57
+  orig: 127, 57
+  offset: 0, 0
+  index: -1
+bike4
+  rotate: false
+  xy: 1048, 48
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 826, 40
+  size: 58, 51
+  orig: 58, 51
+  offset: 0, 0
+  index: -1
+bred
+  rotate: false
+  xy: 735, 31
+  size: 91, 59
+  orig: 91, 59
+  offset: 0, 0
+  index: -1
+exp1
+  rotate: true
+  xy: 187, 0
+  size: 80, 83
+  orig: 80, 83
+  offset: 0, 0
+  index: -1
+exp10
+  rotate: false
+  xy: 491, 87
+  size: 154, 169
+  orig: 154, 169
+  offset: 0, 0
+  index: -1
+exp11
+  rotate: true
+  xy: 954, 103
+  size: 153, 125
+  orig: 153, 125
+  offset: 0, 0
+  index: -1
+exp2
+  rotate: false
+  xy: 527, 2
+  size: 96, 85
+  orig: 96, 85
+  offset: 0, 0
+  index: -1
+exp3
+  rotate: false
+  xy: 1103, 4
+  size: 116, 119
+  orig: 116, 119
+  offset: 0, 0
+  index: -1
+exp4
+  rotate: false
+  xy: 1194, 125
+  size: 127, 131
+  orig: 127, 131
+  offset: 0, 0
+  index: -1
+exp5
+  rotate: true
+  xy: 808, 98
+  size: 158, 146
+  orig: 158, 146
+  offset: 0, 0
+  index: -1
+exp6
+  rotate: true
+  xy: 645, 90
+  size: 166, 163
+  orig: 166, 163
+  offset: 0, 0
+  index: -1
+exp7
+  rotate: false
+  xy: 322, 82
+  size: 169, 174
+  orig: 169, 174
+  offset: 0, 0
+  index: -1
+exp8
+  rotate: false
+  xy: 162, 80
+  size: 160, 176
+  orig: 160, 176
+  offset: 0, 0
+  index: -1
+exp9
+  rotate: false
+  xy: 0, 79
+  size: 162, 177
+  orig: 162, 177
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 765, 2
+  size: 34, 29
+  orig: 34, 29
+  offset: 0, 0
+  index: -1
+glass
+  rotate: true
+  xy: 428, 18
+  size: 64, 33
+  orig: 64, 33
+  offset: 0, 0
+  index: -1
+glass1
+  rotate: true
+  xy: 340, 0
+  size: 82, 53
+  orig: 82, 53
+  offset: 0, 0
+  index: -1
+glass_l1
+  rotate: false
+  xy: 270, 1
+  size: 46, 12
+  orig: 46, 12
+  offset: 0, 0
+  index: -1
+glass_l2
+  rotate: false
+  xy: 428, 0
+  size: 50, 18
+  orig: 50, 18
+  offset: 0, 0
+  index: -1
+glass_l3
+  rotate: false
+  xy: 478, 2
+  size: 49, 17
+  orig: 49, 17
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 0, 0
+  size: 79, 99
+  orig: 79, 99
+  offset: 0, 0
+  index: -1
+l_arm
+  rotate: false
+  xy: 1048, 6
+  size: 49, 42
+  orig: 49, 42
+  offset: 0, 0
+  index: -1
+l_hand
+  rotate: false
+  xy: 869, 4
+  size: 41, 36
+  orig: 41, 36
+  offset: 0, 0
+  index: -1
+l_hand1
+  rotate: true
+  xy: 955, 0
+  size: 41, 36
+  orig: 41, 36
+  offset: 0, 0
+  index: -1
+leg
+  rotate: true
+  xy: 623, 2
+  size: 22, 52
+  orig: 22, 52
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 679, 2
+  size: 48, 25
+  orig: 48, 25
+  offset: 0, 0
+  index: -1
+pupil
+  rotate: false
+  xy: 99, 4
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+r_arm
+  rotate: false
+  xy: 910, 0
+  size: 45, 41
+  orig: 45, 41
+  offset: 0, 0
+  index: -1
+r_hand
+  rotate: false
+  xy: 735, 1
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+shadown
+  rotate: false
+  xy: 1079, 123
+  size: 115, 133
+  orig: 115, 133
+  offset: 0, 0
+  index: -1
+smoke1
+  rotate: false
+  xy: 461, 19
+  size: 56, 63
+  orig: 56, 63
+  offset: 0, 0
+  index: -1
+smoke2
+  rotate: false
+  xy: 623, 24
+  size: 56, 63
+  orig: 56, 63
+  offset: 0, 0
+  index: -1
+smoke3
+  rotate: false
+  xy: 679, 27
+  size: 56, 63
+  orig: 56, 63
+  offset: 0, 0
+  index: -1
+wheel1
+  rotate: false
+  xy: 270, 13
+  size: 35, 67
+  orig: 35, 67
+  offset: 0, 0
+  index: -1
+wheel2
+  rotate: false
+  xy: 305, 13
+  size: 35, 67
+  orig: 35, 67
+  offset: 0, 0
+  index: -1
+wheel3
+  rotate: false
+  xy: 393, 15
+  size: 35, 67
+  orig: 35, 67
+  offset: 0, 0
+  index: -1

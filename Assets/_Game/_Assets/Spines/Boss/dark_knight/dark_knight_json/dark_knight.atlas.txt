@@ -1,0 +1,272 @@
+
+dark_knight.png
+size: 1908,1800
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+armor
+  rotate: false
+  xy: 1142, 43
+  size: 259, 178
+  orig: 259, 178
+  offset: 0, 0
+  index: -1
+circle_1
+  rotate: false
+  xy: 1657, 328
+  size: 249, 247
+  orig: 249, 247
+  offset: 0, 0
+  index: -1
+circle_2
+  rotate: true
+  xy: 569, 0
+  size: 86, 105
+  orig: 86, 105
+  offset: 0, 0
+  index: -1
+h_body
+  rotate: true
+  xy: 0, 15
+  size: 501, 569
+  orig: 501, 569
+  offset: 0, 0
+  index: -1
+h_ear
+  rotate: true
+  xy: 951, 12
+  size: 130, 190
+  orig: 130, 190
+  offset: 0, 0
+  index: -1
+h_eye1
+  rotate: false
+  xy: 1745, 991
+  size: 107, 107
+  orig: 107, 107
+  offset: 0, 0
+  index: -1
+h_eye2
+  rotate: true
+  xy: 1390, 856
+  size: 72, 60
+  orig: 72, 60
+  offset: 0, 0
+  index: -1
+h_face
+  rotate: false
+  xy: 484, 519
+  size: 379, 451
+  orig: 379, 451
+  offset: 0, 0
+  index: -1
+h_hair
+  rotate: false
+  xy: 863, 519
+  size: 245, 245
+  orig: 245, 245
+  offset: 0, 0
+  index: -1
+h_leg1
+  rotate: true
+  xy: 1401, 80
+  size: 141, 228
+  orig: 141, 228
+  offset: 0, 0
+  index: -1
+h_leg2
+  rotate: false
+  xy: 1709, 575
+  size: 140, 228
+  orig: 140, 228
+  offset: 0, 0
+  index: -1
+hand
+  rotate: true
+  xy: 1389, 221
+  size: 185, 223
+  orig: 185, 223
+  offset: 0, 0
+  index: -1
+k_armor
+  rotate: false
+  xy: 1020, 928
+  size: 430, 357
+  orig: 430, 357
+  offset: 0, 0
+  index: -1
+k_body
+  rotate: false
+  xy: 1146, 1285
+  size: 634, 515
+  orig: 634, 515
+  offset: 0, 0
+  index: -1
+k_eye
+  rotate: false
+  xy: 1771, 839
+  size: 135, 152
+  orig: 135, 152
+  offset: 0, 0
+  index: -1
+k_face
+  rotate: true
+  xy: 569, 86
+  size: 433, 382
+  orig: 433, 382
+  offset: 0, 0
+  index: -1
+k_helmet
+  rotate: false
+  xy: 448, 1340
+  size: 698, 460
+  orig: 698, 460
+  offset: 0, 0
+  index: -1
+k_jaw
+  rotate: false
+  xy: 1450, 803
+  size: 321, 173
+  orig: 321, 173
+  offset: 0, 0
+  index: -1
+k_l_arm
+  rotate: true
+  xy: 1142, 221
+  size: 305, 247
+  orig: 305, 247
+  offset: 0, 0
+  index: -1
+k_l_arm1
+  rotate: true
+  xy: 1108, 526
+  size: 238, 292
+  orig: 238, 292
+  offset: 0, 0
+  index: -1
+k_l_fingers
+  rotate: true
+  xy: 1400, 406
+  size: 175, 257
+  orig: 175, 257
+  offset: 0, 0
+  index: -1
+k_l_foot
+  rotate: true
+  xy: 1745, 1098
+  size: 187, 105
+  orig: 187, 105
+  offset: 0, 0
+  index: -1
+k_l_hand1
+  rotate: false
+  xy: 484, 970
+  size: 536, 370
+  orig: 536, 370
+  offset: 0, 0
+  index: -1
+k_l_hand2
+  rotate: true
+  xy: 951, 142
+  size: 377, 191
+  orig: 377, 191
+  offset: 0, 0
+  index: -1
+k_l_leg
+  rotate: true
+  xy: 1612, 231
+  size: 97, 209
+  orig: 97, 209
+  offset: 0, 0
+  index: -1
+k_l_thumb
+  rotate: true
+  xy: 1629, 78
+  size: 153, 190
+  orig: 153, 190
+  offset: 0, 0
+  index: -1
+k_r_arm
+  rotate: false
+  xy: 1450, 976
+  size: 295, 309
+  orig: 295, 309
+  offset: 0, 0
+  index: -1
+k_r_hand
+  rotate: true
+  xy: 1400, 581
+  size: 222, 309
+  orig: 222, 309
+  offset: 0, 0
+  index: -1
+k_r_thumb
+  rotate: false
+  xy: 1293, 805
+  size: 97, 123
+  orig: 97, 123
+  offset: 0, 0
+  index: -1
+k_shouder
+  rotate: false
+  xy: 863, 764
+  size: 430, 164
+  orig: 430, 164
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 448, 1289
+  size: 16, 51
+  orig: 16, 51
+  offset: 0, 0
+  index: -1
+shadown
+  rotate: false
+  xy: 1780, 1288
+  size: 108, 92
+  orig: 108, 92
+  offset: 0, 0
+  index: -1
+smoke1
+  rotate: false
+  xy: 674, 1
+  size: 110, 85
+  orig: 110, 85
+  offset: 0, 0
+  index: -1
+smoke2
+  rotate: false
+  xy: 784, 1
+  size: 110, 85
+  orig: 110, 85
+  offset: 0, 0
+  index: -1
+smoke3
+  rotate: true
+  xy: 1821, 218
+  size: 110, 85
+  orig: 110, 85
+  offset: 0, 0
+  index: -1
+weapon_1
+  rotate: false
+  xy: 0, 1086
+  size: 448, 714
+  orig: 448, 714
+  offset: 0, 0
+  index: -1
+weapon_1a
+  rotate: false
+  xy: 0, 516
+  size: 484, 570
+  orig: 484, 570
+  offset: 0, 0
+  index: -1
+weapon_2
+  rotate: false
+  xy: 1780, 1380
+  size: 98, 420
+  orig: 98, 420
+  offset: 0, 0
+  index: -1

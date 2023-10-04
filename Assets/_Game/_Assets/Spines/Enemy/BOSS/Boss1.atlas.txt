@@ -1,0 +1,118 @@
+
+Boss1.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Chan_Back
+  rotate: true
+  xy: 0, 7
+  size: 37, 51
+  orig: 37, 51
+  offset: 0, 0
+  index: -1
+Front_Foot
+  rotate: false
+  xy: 138, 11
+  size: 46, 33
+  orig: 46, 33
+  offset: 0, 0
+  index: -1
+Gai 1
+  rotate: true
+  xy: 51, 7
+  size: 37, 36
+  orig: 37, 36
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 0, 44
+  size: 212, 165
+  orig: 212, 165
+  offset: 0, 0
+  index: -1
+K2
+  rotate: true
+  xy: 246, 119
+  size: 137, 119
+  orig: 137, 119
+  offset: 0, 0
+  index: -1
+K3
+  rotate: true
+  xy: 395, 9
+  size: 121, 113
+  orig: 121, 113
+  offset: 0, 0
+  index: -1
+K4
+  rotate: true
+  xy: 365, 130
+  size: 126, 93
+  orig: 126, 93
+  offset: 0, 0
+  index: -1
+K5
+  rotate: false
+  xy: 184, 0
+  size: 102, 79
+  orig: 102, 79
+  offset: 0, 0
+  index: -1
+L_Eyes
+  rotate: false
+  xy: 87, 8
+  size: 26, 36
+  orig: 26, 36
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: true
+  xy: 528, 182
+  size: 74, 55
+  orig: 74, 55
+  offset: 0, 0
+  index: -1
+R_Eyes
+  rotate: false
+  xy: 113, 9
+  size: 25, 35
+  orig: 25, 35
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 165, 79
+  size: 177, 81
+  orig: 177, 81
+  offset: 0, 0
+  index: -1
+Sung_Back
+  rotate: false
+  xy: 508, 80
+  size: 56, 82
+  orig: 56, 82
+  offset: 0, 0
+  index: -1
+Sung_Front
+  rotate: false
+  xy: 458, 162
+  size: 70, 94
+  orig: 70, 94
+  offset: 0, 0
+  index: -1
+Sword
+  rotate: true
+  xy: 508, 4
+  size: 76, 62
+  orig: 76, 62
+  offset: 0, 0
+  index: -1
+dit
+  rotate: true
+  xy: 286, 3
+  size: 116, 109
+  orig: 116, 109
+  offset: 0, 0
+  index: -1
